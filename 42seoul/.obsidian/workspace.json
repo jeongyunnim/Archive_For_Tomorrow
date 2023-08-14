@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fbf3d91214e1aff",
+        "id": "07a834fd622a6901",
         "type": "tabs",
         "children": [
           {
-            "id": "c73e9ef747be4291",
+            "id": "081ccc963355c394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Module09 ex00.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230808203825.png"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module09 ex00.md",
+                "file": "Pasted image 20230808203825.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module09 ex00.md",
+                "file": "Pasted image 20230808203825.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module09 ex00.md"
+                "file": "Pasted image 20230808203825.png"
               }
             }
           },
@@ -156,32 +154,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c73e9ef747be4291",
+  "active": "081ccc963355c394",
   "lastOpenFiles": [
-    "알고리즘/최소 비교 정렬.md",
-    "알고리즘/키 값으로 정보 검색.md",
-    "알고리즘/집계정렬.md",
-    "BitcoinExchange.svg",
-    "알고리즘/둘 이상의 파일들에 있는 항목들의 부합.md",
-    "알고리즘/내부 정렬.md",
-    "알고리즘/삽입을 이용한 정렬.md",
-    "알고리즘/순열의 조합 성질.md",
-    "야콥스탈 수.md",
-    "Pasted image 20230808203825.png",
     "Pasted image 20230808200746.png",
-    "알고리즘/통일성 문제 풀기.md",
-    "알고리즘/정렬.md",
-    "To do list/2023-07-28.md",
-    "Pasted image 20230808195433.png",
-    "Pasted image 20230808152329.png",
-    "Pasted image 20230808200247.png",
+    "Pasted image 20230808203825.png",
+    "알고리즘/최소 비교 정렬.md",
     "알고리즘/알고리즘.md",
+    "알고리즘/정렬.md",
+    "BitcoinExchange.svg",
+    "알고리즘/야콥스탈 수.md",
+    "Day Planners/Day Planner-20230814.md",
+    "Day Planners/Day Planner-20230811.md",
+    "병합에 의한 정렬.md",
+    "알고리즘/삽입을 이용한 정렬.md",
+    "알고리즘/내부 정렬.md",
+    "알고리즘/순열의 조합 성질.md",
+    "알고리즘/집계정렬.md",
+    "알고리즘/통일성 문제 풀기.md",
+    "알고리즘/둘 이상의 파일들에 있는 항목들의 부합.md",
+    "알고리즘/키 값으로 정보 검색.md",
+    "Day Planners/Day Planner-20230804.md",
+    "Day Planners/Day Planner-20230809.md",
+    "C++ 강의.md",
+    "Pasted image 20230808152329.png",
+    "Pasted image 20230808195433.png",
     "Module09 ex00.md",
+    "To do list/2023-07-28.md",
+    "Pasted image 20230808200247.png",
     "Todo.md",
     "Pasted image 20230808195121.png",
     "최적 정렬.md",
     "알고리즘/최적 정렬.md",
-    "병합에 의한 정렬.md",
     "Pasted image 20230808151612.png",
     "Born To Be Root a64158c7311449a3a667ac1579633f56/Untitled 56.png",
     "Born To Be Root a64158c7311449a3a667ac1579633f56/Untitled 58.png",
@@ -190,11 +193,6 @@
     "Untitled.md",
     "Day Planners/Day Planner-20230808.md",
     "알고리즘",
-    "연동하는 법 배우기.md",
-    "Casting.md",
-    "C++ 강의.md",
-    "Day Planners/Day Planner-20230807.md",
-    "맵.md",
     "Day Planners",
     "Untitled.canvas",
     "To do list"
