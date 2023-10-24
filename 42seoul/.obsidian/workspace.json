@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "07a834fd622a6901",
+        "id": "c2322b3d28a7c4fa",
         "type": "tabs",
         "children": [
           {
-            "id": "081ccc963355c394",
+            "id": "298a50006d50c7b0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230808203825.png"
+                "file": "알고리즘/최소 비교 정렬.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -36,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "Preamble",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230808203825.png",
+                "file": "알고리즘/최소 비교 정렬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230808203825.png",
+                "file": "알고리즘/최소 비교 정렬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230808203825.png"
+                "file": "알고리즘/최소 비교 정렬.md"
               }
             }
           },
@@ -154,47 +156,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "081ccc963355c394",
+  "active": "298a50006d50c7b0",
   "lastOpenFiles": [
-    "Pasted image 20230808200746.png",
-    "Pasted image 20230808203825.png",
-    "알고리즘/최소 비교 정렬.md",
-    "알고리즘/알고리즘.md",
-    "알고리즘/정렬.md",
-    "BitcoinExchange.svg",
+    "알고리즘/집계정렬.md",
+    "Inception.md",
     "알고리즘/야콥스탈 수.md",
-    "Day Planners/Day Planner-20230814.md",
-    "Day Planners/Day Planner-20230811.md",
-    "병합에 의한 정렬.md",
+    "Untitled 1.md",
+    "inception",
+    "알고리즘/알고리즘.md",
     "알고리즘/삽입을 이용한 정렬.md",
     "알고리즘/내부 정렬.md",
-    "알고리즘/순열의 조합 성질.md",
-    "알고리즘/집계정렬.md",
-    "알고리즘/통일성 문제 풀기.md",
+    "Day Planners/Day Planner-20231024.md",
     "알고리즘/둘 이상의 파일들에 있는 항목들의 부합.md",
+    "알고리즘/최소 비교 정렬.md",
     "알고리즘/키 값으로 정보 검색.md",
+    "알고리즘/통일성 문제 풀기.md",
+    "알고리즘/순열의 조합 성질.md",
+    "알고리즘/정렬.md",
+    "Day Planners/Day Planner-20230831.md",
+    "Day Planners/Day Planner-20230819.md",
+    "Day Planners/Day Planner-20230814.md",
+    "archive/C++ 강의.md",
+    "archive/Casting.md",
+    "archive/맵.md",
+    "archive/병합에 의한 정렬.md",
+    "archive/연동하는 법 배우기.md",
     "Day Planners/Day Planner-20230804.md",
-    "Day Planners/Day Planner-20230809.md",
-    "C++ 강의.md",
-    "Pasted image 20230808152329.png",
-    "Pasted image 20230808195433.png",
-    "Module09 ex00.md",
-    "To do list/2023-07-28.md",
+    "Day Planners/Day Planner-20230808.md",
+    "Day Planners/Day Planner-20230817.md",
+    "Day Planners/Day Planner-20230811.md",
+    "Untitled 1/Untitled.canvas",
+    "Untitled 1",
+    "archive",
+    "첨부파일/Pasted image 20230808152329.png",
+    "첨부파일/BitcoinExchange.svg",
+    "첨부파일/Pasted image 20230808195433.png",
+    "첨부파일/Pasted image 20230808203825.png",
+    "첨부파일",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "첨부파일/Pasted image 20230808200746.png",
     "Pasted image 20230808200247.png",
-    "Todo.md",
     "Pasted image 20230808195121.png",
-    "최적 정렬.md",
-    "알고리즘/최적 정렬.md",
     "Pasted image 20230808151612.png",
     "Born To Be Root a64158c7311449a3a667ac1579633f56/Untitled 56.png",
     "Born To Be Root a64158c7311449a3a667ac1579633f56/Untitled 58.png",
-    "Born To Be Root a64158c7311449a3a667ac1579633f56.md",
     "Born To Be Root a64158c7311449a3a667ac1579633f56",
-    "Untitled.md",
-    "Day Planners/Day Planner-20230808.md",
     "알고리즘",
     "Day Planners",
-    "Untitled.canvas",
     "To do list"
   ]
 }
