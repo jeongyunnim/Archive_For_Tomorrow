@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53dd6c4336fe53b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/연동하는 법 배우기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/최소 비교 정렬.md",
+                "file": "archive/연동하는 법 배우기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/최소 비교 정렬.md",
+                "file": "archive/연동하는 법 배우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/최소 비교 정렬.md"
+                "file": "archive/연동하는 법 배우기.md"
               }
             }
           },
@@ -156,10 +169,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "298a50006d50c7b0",
+  "active": "53dd6c4336fe53b2",
   "lastOpenFiles": [
+    "archive/병합에 의한 정렬.md",
+    "archive/맵.md",
+    "archive/Casting.md",
+    "archive/C++ 강의.md",
+    "archive/연동하는 법 배우기.md",
+    "첨부파일/Pasted image 20231025163918.png",
+    "첨부파일/Pasted image 20230808203825.png",
+    "inception/Inception 번역.md",
+    "inception/Inception.md",
+    "inception/Hacky patch.md",
+    "Untitled.md",
+    "Day Planners/Day Planner-20231025.md",
     "알고리즘/집계정렬.md",
-    "Inception.md",
     "알고리즘/야콥스탈 수.md",
     "Untitled 1.md",
     "inception",
@@ -176,22 +200,12 @@
     "Day Planners/Day Planner-20230831.md",
     "Day Planners/Day Planner-20230819.md",
     "Day Planners/Day Planner-20230814.md",
-    "archive/C++ 강의.md",
-    "archive/Casting.md",
-    "archive/맵.md",
-    "archive/병합에 의한 정렬.md",
-    "archive/연동하는 법 배우기.md",
-    "Day Planners/Day Planner-20230804.md",
-    "Day Planners/Day Planner-20230808.md",
-    "Day Planners/Day Planner-20230817.md",
-    "Day Planners/Day Planner-20230811.md",
     "Untitled 1/Untitled.canvas",
     "Untitled 1",
     "archive",
     "첨부파일/Pasted image 20230808152329.png",
     "첨부파일/BitcoinExchange.svg",
     "첨부파일/Pasted image 20230808195433.png",
-    "첨부파일/Pasted image 20230808203825.png",
     "첨부파일",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -201,7 +215,6 @@
     "Pasted image 20230808195121.png",
     "Pasted image 20230808151612.png",
     "Born To Be Root a64158c7311449a3a667ac1579633f56/Untitled 56.png",
-    "Born To Be Root a64158c7311449a3a667ac1579633f56/Untitled 58.png",
     "Born To Be Root a64158c7311449a3a667ac1579633f56",
     "알고리즘",
     "Day Planners",
