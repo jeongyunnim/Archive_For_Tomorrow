@@ -1,3 +1,20 @@
+---
+날짜: '"2023-10-25"'
+넘버: 
+태그: 42subject
+출처: 42seoul
+aliases:
+  - inception
+---
+### 날짜  2023-10-25 19:27
+
+### 태그: #42subject
+
+>[!메모]
+> 
+
+### 원문
+---
 Summary: This document is a System Administration related exercise.
 
 ## Chapter II
@@ -147,3 +164,9 @@ Bonus list:
 > [!caution]
 > The bonus part will only be assessed if the mandatory part is PERFECT.
 
+---
+### 생각(파생된 질문/생각)
+
+### 출처
+
+### 연결 문서 (연결 이유)

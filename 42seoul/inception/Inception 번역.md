@@ -1,3 +1,22 @@
+---
+날짜: '"2023-10-25"'
+넘버: 
+태그: 42subject
+출처: 42seoul
+aliases:
+  - inception
+  - 인셉션
+---
+### 날짜  2023-10-25 19:29
+
+### 태그:
+
+>[!메모]
+> 인셉션 번역.
+> 모르는 것들을 파악하고, 해야할 것들을 정리하자.
+
+### 원문
+---
 
 요약: 이 문서는 시스템 관리자와 관련된 예제입니다.
 ## Introduction
@@ -156,3 +175,9 @@ $>
 > [!caution]
 > The bonus part will only be assessed if the mandatory part is PERFECT.
 
+---
+### 생각(파생된 질문/생각)
+
+### 출처
+
+### 연결 문서 (연결 이유)
