@@ -49,6 +49,29 @@ int main(void)
 ```
 - 현재 chroot는 container runtime에 사용되지 않는다.
 	- pivot_root로 대체되었음.
+- 더 유용하게 독립된 환경을 구성하기 위해서는 적절한 루트 파일 시스템(rootfs)이 필요하다.
+	- 모든 바이너리, 라이브러리 및 필요한 파일 구조가 포함된다.
+		- 이미 존재하는 Open Container Initiative의 껍질을 벗겨보는 것은 어떨까?
+		- [skopeo](https://github.com/containers/skopeo)와 [umoci](https://github.com/openSUSE/umoci)라는 도구로 해결할 수 있다.
+```bash
+$> skopeo copy cdocker://opensuse/tumbleweed:latest
+oci:tumbleweed:latest
+[output removed]
+$> sudo umoci unpack --image tumleweed:latest bundle
+[output removed]
+$> sudo chroot bundle/roofs
+#>
+```
+- 이렇게 추출한 루트 파일 시스템으로부터 chroot를 실행하여 독립 환경으로 진입한다.
+- 모든 것이 작동하는 것 같지만, 프로세스 관점에서 보면 독립 환경 외부를 들여다 볼 수 있다는 문제가 있다.
+```bash
+$> mkdir /proc
+$> mount -t proc porc /proc
+$> ps aux
+[output removed]
+```
+- 
+
 - old mount
 - 
 ---
