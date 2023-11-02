@@ -70,10 +70,20 @@ $> mount -t proc porc /proc
 $> ps aux
 [output removed]
 ```
-- 
+- 프로세스는 전혀 격리되지 않아서 격리공간 바깥의 프로그램도 kill할 수 있다.
 
-- old mount
-- 
+- 네트워크 장치를 보자.
+```shell
+$> mkdir /sys
+$> mount -t /sys/calss/net
+$> ls /sys/class/net
+eth0 lo
+```
+- 네트워크 또한 격리되지 않는다. 
+	- 격리된 공간을 벗어나는 목적으로 사용될 수도 있다.
+	- 이로인해 **Linux Namespace**가 탄생했다.
+
+
 ---
 ### 생각(파생된 질문/생각)
 
