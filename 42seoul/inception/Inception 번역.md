@@ -36,7 +36,7 @@ aliases:
 
 이 프로젝트는 특정 규칙에 따라 다양한 서비스로 구성된 소규모 인프라를 설정하는 것으로 구성되어 있습니다. 전체 프로젝트는 가상 머신에서 수행해야 하며 [[docker compose]]를 사용해야 합니다.
 
-각 [[Docker image]]는 해당 서미스와 동일한 이름을 가져야 합니다.
+각 [[Docker image]]는 해당 서비스와 동일한 이름을 가져야 합니다.
 각 서비스는 전용 컨테이너에서 실행되어야 합니다.
 성능 문제를 위해 컨테이너는 두 번째 안정적 버전인 Alpine 또는 Debian으로 빌드해야 합니다.
 또한 서비스당 하나씩 자체 `Dockerfile`을 작성해야 합니다. `Dockerfile`은 메이크파일에 의해 `docker-compose.yml`에서 호출 되어야 합니다.
@@ -115,7 +115,7 @@ drwxrwxr-x 3 wil wil 4096 avril 42 20:42 ..
 drwxrwxr-x 4 wil wil 4096 avril 42 20:42 bonus 
 drwxrwxr-x 4 wil wil 4096 avril 42 20:42 mariadb 
 drwxrwxr-x 4 wil wil 4096 avril 42 20:42 nginx 
-drwxrwxr-x 4 wil wil 4096 avril 42 20:42 tools 
+drwxrwxr-x 4 wil wil 4096 avril 42 20:42 tools
 drwxrwxr-x 4 wil wil 4096 avril 42 20:42 wordpress 
 
 ./srcs/requirements/mariadb: 

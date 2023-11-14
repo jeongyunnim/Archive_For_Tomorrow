@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcdb3a2474fb0f1a",
+            "id": "777c5950c484d3aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/7.0 도커 컴포즈를 익히자.md",
+                "file": "Day Planners/2023-11-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4fc210abfe1244f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inception/Docker docs/3-0. Overview of best practices for writing Dockerfiles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "810882b99fda961a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inception/Docker docs/2. Dockerfile.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inception/7.0 도커 컴포즈를 익히자.md",
+                "file": "Day Planners/2023-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inception/7.0 도커 컴포즈를 익히자.md",
+                "file": "Day Planners/2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inception/7.0 도커 컴포즈를 익히자.md"
+                "file": "Day Planners/2023-11-14.md"
               }
             }
           },
@@ -147,43 +171,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "777c5950c484d3aa",
   "lastOpenFiles": [
-    "Day Planners/2023-11-06.md",
-    "inception/7.0 도커 컴포즈를 익히자.md",
-    "inception/0. 그림과 실습으로 배우는 도커 & 쿠버네티스.md",
-    "Excalidraw/inception.excalidraw.md",
-    "inception/쿠버네티스 입문.md",
-    "inception/컨테이너 오케스트레이션.md",
-    "inception/쿠버네티스.md",
-    "inception/5.1 워드프레스 구축.md",
-    "inception/6.0 실전에 활용 가능한 컨테이너 사용법.md",
-    "inception/5.2 워드프레스 및 MySQL 컨테이너 생성과 연동.md",
-    "inception/5.0 여러 개의 컨테이너를 연동해 실행해보자.md",
-    "To do list/2023-07-13.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
+    "Day Planners/2023-11-14.md",
+    "inception/NGINX 쿡북/0. NGINX 쿡북.md",
+    "template/NGINX 쿡북 템플릿.md",
     "To do list/2023-07-12.md",
-    "inception/그림과 실습으로 배우는 도커 & 쿠버네티스.md",
+    "inception/Inception.md",
+    "inception/Inception 번역.md",
+    "inception/HAProxy.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/5.2 워드프레스 및 MySQL 컨테이너 생성과 연동.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/5.1 워드프레스 구축.md",
+    "inception/Docker docs/1-6. Use bind mounts.md",
+    "template/Zettelkasten.md",
+    "inception/NGINX 쿡북",
+    "inception/Hacky patch.md",
+    "inception/Alpine Linux에 WordPress 설치하기.md",
+    "inception/Docker docs/2. Dockerfile.md",
+    "inception/리눅스 상위 디렉토리.md",
     "inception/도커 빌드 시간 줄이기.md",
-    "inception/3-2. Best practices for Dockerfile instructions.md",
-    "inception/2. Dockerfile.md",
-    "inception/1-10. What's Next.md",
-    "inception/Dockerfile.md",
+    "inception/namespace.md",
+    "inception/ISO.md",
     "inception/Docker container network.md",
-    "inception/3-1. General guidelines.md",
-    "inception/3-0. Overview of best practices for writing Dockerfiles.md",
-    "inception/1-9. Image-building best practices.md",
-    "inception/1-8. Use Docker Compose.md",
-    "inception/1-7. Multi container apps.md",
-    "inception/1-6. Use bind mounts.md",
+    "inception/Docker.md",
+    "inception/chroot.md",
+    "inception/alpine을 사용해야하는 3가지 이유.md",
+    "inception/Alpine Linux에 WordPress MariaDB 설치하기.md",
+    "inception/Docker docs/0. Docker docs 정리.md",
+    "inception/Docker docs",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스",
     "Day Planners",
     "docker",
     "첨부파일/Pasted image 20231103212748.png",
@@ -202,11 +229,8 @@
     "Untitled 1/Untitled.canvas",
     "Untitled 1",
     "archive",
-    "첨부파일",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Born To Be Root a64158c7311449a3a667ac1579633f56",
-    "알고리즘"
+    "Untitled 2.canvas"
   ]
 }
