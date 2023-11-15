@@ -13,37 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2023-11-14.md",
+                "file": "inception/Docker docs/1-9. Image-building best practices.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a4fc210abfe1244f",
+            "id": "d6d8983a62b93e36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/Docker docs/3-0. Overview of best practices for writing Dockerfiles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "810882b99fda961a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inception/Docker docs/2. Dockerfile.md",
+                "file": "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2023-11-14.md",
+                "file": "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2023-11-14.md",
+                "file": "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2023-11-14.md"
+                "file": "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md"
               }
             }
           },
@@ -180,35 +169,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "777c5950c484d3aa",
+  "active": "d6d8983a62b93e36",
   "lastOpenFiles": [
+    "inception/Docker docs/1-9. Image-building best practices.md",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
-    "Day Planners/2023-11-14.md",
-    "inception/NGINX 쿡북/0. NGINX 쿡북.md",
-    "template/NGINX 쿡북 템플릿.md",
-    "To do list/2023-07-12.md",
-    "inception/Inception.md",
-    "inception/Inception 번역.md",
-    "inception/HAProxy.md",
-    "inception/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
-    "inception/그림과 실습으로 배우는 도커&쿠버네티스/5.2 워드프레스 및 MySQL 컨테이너 생성과 연동.md",
-    "inception/그림과 실습으로 배우는 도커&쿠버네티스/5.1 워드프레스 구축.md",
-    "inception/Docker docs/1-6. Use bind mounts.md",
-    "template/Zettelkasten.md",
-    "inception/NGINX 쿡북",
-    "inception/Hacky patch.md",
-    "inception/Alpine Linux에 WordPress 설치하기.md",
-    "inception/Docker docs/2. Dockerfile.md",
-    "inception/리눅스 상위 디렉토리.md",
-    "inception/도커 빌드 시간 줄이기.md",
-    "inception/namespace.md",
+    "inception/1. docker-compose WordPress 세팅.md",
+    "inception/docker-compose.yml.md",
     "inception/ISO.md",
-    "inception/Docker container network.md",
-    "inception/Docker.md",
-    "inception/chroot.md",
-    "inception/alpine을 사용해야하는 3가지 이유.md",
+    "inception/namespace.md",
+    "inception/pull_policy.md",
+    "inception/도커 빌드 시간 줄이기.md",
+    "inception/RSA 인증서와 전자서명의 원리.md",
+    "inception/Alpine Linux에 WordPress 설치하기.md",
     "inception/Alpine Linux에 WordPress MariaDB 설치하기.md",
-    "inception/Docker docs/0. Docker docs 정리.md",
+    "inception/Awesome-Compose.md",
+    "inception/chroot.md",
+    "inception/Docker.md",
+    "inception/Docker container network.md",
+    "inception/Docker docs/2. Dockerfile.md",
+    "inception/Inception 번역.md",
+    "inception/Inception.md",
+    "Excalidraw/inception.excalidraw.md",
+    "inception/Docker docs/1-7. Multi container apps.md",
+    "inception/Docker docs/1-6. Use bind mounts.md",
+    "inception/Docker docs/1-5. Persist the DB.md",
+    "inception/Docker docs/1-4. Share the application.md",
+    "inception/Docker docs/1-3. Update the application.md",
+    "inception/Docker docs/1-2. Containerize an application.md",
+    "inception/리눅스 상위 디렉토리.md",
+    "첨부파일/Pasted image 20231025163918.png",
+    "inception/NGINX 쿡북",
     "inception/Docker docs",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스",
     "Day Planners",
@@ -222,7 +212,6 @@
     "첨부파일/Pasted image 20231101173603.png",
     "첨부파일/Pasted image 20231101165451.png",
     "첨부파일/Pasted image 20231031183742.png",
-    "첨부파일/Pasted image 20231031183735.png",
     "Excalidraw",
     "template",
     "inception",
