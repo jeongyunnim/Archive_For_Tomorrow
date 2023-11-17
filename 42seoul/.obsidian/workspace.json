@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcdb3a2474fb0f1a",
+            "id": "777c5950c484d3aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2023-11-14.md",
+                "file": "inception/Docker docs/1-9. Image-building best practices.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f7a53d280125cf1",
+            "id": "d6d8983a62b93e36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/2. docker-compose WordPress 세팅.md",
+                "file": "inception/OpenSSL.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inception/2. docker-compose WordPress 세팅.md",
+                "file": "inception/OpenSSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inception/2. docker-compose WordPress 세팅.md",
+                "file": "inception/OpenSSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inception/2. docker-compose WordPress 세팅.md"
+                "file": "inception/OpenSSL.md"
               }
             }
           },
@@ -160,46 +160,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f7a53d280125cf1",
+  "active": "d6d8983a62b93e36",
   "lastOpenFiles": [
-    "inception/1. docker-compose WordPress 세팅.md",
-    "inception/2. docker-compose WordPress 세팅.md",
-    "inception/0. Become a WordPress developer.md",
-    "Day Planners/2023-11-06.md",
+    "inception/OpenSSL.md",
+    "Day Planners/2023-11-17.md",
     "Day Planners/2023-11-14.md",
-    "inception/7.0 도커 컴포즈를 익히자.md",
-    "template/NGINX 쿡북 템플릿.md",
-    "inception/포트포워딩.md",
+    "inception/Inception 번역.md",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
-    "inception/그림과 실습으로 배우는 도커&쿠버네티스/5.2 워드프레스 및 MySQL 컨테이너 생성과 연동.md",
-    "inception/그림과 실습으로 배우는 도커&쿠버네티스/5.1 워드프레스 구축.md",
-    "inception/그림과 실습으로 배우는 도커&쿠버네티스/5.0 여러 개의 컨테이너를 연동해 실행해보자.md",
-    "inception/그림과 실습으로 배우는 도커&쿠버네티스/0. 그림과 실습으로 배우는 도커 & 쿠버네티스.md",
-    "inception/그림과 실습으로 배우는 도커&쿠버네티스",
-    "inception/pull_policy.md",
-    "inception/docker-compose.yml.md",
-    "inception/RSA 인증서와 전자서명의 원리.md",
-    "inception/NGINX 쿡북/0. NGINX 쿡북.md",
-    "inception/NGINX 쿡북",
-    "inception/ISO.md",
-    "inception/HAProxy.md",
-    "inception/Docker docs/3-2. Best practices for Dockerfile instructions.md",
-    "inception/Docker docs/3-0. Overview of best practices for writing Dockerfiles.md",
-    "inception/Docker docs/3-1. General guidelines.md",
+    "inception/2. docker-compose WordPress 세팅.md",
+    "inception/0. Become a WordPress developer.md",
     "inception/Docker docs/1-9. Image-building best practices.md",
+    "inception/1. docker-compose WordPress 세팅.md",
+    "inception/docker-compose.yml.md",
+    "inception/ISO.md",
+    "inception/namespace.md",
+    "inception/pull_policy.md",
+    "inception/도커 빌드 시간 줄이기.md",
+    "inception/RSA 인증서와 전자서명의 원리.md",
+    "inception/Alpine Linux에 WordPress 설치하기.md",
+    "inception/Alpine Linux에 WordPress MariaDB 설치하기.md",
+    "inception/Awesome-Compose.md",
+    "inception/chroot.md",
+    "inception/Docker.md",
+    "inception/Docker container network.md",
     "inception/Docker docs/2. Dockerfile.md",
-    "inception/Docker docs/1-8. Use Docker Compose.md",
+    "inception/Inception.md",
+    "Excalidraw/inception.excalidraw.md",
+    "inception/Docker docs/1-7. Multi container apps.md",
+    "첨부파일/Pasted image 20231025163918.png",
+    "inception/NGINX 쿡북",
     "inception/Docker docs",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스",
     "Day Planners",
     "docker",
     "첨부파일/Pasted image 20231103212748.png",
@@ -211,7 +212,6 @@
     "첨부파일/Pasted image 20231101173603.png",
     "첨부파일/Pasted image 20231101165451.png",
     "첨부파일/Pasted image 20231031183742.png",
-    "첨부파일/Pasted image 20231031183735.png",
     "Excalidraw",
     "template",
     "inception",
