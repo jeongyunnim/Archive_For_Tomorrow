@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/2. 기본 엔진엑스 구성.md",
+                "file": "inception/4. 모듈 구성.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inception/2. 기본 엔진엑스 구성.md",
+                "file": "inception/4. 모듈 구성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inception/2. 기본 엔진엑스 구성.md",
+                "file": "inception/4. 모듈 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inception/2. 기본 엔진엑스 구성.md"
+                "file": "inception/4. 모듈 구성.md"
               }
             }
           },
@@ -173,31 +172,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a5fe3d927c5afe3a",
   "lastOpenFiles": [
     "inception/NGINX HTTP 서버/0. NGINX HTTP 서버.md",
-    "inception/2. 기본 엔진엑스 구성.md",
+    "inception/4. 모듈 구성.md",
+    "inception/NGINX HTTP 서버/2. 기본 엔진엑스 구성.md",
+    "inception/2. docker-compose WordPress 세팅.md",
+    "inception/NGINX HTTP 서버/3. HTTP 구성.md",
+    "inception/Untitled.md",
     "inception/NGINX HTTP 서버/1. 엔진엑스 설치.md",
+    "Day Planners/2023-11-14.md",
     "inception/0. Become a WordPress developer.md",
     "inception/도커엔진.md",
     "Excalidraw/inception.excalidraw.md",
     "inception/NGINX 쿡북/0. NGINX 쿡북.md",
     "inception/NGINX HTTP 서버",
-    "inception/2. docker-compose WordPress 세팅.md",
     "inception/OpenSSL.md",
     "Day Planners/2023-11-17.md",
     "inception/1. docker-compose WordPress 세팅.md",
     "Day Planners/2023-11-06.md",
-    "Day Planners/2023-11-14.md",
     "inception/7.0 도커 컴포즈를 익히자.md",
     "template/NGINX 쿡북 템플릿.md",
     "inception/포트포워딩.md",
@@ -209,10 +211,7 @@
     "inception/그림과 실습으로 배우는 도커&쿠버네티스/0. 그림과 실습으로 배우는 도커 & 쿠버네티스.md",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스",
     "inception/pull_policy.md",
-    "inception/docker-compose.yml.md",
-    "inception/RSA 인증서와 전자서명의 원리.md",
     "inception/NGINX 쿡북",
-    "inception/ISO.md",
     "inception/Docker docs",
     "Day Planners",
     "docker",
