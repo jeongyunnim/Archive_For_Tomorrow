@@ -67,6 +67,8 @@ aliases:
 > PID 1과 Docker 파일의 작성 사례에 대해 읽어보세요.
 > 
 
+^e6bace
+
 - 워드프레스 데이터베이스에는 두 명의 사용자가 있어야 합니다. 그 중 하나는 관리자여야 합니다. ^d9c3d7
 - 관리자의 사용자 이름에는 admin/Admin 또는 administrator/Administrator을 포함할 수 없습니다.
 	- admin, administrator, Administrator, admin-123 등
