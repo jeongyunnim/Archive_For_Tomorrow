@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/NGINX HTTP 서버/9. 사례 연구.md",
+                "file": "inception/NGINX HTTP 서버/1. 엔진엑스 설치.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5fe3d927c5afe3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inception/NGINX HTTP 서버/0. NGINX HTTP 서버.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a4c8b7825caec94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inception/1. Before You Install.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inception/NGINX HTTP 서버/9. 사례 연구.md",
+                "file": "inception/1. Before You Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inception/NGINX HTTP 서버/9. 사례 연구.md",
+                "file": "inception/1. Before You Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inception/NGINX HTTP 서버/9. 사례 연구.md"
+                "file": "inception/1. Before You Install.md"
               }
             }
           },
@@ -160,46 +184,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f7a53d280125cf1",
+  "active": "0a4c8b7825caec94",
   "lastOpenFiles": [
-    "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
-    "inception/0. Become a WordPress developer.md",
-    "inception/1. docker-compose WordPress 세팅.md",
-    "inception/쿠버네티스.md",
-    "inception/컨테이너 오케스트레이션.md",
-    "inception/커널 네임스페이스.md",
-    "inception/리눅스 상위 디렉토리.md",
-    "inception/Untitled.md",
-    "inception/RSA 인증서와 전자서명의 원리.md",
-    "inception/Inception 번역.md",
-    "inception/docker-compose.yml.md",
-    "inception/alpine을 사용해야하는 3가지 이유.md",
-    "inception/2. docker-compose WordPress 세팅.md",
-    "inception/Alpine Linux에 WordPress 설치하기.md",
-    "inception/Awesome-Compose.md",
-    "inception/NGINX HTTP 서버/9. 사례 연구.md",
+    "inception/0. wordpress doc 정리.md",
+    "inception/1. Before You Install.md",
     "inception/NGINX HTTP 서버/0. NGINX HTTP 서버.md",
-    "inception/NGINX HTTP 서버/5. NGINX와 PHP,파이썬 통합.md",
+    "inception/2. 기본 엔진엑스 구성.md",
     "첨부파일/Pasted image 20231121205404.png",
-    "Excalidraw/inception.excalidraw.md",
-    "inception/Alpine Linux에 WordPress MariaDB 설치하기.md",
-    "inception/NGINX HTTP 서버/1. 엔진엑스 설치.md",
-    "5. 엔진엑스와 PHP",
+    "inception/Untitled.md",
+    "inception/NGINX HTTP 서버/9. 사례 연구.md",
+    "inception/NGINX HTTP 서버/5. NGINX와 PHP,파이썬 통합.md",
     "inception/NGINX HTTP 서버/4. 모듈 구성.md",
-    "inception/NGINX HTTP 서버/2. 기본 엔진엑스 구성.md",
     "inception/NGINX HTTP 서버/3. HTTP 구성.md",
-    "Day Planners/2023-11-14.md",
+    "inception/NGINX HTTP 서버/2. 기본 엔진엑스 구성.md",
+    "inception/NGINX HTTP 서버/1. 엔진엑스 설치.md",
+    "inception/0. Become a WordPress developer.md",
     "inception/도커엔진.md",
+    "Excalidraw/inception.excalidraw.md",
+    "inception/NGINX 쿡북/0. NGINX 쿡북.md",
     "inception/NGINX HTTP 서버",
+    "inception/2. docker-compose WordPress 세팅.md",
+    "inception/OpenSSL.md",
+    "Day Planners/2023-11-17.md",
+    "inception/1. docker-compose WordPress 세팅.md",
+    "Day Planners/2023-11-06.md",
+    "Day Planners/2023-11-14.md",
+    "inception/7.0 도커 컴포즈를 익히자.md",
+    "template/NGINX 쿡북 템플릿.md",
+    "inception/포트포워딩.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스",
     "inception/NGINX 쿡북",
     "inception/Docker docs",
@@ -218,6 +241,7 @@
     "template",
     "inception",
     "Untitled 1/Untitled.canvas",
+    "Untitled 1",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
