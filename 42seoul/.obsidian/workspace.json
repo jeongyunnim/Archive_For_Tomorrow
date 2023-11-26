@@ -8,50 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcdb3a2474fb0f1a",
+            "id": "777c5950c484d3aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2023-11-14.md",
+                "file": "inception/NGINX HTTP 서버/Docker docs/1-9. Image-building best practices.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f7a53d280125cf1",
+            "id": "d6d8983a62b93e36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/NGINX HTTP 서버/1. 엔진엑스 설치.md",
+                "file": "inception/wordpress Docs/1. Before You Install.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a5fe3d927c5afe3a",
+            "id": "06d9b9e911764bd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/NGINX HTTP 서버/0. NGINX HTTP 서버.md",
+                "file": "Day Planners/2023-11-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0a4c8b7825caec94",
+            "id": "4f036c271938ded3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/1. Before You Install.md",
+                "file": "Day Planners/2023-11-26.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a6024b6ffdd2c0fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/inception.excalidraw.md"
               }
             }
           }
@@ -107,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -123,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inception/1. Before You Install.md",
+                "file": "Day Planners/2023-11-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inception/1. Before You Install.md",
+                "file": "Day Planners/2023-11-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inception/1. Before You Install.md"
+                "file": "Day Planners/2023-11-26.md"
               }
             }
           },
@@ -184,22 +194,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a4c8b7825caec94",
+  "active": "4f036c271938ded3",
   "lastOpenFiles": [
-    "inception/0. wordpress doc 정리.md",
-    "inception/1. Before You Install.md",
-    "inception/NGINX HTTP 서버/0. NGINX HTTP 서버.md",
-    "inception/2. 기본 엔진엑스 구성.md",
+    "Day Planners/2023-11-17.md",
+    "Day Planners/2023-11-26.md",
+    "inception/알파일 리눅스 위키에서 정리하기.md",
+    "inception/wordpress Docs/1. Before You Install.md",
+    "inception/wordpress Docs/0. wordpress docs 정리.md",
+    "inception/2. docker-compose WordPress 세팅.md",
+    "inception/Alpine Linux에 WordPress MariaDB 설치하기.md",
+    "inception/1. docker-compose WordPress 세팅.md",
+    "inception/0. Become a WordPress developer.md",
+    "inception/NGINX 쿡북.md",
+    "Excalidraw/inception.excalidraw.md",
+    "inception/OpenSSL.md",
     "첨부파일/Pasted image 20231121205404.png",
+    "inception/도커엔진.md",
     "inception/Untitled.md",
     "inception/NGINX HTTP 서버/9. 사례 연구.md",
     "inception/NGINX HTTP 서버/5. NGINX와 PHP,파이썬 통합.md",
@@ -207,25 +226,17 @@
     "inception/NGINX HTTP 서버/3. HTTP 구성.md",
     "inception/NGINX HTTP 서버/2. 기본 엔진엑스 구성.md",
     "inception/NGINX HTTP 서버/1. 엔진엑스 설치.md",
-    "inception/0. Become a WordPress developer.md",
-    "inception/도커엔진.md",
-    "Excalidraw/inception.excalidraw.md",
-    "inception/NGINX 쿡북/0. NGINX 쿡북.md",
+    "inception/NGINX HTTP 서버/0. NGINX HTTP 서버.md",
     "inception/NGINX HTTP 서버",
-    "inception/2. docker-compose WordPress 세팅.md",
-    "inception/OpenSSL.md",
-    "Day Planners/2023-11-17.md",
-    "inception/1. docker-compose WordPress 세팅.md",
-    "Day Planners/2023-11-06.md",
     "Day Planners/2023-11-14.md",
-    "inception/7.0 도커 컴포즈를 익히자.md",
-    "template/NGINX 쿡북 템플릿.md",
-    "inception/포트포워딩.md",
+    "inception/Inception 번역.md",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
+    "inception/NGINX HTTP 서버/Docker docs/1-9. Image-building best practices.md",
+    "첨부파일/Pasted image 20231025163918.png",
+    "inception/wordpress Docs",
+    "inception/NGINX HTTP 서버/Docker docs",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스",
-    "inception/NGINX 쿡북",
-    "inception/Docker docs",
     "Day Planners",
     "docker",
     "첨부파일/Pasted image 20231103212748.png",
@@ -236,7 +247,6 @@
     "첨부파일/Pasted image 20231101175014.png",
     "첨부파일/Pasted image 20231101173603.png",
     "첨부파일/Pasted image 20231101165451.png",
-    "첨부파일/Pasted image 20231031183742.png",
     "Excalidraw",
     "template",
     "inception",
