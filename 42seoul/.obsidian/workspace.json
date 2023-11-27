@@ -8,65 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "777c5950c484d3aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inception/NGINX HTTP 서버/Docker docs/1-9. Image-building best practices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6d8983a62b93e36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inception/wordpress Docs/1. Before You Install.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06d9b9e911764bd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2023-11-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4f036c271938ded3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2023-11-26.md",
+                "file": "inception/2. Server File Permissiions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a6024b6ffdd2c0fa",
+            "id": "73ab6467f21c4392",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/inception.excalidraw.md"
+                "file": "inception/Inception 번역.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a07cf8b3f32e7b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inception/mariadb 에러.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2023-11-26.md",
+                "file": "inception/mariadb 에러.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2023-11-26.md",
+                "file": "inception/mariadb 에러.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2023-11-26.md"
+                "file": "inception/mariadb 에러.md"
               }
             }
           },
@@ -203,36 +181,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f036c271938ded3",
+  "active": "1a07cf8b3f32e7b3",
   "lastOpenFiles": [
-    "Day Planners/2023-11-17.md",
-    "Day Planners/2023-11-26.md",
-    "inception/알파일 리눅스 위키에서 정리하기.md",
-    "inception/wordpress Docs/1. Before You Install.md",
+    "inception/Inception 번역.md",
+    "inception/mariadb 에러.md",
+    "inception/2. Server File Permissiions.md",
     "inception/wordpress Docs/0. wordpress docs 정리.md",
-    "inception/2. docker-compose WordPress 세팅.md",
+    "inception/wordpress Docs/1. Before You Install.md",
+    "inception/RSA 인증서와 전자서명의 원리.md",
+    "inception/pull_policy.md",
+    "inception/NGINX 쿡북.md",
+    "inception/ISO.md",
+    "inception/HAProxy.md",
+    "inception/docker-compose.yml.md",
+    "inception/Hacky patch.md",
+    "inception/Docker.md",
+    "inception/chroot.md",
+    "inception/Awesome-Compose.md",
     "inception/Alpine Linux에 WordPress MariaDB 설치하기.md",
+    "inception/Alpine Linux에 WordPress 설치하기.md",
     "inception/1. docker-compose WordPress 세팅.md",
     "inception/0. Become a WordPress developer.md",
-    "inception/NGINX 쿡북.md",
-    "Excalidraw/inception.excalidraw.md",
-    "inception/OpenSSL.md",
-    "첨부파일/Pasted image 20231121205404.png",
+    "inception/2. docker-compose WordPress 세팅.md",
+    "inception/SaaS.md",
+    "inception/도커 빌드 시간 줄이기.md",
     "inception/도커엔진.md",
-    "inception/Untitled.md",
-    "inception/NGINX HTTP 서버/9. 사례 연구.md",
-    "inception/NGINX HTTP 서버/5. NGINX와 PHP,파이썬 통합.md",
-    "inception/NGINX HTTP 서버/4. 모듈 구성.md",
-    "inception/NGINX HTTP 서버/3. HTTP 구성.md",
-    "inception/NGINX HTTP 서버/2. 기본 엔진엑스 구성.md",
-    "inception/NGINX HTTP 서버/1. 엔진엑스 설치.md",
-    "inception/NGINX HTTP 서버/0. NGINX HTTP 서버.md",
+    "inception/리눅스 상위 디렉토리.md",
+    "inception/알파인 리눅스 이미지 빌드.md",
+    "inception/알파일 리눅스 위키에서 정리하기.md",
+    "첨부파일/Pasted image 20231121205404.png",
     "inception/NGINX HTTP 서버",
-    "Day Planners/2023-11-14.md",
-    "inception/Inception 번역.md",
-    "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
-    "inception/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
-    "inception/NGINX HTTP 서버/Docker docs/1-9. Image-building best practices.md",
     "첨부파일/Pasted image 20231025163918.png",
     "inception/wordpress Docs",
     "inception/NGINX HTTP 서버/Docker docs",

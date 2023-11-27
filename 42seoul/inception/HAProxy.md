@@ -14,7 +14,6 @@ aliases:
 
 ### 원문
 ---
-- 
 
 - http://redisgate.kr/redis/haproxy/management.php
 ---
