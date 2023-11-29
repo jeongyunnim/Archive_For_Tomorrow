@@ -25,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2023-11-26.md",
+                "file": "inception/Alpine Linux에 WordPress MariaDB 설치하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8acc01caeda51918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inception/Inception 번역.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2023-11-26.md",
+                "file": "inception/2. Server File Permissiions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2023-11-26.md",
+                "file": "inception/2. Server File Permissiions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2023-11-26.md"
+                "file": "inception/2. Server File Permissiions.md"
               }
             }
           },
@@ -168,34 +179,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73ab6467f21c4392",
+  "active": "4f036c271938ded3",
   "lastOpenFiles": [
-    "inception/Inception.md",
-    "inception/Inception 번역.md",
-    "inception/ISO.md",
     "inception/Alpine Linux에 WordPress MariaDB 설치하기.md",
+    "inception/Inception 번역.md",
+    "Day Planners/2023-11-26.md",
     "inception/Alpine Linux에 WordPress 설치하기.md",
-    "inception/alpine을 사용해야하는 3가지 이유.md",
     "inception/Awesome-Compose.md",
+    "inception/chroot.md",
+    "inception/Docker.md",
+    "inception/docker-compose.yml.md",
+    "inception/Hacky patch.md",
+    "inception/알파인 리눅스 위키에서 정리하기.md",
     "inception/2. Server File Permissiions.md",
+    "inception/알파인 리눅스 이미지 빌드.md",
+    "inception/커널 네임스페이스.md",
+    "inception/컨테이너 오케스트레이션.md",
+    "inception/포트포워딩.md",
+    "inception/쿠버네티스.md",
+    "inception/쿠버네티스 입문.md",
+    "inception/alpine을 사용해야하는 3가지 이유.md",
+    "inception/HAProxy.md",
+    "inception/Inception.md",
+    "inception/ISO.md",
     "inception/2. docker-compose WordPress 세팅.md",
     "inception/1. docker-compose WordPress 세팅.md",
-    "Day Planners/2023-11-26.md",
     "알고리즘/최소 비교 정렬.md",
     "알고리즘/야콥스탈 수.md",
     "알고리즘/알고리즘.md",
-    "archive/병합에 의한 정렬.md",
-    "알고리즘/삽입을 이용한 정렬.md",
-    "알고리즘/집계정렬.md",
-    "알고리즘/순열의 조합 성질.md",
-    "inception/mariadb 에러.md",
-    "inception/wordpress Docs/0. wordpress docs 정리.md",
-    "inception/wordpress Docs/1. Before You Install.md",
-    "inception/RSA 인증서와 전자서명의 원리.md",
-    "inception/pull_policy.md",
-    "inception/NGINX 쿡북.md",
-    "inception/HAProxy.md",
-    "inception/docker-compose.yml.md",
     "첨부파일/Pasted image 20231121205404.png",
     "inception/NGINX HTTP 서버",
     "첨부파일/Pasted image 20231025163918.png",
