@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/2. Server File Permissiions.md",
+                "file": "Excalidraw/docker compose volume.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inception/2. Server File Permissiions.md",
+                "file": "Excalidraw/docker compose volume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inception/2. Server File Permissiions.md",
+                "file": "Excalidraw/docker compose volume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inception/2. Server File Permissiions.md"
+                "file": "Excalidraw/docker compose volume.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,6 +182,11 @@
   },
   "active": "4f036c271938ded3",
   "lastOpenFiles": [
+    "Excalidraw/inception.excalidraw.md",
+    "Excalidraw/docker compose volume.md",
+    "첨부파일/Pasted Image 20231204161505_454.png",
+    "첨부파일/Pasted Image 20231204161410_325.png",
+    "inception/2. Server File Permissiions.md",
     "inception/Alpine Linux에 WordPress MariaDB 설치하기.md",
     "inception/Inception 번역.md",
     "Day Planners/2023-11-26.md",
@@ -191,7 +197,6 @@
     "inception/docker-compose.yml.md",
     "inception/Hacky patch.md",
     "inception/알파인 리눅스 위키에서 정리하기.md",
-    "inception/2. Server File Permissiions.md",
     "inception/알파인 리눅스 이미지 빌드.md",
     "inception/커널 네임스페이스.md",
     "inception/컨테이너 오케스트레이션.md",
@@ -205,8 +210,6 @@
     "inception/2. docker-compose WordPress 세팅.md",
     "inception/1. docker-compose WordPress 세팅.md",
     "알고리즘/최소 비교 정렬.md",
-    "알고리즘/야콥스탈 수.md",
-    "알고리즘/알고리즘.md",
     "첨부파일/Pasted image 20231121205404.png",
     "inception/NGINX HTTP 서버",
     "첨부파일/Pasted image 20231025163918.png",
@@ -221,8 +224,6 @@
     "첨부파일/Pasted image 20231103160740.png",
     "첨부파일/Pasted image 20231102164644.png",
     "첨부파일/Pasted image 20231101175014.png",
-    "첨부파일/Pasted image 20231101173603.png",
-    "첨부파일/Pasted image 20231101165451.png",
     "Excalidraw",
     "template",
     "inception",
