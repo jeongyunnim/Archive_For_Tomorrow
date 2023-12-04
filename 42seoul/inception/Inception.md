@@ -170,4 +170,3 @@ Bonus list:
 ### 출처
 
 ### 연결 문서 (연결 이유)
-- [[<Inception> Error log]]

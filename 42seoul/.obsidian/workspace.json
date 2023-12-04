@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/<Inception> Error log.md",
+                "file": "inception/1. Before You Install.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "env",
+                "query": "dockerignore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inception/<Inception> Error log.md",
+                "file": "inception/1. Before You Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inception/<Inception> Error log.md",
+                "file": "inception/1. Before You Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inception/<Inception> Error log.md"
+                "file": "inception/1. Before You Install.md"
               }
             }
           },
@@ -195,19 +195,12 @@
   },
   "active": "0a4c8b7825caec94",
   "lastOpenFiles": [
-    "inception/Inception.md",
-    "inception/<Inception> Error log.md",
-    "inception/Docker.md",
-    "inception/Untitled.md",
-    "inception/Awesome-Compose.md",
-    "inception/alpine을 사용해야하는 3가지 이유.md",
-    "inception/Docker docs/1-8. Use Docker Compose.md",
-    "inception/무제 파일.md",
-    "inception/1. Before You Install.md",
     "inception/0. wordpress doc 정리.md",
+    "inception/1. Before You Install.md",
     "inception/NGINX HTTP 서버/0. NGINX HTTP 서버.md",
     "inception/2. 기본 엔진엑스 구성.md",
     "첨부파일/Pasted image 20231121205404.png",
+    "inception/Untitled.md",
     "inception/NGINX HTTP 서버/9. 사례 연구.md",
     "inception/NGINX HTTP 서버/5. NGINX와 PHP,파이썬 통합.md",
     "inception/NGINX HTTP 서버/4. 모듈 구성.md",
@@ -223,6 +216,13 @@
     "inception/OpenSSL.md",
     "Day Planners/2023-11-17.md",
     "inception/1. docker-compose WordPress 세팅.md",
+    "Day Planners/2023-11-06.md",
+    "Day Planners/2023-11-14.md",
+    "inception/7.0 도커 컴포즈를 익히자.md",
+    "template/NGINX 쿡북 템플릿.md",
+    "inception/포트포워딩.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스",
     "inception/NGINX 쿡북",
     "inception/Docker docs",
