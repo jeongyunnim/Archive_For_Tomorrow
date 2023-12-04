@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "da71d39cbcec06f3",
+        "id": "727f212a96baca5d",
         "type": "tabs",
         "children": [
           {
-            "id": "4f036c271938ded3",
+            "id": "1ad3a72dbbceb14c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/docker compose volume.md",
+                "file": "inception/docker compose volume.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "73ab6467f21c4392",
+            "id": "e2a166f09e0b8fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/Alpine Linux에 WordPress MariaDB 설치하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8acc01caeda51918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inception/Inception 번역.md",
+                "file": "inception/<Inception> Error log.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dockerignore",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 355.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/docker compose volume.md",
+                "file": "inception/<Inception> Error log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/docker compose volume.md",
+                "file": "inception/<Inception> Error log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/docker compose volume.md"
+                "file": "inception/<Inception> Error log.md"
               }
             }
           },
@@ -180,55 +169,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f036c271938ded3",
+  "active": "e2a166f09e0b8fe2",
   "lastOpenFiles": [
-    "Excalidraw/inception.excalidraw.md",
-    "Excalidraw/docker compose volume.md",
-    "첨부파일/Pasted Image 20231204161505_454.png",
-    "첨부파일/Pasted Image 20231204161410_325.png",
-    "inception/2. Server File Permissiions.md",
-    "inception/Alpine Linux에 WordPress MariaDB 설치하기.md",
-    "inception/Inception 번역.md",
-    "Day Planners/2023-11-26.md",
-    "inception/Alpine Linux에 WordPress 설치하기.md",
-    "inception/Awesome-Compose.md",
-    "inception/chroot.md",
+    "inception/docker compose volume.md",
     "inception/Docker.md",
+    "inception/알파인 리눅스 이미지 빌드.md",
+    "inception/알파인 리눅스 위키에서 정리하기.md",
+    "inception/도커엔진.md",
+    "inception/볼륨 드라이버.md",
+    "첨부파일/Pasted image 20231204174716.png",
+    "첨부파일/Pasted image 20231204165720.png",
+    "Excalidraw/inception.excalidraw.md",
+    "inception/<Inception> Error log.md",
+    "inception/쿠버네티스.md",
+    "inception/도커 빌드 시간 줄이기.md",
+    "inception/RSA 인증서와 전자서명의 원리.md",
+    "inception/OpenSSL.md",
+    "inception/namespace.md",
+    "inception/mariadb 에러.md",
+    "inception/Inception 번역.md",
+    "inception/Inception.md",
     "inception/docker-compose.yml.md",
     "inception/Hacky patch.md",
-    "inception/알파인 리눅스 위키에서 정리하기.md",
-    "inception/알파인 리눅스 이미지 빌드.md",
-    "inception/커널 네임스페이스.md",
-    "inception/컨테이너 오케스트레이션.md",
-    "inception/포트포워딩.md",
-    "inception/쿠버네티스.md",
-    "inception/쿠버네티스 입문.md",
-    "inception/alpine을 사용해야하는 3가지 이유.md",
-    "inception/HAProxy.md",
-    "inception/Inception.md",
-    "inception/ISO.md",
-    "inception/2. docker-compose WordPress 세팅.md",
-    "inception/1. docker-compose WordPress 세팅.md",
-    "알고리즘/최소 비교 정렬.md",
+    "inception/chroot.md",
+    "inception/Awesome-Compose.md",
+    "inception/Alpine Linux에 WordPress 설치하기.md",
+    "inception/NGINX HTTP 서버/Docker docs/1-5. Persist the DB.md",
+    "inception/<Inception> Error Log.md",
+    "첨부파일/Pasted Image 20231204161505_454.png",
+    "inception/wordpress Docs/1. Before You Install.md",
+    "inception/wordpress Docs/0. wordpress docs 정리.md",
+    "inception/wordpress Docs",
+    "inception/NGINX 쿡북.md",
+    "inception/NGINX HTTP 서버/Docker docs",
+    "첨부파일/Pasted Image 20231204164914_731.png",
     "첨부파일/Pasted image 20231121205404.png",
+    "inception/NGINX 쿡북",
+    "inception/Docker docs",
+    "첨부파일/Pasted Image 20231204161410_325.png",
     "inception/NGINX HTTP 서버",
     "첨부파일/Pasted image 20231025163918.png",
-    "inception/wordpress Docs",
-    "inception/NGINX HTTP 서버/Docker docs",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스",
     "Day Planners",
     "docker",
     "첨부파일/Pasted image 20231103212748.png",
     "첨부파일/Pasted image 20231103212738.png",
     "첨부파일/Pasted image 20231103212733.png",
-    "첨부파일/Pasted image 20231103160740.png",
-    "첨부파일/Pasted image 20231102164644.png",
-    "첨부파일/Pasted image 20231101175014.png",
     "Excalidraw",
     "template",
-    "inception",
     "Untitled 1/Untitled.canvas",
-    "Untitled 1",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
