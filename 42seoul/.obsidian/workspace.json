@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "727f212a96baca5d",
+        "id": "da71d39cbcec06f3",
         "type": "tabs",
         "children": [
           {
-            "id": "1ad3a72dbbceb14c",
+            "id": "777c5950c484d3aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception/docker compose volume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2a166f09e0b8fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inception/<Inception> Error log.md",
+                "file": "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dockerignore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inception/<Inception> Error log.md",
+                "file": "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inception/<Inception> Error log.md",
+                "file": "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inception/<Inception> Error log.md"
+                "file": "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md"
               }
             }
           },
@@ -160,61 +147,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2a166f09e0b8fe2",
+  "active": "777c5950c484d3aa",
   "lastOpenFiles": [
-    "inception/docker compose volume.md",
-    "inception/Docker.md",
-    "inception/알파인 리눅스 이미지 빌드.md",
-    "inception/알파인 리눅스 위키에서 정리하기.md",
-    "inception/도커엔진.md",
-    "inception/볼륨 드라이버.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/5.2 워드프레스 및 MySQL 컨테이너 생성과 연동.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/5.1 워드프레스 구축.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/5.0 여러 개의 컨테이너를 연동해 실행해보자.md",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스/0. 그림과 실습으로 배우는 도커 & 쿠버네티스.md",
+    "inception/<Inception> Error log.md",
+    "Day Planners/2023-11-14.md",
     "첨부파일/Pasted image 20231204174716.png",
     "첨부파일/Pasted image 20231204165720.png",
-    "Excalidraw/inception.excalidraw.md",
-    "inception/<Inception> Error log.md",
-    "inception/쿠버네티스.md",
-    "inception/도커 빌드 시간 줄이기.md",
-    "inception/RSA 인증서와 전자서명의 원리.md",
-    "inception/OpenSSL.md",
-    "inception/namespace.md",
-    "inception/mariadb 에러.md",
-    "inception/Inception 번역.md",
-    "inception/Inception.md",
-    "inception/docker-compose.yml.md",
-    "inception/Hacky patch.md",
-    "inception/chroot.md",
-    "inception/Awesome-Compose.md",
-    "inception/Alpine Linux에 WordPress 설치하기.md",
-    "inception/NGINX HTTP 서버/Docker docs/1-5. Persist the DB.md",
-    "inception/<Inception> Error Log.md",
+    "첨부파일/Pasted image 20231121205404.png",
     "첨부파일/Pasted Image 20231204161505_454.png",
+    "inception/알파인 리눅스 위키에서 정리하기.md",
+    "inception/볼륨 드라이버.md",
+    "inception/도커엔진.md",
     "inception/wordpress Docs/1. Before You Install.md",
     "inception/wordpress Docs/0. wordpress docs 정리.md",
     "inception/wordpress Docs",
+    "inception/pull_policy.md",
+    "inception/mariadb 에러.md",
+    "inception/docker-compose.yml.md",
+    "inception/docker compose volume.md",
+    "inception/RSA 인증서와 전자서명의 원리.md",
+    "inception/OpenSSL.md",
     "inception/NGINX 쿡북.md",
+    "inception/NGINX HTTP 서버/Docker docs/3-2. Best practices for Dockerfile instructions.md",
+    "inception/NGINX HTTP 서버/Docker docs/3-1. General guidelines.md",
+    "inception/NGINX HTTP 서버/Docker docs/3-0. Overview of best practices for writing Dockerfiles.md",
+    "inception/NGINX HTTP 서버/Docker docs/2. Dockerfile.md",
+    "inception/NGINX HTTP 서버/Docker docs/1-9. Image-building best practices.md",
+    "inception/NGINX HTTP 서버/Docker docs/1-8. Use Docker Compose.md",
     "inception/NGINX HTTP 서버/Docker docs",
-    "첨부파일/Pasted Image 20231204164914_731.png",
-    "첨부파일/Pasted image 20231121205404.png",
+    "inception/NGINX HTTP 서버",
     "inception/NGINX 쿡북",
     "inception/Docker docs",
-    "첨부파일/Pasted Image 20231204161410_325.png",
-    "inception/NGINX HTTP 서버",
-    "첨부파일/Pasted image 20231025163918.png",
     "inception/그림과 실습으로 배우는 도커&쿠버네티스",
     "Day Planners",
     "docker",
     "첨부파일/Pasted image 20231103212748.png",
     "첨부파일/Pasted image 20231103212738.png",
     "첨부파일/Pasted image 20231103212733.png",
+    "첨부파일/Pasted image 20231103160740.png",
+    "첨부파일/Pasted image 20231102164644.png",
+    "첨부파일/Pasted image 20231101175014.png",
     "Excalidraw",
     "template",
     "Untitled 1/Untitled.canvas",
