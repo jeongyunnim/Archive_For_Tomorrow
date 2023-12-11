@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da71d39cbcec06f3",
+        "id": "9513ee9c12dddaad",
         "type": "tabs",
         "children": [
           {
-            "id": "baf877ca1e5adb08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inception/<Inception> Error log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a4c8b7825caec94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inception/<Inception> Error log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6ea84919bb051f2",
+            "id": "20bb19e490b27af6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -58,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "env",
+                "query": "link",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -106,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inception/<Inception> Error log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inception/<Inception> Error log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inception/<Inception> Error log.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,54 +148,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "baf877ca1e5adb08",
+  "active": "20bb19e490b27af6",
   "lastOpenFiles": [
-    "Day Planners/2023-11-26.md",
-    "inception/컨테이너 환경을 위한 초기화 시스템.md",
-    "Excalidraw/inception.excalidraw.md",
-    "inception/NGINX HTTP 서버/0. NGINX HTTP 서버.md",
-    "inception/Inception.md",
-    "inception/도커/pull_policy.md",
-    "inception/RSA 인증서와 전자서명의 원리.md",
-    "inception/pull_policy.md",
-    "inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/Awesome-Compose.md",
-    "inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
-    "inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
-    "inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.2 워드프레스 및 MySQL 컨테이너 생성과 연동.md",
-    "inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.1 워드프레스 구축.md",
-    "inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.0 여러 개의 컨테이너를 연동해 실행해보자.md",
-    "inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/0. 그림과 실습으로 배우는 도커 & 쿠버네티스.md",
-    "inception/도커/쿠버네티스.md",
-    "inception/도커/쿠버네티스 입문.md",
-    "inception/도커/컨테이너 오케스트레이션.md",
-    "inception/도커/커널 네임스페이스.md",
-    "inception/도커/볼륨 드라이버.md",
-    "inception/도커/도커엔진.md",
-    "inception/도커/도커 빌드 시간 줄이기.md",
-    "inception/도커/그림과 실습으로 배우는 도커&쿠버네티스",
-    "inception/도커/namespace.md",
-    "inception/도커/docker-compose.yml.md",
     "inception/도커/docker compose volume.md",
+    "inception/도커/docker-compose.yml.md",
+    "inception/도커/namespace.md",
+    "inception/<Inception> Error log.md",
+    "inception/리눅스 상위 디렉토리.md",
+    "inception/RSA 인증서와 전자서명의 원리.md",
+    "inception/NGINX 쿡북.md",
+    "inception/mariadb 에러.md",
+    "inception/Inception 번역.md",
+    "inception/Inception.md",
+    "inception/database/mysql doc 정리/information_schema.md",
+    "inception/database/mysql doc 정리/mysql data 디렉토리.md",
+    "inception/database/mariadb 에러.md",
+    "inception/database/mysql 설정 쉘 스크립트 설명.md",
+    "inception/database/mysql 기본 database.md",
+    "Day Planners/2023-12-11.md",
+    "inception/NGINX HTTP 서버/Docker docs/1-9. Image-building best practices.md",
+    "inception/wordpress Docs/1. Before You Install.md",
+    "Excalidraw/inception.excalidraw.md",
+    "Day Planners/2023-11-17.md",
+    "inception/wordpress Docs/0. wordpress docs 정리.md",
+    "inception/Untitled.md",
+    "Day Planners/2023-11-26.md",
+    "inception/NGINX HTTP 서버/Docker docs/1-10. What's Next.md",
     "inception/도커/chroot.md",
-    "inception/도커",
-    "inception/database/mysql doc 정리",
-    "inception/database",
-    "inception/mysql doc 정리",
     "첨부파일/Pasted image 20231204174716.png",
     "첨부파일/Pasted image 20231204165720.png",
     "첨부파일/Pasted Image 20231204161505_454.png",
-    "inception/wordpress Docs",
-    "inception/NGINX HTTP 서버/Docker docs",
+    "inception/컨테이너 환경을 위한 초기화 시스템.md",
+    "inception/도커/그림과 실습으로 배우는 도커&쿠버네티스",
+    "inception/도커",
+    "inception/database/mysql doc 정리",
+    "inception/database",
     "첨부파일/Pasted image 20231121205404.png",
     "inception/NGINX HTTP 서버",
-    "inception/NGINX 쿡북",
-    "inception/Docker docs",
+    "첨부파일/Pasted image 20231025163918.png",
+    "inception/wordpress Docs",
+    "inception/NGINX HTTP 서버/Docker docs",
+    "inception/그림과 실습으로 배우는 도커&쿠버네티스",
+    "Day Planners",
+    "docker",
     "첨부파일/Pasted image 20231103212748.png",
     "첨부파일/Pasted image 20231103212738.png",
     "첨부파일/Pasted image 20231103212733.png",
     "첨부파일/Pasted image 20231103160740.png",
     "첨부파일/Pasted image 20231102164644.png",
-    "첨부파일/Pasted image 20231101175014.png",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
