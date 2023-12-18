@@ -53,7 +53,7 @@ Your project has to comply with the following rules:
 	- If you choose to include a backend, it must be written in pure ==Ruby==. However, this requirement can be overriden by the **Framework module**.
 	- If your backend or framework uses a database, you must follow the constraints of the **Database module**.
 - The frontend should be developed using pure vanilla ==javascript==. However, this requirement can be altered through the **FrontEnd module.**
-- Your website must be a [single-page application](https://en.wikipedia.org/wiki/Single-page_application). the user should be able to use the Back and Forward buttons of the browser. 
+- Your website must be a [[single-page application]]. the user should be able to use the Back and Forward buttons of the browser. 
 - Your website must be compatible with the **latest stable up-to-date version** of ==Google Chrome==.
 - The user should encounter no unhandled errors and no warnings when browsing the website.
 - Everything must be launched with a single command line to run an autonomous container provided by ==Docker==. Example: docker-compose up --build
@@ -139,7 +139,7 @@ To attain 100% project completion, a minimum of 7 major modules is required. It'
 	- **Minor module**: Expanding Browser Compatibility.
 	- **Minor module**: Multiple language supports.
 	- **Minor module**: add accessibility for Visually Impaired Users.
-	- **Minor module**: Server-Side Rendering (SSR) Integration.
+	- **Minor module**: [[Server-Side Rendering]] (SSR) Integration.
 - Server-Side Pong
 	- **Major module**: Replacing Basic Pong with Server-Side Pong and Implementing an API.
 	- **Major module**: Enabling Pong Gameplay via CLI against Web Users with API Integration.
@@ -360,12 +360,68 @@ These modules are designed to enhance the accessibility of our web application, 
 	This module aims to provide a consistent and user-friendly experience on all devices, maximizing accessibility and user satisfaction.
 
 - **Minor module**: Expanding Browser Compatibility.
+	In this minor module, the objective is to enhance the compatibility of the web application by adding support for an additional web browser. Key features and objectives include:
+	- Extend browser support to include an additional web browser, ensuring that users can access and use the application seamlessly.
+	- Conduct through testing and optimization to ensure that the web application functions correctly and displays correctly in the newly supported browser.
+	- Address any compatibility issues or rendering discrepancies that may arise in the added web browser.
+	- Ensure a consistent user experience across all supported browsers, maintaining usability and functionality.
+	This minor module aims to broaden the accessibility of the web application by supporting an additional web browser, providing users with more choices for their browsing experience.
+
 - **Minor module**: Multiple language supports.
+	In this minor module, the objective is to ensure that your website support multiple languages to cater to a diverse user base. Key features and goals include:
+	- Implement support for a minimum of three languages on the website to accommodate a broad audience.
+	- Provide a language switcher or selector that allows users to easily change the website's language based on their preferences.
+	- Translate essential website content, such as navigation menus, headings, and key information, into the supported languages.
+	- Ensure that users can navigate and interact with the website seamlessly, regardless of the selected language.
+	- Consider using language packs or localization libraries to simplify the translation process and maintain consistency across different languages.
+	- Allow users to set their preferred language as a default choice for subsequent visits to the website.
+	This minor module aims to enhance the accessibility and inclusivity of your website by offering content in multiple languages, making it more user-friendly for a diverse international audience.
+
 - **Minor module**: add accessibility for Visually Impaired Users.
-- **Minor module**: Server-Side Rendering (SSR) Intergration.
+	In this minor module, the goal is to make your website more accessible for visually impaired users. Key features include:
+	- Support for screen readers and assistive technologies.
+	- Clear and descriptive alt text for images.
+	- High-contrast color scheme for readability.
+	- Keyboard navigation and focus management.
+	- Options for adjusting text size.
+	- Regular updates to meet accessibility standards.
+	This module aims to improve the website's usability for individuals with visual impairments and ensure compliance with accessibility standards.
+
+- **Minor module**: Server-Side Rendering (SSR) Integration.
+	In this minor module, the focus is on integrating Server-Side Rendering (SSR) to enhance the performance and user experience of your website. Key objectives include:
+	- Implement SSR to improve the website's loading speed and overall performance.
+	- Ensure that content is pre-rendered on the server and delivered to user's browsers for faster initial page loads.
+	- Optimize [[SEO]] by providing search engines with pre-rendered HTML content.
+	- Maintain a consistent user experience while benefiting from the advantages of SSR.
+	This module aims to boost website performance and SEO by integrating Server-Side Rendering for faster page loads and improved user experience.
+
 ## 9. Server-Side Pong
 - **Major module**: Replacing Basic Pong with Server-Side Pong and Implementing an API.
-- **Major module**: Enabling Pong Gameplay via CLI against Web Users with API Intergration.
+	In this major module, the goal is to replace the basic Pong game with a server-side Pong game, accompanied by the implementation of an API. Key features and objectives include:
+	- Develop server-side logic for the Pong game to handle gameplay, ball movement, scoring, and player interactions.
+	- Create an API that exposes the necessary resources and endpoints to interact with the Pong game, allowing partial usage of the game via the Command-Line Interface(CLI) and web interface.
+	- Design and implement the API endpoints to support game initialization, player controls, and game state updates.
+	- Ensure that the server-side Pong game is responsive, providing an engaging and enjoyable gaming experience.
+	- Integrate the server-side Pong game with the web application, allowing users to play the game directly on the website.
+	This major module aims to elevate the Pong game by migrating in to the server side, enabling interaction through both a web interface and CLI while offering an API for easy access to game resources and features.
+
+- **Major module**: Enabling Pong Gameplay via CLI against Web Users with API Integration.
+	In this major module, the goal is to develop a Command-Line Interface(CLI) that allows users to play Pong against players using the web version of the game. The CLI should connect to the web application seamlessly, enabling CLI users to join and interact with web players. Key features and objectives include:
+	- Create a robust CLI application that replicates the Pong gameplay experience available on the website, providing CLI users with the ability to initiate and participate in Pong matches.
+	- Utilize the API to establish communication between the CLI and the web application, enabling CLI users to connect to the site and interact with we players.
+	- Develop a user authentication mechanism within the CLI, allowing CLI users to log in to the web application securely.
+	- Implement real-time synchronization between the CLI and web users, ensuring that gameplay interactions are seamless and consistent.
+	- Enable CLI users to join and create Pong matches with web players, facilitating cross-platform gameplay.
+	- Provide comprehensive documentation and guidance on how to use the CLI effectively for Pong matches against web users.
+	This major module aims to enhance the Pong gaming experience by creating a CLI that seamlessly connects CLI users to web players through API integration, offering a unified and interactive gameplay environment
+> [!caution]
+> If you want to do this module, we strongly recommend that you do the previous one.
+
+# Bonus part
+For this project, the bonus section is designed to be straightforward. You are required to include more modules.
+- Five point will be awarded for each minor module.
+- Ten point will be awarded for each major module.
+
 
 
 ---
