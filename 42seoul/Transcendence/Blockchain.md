@@ -22,5 +22,6 @@ aliases:
 ### 생각(파생된 질문/생각)
 
 ### 출처
-
+- https://bitcoin.org/bitcoin.pdf
+- https://blog.naver.com/yse1030/222607241920
 ### 연결 문서 (연결 이유)

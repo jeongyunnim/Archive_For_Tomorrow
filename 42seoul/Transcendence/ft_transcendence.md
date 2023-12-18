@@ -121,26 +121,26 @@ To attain 100% project completion, a minimum of 7 major modules is required. It'
 	- **Major module**: Add Another Game with User History and matchmaking.
 	- **Minor module**: Game Customization Options.
 	- **Major module**: Live chat.
-- AI-Algo
+- [[ft_transcendence#^d6a78b|AI-algo]]
 	- **Major module**: Introduce an AI Opponent.
 	- **Minor module**: User and Game Stats Dashboards.
-- Cybersecurity
+- [[ft_transcendence#^95fdbb|Cybersecurity]]
 	- **Major module**: Implement [[WAF]]/[[ModSecurity]] with Hardened Configuration and [[HashiCorp Vault]] for Secrets Management.
 	- **Minor module**: [[GDPR]] Compliance Options with User [[Anonymization]], Local Data management, and Account Deletion.
 	- **Major module**: Implement Two-Factor Authentication ([[2FA]]) and [[JWT]].
-- DevOps
+- [[ft_transcendence#^9723a7|DevOps]]
 	- **Major module**: Infrastructure Setup for Log Management.
 	- **Minor module**: Monitoring system.
 	- **Major module**: Designing the Backend as [[Microservices]].
-- Graphics
+- [[ft_transcendence#^2591a3|Graphics]]
 	- **Major module**: Use of advanced 3D techniques.
-- Accessibility
+- [[ft_transcendence#^a45ae6|Accessibility]]
 	- **Minor module**: Support on all devices.
 	- **Minor module**: Expanding Browser Compatibility.
 	- **Minor module**: Multiple language supports.
 	- **Minor module**: add accessibility for Visually Impaired Users.
 	- **Minor module**: [[Server-Side Rendering]] (SSR) Integration.
-- Server-Side Pong
+- [[ft_transcendence#^56dca5|Server-Side Pong]]
 	- **Major module**: Replacing Basic Pong with Server-Side Pong and Implementing an API.
 	- **Major module**: Enabling Pong Gameplay via CLI against Web Users with API Integration.
 ---
@@ -249,6 +249,8 @@ These modules are designed to enhance the general gameplay of the project.
 
 ## 5. AI-Algo
 
+^d6a78b
+
 These modules serve to introduce data-driven elements to the project, with the major module introducing an AI opponent for enhanced gameplay, and the minor module focusing on user and game statistics dashboards, offering users a minimalistic yet insightful glimpse into their gaming experiences.
 
 - **Major module**: Introduce an AI Opponent.
@@ -278,7 +280,9 @@ These modules serve to introduce data-driven elements to the project, with the m
 
 ## 6. Cybersecurity
 
-These cybersecurity modules are designed to bolster the security posture of the project, with the major module focusing on robust protection through Web Application Firewall(WAF) and modSecurity configurations and HashiCorp Vault for secure secrets management. The minor modules complement this effort by adding options for GDPR compliance, user data anonymization, a ccount deletion, two-factor authentication (2RA), and JSON Web Tokens (JWT), collectively ensuring the project's commitment to data protection, privacy, and authentication security. 
+^95fdbb
+
+These cybersecurity modules are designed to bolster the security posture of the project, with the major module focusing on robust protection through Web Application Firewall(WAF) and modSecurity configurations and HashiCorp Vault for secure secrets management. The minor modules complement this effort by adding options for GDPR compliance, user data anonymization, account deletion, two-factor authentication (2RA), and JSON Web Tokens (JWT), collectively ensuring the project's commitment to data protection, privacy, and authentication security. 
 
 - **Major module**: Implement WAF/ModSecurity with Hardened Configuration and HashiCorp Vault for Secrets Management.
 	In this major module, the objective is to enhance the security infrastructure of the project by implementing several key components. Key features and goals include:
@@ -310,6 +314,8 @@ These cybersecurity modules are designed to bolster the security posture of the 
 	This major module aims to strengthen user account security by offering Two-Factor Authentication (2FA) and enhancing authentication and authorization through the use of JSON Web Tokens (JWT).
 
 ## 7. DevOps
+
+^9723a7
 
 These modules collectively focus on enhancing the project's infrastructure and architecture, with the major modules addressing infrastructure setup for effcient log management using [[ELK]](Elasticsearch, Logstash, Kibana), designing the backend as microservices for flexibility and scalability, and implementing [[Prometheus/Grafana]] for comprehensive system monitoring.
 
@@ -343,6 +349,8 @@ These modules collectively focus on enhancing the project's infrastructure and a
 
 ## 8. Graphics
 
+^2591a3
+
 - **Major module**: Use of advanced 3D techniques.
 	This major module, known as "Graphics", is focused on enhancing the visual aspects of the Pong game. It introduces the utilization of advanced 3D techniques to create a more immersive gaming experience. Specifically, the Pong game will be developed using ==ThreeJS/WebGL== to  achieve the desired visual effects.
 	- Advanced 3D Graphics: The primary goal of this module is to implement advanced 3D graphics techniques to elevate the visual quality of the Pong game. By utilizing ==ThreeJS/WebGL==, we aim to create stunning visual effects that immerse players in the gaming environment.
@@ -350,6 +358,8 @@ These modules collectively focus on enhancing the project's infrastructure and a
 	- Technology Integration: The chosen technology for this module is ThreeJS/WebGL. These tools will be used to create the 3D graphics, ensuring compatibility and optimal performance.
 	This major module aims to revolutionize the Pong game's visual elements by introducing advanced 3D techniques. Through the utilization of ThreeJS/WebGL, we aspire to provide players with an immersive and visually stunning gaming experience.
 ## 9. Accessibility
+
+^a45ae6
 
 These modules are designed to enhance the accessibility of our web application, with a focus on ensuring compatibility across all devices, expanding browser support, offering multi-language capabilities, providing accessibility features for visually impaired users, and integrating [[Server-Side Rendering]] (SSR) for improved performance and user experience.
 
@@ -396,6 +406,9 @@ These modules are designed to enhance the accessibility of our web application, 
 	This module aims to boost website performance and SEO by integrating Server-Side Rendering for faster page loads and improved user experience.
 
 ## 9. Server-Side Pong
+
+^56dca5
+
 - **Major module**: Replacing Basic Pong with Server-Side Pong and Implementing an API.
 	In this major module, the goal is to replace the basic Pong game with a server-side Pong game, accompanied by the implementation of an API. Key features and objectives include:
 	- Develop server-side logic for the Pong game to handle gameplay, ball movement, scoring, and player interactions.

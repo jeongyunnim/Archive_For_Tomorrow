@@ -24,7 +24,7 @@ SSR을 사용하면 모든 데이터가 매핑된 서비스 페이지를 클라�
 [[single-page application|SPA]] 구성을 하기 위해서는 기본적으로 frontend와 backend 영역의 분리가 선행되어야 한다.
 
 기존의 페이지 덩어리를 **CSR view** 영역과 **SSR view** 영역 그리고 **API**로 분리한다.
-![[Excalidraw/Drawing 2023-12-17 16.57.14.excalidraw.md#^group=C9cNPAzPmzEdD4g0bYTPV]]
+![[ft_transcendence.excalidraw#^group=C9cNPAzPmzEdD4g0bYTPV]]
 ## [[Node.js]] 기반의 SSR을 선택한 이유
 - CSR의 문제를 해결할 수 있는 여러가지 렌더링 기법
 	- [[Rendering on the Web]]
@@ -35,6 +35,16 @@ SSR을 사용하면 모든 데이터가 매핑된 서비스 페이지를 클라�
 블로그 개발팀은 React 기반의 SSR을 선택했다.
 ### 2. FE와 BE를 완전히 분리하여 생산성을 높일 수 있음.
 SSR을 사용하면 FE와 BE 영역을 [[REST API]]를 통해 느슨하게 연결할 수 있다.
+
+기존 CSR 페이지는 FE에서 개발하고 SSR 페이지는 BE에서 개발한다.
+SSR 환경을 구축하면 페이지의 소유권이 온전히 FE에 존재하므로 페이지가 변경될 때마다 불필요한 커뮤니케이션을 하지 않아도 된다.
+
+백엔드에서도 API 개발과 데이터 활용에 더 집중할 수 있어 서비스 품질을 더 높일 수 있다는 장점이 있다.
+
+![[Excalidraw/ft_transcendence.excalidraw.md#^group=AGkp07icIHablqN1Pxgih]]
+
+
+
 
 
 ---
