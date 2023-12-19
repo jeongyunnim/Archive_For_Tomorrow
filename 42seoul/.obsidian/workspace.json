@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/2. HTML.md",
+                "file": "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yml",
+                "query": "usr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,12 +112,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/2. HTML.md",
+                "file": "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/2. HTML.md",
+                "file": "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/2. HTML.md"
+                "file": "archive(non_fixed)/inception/리눅스 상위 디렉토리.md"
               }
             }
           },
@@ -205,13 +204,27 @@
   },
   "active": "f1768af16a96fbd6",
   "lastOpenFiles": [
+    "archive(non_fixed)/inception/NGINX HTTP 서버/Docker docs/1-6. Use bind mounts.md",
+    "Transcendence/5. Python.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/0. Django 4 및 Python 풀스택 개발자 마스터 클래스.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/4. Bootstrap.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/1. 코스 커리큘럼.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/2. HTML.md",
+    "archive(non_fixed)/알고리즘/내부 정렬.md",
+    "archive(non_fixed)/알고리즘/둘 이상의 파일들에 있는 항목들의 부합.md",
+    "archive(non_fixed)/알고리즘/병합에 의한 정렬.md",
+    "archive(non_fixed)/알고리즘/삽입을 이용한 정렬.md",
+    "archive(non_fixed)/알고리즘/순열의 조합 성질.md",
+    "archive(non_fixed)/알고리즘/알고리즘.md",
+    "archive(non_fixed)/알고리즘/야콥스탈 수.md",
+    "archive(non_fixed)/알고리즘/정렬.md",
+    "archive(non_fixed)/알고리즘/집계정렬.md",
+    "archive(non_fixed)/알고리즘/최소 비교 정렬.md",
+    "archive(non_fixed)/알고리즘/키 값으로 정보 검색.md",
+    "archive(non_fixed)/알고리즘/통일성 문제 풀기.md",
     "Transcendence/ft_transcendence.md",
-    "Transcendence/2. HTML.md",
-    "Transcendence/4. Bootstrap.md",
     "Transcendence/scheme.md",
     "첨부파일/Pasted image 20231218192346.png",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/0. Django 4 및 Python 풀스택 개발자 마스터 클래스.md",
-    "Transcendence/1. 코스 커리큘럼.md",
     "template/Django4 강의 템플릿.md",
     "template/inception 템플릿.md",
     "Transcendence/single-page application.md",
@@ -219,21 +232,7 @@
     "Transcendence/Server-Side Rendering.md",
     "Transcendence/Rendering on the Web.md",
     "Transcendence/Node.js.md",
-    "Transcendence/Blockchain.md",
-    "Excalidraw/inception.excalidraw.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "Day Planners/2023-12-18.md",
-    "archive(non_fixed)/inception/<Inception> Error log.md",
-    "Transcendence/<번역>ft_transcendence.md",
-    "Transcendence/A/*algorithm.md",
     "Transcendence/A",
-    "Transcendence/<트센>애매한 부분.md",
-    "Day Planners/2023-11-26.md",
-    "Day Planners/2023-11-17.md",
-    "archive/맵.md",
-    "archive/Casting.md",
-    "archive/C++ 강의.md",
-    "archive/연동하는 법 배우기.md",
     "Transcendence",
     "첨부파일/Pasted image 20231211211143.png",
     "첨부파일/Pasted image 20231211211041.png",
