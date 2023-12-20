@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5. Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,11 +112,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5. Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5. Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archive(non_fixed)/inception/리눅스 상위 디렉토리.md"
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5. Python.md"
               }
             }
           },
@@ -202,10 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1768af16a96fbd6",
+  "active": "a69cded141b28ffc",
   "lastOpenFiles": [
+    "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
     "archive(non_fixed)/inception/NGINX HTTP 서버/Docker docs/1-6. Use bind mounts.md",
-    "Transcendence/5. Python.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5. Python.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/0. Django 4 및 Python 풀스택 개발자 마스터 클래스.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/4. Bootstrap.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/1. 코스 커리큘럼.md",
@@ -231,7 +233,6 @@
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스",
     "Transcendence/Server-Side Rendering.md",
     "Transcendence/Rendering on the Web.md",
-    "Transcendence/Node.js.md",
     "Transcendence/A",
     "Transcendence",
     "첨부파일/Pasted image 20231211211143.png",
