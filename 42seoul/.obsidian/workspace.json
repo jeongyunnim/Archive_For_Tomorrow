@@ -23,11 +23,9 @@
             "id": "f1768af16a96fbd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Transcendence/6. Django.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           },
@@ -133,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/6. Django.md",
+                "file": "Excalidraw/ft_transcendence.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/6. Django.md",
+                "file": "Excalidraw/ft_transcendence.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/6. Django.md"
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           },
@@ -205,8 +203,10 @@
   },
   "active": "f1768af16a96fbd6",
   "lastOpenFiles": [
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/0. Django 4 및 Python 풀스택 개발자 마스터 클래스.md",
+    "Excalidraw/inception.excalidraw.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
     "Transcendence/6. Django.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/0. Django 4 및 Python 풀스택 개발자 마스터 클래스.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5-1. pip 패키지 설치.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5. Python.md",
     "Transcendence/single-page application.md",
@@ -230,8 +230,6 @@
     "Transcendence/ft_transcendence.md",
     "Transcendence/scheme.md",
     "첨부파일/Pasted image 20231218192346.png",
-    "template/Django4 강의 템플릿.md",
-    "template/inception 템플릿.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스",
     "Transcendence/A",
     "Transcendence",
