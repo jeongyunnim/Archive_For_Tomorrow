@@ -74,6 +74,91 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.8",
     "libraryItems": [
       {
+        "id": "gYdpxO2FU5AEKScyH1jie",
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "line",
+            "version": 716,
+            "versionNonce": 1918493324,
+            "isDeleted": false,
+            "id": "Aaa4AUfW2d47SHQmQO7m9",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": 951.3217302908976,
+            "y": -469.6952718357971,
+            "strokeColor": "#343a40",
+            "backgroundColor": "#e9ecef",
+            "width": 35.38656779707175,
+            "height": 108.64901683180715,
+            "seed": 654769844,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1703777663692,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                -17.662817793593216,
+                33.86396126067837
+              ],
+              [
+                -4.667306728632263,
+                33.60702680498278
+              ],
+              [
+                -4.918530410999992,
+                80.01693245273448
+              ],
+              [
+                -17.771030968891758,
+                80.11731724094149
+              ],
+              [
+                0.15293611083903302,
+                108.64901683180715
+              ],
+              [
+                17.61553682817999,
+                79.45774251012669
+              ],
+              [
+                4.615748958460043,
+                80.1343179018427
+              ],
+              [
+                5.756182781138456,
+                34.12207722013618
+              ],
+              [
+                17.386475498629697,
+                33.570335221989794
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          }
+        ],
+        "created": 1703777676889
+      },
+      {
         "status": "published",
         "elements": [
           {
