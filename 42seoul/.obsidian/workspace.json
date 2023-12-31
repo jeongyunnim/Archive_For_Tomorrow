@@ -4,30 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "9513ee9c12dddaad",
+        "id": "5771c65d6496c757",
         "type": "tabs",
         "children": [
           {
-            "id": "375eb92e6ec5c7c0",
+            "id": "00059f0b7d8bef96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "38823709fa8a3ddd",
+            "id": "59f92c9938471696",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Transcendence/<번역>ft_transcendence.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b9da5289eb509a83",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           }
@@ -50,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yml",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md"
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md"
               }
             }
           },
@@ -168,16 +176,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "375eb92e6ec5c7c0",
+  "active": "00059f0b7d8bef96",
   "lastOpenFiles": [
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6. 0 Django.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/<번역>ft_transcendence.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
+    "첨부파일/Pasted image 20231231162559.png",
+    "첨부파일/Pasted image 20231231162443.png",
     "Excalidraw/inception.excalidraw.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
+    "Excalidraw/FJsort.excalidraw.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
+    "archive(non_fixed)/inception/<Inception> Error log.md",
+    "archive(non_fixed)/inception/Inception.md",
+    "archive(non_fixed)/inception/Inception 번역.md",
+    "첨부파일/Pasted image 20231230171008.png",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6. 0 Django.md",
+    "archive(non_fixed)/inception/HAProxy.md",
+    "archive(non_fixed)/inception/Hacky patch.md",
+    "Transcendence/<번역>ft_transcendence.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.1 Django 프레임워크에 대한 소개.md",
     "Transcendence/single-page application.md",
-    "Excalidraw/FJsort.excalidraw.md",
     "archive(non_fixed)/알고리즘/최소 비교 정렬.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5. Python.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5-1. pip 패키지 설치.md",
@@ -190,14 +207,7 @@
     "Transcendence/scheme.md",
     "첨부파일/Pasted image 20231218192346.png",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/0. Django 4 및 Python 풀스택 개발자 마스터 클래스.md",
-    "Transcendence/1. 코스 커리큘럼.md",
-    "template/Django4 강의 템플릿.md",
-    "template/inception 템플릿.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스",
-    "Transcendence/Server-Side Rendering.md",
-    "Transcendence/Rendering on the Web.md",
-    "Transcendence/Node.js.md",
-    "Transcendence/Blockchain.md",
     "Transcendence/A",
     "Transcendence",
     "첨부파일/Pasted image 20231211211143.png",
@@ -212,10 +222,8 @@
     "archive(non_fixed)/inception/database",
     "첨부파일/Pasted image 20231121205404.png",
     "archive(non_fixed)/inception/NGINX HTTP 서버",
-    "첨부파일/Pasted image 20231025163918.png",
     "archive(non_fixed)/inception/wordpress Docs",
     "archive(non_fixed)/inception/NGINX HTTP 서버/Docker docs",
-    "첨부파일/Pasted image 20231103212748.png",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
