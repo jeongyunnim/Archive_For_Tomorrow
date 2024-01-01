@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
+                "file": "Transcendence/6.4 View, Routing, URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
+                "file": "Transcendence/6.4 View, Routing, URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
+                "file": "Transcendence/6.4 View, Routing, URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md"
+                "file": "Transcendence/6.4 View, Routing, URLs.md"
               }
             }
           },
@@ -178,18 +178,21 @@
   },
   "active": "00059f0b7d8bef96",
   "lastOpenFiles": [
+    "첨부파일/Pasted image 20231231190849.png",
+    "첨부파일/Pasted image 20231231190530.png",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
+    "Transcendence/6.4 View, Routing, URLs.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6. 0 Django.md",
     "첨부파일/Pasted image 20231231162559.png",
     "첨부파일/Pasted image 20231231162443.png",
     "Excalidraw/inception.excalidraw.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
     "Excalidraw/FJsort.excalidraw.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
     "archive(non_fixed)/inception/<Inception> Error log.md",
     "archive(non_fixed)/inception/Inception.md",
     "archive(non_fixed)/inception/Inception 번역.md",
     "첨부파일/Pasted image 20231230171008.png",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6. 0 Django.md",
     "archive(non_fixed)/inception/HAProxy.md",
     "archive(non_fixed)/inception/Hacky patch.md",
     "Transcendence/<번역>ft_transcendence.md",
@@ -206,7 +209,6 @@
     "Transcendence/4. Bootstrap.md",
     "Transcendence/scheme.md",
     "첨부파일/Pasted image 20231218192346.png",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/0. Django 4 및 Python 풀스택 개발자 마스터 클래스.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스",
     "Transcendence/A",
     "Transcendence",
@@ -215,12 +217,10 @@
     "첨부파일/Pasted image 20231211211012.png",
     "첨부파일/Pasted image 20231204174716.png",
     "첨부파일/Pasted image 20231204165720.png",
-    "첨부파일/Pasted Image 20231204161505_454.png",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스",
     "archive(non_fixed)/inception/도커",
     "archive(non_fixed)/inception/database/mysql doc 정리",
     "archive(non_fixed)/inception/database",
-    "첨부파일/Pasted image 20231121205404.png",
     "archive(non_fixed)/inception/NGINX HTTP 서버",
     "archive(non_fixed)/inception/wordpress Docs",
     "archive(non_fixed)/inception/NGINX HTTP 서버/Docker docs",
