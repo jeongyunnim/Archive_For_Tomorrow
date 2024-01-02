@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00059f0b7d8bef96",
+            "id": "b9da5289eb509a83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/6.5 Template.md",
+                "file": "Day Planners/2024-01-02.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "59f92c9938471696",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b9da5289eb509a83",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Day Planners/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Day Planners/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+                "file": "Day Planners/2024-01-02.md"
               }
             }
           },
@@ -168,31 +147,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59f92c9938471696",
+  "active": "b9da5289eb509a83",
   "lastOpenFiles": [
-    "Transcendence/6.5 Template.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.5 Template.md",
+    "Day Planners/2024-01-02.md",
+    "Day Planners/2024-01-01.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "첨부파일/Pasted image 20240102170039.png",
+    "Excalidraw/inception.excalidraw.md",
+    "template/Daily Note Template.md",
+    "Transcendence/{{yesterday}}.md",
+    "template/Django4 강의 템플릿.md",
+    "template/inception 템플릿.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.4 View, Routing, URLs.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6. 0 Django.md",
     "Transcendence/6.4 View, Routing, URLs.md",
     "첨부파일/Pasted image 20240101183606.png",
-    "template/Daily Note Template.md",
-    "Day Planners/2024-01-01.md",
     "첨부파일/Pasted image 20231231190849.png",
     "첨부파일/Pasted image 20231231190530.png",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
     "첨부파일/Pasted image 20231231162559.png",
     "첨부파일/Pasted image 20231231162443.png",
-    "Excalidraw/inception.excalidraw.md",
     "Excalidraw/FJsort.excalidraw.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
     "archive(non_fixed)/inception/<Inception> Error log.md",
@@ -206,17 +190,12 @@
     "Transcendence/single-page application.md",
     "archive(non_fixed)/알고리즘/최소 비교 정렬.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5. Python.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5-1. pip 패키지 설치.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/4. Bootstrap.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/2. HTML.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/1. 코스 커리큘럼.md",
     "첨부파일/Pasted image 20231218192346.png",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스",
     "Transcendence/A",
     "Transcendence",
     "첨부파일/Pasted image 20231211211143.png",
     "첨부파일/Pasted image 20231211211041.png",
-    "첨부파일/Pasted image 20231211211012.png",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스",
     "archive(non_fixed)/inception/도커",
     "archive(non_fixed)/inception/database/mysql doc 정리",
