@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/6.7 Django Admin.md",
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.7 Django Admin.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2024-01-05.md",
+                "file": "Day Planners/2024-01-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2024-01-05.md",
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.7 Django Admin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2024-01-05.md",
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.7 Django Admin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2024-01-05.md"
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.7 Django Admin.md"
               }
             }
           },
@@ -160,21 +159,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "160dc7fe70cabe9b",
+  "active": "7bbab9a69d4dfad4",
   "lastOpenFiles": [
-    "Transcendence/6.7 Django Admin.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.0 Django.md",
+    "Day Planners/2024-01-06.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.7 Django Admin.md",
+    "무제 파일.canvas",
     "Day Planners/2024-01-05.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.0 Django.md",
     "Excalidraw/inception.excalidraw.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
     "Transcendence/ft_transcendence.md",
@@ -196,7 +197,6 @@
     "archive(non_fixed)/inception/HAProxy.md",
     "archive(non_fixed)/inception/Hacky patch.md",
     "archive(non_fixed)/inception/<Inception> Error log.md",
-    "archive(non_fixed)/inception/도커/쿠버네티스 입문.md",
     "첨부파일/Pasted image 20240104173448.png",
     "첨부파일/Pasted image 20240103170004.png",
     "첨부파일/Pasted image 20240102170039.png",
