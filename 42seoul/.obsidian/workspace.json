@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/6.8 Django Form.md",
+                "file": "Day Planners/2024-01-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/6.8 Django Form.md",
+                "file": "Day Planners/2024-01-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/6.8 Django Form.md"
+                "file": "Day Planners/2024-01-07.md"
               }
             }
           },
@@ -169,13 +168,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "160dc7fe70cabe9b",
+  "active": "7bbab9a69d4dfad4",
   "lastOpenFiles": [
+    "Transcendence/6.8 Django Form.md",
     "첨부파일/Pasted image 20240107211235.png",
     "첨부파일/Pasted image 20240107205632.png",
     "첨부파일/Pasted image 20240107201325.png",
     "Day Planners/2024-01-07.md",
-    "Transcendence/6.8 Django Form.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.0 Django.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.7 Django Admin.md",
     "첨부파일/Pasted image 20240107152224.png",
@@ -207,7 +206,6 @@
     "첨부파일/Pasted image 20240101183606.png",
     "첨부파일/Pasted image 20231231190849.png",
     "첨부파일/Pasted image 20231231190530.png",
-    "첨부파일/Pasted image 20231231162559.png",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스",
     "Transcendence/A",
     "Transcendence",
