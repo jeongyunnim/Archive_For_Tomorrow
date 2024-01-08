@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2024-01-07.md",
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.9 Django CBV.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "160dc7fe70cabe9b",
+            "id": "70dae1852b556f1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/6.8 Django Form.md",
+                "file": "Day Planners/2024-01-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2024-01-07.md",
+                "file": "Day Planners/2024-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2024-01-07.md",
+                "file": "Day Planners/2024-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2024-01-07.md"
+                "file": "Day Planners/2024-01-08.md"
               }
             }
           },
@@ -168,23 +169,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bbab9a69d4dfad4",
+  "active": "70dae1852b556f1f",
   "lastOpenFiles": [
-    "Transcendence/6.8 Django Form.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.9 Django CBV.md",
+    "Day Planners/2024-01-08.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.8 Django Form.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.4 View, Routing, URLs.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.7 Django Admin.md",
+    "Transcendence/ft_transcendence.md",
+    "Transcendence/single-page application.md",
+    "Transcendence/Server-Side Rendering.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.0 Django.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/0. Django 4 및 Python 풀스택 개발자 마스터 클래스.md",
+    "Day Planners/2024-01-01.md",
+    "Day Planners/2024-01-07.md",
     "첨부파일/Pasted image 20240107211235.png",
     "첨부파일/Pasted image 20240107205632.png",
     "첨부파일/Pasted image 20240107201325.png",
-    "Day Planners/2024-01-07.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.0 Django.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.7 Django Admin.md",
     "첨부파일/Pasted image 20240107152224.png",
     "Day Planners/2024-01-06.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md",
     "무제 파일.canvas",
     "Day Planners/2024-01-05.md",
     "Excalidraw/inception.excalidraw.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/ft_transcendence.md",
     "Transcendence/<번역>ft_transcendence.md",
     "archive(non_fixed)/inception/도커/쿠버네티스.md",
     "Excalidraw/FJsort.excalidraw.md",
@@ -194,12 +202,6 @@
     "archive(non_fixed)/inception/SaaS.md",
     "archive(non_fixed)/inception/Untitled.md",
     "archive(non_fixed)/inception/RSA 인증서와 전자서명의 원리.md",
-    "archive(non_fixed)/inception/PGID, 프로세스 그룹 아이디.md",
-    "archive(non_fixed)/inception/OpenSSL.md",
-    "archive(non_fixed)/inception/NGINX 쿡북.md",
-    "archive(non_fixed)/inception/ISO.md",
-    "archive(non_fixed)/inception/mariadb 에러.md",
-    "archive(non_fixed)/inception/Inception.md",
     "첨부파일/Pasted image 20240104173448.png",
     "첨부파일/Pasted image 20240103170004.png",
     "첨부파일/Pasted image 20240102170039.png",
