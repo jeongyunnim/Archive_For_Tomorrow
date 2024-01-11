@@ -20,55 +20,33 @@
             }
           },
           {
-            "id": "dcffbf794f938ee3",
+            "id": "6246737ce991946b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Transcendence/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "트센 캔버스.canvas",
+                "viewState": {
+                  "x": 224.18440157320987,
+                  "y": 104.6656727248145,
+                  "zoom": -0.10566109945376713
+                }
               }
             }
           },
           {
-            "id": "6facfd2947adb598",
+            "id": "160dc7fe70cabe9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/ft_transcendence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58a16d888bc68d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70dae1852b556f1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2024-01-09.md",
+                "file": "Day Planners/2024-01-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -135,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md",
+                "file": "Transcendence/ft_transcendence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md",
+                "file": "Transcendence/ft_transcendence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md"
+                "file": "Transcendence/ft_transcendence.md"
               }
             }
           },
@@ -196,54 +174,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58a16d888bc68d22",
+  "active": "7bbab9a69d4dfad4",
   "lastOpenFiles": [
+    "트센 캔버스.canvas",
     "Transcendence/ft_transcendence.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.5 Template.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.4 View, Routing, URLs.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
-    "Transcendence/Blockchain.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/REST.md",
-    "Transcendence/DTO.md",
-    "Transcendence/Untitled.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.10 Django Linode 배포.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.0 Django.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.9 Django CBV.md",
+    "Transcendence/Microservices.md",
     "Day Planners/2024-01-09.md",
-    "Day Planners/2024-01-08.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.8 Django Form.md",
+    "Transcendence/.md",
+    "Day Planners/2024-01-11.md",
+    "첨부파일/Pasted image 20240111015407.png",
+    "Transcendence/프로젝트 구성 참고하기.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.7 Django Admin.md",
-    "Transcendence/single-page application.md",
-    "Transcendence/Server-Side Rendering.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/0. Django 4 및 Python 풀스택 개발자 마스터 클래스.md",
-    "Day Planners/2024-01-01.md",
-    "Day Planners/2024-01-07.md",
     "첨부파일/Pasted image 20240107211235.png",
     "첨부파일/Pasted image 20240107205632.png",
     "첨부파일/Pasted image 20240107201325.png",
     "첨부파일/Pasted image 20240107152224.png",
+    "Transcendence/REST.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.9 Django CBV.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.8 Django Form.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.10 Django Linode 배포.md",
+    "Transcendence/DTO.md",
+    "Day Planners/2024-01-08.md",
+    "Day Planners/2024-01-07.md",
     "Day Planners/2024-01-06.md",
-    "무제 파일.canvas",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md",
     "Day Planners/2024-01-05.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.0 Django.md",
     "Excalidraw/inception.excalidraw.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
     "Transcendence/<번역>ft_transcendence.md",
+    "archive(non_fixed)/inception/도커/쿠버네티스.md",
+    "Excalidraw/FJsort.excalidraw.md",
+    "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
+    "archive(non_fixed)/inception/포트포워딩.md",
     "첨부파일/Pasted image 20240104173448.png",
     "첨부파일/Pasted image 20240103170004.png",
     "첨부파일/Pasted image 20240102170039.png",
     "첨부파일/Pasted image 20240101183606.png",
     "첨부파일/Pasted image 20231231190849.png",
-    "첨부파일/Pasted image 20231231190530.png",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스",
     "Transcendence/A",
     "Transcendence",

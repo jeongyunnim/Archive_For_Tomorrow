@@ -345,7 +345,7 @@ These modules collectively focus on enhancing the project's infrastructure and a
 	- Define clear boundaries and interfaces between microservices to enable independent development, deployment, and scaling.
 	- Implement communiation mechanisms between microservices, such as REST-ful APIs or message queues, to facilitate data exchange and coordination.
 	- Ensure that each microservice tis responsible for a single, well-defined task or business capability and scalability.
-	This major module aims to enhance the system's architecture b adopting a microservices design approach, enabling greater flexibility, scalability, and maintain-ability of the backend components.
+	This major module aims to enhance the system's architecture by adopting a microservices design approach, enabling greater flexibility, scalability, and maintain-ability of the backend components.
 
 ## 8. Graphics
 
@@ -405,7 +405,7 @@ These modules are designed to enhance the accessibility of our web application, 
 	- Maintain a consistent user experience while benefiting from the advantages of SSR.
 	This module aims to boost website performance and SEO by integrating Server-Side Rendering for faster page loads and improved user experience.
 
-## 9. Server-Side Pong
+## 10. Server-Side Pong
 
 ^56dca5
 
