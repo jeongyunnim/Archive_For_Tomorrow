@@ -105,9 +105,6 @@ return ^GflFkE7F
 8 9
 7 6 ^0nIvlkGG
 
-9
-8 ^MOQN7TyH
-
 %%
 # Drawing
 ```json
@@ -3235,9 +3232,9 @@ return ^GflFkE7F
 		},
 		{
 			"type": "text",
-			"version": 162,
-			"versionNonce": 1174829620,
-			"isDeleted": false,
+			"version": 163,
+			"versionNonce": 1392142302,
+			"isDeleted": true,
 			"id": "MOQN7TyH",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -3256,7 +3253,7 @@ return ^GflFkE7F
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703838204693,
+			"updated": 1705039396060,
 			"link": null,
 			"locked": false,
 			"fontSize": 101.34854066262025,
@@ -3286,10 +3283,10 @@ return ^GflFkE7F
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 887.9641425185894,
-		"scrollY": 149.32798657674482,
+		"scrollX": 1175.1342560558528,
+		"scrollY": 468.82439517113687,
 		"zoom": {
-			"value": 1.208531484974726
+			"value": 0.8440203882989703
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

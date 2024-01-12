@@ -73,8 +73,8 @@ The main purpose of this of this website is to play Pong versus other players.
 - A player must be able to play against another player, but it should also be possible to propose a **tournament**. This tournament will consist of multiple players who can take turns playing against each other. You have flexibility in how you implement the tournament, but it must clearly display who is playing against whom and the order of the players.
 - A **registration system** is required: at the start of a tournament, each player must input their alias name. The aliases will be reset when a new tournament begins. However, this requirement can be modified using the **Standard User Management module**.
 - There must be a matchmaking system: the tournament system organize the matchmaking of the participants, and announce the next fight.
-- All players must adhere to the same rules, which includes having identical paddle speed. This requirement also applies when using AI; the AI must exhibit the same speed as a regular player.
-- The game itself must be developed in accordance with the default frontend constraints (as outlined above), or you may choose to utilize the **FrontEnd** module, or you have the option to override it with the **Graphics module**. While the visual aesthetics can vary, it must still capture the essence of the **original Pong** (1972).
+- All players must adhere to the same rules, which includes having identical paddle speed. This requirement also applies when using AI; The AI must exhibit the same speed as a regular player.
+- The game itself must be developed in accordance with the default frontend constraints (as outlined above), or you may choose to utilize the **FrontEnd module**, or you have the option to override it with the **Graphics module**. While the visual aesthetics can vary, it must still capture the essence of the **original Pong** (1972).
 
 > [!caution]
 > The use of libraries or frameworks or tools to replace your job is strictly prohibited. Each of the subject will explicitly present the authorized third party software you can use. Nevertheless, it is allowed and even recommended to use anything possible to simplify certain actions. It is important to note that any tools or resources utilized must be justified. Please be aware that simplifying does not equate to completing you work.
@@ -107,46 +107,44 @@ To attain 100% project completion, a minimum of 7 major modules is required. It'
 > Two Minor Modules are equivalent to one Major Module.
 
 ## 1. Overview
-- [[ft_transcendence#^3edc0c|Web]]
+- [[ft_transcendence#2. Web|Web]]
 	- **Major module**: Use a Framework as backend.
 	- **Minor module**: Use a front-end framework or toolkit.
 	- **Minor module**: Use a database for the backend.
 	- **Major module**: Store the score of a tournament in the [[Blockchain]].
-- [[ft_transcendence#^0e331b|User management]]
+- [[ft_transcendence#3. User management|User management]]
 	- **Major module**: Standard user management, authentication, users across tournaments.
 	- **Major module**: Implementing a remote authentication.
-- [[ft_transcendence#^1de038|Gameplay and user experience]]
+- [[ft_transcendence#4. Gameplay and user experience|Gameplay and user experience]]
 	- **Major module**: Remote players
 	- **Major module**: Multiplayers (more than 2 in the same game).
 	- **Major module**: Add Another Game with User History and matchmaking.
 	- **Minor module**: Game Customization Options.
 	- **Major module**: Live chat.
-- [[ft_transcendence#^d6a78b|AI-algo]]
+- [[ft_transcendence#5. AI-Algo|AI-algo]]
 	- **Major module**: Introduce an AI Opponent.
 	- **Minor module**: User and Game Stats Dashboards.
-- [[ft_transcendence#^95fdbb|Cybersecurity]]
+- [[ft_transcendence#6. Cybersecurity|Cybersecurity]]
 	- **Major module**: Implement [[WAF]]/[[ModSecurity]] with Hardened Configuration and [[HashiCorp Vault]] for Secrets Management.
 	- **Minor module**: [[GDPR]] Compliance Options with User [[Anonymization]], Local Data management, and Account Deletion.
 	- **Major module**: Implement Two-Factor Authentication ([[2FA]]) and [[JWT]].
-- [[ft_transcendence#^9723a7|DevOps]]
+- [[ft_transcendence#7. DevOps|DevOps]]
 	- **Major module**: Infrastructure Setup for Log Management.
 	- **Minor module**: Monitoring system.
 	- **Major module**: Designing the Backend as [[Microservices]].
-- [[ft_transcendence#^2591a3|Graphics]]
+- [[ft_transcendence#8. Graphics|Graphics]]
 	- **Major module**: Use of advanced 3D techniques.
-- [[ft_transcendence#^a45ae6|Accessibility]]
+- [[ft_transcendence#9. Accessibility|Accessibility]]
 	- **Minor module**: Support on all devices.
 	- **Minor module**: Expanding Browser Compatibility.
 	- **Minor module**: Multiple language supports.
 	- **Minor module**: add accessibility for Visually Impaired Users.
 	- **Minor module**: [[Server-Side Rendering]] (SSR) Integration.
-- [[ft_transcendence#^56dca5|Server-Side Pong]]
+- [[ft_transcendence#10. Server-Side Pong|Server-Side Pong]]
 	- **Major module**: Replacing Basic Pong with Server-Side Pong and Implementing an API.
 	- **Major module**: Enabling Pong Gameplay via CLI against Web Users with API Integration.
 ---
 ## 2. Web
-
-^3edc0c
 
 These modules enable the integration of advanced web features into your Pong game.
 
@@ -177,8 +175,6 @@ These modules enable the integration of advanced web features into your Pong gam
 ---
 ## 3. User management
 
-^0e331b
-
 This module delves into the realm of **user Management**, addressing crucial aspects of user interactions and access control within the Pong platform. It encompasses two major components, each focused on essential elements of user management and authentication: user participation across multiple tournaments and the implementation of remote authentication.
 
 - **Major module**: Standard user management, authentication, users across tournaments.
@@ -195,7 +191,7 @@ This module delves into the realm of **user Management**, addressing crucial asp
 > Be carefull, the management of duplicate usernames/emails is at your discretion. You must provide a justification for your decision. 
 
 - **Major module**: Implementing a remote authentication.
-	In this major, the goal is to implement the following authentication system: ==OAuth 2.0 authentication with 42==. Key features and objectives include:
+	In this major, the goal is to implement the following authentication system: ==[[OAuth 2.0]] authentication with 42==. Key features and objectives include:
 	- Integrate the authentication system, allowing users to securely sign in.
 	- Obtain the necessary credentials and permissions from the authority to enable a secure login.
 	- Implement user-friendly login and authorization flows that adhere to best practices and security standards.
@@ -207,8 +203,6 @@ This module delves into the realm of **user Management**, addressing crucial asp
 
 ## 4. Gameplay and user experience
 
-^1de038
-
 These modules are designed to enhance the general gameplay of the project.
 
 - **Major module**: Remote players
@@ -219,7 +213,7 @@ These modules are designed to enhance the general gameplay of the project.
 > You have to offer the best user experience possible.
 		
 - **Major module**: Multiplayers (more than 2 in the same game).
-	It is possible to have more than two player needs a live control (so the previous "Distant Players" module is highly recommended). It's up to you to define how the game could be played with 3, 4, 5, 6 ... players. Along with the regular 2 players game, you can choose a single number of players, greater than 2, for this multi player module. Ex: 4 players can play on a sqarred board, each player owns one unique side of the square.
+	It is possible to have more than two player needs a live control (so the previous "Distant Players" module is highly recommended). It's up to you to define how the game could be played with 3, 4, 5, 6 ... players. Along with the regular 2 players game, you can choose a single number of players, greater than 2, for this multi player module. Ex: 4 players can play on a sqared board, each player owns one unique side of the square.
 
 - **Major module**: Add Another Game with User History and matchmaking.
 	In this major module, the objective is to introduce a new game, distinct from Pong, and incorporate features such as user history tracking and matchmaking. Key features and goals include:
@@ -237,7 +231,7 @@ These modules are designed to enhance the general gameplay of the project.
 	- Ensure that customization options are available and applicable to all games offered on the platform.
 	- Implement user-friendly settings menus or interfaces for adjusting game parameters.
 	- Maintain consistency in customization features across all games to provide a unified user experience.
-	this module aims to give users the flexibility to tailor their gaming experience across all available games by providing a variety of customization options while also offering a default version for thos who prefer a straightforward gameplay experience.
+	this module aims to give users the flexibility to tailor their gaming experience across all available games by providing a variety of customization options while also offering a default version for those who prefer a straightforward gameplay experience.
 
 - **Major module**: Live chat.
 	You have to create a chat for your users in this module:
@@ -248,8 +242,6 @@ These modules are designed to enhance the general gameplay of the project.
 	- The user should be able to access other players profiles through the chat interface.
 
 ## 5. AI-Algo
-
-^d6a78b
 
 These modules serve to introduce data-driven elements to the project, with the major module introducing an AI opponent for enhanced gameplay, and the minor module focusing on user and game statistics dashboards, offering users a minimalistic yet insightful glimpse into their gaming experiences.
 
@@ -279,8 +271,6 @@ These modules serve to introduce data-driven elements to the project, with the m
 	This minor module aims to empower users with the ability to monitor their gaming statistics and game session details through user-friendly dashboards, providing a comprehensive view of their gaming experience.
 
 ## 6. Cybersecurity
-
-^95fdbb
 
 These cybersecurity modules are designed to bolster the security posture of the project, with the major module focusing on robust protection through Web Application Firewall(WAF) and modSecurity configurations and HashiCorp Vault for secure secrets management. The minor modules complement this effort by adding options for GDPR compliance, user data anonymization, account deletion, two-factor authentication (2RA), and JSON Web Tokens (JWT), collectively ensuring the project's commitment to data protection, privacy, and authentication security. 
 
@@ -315,8 +305,6 @@ These cybersecurity modules are designed to bolster the security posture of the 
 
 ## 7. DevOps
 
-^9723a7
-
 These modules collectively focus on enhancing the project's infrastructure and architecture, with the major modules addressing infrastructure setup for effcient log management using [[ELK]](Elasticsearch, Logstash, Kibana), designing the backend as microservices for flexibility and scalability, and implementing [[Prometheus/Grafana]] for comprehensive system monitoring.
 
 - **Major module**: Infrastructure Setup with ==ELK== for Log Management.
@@ -349,8 +337,6 @@ These modules collectively focus on enhancing the project's infrastructure and a
 
 ## 8. Graphics
 
-^2591a3
-
 - **Major module**: Use of advanced 3D techniques.
 	This major module, known as "Graphics", is focused on enhancing the visual aspects of the Pong game. It introduces the utilization of advanced 3D techniques to create a more immersive gaming experience. Specifically, the Pong game will be developed using ==ThreeJS/WebGL== to  achieve the desired visual effects.
 	- Advanced 3D Graphics: The primary goal of this module is to implement advanced 3D graphics techniques to elevate the visual quality of the Pong game. By utilizing ==ThreeJS/WebGL==, we aim to create stunning visual effects that immerse players in the gaming environment.
@@ -358,8 +344,6 @@ These modules collectively focus on enhancing the project's infrastructure and a
 	- Technology Integration: The chosen technology for this module is ThreeJS/WebGL. These tools will be used to create the 3D graphics, ensuring compatibility and optimal performance.
 	This major module aims to revolutionize the Pong game's visual elements by introducing advanced 3D techniques. Through the utilization of ThreeJS/WebGL, we aspire to provide players with an immersive and visually stunning gaming experience.
 ## 9. Accessibility
-
-^a45ae6
 
 These modules are designed to enhance the accessibility of our web application, with a focus on ensuring compatibility across all devices, expanding browser support, offering multi-language capabilities, providing accessibility features for visually impaired users, and integrating [[Server-Side Rendering]] (SSR) for improved performance and user experience.
 
@@ -406,8 +390,6 @@ These modules are designed to enhance the accessibility of our web application, 
 	This module aims to boost website performance and SEO by integrating Server-Side Rendering for faster page loads and improved user experience.
 
 ## 10. Server-Side Pong
-
-^56dca5
 
 - **Major module**: Replacing Basic Pong with Server-Side Pong and Implementing an API.
 	In this major module, the goal is to replace the basic Pong game with a server-side Pong game, accompanied by the implementation of an API. Key features and objectives include:
