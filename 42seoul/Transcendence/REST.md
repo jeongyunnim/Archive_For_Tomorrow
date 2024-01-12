@@ -20,6 +20,8 @@ Read : 데이터 조회(GET)
 Update : 데이터 수정(PUT, PATCH)  
 Delete : 데이터 삭제(DELETE)
 
+- 이것이 좀 괜찮은 것 같다.
+https://blog.nerdfactory.ai/2021/02/24/creating-an-api-&-collecting-html-elements-with-django-rest-framework.html
 
 ---
 ### 생각(파생된 질문/생각)
