@@ -4,25 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "79c50b984c6f1913",
+        "id": "69ba2b8c33a82462",
         "type": "tabs",
         "children": [
           {
-            "id": "160dc7fe70cabe9b",
+            "id": "8a28d96cf986e018",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "트센 캔버스.canvas",
-                "viewState": {
-                  "x": 1032.797739532664,
-                  "y": 1226.6877988226152,
-                  "zoom": -2.162556966145833
-                }
+                "file": "Transcendence/66. RESTful 라우팅으로 자신만의 API 구축.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "899d68d3038117c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/Python 100일 부트캠프/Pycharm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "364a831e54da8ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/Django REST Framework.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -90,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "트센 캔버스.canvas",
+                "file": "Transcendence/Django REST Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "트센 캔버스.canvas",
+                "file": "Transcendence/Django REST Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "트센 캔버스.canvas"
+                "file": "Transcendence/Django REST Framework.md"
               }
             }
           },
@@ -160,49 +181,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "c69ac3cd482b197c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6322394a56cd96f4",
-        "type": "window",
-        "children": [
-          {
-            "id": "7fcdd833bc95f8ba",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "186e04bb9f9a12d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Transcendence/ft_transcendence.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 23,
-        "width": 853,
-        "height": 1417,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "160dc7fe70cabe9b",
+  "active": "364a831e54da8ccd",
   "lastOpenFiles": [
-    "Transcendence/ft_transcendence.md",
-    "트센 캔버스.canvas",
-    "Transcendence/프로젝트 구성 참고하기.md",
+    "Transcendence/Python 100일 부트캠프/Pycharm.md",
+    "Transcendence/Django REST Framework.md",
+    "Transcendence/66. RESTful 라우팅으로 자신만의 API 구축.md",
+    "Transcendence/Python 100일 부트캠프/0. Python All-in-one 코스.md",
+    "template/Python 강의 템플릿.md",
+    "Transcendence/Python 100일 부트캠프",
+    "Excalidraw/ft_transcendence.excalidraw.md",
     "Day Planners/2024-01-12.md",
+    "Day Planners/2024-01-11.md",
+    "트센 캔버스.canvas",
+    "Transcendence/ft_transcendence.md",
+    "Transcendence/프로젝트 구성 참고하기.md",
     "archive(non_fixed)/inception/Inception 번역.md",
     "archive(non_fixed)/inception/mariadb 에러.md",
     "archive(non_fixed)/inception/NGINX 쿡북.md",
@@ -219,12 +211,6 @@
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.1 워드프레스 구축.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.0 여러 개의 컨테이너를 연동해 실행해보자.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/0. 그림과 실습으로 배우는 도커 & 쿠버네티스.md",
-    "Day Planners/2023-12-12.md",
-    "Day Planners/2024-01-09.md",
-    "Day Planners/2024-01-01.md",
-    "Day Planners/2024-01-11.md",
-    "Day Planners/2024-01-08.md",
-    "Day Planners/2024-01-07.md",
     "첨부파일/Pasted image 20240111015407.png",
     "첨부파일/Pasted image 20240107211235.png",
     "첨부파일/Pasted image 20240107205632.png",
@@ -244,7 +230,6 @@
     "archive(non_fixed)/inception/database",
     "archive(non_fixed)/inception/NGINX HTTP 서버",
     "archive(non_fixed)/inception/wordpress Docs",
-    "archive(non_fixed)/inception/NGINX HTTP 서버/Docker docs",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
