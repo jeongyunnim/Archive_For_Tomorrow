@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/2. JavaScript 기본 문법.md",
+                "file": "Transcendence/Django REST Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b961ea1183eaabdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/Two Scoops of Django.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/2. JavaScript 기본 문법.md",
+                "file": "Transcendence/Two Scoops of Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/2. JavaScript 기본 문법.md",
+                "file": "Transcendence/Two Scoops of Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/2. JavaScript 기본 문법.md"
+                "file": "Transcendence/Two Scoops of Django.md"
               }
             }
           },
@@ -156,8 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cda5bb66ce863af5",
+  "active": "b961ea1183eaabdb",
   "lastOpenFiles": [
+    "Transcendence/Django REST Framework.md",
+    "Transcendence/Two Scoops of Django.md",
     "Transcendence/JavaScript 완벽 가이드/2. JavaScript 기본 문법.md",
     "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
     "Transcendence/JavaScript 완벽 가이드/1. JavaScript란?.md",
@@ -185,8 +200,6 @@
     "Transcendence/JavaScript 완벽 가이드/Untitled",
     "Transcendence/JavaScript 완벽 가이드",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.0 Django.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.1 Django 프레임워크에 대한 소개.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/5.0 Python.md",
     "Transcendence/Python 100일 부트캠프",
     "첨부파일/Pasted image 20240111015407.png",
     "첨부파일/Pasted image 20240107211235.png",
