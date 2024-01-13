@@ -53,7 +53,7 @@ Your project has to comply with the following rules:
 	- If you choose to include a backend, it must be written in pure ==Ruby==. However, this requirement can be overriden by the **Framework module**.
 	- If your backend or framework uses a database, you must follow the constraints of the **Database module**.
 - The frontend should be developed using pure vanilla ==javascript==. However, this requirement can be altered through the **FrontEnd module.**
-- Your website must be a [[single-page application]]. The user should be able to use the Back and Forward buttons of the browser. 
+- Your website must be a [[Single-Page Application]]. The user should be able to use the Back and Forward buttons of the browser. 
 - Your website must be compatible with the **latest stable up-to-date version** of ==Google Chrome==.
 - The user should encounter no unhandled errors and no warnings when browsing the website.
 - Everything must be launched with a single command line to run an autonomous container provided by ==Docker==. Example: docker-compose up --build

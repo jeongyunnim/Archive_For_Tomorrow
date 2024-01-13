@@ -21,7 +21,7 @@ JSP/Servlet의 아키텍처에서 이 방식을 사용했다.
 SSR을 사용하면 모든 데이터가 매핑된 서비스 페이지를 클라이언트에게 바로 보여줄 수 있다.
 서버를 이용해 페이지를 구성하기 때문에 클라이언트에서 구성하는 CSR(Client-Side Rendering)보다 페이지를 구성하는 속도는 늦지만 사용자에게 보여주는 콘텐츠 구성이 완료되는 시점은 빨라진다. 또한 [[SEO]](Serch engine optimization) 또한 쉽게 구성할 수 있다.
 
-[[single-page application|SPA]] 구성을 하기 위해서는 기본적으로 frontend와 backend 영역의 분리가 선행되어야 한다.
+[[Single-Page Application|SPA]] 구성을 하기 위해서는 기본적으로 frontend와 backend 영역의 분리가 선행되어야 한다.
 
 기존의 페이지 덩어리를 **CSR view** 영역과 **SSR view** 영역 그리고 **API**로 분리한다.
 ![[ft_transcendence.excalidraw#^group=C9cNPAzPmzEdD4g0bYTPV]]

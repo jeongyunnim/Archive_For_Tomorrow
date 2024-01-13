@@ -14,7 +14,7 @@ aliases:
 
 ### 원문
 ---
-# Single-page application
+# Single-Page Application
 현재의 페이지를 동적으로 작성하며 사용자와 소통하는 웹 애플리케이션이다.
 
 

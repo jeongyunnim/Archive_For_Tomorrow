@@ -4,7 +4,7 @@ created: "{{date}} {{time}}"
 
 ### tags: #일간노트
   
-# {{date}}  
+# {{date}} 
 - [ ] TBU  
   
 ---  
