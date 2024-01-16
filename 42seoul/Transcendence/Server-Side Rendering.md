@@ -56,4 +56,4 @@ SSR 환경을 구축하면 페이지의 소유권이 온전히 FE에 존재하�
 	- https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8
 - https://web.dev/articles/rendering-on-the-web?hl=en
 ### 연결 문서 (연결 이유)
-- [[SPA]]
+- [[Single-Page Application|SPA]]

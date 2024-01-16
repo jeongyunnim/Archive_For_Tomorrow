@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/3-0. JavaScript Control Structure.md",
+                "file": "Transcendence/Server-Side Rendering.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,18 +23,16 @@
             "id": "6246737ce991946b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "트센 캔버스.canvas",
-                "viewState": {
-                  "x": 224.18440157320987,
-                  "y": 104.6656727248145,
-                  "zoom": -0.10566109945376713
-                }
+                "file": "Transcendence/JavaScript 완벽 가이드/3-0. JavaScript Control Structure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,11 +169,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bbab9a69d4dfad4",
+  "active": "6246737ce991946b",
   "lastOpenFiles": [
+    "Day Planners/2024-01-16.md",
+    "Day Planners/2024-01-15.md",
+    "Transcendence/JavaScript 완벽 가이드/3-0. JavaScript Control Structure.md",
+    "첨부파일/Pasted image 20240116194955.png",
+    "트센 캔버스.canvas",
+    "Transcendence/Server-Side Rendering.md",
+    "Transcendence/single-page application.md",
     "Excalidraw/FJsort.excalidraw.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/JavaScript 완벽 가이드/3-0. JavaScript Control Structure.md",
     "Transcendence/JavaScript 완벽 가이드/2-2. chrome 디버깅 툴.md",
     "Transcendence/JavaScript 완벽 가이드/2-1. HTML 속성에 import 하기.md",
     "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
@@ -199,19 +203,13 @@
     "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-4. Share the application.md",
     "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-3. Update the application.md",
     "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-2. Containerize an application.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-1. Overview of the get started guide.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/0. Docker docs 정리.md",
-    "archive(non_fixed)/NGINX HTTP 서버/4. 모듈 구성.md",
-    "archive(non_fixed)/NGINX HTTP 서버/3. HTTP 구성.md",
     "첨부파일/Pasted image 20240114234617.png",
     "Transcendence/JavaScript 완벽 가이드",
     "Transcendence/Python 100일 부트캠프",
-    "트센 캔버스.canvas",
     "첨부파일/Pasted image 20240111015407.png",
     "첨부파일/Pasted image 20240107211235.png",
     "첨부파일/Pasted image 20240107205632.png",
     "첨부파일/Pasted image 20240107201325.png",
-    "첨부파일/Pasted image 20240107152224.png",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스",
     "Transcendence/A",
     "Transcendence",
