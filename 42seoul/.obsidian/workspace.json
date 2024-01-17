@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6246737ce991946b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcendence/4.2 원시 타입과 참조 타입.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "db941df094b4a225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2024-01-17.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/4.2 원시 타입과 참조 타입.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/4.2 원시 타입과 참조 타입.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/4.2 원시 타입과 참조 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/4.2 원시 타입과 참조 타입.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/4.2 원시 타입과 참조 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/4.2 원시 타입과 참조 타입.md"
+                "file": "Transcendence/JavaScript 완벽 가이드/4.2 원시 타입과 참조 타입.md"
               }
             }
           },
@@ -168,16 +156,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6246737ce991946b",
+  "active": "db941df094b4a225",
   "lastOpenFiles": [
-    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
-    "Transcendence/4.2 원시 타입과 참조 타입.md",
+    "첨부파일/Pasted image 20240117213347.png",
     "Transcendence/JavaScript 완벽 가이드/4.1 JavaScript 실행 과정.md",
+    "Day Planners/2024-01-17.md",
+    "archive(non_fixed)/inception/database/mariadb 에러.md",
+    "archive(non_fixed)/inception/database/mysql 기본 database.md",
+    "archive(non_fixed)/inception/database/mysql doc 정리/information_schema.md",
+    "archive(non_fixed)/inception/database/mysql doc 정리/mysql data 디렉토리.md",
+    "Transcendence/JavaScript 완벽 가이드/4.2 원시 타입과 참조 타입.md",
+    "archive(non_fixed)/inception/database/mysql 설정 쉘 스크립트 설명.md",
+    "archive(non_fixed)/inception/HAProxy.md",
+    "archive(non_fixed)/inception/Inception 번역.md",
+    "archive(non_fixed)/inception/Inception.md",
+    "archive(non_fixed)/inception/Hacky patch.md",
+    "archive(non_fixed)/inception/<Inception> Error log.md",
+    "archive(non_fixed)/inception/mariadb 에러.md",
+    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
     "Excalidraw/inception.excalidraw.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
     "Excalidraw/FJsort.excalidraw.md",
     "archive(non_fixed)/알고리즘/최소 비교 정렬.md",
-    "Day Planners/2024-01-17.md",
     "Transcendence/JavaScript 완벽 가이드/4.0 JavaScript Background.md",
     "Untitled.canvas",
     "Transcendence/프로젝트 구성 참고하기.md",
@@ -195,19 +195,7 @@
     "template/inception 템플릿.md",
     "template/Zettelkasten.md",
     "template/Python 강의 템플릿.md",
-    "template/JS 강의 템플릿.md",
-    "template/Daily Note Template.md",
     "template",
-    "Transcendence/Python 100일 부트캠프/Pycharm.md",
-    "Transcendence/Python 100일 부트캠프/66. RESTful 라우팅으로 자신만의 API 구축.md",
-    "Transcendence/Python 100일 부트캠프/0. Python All-in-one 코스.md",
-    "Transcendence/JavaScript 완벽 가이드/3. JavaScript Control Structure.md",
-    "Transcendence/JavaScript 완벽 가이드/2-2. chrome 디버깅 툴.md",
-    "Transcendence/JavaScript 완벽 가이드/2-1. HTML 속성에 import 하기.md",
-    "Transcendence/JavaScript 완벽 가이드/2-0. JavaScript 기본 문법.md",
-    "Transcendence/JavaScript 완벽 가이드/1. JavaScript란?.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.9 Django CBV.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.8 Django Form.md",
     "Transcendence/Python 100일 부트캠프",
     "Transcendence/JavaScript 완벽 가이드",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스",
