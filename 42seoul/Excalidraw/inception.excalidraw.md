@@ -6870,8 +6870,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 226,
-			"versionNonce": 243521554,
+			"version": 227,
+			"versionNonce": 1952224708,
 			"isDeleted": false,
 			"id": "vxz3CiqK6PO8wkt9YtCzp",
 			"fillStyle": "solid",
@@ -6891,7 +6891,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704434380376,
+			"updated": 1705473140149,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6958,8 +6958,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 400,
-			"versionNonce": 1069839758,
+			"version": 401,
+			"versionNonce": 1723484028,
 			"isDeleted": false,
 			"id": "OMwWppUGw5FH6Aep86f-w",
 			"fillStyle": "solid",
@@ -6981,7 +6981,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704434380372,
+			"updated": 1705473140146,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7056,8 +7056,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 445,
-			"versionNonce": 586847182,
+			"version": 447,
+			"versionNonce": 192673788,
 			"isDeleted": false,
 			"id": "EmwoIgJQBLVi5B0KkY3MH",
 			"fillStyle": "solid",
@@ -7079,7 +7079,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704434380373,
+			"updated": 1705473140146,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11353,8 +11353,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 239,
-			"versionNonce": 70452690,
+			"version": 241,
+			"versionNonce": 458046788,
 			"isDeleted": false,
 			"id": "eWU6nwSpXBYruJ7FZ5nJS",
 			"fillStyle": "solid",
@@ -11376,7 +11376,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704434380406,
+			"updated": 1705473140181,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11405,8 +11405,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 276,
-			"versionNonce": 2110077266,
+			"version": 278,
+			"versionNonce": 373931076,
 			"isDeleted": false,
 			"id": "pJkTtNK1k1c2Z8Ynzh5pK",
 			"fillStyle": "solid",
@@ -11416,11 +11416,11 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"opacity": 100,
 			"angle": 0,
 			"x": 2484.7861613456457,
-			"y": -45.04993404641088,
+			"y": -45.049934046410876,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 93.60122000444017,
-			"height": 212.96452097669925,
+			"height": 212.96452097669922,
 			"seed": 97133831,
 			"groupIds": [],
 			"frameId": null,
@@ -11433,7 +11433,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 					"id": "hcYqJUg5"
 				}
 			],
-			"updated": 1704434380408,
+			"updated": 1705473140183,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11456,7 +11456,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 				],
 				[
 					93.60122000444017,
-					212.96452097669925
+					212.96452097669922
 				]
 			]
 		},
@@ -11499,8 +11499,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 242,
-			"versionNonce": 36050,
+			"version": 244,
+			"versionNonce": 1836219204,
 			"isDeleted": false,
 			"id": "HhA7U0xRTPUBRrwc9Aqfo",
 			"fillStyle": "solid",
@@ -11522,7 +11522,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704434380410,
+			"updated": 1705473140185,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11630,8 +11630,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 402,
-			"versionNonce": 1597406098,
+			"version": 404,
+			"versionNonce": 2092758212,
 			"isDeleted": false,
 			"id": "4R7e3vGvMDJKts_sRHLuZ",
 			"fillStyle": "solid",
@@ -11641,11 +11641,11 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"opacity": 100,
 			"angle": 0,
 			"x": 2779.496844861473,
-			"y": 161.77483468855178,
+			"y": 161.7748346885518,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 114.30885350916742,
-			"height": 135.87684030415676,
+			"height": 135.87684030415681,
 			"seed": 567503401,
 			"groupIds": [],
 			"frameId": null,
@@ -11653,7 +11653,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704434380406,
+			"updated": 1705473140181,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11676,14 +11676,14 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 				],
 				[
 					-114.30885350916742,
-					-135.87684030415676
+					-135.87684030415681
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 237,
-			"versionNonce": 1597390610,
+			"version": 239,
+			"versionNonce": 30512068,
 			"isDeleted": false,
 			"id": "VdW1hKzXFvvpuy4eOJcF5",
 			"fillStyle": "solid",
@@ -11705,7 +11705,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704434380409,
+			"updated": 1705473140184,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11734,8 +11734,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 273,
-			"versionNonce": 901456530,
+			"version": 275,
+			"versionNonce": 327840452,
 			"isDeleted": false,
 			"id": "m_58e-L9qciWVDHxXtHNo",
 			"fillStyle": "solid",
@@ -11757,7 +11757,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704434380411,
+			"updated": 1705473140186,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -13912,8 +13912,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 302,
-			"versionNonce": 24077774,
+			"version": 303,
+			"versionNonce": 306658300,
 			"isDeleted": false,
 			"id": "pHzW3WvSqCeWO47wmeP1Z",
 			"fillStyle": "solid",
@@ -13933,7 +13933,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704434380415,
+			"updated": 1705473140190,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -13958,8 +13958,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 430,
-			"versionNonce": 186450002,
+			"version": 432,
+			"versionNonce": 850885188,
 			"isDeleted": false,
 			"id": "g4b_Hb7lHfq8J5TH4Y_7T",
 			"fillStyle": "solid",
@@ -13981,7 +13981,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704434380413,
+			"updated": 1705473140189,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20342,8 +20342,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "rectangle",
-			"version": 110,
-			"versionNonce": 200787241,
+			"version": 112,
+			"versionNonce": 1770031740,
 			"isDeleted": false,
 			"id": "FxClnGxeXRINdjVuz8TJl",
 			"fillStyle": "solid",
@@ -20366,7 +20366,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704181220158,
+			"updated": 1705473148642,
 			"link": null,
 			"locked": false
 		},
@@ -27651,8 +27651,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 158,
-			"versionNonce": 1983664270,
+			"version": 162,
+			"versionNonce": 2133749116,
 			"isDeleted": false,
 			"id": "KXcmEVwuKcAc6cpqRFlQz",
 			"fillStyle": "solid",
@@ -27674,7 +27674,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704434380428,
+			"updated": 1705473140208,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -27703,8 +27703,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 84,
-			"versionNonce": 1907280462,
+			"version": 85,
+			"versionNonce": 1894608124,
 			"isDeleted": false,
 			"id": "JHVKLWpav8IZsF6eKH0EB",
 			"fillStyle": "solid",
@@ -27726,7 +27726,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704434380427,
+			"updated": 1705473140207,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -27751,8 +27751,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 106,
-			"versionNonce": 1901237202,
+			"version": 107,
+			"versionNonce": 1007204676,
 			"isDeleted": false,
 			"id": "NSJ9z2xTn9UwVyYpYY9Xj",
 			"fillStyle": "solid",
@@ -27774,7 +27774,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704434380425,
+			"updated": 1705473140206,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -27799,8 +27799,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 88,
-			"versionNonce": 1457080146,
+			"version": 89,
+			"versionNonce": 592853060,
 			"isDeleted": false,
 			"id": "1yK2jtzn-x9qY8GcLG8Ir",
 			"fillStyle": "solid",
@@ -27822,7 +27822,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704434380430,
+			"updated": 1705473140209,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -28471,8 +28471,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 99,
-			"versionNonce": 1086878738,
+			"version": 100,
+			"versionNonce": 1872137668,
 			"isDeleted": false,
 			"id": "R-5Xt7ZdCjqDm61NzddlZ",
 			"fillStyle": "solid",
@@ -28494,7 +28494,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704434380439,
+			"updated": 1705473140212,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -28519,8 +28519,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 283,
-			"versionNonce": 837360338,
+			"version": 287,
+			"versionNonce": 1183840068,
 			"isDeleted": false,
 			"id": "8Hvg6Q5v4WegEvkC4XpVp",
 			"fillStyle": "solid",
@@ -28542,7 +28542,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704434380433,
+			"updated": 1705473140210,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -28571,8 +28571,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 355,
-			"versionNonce": 1618098126,
+			"version": 359,
+			"versionNonce": 1720614908,
 			"isDeleted": false,
 			"id": "kKBdJr_lHBCfEPxNfl3E2",
 			"fillStyle": "solid",
@@ -28594,7 +28594,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704434380437,
+			"updated": 1705473140211,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -28623,8 +28623,8 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		},
 		{
 			"type": "arrow",
-			"version": 281,
-			"versionNonce": 283652942,
+			"version": 282,
+			"versionNonce": 604049148,
 			"isDeleted": false,
 			"id": "OgqcQ4tZDfRuTPSET-AJ7",
 			"fillStyle": "solid",
@@ -28646,7 +28646,7 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704434380434,
+			"updated": 1705473140210,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -29608,6 +29608,46 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 			"updated": 1704181230926,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "tY5EPFeo",
+			"type": "text",
+			"x": 3895.9601334124427,
+			"y": 889.0613451736328,
+			"width": 9.375,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#6741d9",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"lLBsyUxoK9mR6aYhofQFU",
+				"Ul7Jo29TyoD7umPCwvOq8"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 320056388,
+			"version": 3,
+			"versionNonce": 1417702212,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1705473148644,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 15,
+			"containerId": "FxClnGxeXRINdjVuz8TJl",
+			"originalText": "",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
@@ -29625,10 +29665,10 @@ c6c86de84d2fa95cc04b57a4c2191bbbbc7dd6c2: https://kubernetes.io/images/docs/Cont
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 471.4633898689142,
-		"scrollY": -2772.6052300684637,
+		"scrollX": -3521.8031647046782,
+		"scrollY": -647.9356710275601,
 		"zoom": {
-			"value": 2.3104085016355187
+			"value": 1.0500000000000003
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

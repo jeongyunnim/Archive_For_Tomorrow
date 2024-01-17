@@ -13,50 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/4.0 JavaScript Background.md",
+                "file": "Transcendence/4.2 원시 타입과 참조 타입.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "23e084e676e7b527",
+            "id": "db941df094b4a225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/API 문서 작성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "969ce01c8ddfa870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/4.0 JavaScript Background.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d9586958e0892b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcendence/fallback.md",
+                "file": "Day Planners/2024-01-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 215.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/4.0 JavaScript Background.md",
+                "file": "Transcendence/4.2 원시 타입과 참조 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/4.0 JavaScript Background.md",
+                "file": "Transcendence/4.2 원시 타입과 참조 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/4.0 JavaScript Background.md"
+                "file": "Transcendence/4.2 원시 타입과 참조 타입.md"
               }
             }
           },
@@ -184,67 +159,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "969ce01c8ddfa870",
+  "active": "6246737ce991946b",
   "lastOpenFiles": [
-    "Transcendence/JavaScript 완벽 가이드/3. JavaScript Control Structure.md",
-    "Transcendence/Swagger.md",
-    "Transcendence/API 문서 작성.md",
-    "Transcendence/JavaScript 완벽 가이드/4.0 JavaScript Background.md",
     "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
-    "Transcendence/fallback.md",
-    "트센 캔버스.canvas",
-    "첨부파일/Pasted image 20240116194955.png",
-    "Day Planners/2024-01-16.md",
-    "Transcendence/2-1. HTML 속성에 import 하기.md",
+    "Transcendence/4.2 원시 타입과 참조 타입.md",
+    "Transcendence/JavaScript 완벽 가이드/4.1 JavaScript 실행 과정.md",
+    "Excalidraw/inception.excalidraw.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Excalidraw/FJsort.excalidraw.md",
+    "archive(non_fixed)/알고리즘/최소 비교 정렬.md",
+    "Day Planners/2024-01-17.md",
+    "Transcendence/JavaScript 완벽 가이드/4.0 JavaScript Background.md",
+    "Untitled.canvas",
+    "Transcendence/프로젝트 구성 참고하기.md",
+    "Transcendence/Hoisting.md",
     "첨부파일/Pasted image 20240115150050.png",
     "첨부파일/Pasted image 20240115145943.png",
     "첨부파일/Pasted image 20240115145512.png",
-    "첨부파일/Pasted image 20240115145018.png",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/3-2. Best practices for Dockerfile instructions.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/3-1. General guidelines.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/3-0. Overview of best practices for writing Dockerfiles.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/2. Dockerfile.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-9. Image-building best practices.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-8. Use Docker Compose.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-7. Multi container apps.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-6. Use bind mounts.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-5. Persist the DB.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-4. Share the application.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-3. Update the application.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-2. Containerize an application.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-10. What's Next.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/1-1. Overview of the get started guide.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs/0. Docker docs 정리.md",
-    "archive(non_fixed)/NGINX HTTP 서버/Docker docs",
-    "archive(non_fixed)/NGINX HTTP 서버/9. 사례 연구.md",
-    "archive(non_fixed)/NGINX HTTP 서버/5. NGINX와 PHP,파이썬 통합.md",
-    "archive(non_fixed)/NGINX HTTP 서버/4. 모듈 구성.md",
-    "archive(non_fixed)/NGINX HTTP 서버",
-    "첨부파일/Pasted image 20240114234617.png",
-    "Transcendence/JavaScript 완벽 가이드",
-    "Transcendence/Python 100일 부트캠프",
     "첨부파일/Pasted image 20240111015407.png",
-    "첨부파일/Pasted image 20240107211235.png",
     "첨부파일/Pasted image 20240107205632.png",
-    "첨부파일/Pasted image 20240107201325.png",
+    "첨부파일/Pasted image 20240107152224.png",
+    "첨부파일/Pasted image 20240103170004.png",
+    "첨부파일/Pasted image 20240102170039.png",
+    "첨부파일/Pasted image 20240101183606.png",
+    "첨부파일/Pasted image 20231231190849.png",
+    "template/inception 템플릿.md",
+    "template/Zettelkasten.md",
+    "template/Python 강의 템플릿.md",
+    "template/JS 강의 템플릿.md",
+    "template/Daily Note Template.md",
+    "template",
+    "Transcendence/Python 100일 부트캠프/Pycharm.md",
+    "Transcendence/Python 100일 부트캠프/66. RESTful 라우팅으로 자신만의 API 구축.md",
+    "Transcendence/Python 100일 부트캠프/0. Python All-in-one 코스.md",
+    "Transcendence/JavaScript 완벽 가이드/3. JavaScript Control Structure.md",
+    "Transcendence/JavaScript 완벽 가이드/2-2. chrome 디버깅 툴.md",
+    "Transcendence/JavaScript 완벽 가이드/2-1. HTML 속성에 import 하기.md",
+    "Transcendence/JavaScript 완벽 가이드/2-0. JavaScript 기본 문법.md",
+    "Transcendence/JavaScript 완벽 가이드/1. JavaScript란?.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.9 Django CBV.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.8 Django Form.md",
+    "Transcendence/Python 100일 부트캠프",
+    "Transcendence/JavaScript 완벽 가이드",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스",
-    "Transcendence/A",
     "Transcendence",
+    "To do list",
+    "Excalidraw",
+    "트센 캔버스.canvas",
+    "Transcendence/A",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스",
     "archive(non_fixed)/inception/도커",
-    "archive(non_fixed)/inception/database/mysql doc 정리",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Untitled 2.canvas"
   ]
 }
