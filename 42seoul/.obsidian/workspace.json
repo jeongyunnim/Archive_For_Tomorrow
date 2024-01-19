@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/5.4 bind() 함수.md",
+                "file": "Transcendence/6.0 DOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/5.4 bind() 함수.md",
+                "file": "Transcendence/6.0 DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/5.4 bind() 함수.md",
+                "file": "Transcendence/6.0 DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/5.4 bind() 함수.md"
+                "file": "Transcendence/6.0 DOM.md"
               }
             }
           },
@@ -172,20 +172,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "231ba757554e9c14",
   "lastOpenFiles": [
-    "Day Planners/2024-01-18.md",
-    "Transcendence/5.4 bind() 함수.md",
     "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
+    "Transcendence/6.0 DOM.md",
+    "Transcendence/JavaScript 완벽 가이드/5.4 bind() 함수.md",
+    "Day Planners/2024-01-18.md",
     "Transcendence/JavaScript 완벽 가이드/5.3 콜백 함수.md",
     "Transcendence/JavaScript 완벽 가이드/5.0 함수에 대한 심화 개념.md",
     "Transcendence/JavaScript 완벽 가이드/5.1 arrow(=>) 함수.md",
@@ -222,7 +223,6 @@
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.2 워드프레스 및 MySQL 컨테이너 생성과 연동.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.1 워드프레스 구축.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.0 여러 개의 컨테이너를 연동해 실행해보자.md",
-    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/0. 그림과 실습으로 배우는 도커 & 쿠버네티스.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스",
     "archive(non_fixed)/inception/database/mysql doc 정리",
     "archive(non_fixed)/inception/database",
