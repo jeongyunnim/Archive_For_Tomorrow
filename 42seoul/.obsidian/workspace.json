@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79c50b984c6f1913",
+        "id": "24c951763b3a173a",
         "type": "tabs",
         "children": [
           {
-            "id": "0831ddffe56dc645",
+            "id": "e009ed44fc9c0897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Unmanaged Programming/5. 문자열(string).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "231ba757554e9c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2024-01-20.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/6.3 속성과 프로퍼티.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Unmanaged Programming/5. 문자열(string).md",
+                "file": "Transcendence/JavaScript 완벽 가이드/6.3 속성과 프로퍼티.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ Unmanaged Programming/5. 문자열(string).md",
+                "file": "Transcendence/JavaScript 완벽 가이드/6.3 속성과 프로퍼티.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ Unmanaged Programming/5. 문자열(string).md"
+                "file": "Transcendence/JavaScript 완벽 가이드/6.3 속성과 프로퍼티.md"
               }
             }
           },
@@ -168,8 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0831ddffe56dc645",
+  "active": "e009ed44fc9c0897",
   "lastOpenFiles": [
+    "Transcendence/JavaScript 완벽 가이드/6.3 속성과 프로퍼티.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Excalidraw/inception.excalidraw.md",
+    "Day Planners/2024-01-22.md",
+    "Day Planners/2024-01-20.md",
+    "C++ Unmanaged Programming/5. 문자열(string).md",
     "첨부파일/Pasted image 20240121170116.png",
     "첨부파일/Pasted image 20240121170102.png",
     "첨부파일/Pasted image 20240121170052.png",
@@ -180,19 +174,14 @@
     "첨부파일/Pasted image 20240121165940.png",
     "첨부파일/Pasted image 20240121165920.png",
     "첨부파일/Pasted image 20240121165849.png",
-    "첨부파일/Pasted image 20240121165830.png",
-    "Transcendence/JavaScript 완벽 가이드/6.3 속성과 프로퍼티.md",
     "Day Planners/2024-01-18.md",
     "template/pope 강의 템플릿.md",
-    "C++ Unmanaged Programming/5. 문자열(string).md",
     "template/Zettelkasten.md",
     "To do list/2023-08-10.md",
     "C++ Unmanaged Programming/4. 참조(Reference).md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
     "C++ Unmanaged Programming",
     "Transcendence/JavaScript 완벽 가이드/6.2 노드와 요소.md",
     "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
-    "Day Planners/2024-01-20.md",
     "Transcendence/6.0 DOM.md",
     "Transcendence/Pasted image 20240119142803.png.md",
     "Transcendence/JavaScript 완벽 가이드/6.1 DOM과 생성방식.md",
@@ -203,7 +192,6 @@
     "Transcendence/JavaScript 완벽 가이드/5.0 함수에 대한 심화 개념.md",
     "Transcendence/JavaScript 완벽 가이드/5.1 arrow(=>) 함수.md",
     "Transcendence/JavaScript 완벽 가이드/5.2 Rest 연산자.md",
-    "Excalidraw/inception.excalidraw.md",
     "Day Planners/2023/2023-11-06.md",
     "Day Planners/2023",
     "Transcendence/JavaScript 완벽 가이드/4.3 가비지 콜렉터와 메모리 관리.md",
