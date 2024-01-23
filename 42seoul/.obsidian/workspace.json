@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e9e8be861afd8be9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
-              }
-            }
           }
         ]
       }
@@ -157,39 +147,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e009ed44fc9c0897",
   "lastOpenFiles": [
+    "Transcendence/JavaScript 완벽 가이드/6.3 속성과 프로퍼티.md",
+    "Day Planners/2024-01-22.md",
+    "Day Planners/2024-01-20.md",
+    "Day Planners/2024-01-19.md",
     "첨부파일/Pasted image 20240122182948.png",
     "첨부파일/Pasted image 20240122182043.png",
     "첨부파일/Pasted image 20240122180254.png",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/JavaScript 완벽 가이드/6.4 DOM traversing.md",
-    "Transcendence/JavaScript 완벽 가이드/6.3 속성과 프로퍼티.md",
-    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
-    "Transcendence/JavaScript 완벽 가이드/6.0 DOM.md",
-    "Excalidraw/Drawing 2024-01-22 16.13.25.excalidraw.md",
-    "첨부파일/Pasted Image 20240122164314_856.png",
-    "C++ Unmanaged Programming/5. 문자열(string) 1.md",
     "첨부파일/Pasted image 20240122155452.png",
-    "Day Planners/2024-01-22.md",
+    "첨부파일/Pasted Image 20240122164314_856.png",
+    "Transcendence/JavaScript 완벽 가이드/6.4 DOM traversing.md",
+    "Excalidraw/Drawing 2024-01-22 16.13.25.excalidraw.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
     "Excalidraw/inception.excalidraw.md",
-    "Day Planners/2024-01-20.md",
     "C++ Unmanaged Programming/5. 문자열(string).md",
     "첨부파일/Pasted image 20240121170116.png",
     "첨부파일/Pasted image 20240121170102.png",
     "첨부파일/Pasted image 20240121170052.png",
     "첨부파일/Pasted image 20240121170040.png",
     "첨부파일/Pasted image 20240121170027.png",
-    "첨부파일/Pasted image 20240121170012.png",
     "Day Planners/2024-01-18.md",
     "template/pope 강의 템플릿.md",
     "template/Zettelkasten.md",
@@ -197,14 +184,16 @@
     "C++ Unmanaged Programming/4. 참조(Reference).md",
     "C++ Unmanaged Programming",
     "Transcendence/JavaScript 완벽 가이드/6.2 노드와 요소.md",
+    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
     "Transcendence/6.0 DOM.md",
     "Transcendence/Pasted image 20240119142803.png.md",
     "Transcendence/JavaScript 완벽 가이드/6.1 DOM과 생성방식.md",
-    "Day Planners/2024-01-19.md",
+    "Transcendence/JavaScript 완벽 가이드/6.0 DOM.md",
     "Transcendence/JavaScript 완벽 가이드/5.4 bind() 함수.md",
     "Transcendence/JavaScript 완벽 가이드/5.3 콜백 함수.md",
     "Transcendence/JavaScript 완벽 가이드/5.0 함수에 대한 심화 개념.md",
     "Transcendence/JavaScript 완벽 가이드/5.1 arrow(=>) 함수.md",
+    "Transcendence/JavaScript 완벽 가이드/5.2 Rest 연산자.md",
     "Day Planners/2023",
     "트센 캔버스.canvas",
     "첨부파일",
