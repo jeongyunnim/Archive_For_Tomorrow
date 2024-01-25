@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a7a30e8124005e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/JavaScript 완벽 가이드/7.1 map과 set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "34f23baf01703196",
             "type": "leaf",
             "state": {
@@ -168,10 +180,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "3a6f3ffa1939fb90",
   "lastOpenFiles": [
-    "Day Planners/2024-01-25.md",
+    "첨부파일/Pasted image 20240125214248.png",
+    "Transcendence/JavaScript 완벽 가이드/7.1 map과 set.md",
     "Transcendence/JavaScript 완벽 가이드/7.0 반복과 유사 배열 객체.md",
+    "Day Planners/2024-01-25.md",
+    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
+    "첨부파일/Pasted image 20240125213328.png",
     "Transcendence/SparseArray.md",
     "Transcendence/JavaScript 완벽 가이드/6.5 DOM 요소.md",
     "첨부파일/Pasted image 20240125150334.png",
@@ -185,7 +201,6 @@
     "To do list/2023-07-12.md",
     "Transcendence/작성 해야 함/OAuth 2.0.md",
     "Day Planners/2024-01-23.md",
-    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
     "Transcendence/JavaScript 완벽 가이드/6.4 DOM traversing.md",
     "Transcendence/작성 해야 함/API 문서 작성.md",
     "Day Planners/2024-01-24.md",
@@ -196,8 +211,6 @@
     "Day Planners/2024-01-19.md",
     "Transcendence/Django REST Framework.md",
     "Transcendence/작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
-    "Transcendence/작성 해야 함/Hoisting.md",
-    "Transcendence/작성 해야 함/fallback.md",
     "Transcendence/작성 해야 함",
     "첨부파일/Pasted image 20240122182948.png",
     "첨부파일/Pasted image 20240122182043.png",
@@ -206,7 +219,6 @@
     "첨부파일/Pasted Image 20240122164314_856.png",
     "첨부파일/Pasted image 20240121170116.png",
     "첨부파일/Pasted image 20240121170102.png",
-    "첨부파일/Pasted image 20240121170052.png",
     "C++ Unmanaged Programming",
     "Day Planners/2023",
     "트센 캔버스.canvas",
