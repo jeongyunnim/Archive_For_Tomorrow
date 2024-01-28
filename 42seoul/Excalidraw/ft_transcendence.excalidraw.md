@@ -452,6 +452,29 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 
 해체된 요소를 다시 배열로 묶음 ^SAoGux6N
 
+Object VS Map VS Set ^GsInA9Ep
+
+object ^L136bjU8
+
+key: 어떤 값이라도 키가 될 수 있음 ^VaWmTiS7
+
+Map ^Dtgnyscw
+
+key: string, number, symbol ^yXFQUO92
+
+요소가 많을 경우 object 보다 성능적으로 유리하다. ^WLNrwwA3
+
+1~40개 까지의 데이터
+('키:값'의 한 쌍)를 관리하는 데에는 object가 유리하다. ^yg1ID293
+
+데이터를 자주
+(초당 여러 번) 
+추가/제거 할 때 유리 ^5nMXBdHm
+
+쉽고 빠르게 
+생성할 수 있다.
+성능 측면에서도 좋음. ^BM8DLO5B
+
 
 # Embedded files
 3250f37bdcd718fd30733da1e17818e463171b58: [[Pasted Image 20240126154758_076.png]]
@@ -466,8 +489,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 259,
-			"versionNonce": 62915349,
+			"version": 262,
+			"versionNonce": 1328414806,
 			"isDeleted": false,
 			"id": "C9cNPAzPmzEdD4g0bYTPV",
 			"fillStyle": "solid",
@@ -494,14 +517,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "uLnEnZgL"
 				}
 			],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 205,
-			"versionNonce": 444933307,
+			"version": 208,
+			"versionNonce": 49371146,
 			"isDeleted": false,
 			"id": "uLnEnZgL",
 			"fillStyle": "hachure",
@@ -523,7 +546,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -535,12 +558,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "C9cNPAzPmzEdD4g0bYTPV",
 			"originalText": "개발 영역",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 457,
-			"versionNonce": 391698549,
+			"version": 460,
+			"versionNonce": 1635222934,
 			"isDeleted": false,
 			"id": "aP8sisF7J33AW729kF_gC",
 			"fillStyle": "solid",
@@ -564,14 +587,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 244,
-			"versionNonce": 1234621787,
+			"version": 247,
+			"versionNonce": 937281226,
 			"isDeleted": false,
 			"id": "8Z7vpN1w",
 			"fillStyle": "solid",
@@ -595,7 +618,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -607,12 +630,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 508,
-			"versionNonce": 1609564629,
+			"version": 511,
+			"versionNonce": 316564182,
 			"isDeleted": false,
 			"id": "L2qNAupgM0DCKb3gmlu9x",
 			"fillStyle": "solid",
@@ -635,14 +658,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 225,
-			"versionNonce": 1483305467,
+			"version": 228,
+			"versionNonce": 1523473802,
 			"isDeleted": false,
 			"id": "hFIVFTfw",
 			"fillStyle": "solid",
@@ -665,7 +688,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -677,12 +700,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 521,
-			"versionNonce": 1385889589,
+			"version": 524,
+			"versionNonce": 1173854230,
 			"isDeleted": false,
 			"id": "pf-q9xCmM31XwRVLjijIR",
 			"fillStyle": "solid",
@@ -705,14 +728,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 250,
-			"versionNonce": 2013231771,
+			"version": 253,
+			"versionNonce": 1761483850,
 			"isDeleted": false,
 			"id": "tcfgbkGe",
 			"fillStyle": "solid",
@@ -735,7 +758,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -747,12 +770,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 630,
-			"versionNonce": 633294997,
+			"version": 633,
+			"versionNonce": 1119364438,
 			"isDeleted": false,
 			"id": "C4CGF2UgqDXtBBwnuQ9FE",
 			"fillStyle": "solid",
@@ -774,14 +797,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 718,
-			"versionNonce": 353070907,
+			"version": 721,
+			"versionNonce": 4719370,
 			"isDeleted": false,
 			"id": "CzvI5h6aVX7Hqj0Tt3csn",
 			"fillStyle": "solid",
@@ -803,14 +826,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 191,
-			"versionNonce": 655521269,
+			"version": 194,
+			"versionNonce": 175442582,
 			"isDeleted": false,
 			"id": "vrBb9Xbt",
 			"fillStyle": "solid",
@@ -832,7 +855,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -844,12 +867,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 172,
-			"versionNonce": 1643106267,
+			"version": 175,
+			"versionNonce": 1260851658,
 			"isDeleted": false,
 			"id": "z4dNUjYX",
 			"fillStyle": "solid",
@@ -871,7 +894,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -883,12 +906,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 401,
-			"versionNonce": 1369042773,
+			"version": 404,
+			"versionNonce": 736315350,
 			"isDeleted": false,
 			"id": "IJuE28G_8iB75z14fXF-0",
 			"fillStyle": "solid",
@@ -915,14 +938,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "PQyymEhS"
 				}
 			],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 349,
-			"versionNonce": 549395579,
+			"version": 352,
+			"versionNonce": 1823885450,
 			"isDeleted": false,
 			"id": "PQyymEhS",
 			"fillStyle": "hachure",
@@ -944,7 +967,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -956,12 +979,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "IJuE28G_8iB75z14fXF-0",
 			"originalText": "FE",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 545,
-			"versionNonce": 598424757,
+			"version": 548,
+			"versionNonce": 387439894,
 			"isDeleted": false,
 			"id": "1tsA4dfuU9X23r3dL40B7",
 			"fillStyle": "solid",
@@ -984,14 +1007,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 594,
-			"versionNonce": 758895899,
+			"version": 597,
+			"versionNonce": 1823516490,
 			"isDeleted": false,
 			"id": "8-M2loUuxgLcCl8RG7Ajh",
 			"fillStyle": "solid",
@@ -1013,14 +1036,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 607,
-			"versionNonce": 887873045,
+			"version": 610,
+			"versionNonce": 1904724566,
 			"isDeleted": false,
 			"id": "ejJ6AN0ELw_81QjnOn-6r",
 			"fillStyle": "solid",
@@ -1042,14 +1065,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 486,
-			"versionNonce": 1188592059,
+			"version": 489,
+			"versionNonce": 594619914,
 			"isDeleted": false,
 			"id": "I-pfeJbRZycdodm8NqNQB",
 			"fillStyle": "solid",
@@ -1076,14 +1099,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "2MmHjaTf"
 				}
 			],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 434,
-			"versionNonce": 206656373,
+			"version": 437,
+			"versionNonce": 1778913174,
 			"isDeleted": false,
 			"id": "2MmHjaTf",
 			"fillStyle": "hachure",
@@ -1105,7 +1128,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1117,12 +1140,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "I-pfeJbRZycdodm8NqNQB",
 			"originalText": "BE",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
-			"version": 253,
-			"versionNonce": 448236123,
+			"version": 256,
+			"versionNonce": 636673226,
 			"isDeleted": false,
 			"id": "2vlLDAWq",
 			"fillStyle": "solid",
@@ -1144,7 +1167,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.46710575118583,
@@ -1160,8 +1183,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 380,
-			"versionNonce": 908139733,
+			"version": 383,
+			"versionNonce": 214805718,
 			"isDeleted": false,
 			"id": "myLaLbb9",
 			"fillStyle": "solid",
@@ -1183,7 +1206,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.46710575118583,
@@ -1199,8 +1222,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 457,
-			"versionNonce": 229345019,
+			"version": 460,
+			"versionNonce": 835761034,
 			"isDeleted": false,
 			"id": "U7m1m2EK",
 			"fillStyle": "solid",
@@ -1222,7 +1245,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.46710575118583,
@@ -1238,8 +1261,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 192,
-			"versionNonce": 435206709,
+			"version": 195,
+			"versionNonce": 393060886,
 			"isDeleted": false,
 			"id": "X2Grwt13",
 			"fillStyle": "solid",
@@ -1261,7 +1284,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1273,12 +1296,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "SPA 전환",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 222,
-			"versionNonce": 1178005403,
+			"version": 225,
+			"versionNonce": 423998026,
 			"isDeleted": false,
 			"id": "nUven8wOi_2gAvSVqg1Za",
 			"fillStyle": "solid",
@@ -1300,7 +1323,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1321,8 +1344,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 327,
-			"versionNonce": 279292821,
+			"version": 330,
+			"versionNonce": 1289547606,
 			"isDeleted": false,
 			"id": "AGkp07icIHablqN1Pxgih",
 			"fillStyle": "solid",
@@ -1349,14 +1372,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "ETy4DCbv"
 				}
 			],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 273,
-			"versionNonce": 1988903995,
+			"version": 276,
+			"versionNonce": 791468298,
 			"isDeleted": false,
 			"id": "ETy4DCbv",
 			"fillStyle": "hachure",
@@ -1378,7 +1401,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1390,12 +1413,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "AGkp07icIHablqN1Pxgih",
 			"originalText": "개발 영역",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 525,
-			"versionNonce": 980775157,
+			"version": 528,
+			"versionNonce": 1232114838,
 			"isDeleted": false,
 			"id": "Aq13doZx05l4727AmbN5o",
 			"fillStyle": "solid",
@@ -1419,14 +1442,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 312,
-			"versionNonce": 1720583387,
+			"version": 315,
+			"versionNonce": 855713738,
 			"isDeleted": false,
 			"id": "VcGp3GzZ",
 			"fillStyle": "solid",
@@ -1450,7 +1473,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026522,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1462,12 +1485,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 576,
-			"versionNonce": 350587477,
+			"version": 579,
+			"versionNonce": 1457361366,
 			"isDeleted": false,
 			"id": "F-EwWw01VT12a0VFteXt8",
 			"fillStyle": "solid",
@@ -1490,14 +1513,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 293,
-			"versionNonce": 1036956027,
+			"version": 296,
+			"versionNonce": 1021157002,
 			"isDeleted": false,
 			"id": "KOCAsQB9",
 			"fillStyle": "solid",
@@ -1520,7 +1543,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1532,12 +1555,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 589,
-			"versionNonce": 1355511733,
+			"version": 592,
+			"versionNonce": 1077470998,
 			"isDeleted": false,
 			"id": "AlZf2cUvnfMEWD1p2vzqn",
 			"fillStyle": "solid",
@@ -1560,14 +1583,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 318,
-			"versionNonce": 227592731,
+			"version": 321,
+			"versionNonce": 696073546,
 			"isDeleted": false,
 			"id": "Yz3l69Vp",
 			"fillStyle": "solid",
@@ -1590,7 +1613,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1602,12 +1625,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 698,
-			"versionNonce": 1749858581,
+			"version": 701,
+			"versionNonce": 636982358,
 			"isDeleted": false,
 			"id": "7tj3ALGcVvA74tPKQfcdQ",
 			"fillStyle": "solid",
@@ -1629,14 +1652,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 786,
-			"versionNonce": 449236667,
+			"version": 789,
+			"versionNonce": 104530954,
 			"isDeleted": false,
 			"id": "AyHPLKALyZGwPR5n_S7Nw",
 			"fillStyle": "solid",
@@ -1658,14 +1681,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 259,
-			"versionNonce": 1960758901,
+			"version": 262,
+			"versionNonce": 1374591382,
 			"isDeleted": false,
 			"id": "qRdKGgcZ",
 			"fillStyle": "solid",
@@ -1687,7 +1710,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1699,12 +1722,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 240,
-			"versionNonce": 1746091867,
+			"version": 243,
+			"versionNonce": 2098328266,
 			"isDeleted": false,
 			"id": "otGMvwBo",
 			"fillStyle": "solid",
@@ -1726,7 +1749,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1738,12 +1761,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 521,
-			"versionNonce": 1162295253,
+			"version": 524,
+			"versionNonce": 189986518,
 			"isDeleted": false,
 			"id": "dqe_oJoLE1Qc-QxAik6CW",
 			"fillStyle": "solid",
@@ -1770,14 +1793,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "z0Qw9zxX"
 				}
 			],
-			"updated": 1706001349683,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 469,
-			"versionNonce": 2143853563,
+			"version": 472,
+			"versionNonce": 1084033418,
 			"isDeleted": false,
 			"id": "z0Qw9zxX",
 			"fillStyle": "hachure",
@@ -1799,7 +1822,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349683,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1811,12 +1834,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "dqe_oJoLE1Qc-QxAik6CW",
 			"originalText": "FE",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 693,
-			"versionNonce": 865826101,
+			"version": 696,
+			"versionNonce": 1790553110,
 			"isDeleted": false,
 			"id": "KghutSZDmCXo8DkXsQRp-",
 			"fillStyle": "solid",
@@ -1844,14 +1867,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "kS62BISQ"
 				}
 			],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 158,
-			"versionNonce": 2112447643,
+			"version": 161,
+			"versionNonce": 2014791754,
 			"isDeleted": false,
 			"id": "kS62BISQ",
 			"fillStyle": "solid",
@@ -1874,7 +1897,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1886,12 +1909,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "KghutSZDmCXo8DkXsQRp-",
 			"originalText": "페이지 개발 (JS)",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 695,
-			"versionNonce": 994117269,
+			"version": 698,
+			"versionNonce": 773306710,
 			"isDeleted": false,
 			"id": "vbZNNebSfJT5E9M9wUtPJ",
 			"fillStyle": "solid",
@@ -1913,14 +1936,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 597,
-			"versionNonce": 1512577339,
+			"version": 600,
+			"versionNonce": 727428874,
 			"isDeleted": false,
 			"id": "urh6tAoORoHyglOtlTCJx",
 			"fillStyle": "solid",
@@ -1947,14 +1970,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "lQTT9U2m"
 				}
 			],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 546,
-			"versionNonce": 1324182517,
+			"version": 549,
+			"versionNonce": 214048406,
 			"isDeleted": false,
 			"id": "lQTT9U2m",
 			"fillStyle": "hachure",
@@ -1976,7 +1999,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1988,12 +2011,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "urh6tAoORoHyglOtlTCJx",
 			"originalText": "BE",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
-			"version": 263,
-			"versionNonce": 1910979035,
+			"version": 266,
+			"versionNonce": 786775498,
 			"isDeleted": false,
 			"id": "yxFmYABN",
 			"fillStyle": "solid",
@@ -2015,7 +2038,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2027,12 +2050,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "SSR 전환",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 290,
-			"versionNonce": 1856382293,
+			"version": 293,
+			"versionNonce": 191749078,
 			"isDeleted": false,
 			"id": "8yzF2Jm99b15EX-6ZapNh",
 			"fillStyle": "solid",
@@ -2054,7 +2077,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2075,8 +2098,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 843,
-			"versionNonce": 1379485307,
+			"version": 846,
+			"versionNonce": 265221258,
 			"isDeleted": false,
 			"id": "mzoEcpvVktNYH2qfomtm7",
 			"fillStyle": "solid",
@@ -2104,14 +2127,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "CdYW7d0s"
 				}
 			],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 336,
-			"versionNonce": 2109780661,
+			"version": 339,
+			"versionNonce": 1345319190,
 			"isDeleted": false,
 			"id": "CdYW7d0s",
 			"fillStyle": "solid",
@@ -2134,7 +2157,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2146,12 +2169,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "mzoEcpvVktNYH2qfomtm7",
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 997,
-			"versionNonce": 1105248027,
+			"version": 1000,
+			"versionNonce": 2144588618,
 			"isDeleted": false,
 			"id": "dEsShZFMou07WNKK-4v2V",
 			"fillStyle": "solid",
@@ -2179,14 +2202,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "NY6yFc07"
 				}
 			],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 500,
-			"versionNonce": 1491244053,
+			"version": 503,
+			"versionNonce": 1987927638,
 			"isDeleted": false,
 			"id": "NY6yFc07",
 			"fillStyle": "solid",
@@ -2209,7 +2232,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2221,12 +2244,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "dEsShZFMou07WNKK-4v2V",
 			"originalText": "Node.js",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 1031,
-			"versionNonce": 189801403,
+			"version": 1034,
+			"versionNonce": 1095686666,
 			"isDeleted": false,
 			"id": "4t6jRiOJQLlnU2C7oiftR",
 			"fillStyle": "solid",
@@ -2254,14 +2277,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "ofw3OxaB"
 				}
 			],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 559,
-			"versionNonce": 738281845,
+			"version": 562,
+			"versionNonce": 1663771542,
 			"isDeleted": false,
 			"id": "ofw3OxaB",
 			"fillStyle": "solid",
@@ -2284,7 +2307,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2296,12 +2319,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "4t6jRiOJQLlnU2C7oiftR",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 1093,
-			"versionNonce": 111801435,
+			"version": 1096,
+			"versionNonce": 322635978,
 			"isDeleted": false,
 			"id": "_FqBxSTaRZ8W8HneD1bZ8",
 			"fillStyle": "solid",
@@ -2329,14 +2352,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "cItCyTVv"
 				}
 			],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 621,
-			"versionNonce": 140661461,
+			"version": 624,
+			"versionNonce": 409878742,
 			"isDeleted": false,
 			"id": "cItCyTVv",
 			"fillStyle": "solid",
@@ -2359,7 +2382,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2371,12 +2394,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "_FqBxSTaRZ8W8HneD1bZ8",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 156,
-			"versionNonce": 1673572603,
+			"version": 159,
+			"versionNonce": 489906058,
 			"isDeleted": false,
 			"id": "smjQWj7E",
 			"fillStyle": "solid",
@@ -2398,7 +2421,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2410,12 +2433,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "API 개발\n(JAVA)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
-			"version": 294,
-			"versionNonce": 983248949,
+			"version": 297,
+			"versionNonce": 165393942,
 			"isDeleted": false,
 			"id": "cw4rCP54",
 			"fillStyle": "solid",
@@ -2437,7 +2460,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2453,8 +2476,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 393,
-			"versionNonce": 873912731,
+			"version": 396,
+			"versionNonce": 1534254666,
 			"isDeleted": false,
 			"id": "vAQK-o0Bajzsu29Kk62BS",
 			"fillStyle": "solid",
@@ -2479,14 +2502,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 338,
-			"versionNonce": 1620140437,
+			"version": 341,
+			"versionNonce": 1885897558,
 			"isDeleted": false,
 			"id": "93PcAHmf",
 			"fillStyle": "hachure",
@@ -2509,7 +2532,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2525,8 +2548,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 299,
-			"versionNonce": 887025211,
+			"version": 302,
+			"versionNonce": 181699850,
 			"isDeleted": false,
 			"id": "eBxAMCxW",
 			"fillStyle": "solid",
@@ -2549,7 +2572,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2561,12 +2584,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "{{JINJA}}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 235,
-			"versionNonce": 1064986357,
+			"version": 238,
+			"versionNonce": 510240918,
 			"isDeleted": false,
 			"id": "PMFEDvVzfjsMuT0jnfmwc",
 			"fillStyle": "solid",
@@ -2591,14 +2614,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 239,
-			"versionNonce": 1492872923,
+			"version": 242,
+			"versionNonce": 349393866,
 			"isDeleted": false,
 			"id": "9es7oLrl",
 			"fillStyle": "solid",
@@ -2621,7 +2644,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2633,12 +2656,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Pyton file\nwith\nURL routing",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
-			"version": 423,
-			"versionNonce": 1507573845,
+			"version": 426,
+			"versionNonce": 1402217942,
 			"isDeleted": false,
 			"id": "xYnhf-OH1dLXHWn2PXn86",
 			"fillStyle": "solid",
@@ -2663,14 +2686,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 491,
-			"versionNonce": 318692219,
+			"version": 494,
+			"versionNonce": 2072660618,
 			"isDeleted": false,
 			"id": "mv8aTowV",
 			"fillStyle": "solid",
@@ -2693,7 +2716,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026523,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2705,12 +2728,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Python file\nusing Django",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 668,
-			"versionNonce": 1166732725,
+			"version": 671,
+			"versionNonce": 285014806,
 			"isDeleted": false,
 			"id": "I1v2SJwxjKd_uoKY-cQbC",
 			"fillStyle": "solid",
@@ -2736,14 +2759,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 584,
-			"versionNonce": 1596699675,
+			"version": 587,
+			"versionNonce": 1169451338,
 			"isDeleted": false,
 			"id": "syvznL0W",
 			"fillStyle": "solid",
@@ -2767,7 +2790,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2779,12 +2802,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Python file\nusing Django\nModels",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
-			"version": 393,
-			"versionNonce": 1101885205,
+			"version": 396,
+			"versionNonce": 1830365270,
 			"isDeleted": false,
 			"id": "LHx5Y0ZDnqHMDL2RaqGMI",
 			"fillStyle": "solid",
@@ -2810,14 +2833,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 396,
-			"versionNonce": 225736891,
+			"version": 399,
+			"versionNonce": 1789702154,
 			"isDeleted": false,
 			"id": "Jcm3KDlD",
 			"fillStyle": "solid",
@@ -2841,7 +2864,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2853,12 +2876,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Application \nlogic \nin Python",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "line",
-			"version": 846,
-			"versionNonce": 213435509,
+			"version": 849,
+			"versionNonce": 1740483990,
 			"isDeleted": false,
 			"id": "Aaa4AUfW2d47SHQmQO7m9",
 			"fillStyle": "solid",
@@ -2880,7 +2903,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2937,8 +2960,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 1289,
-			"versionNonce": 1266395483,
+			"version": 1292,
+			"versionNonce": 1047404234,
 			"isDeleted": false,
 			"id": "QmF56M6JniVJDg5MsJZZz",
 			"fillStyle": "solid",
@@ -2960,7 +2983,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3017,8 +3040,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 1134,
-			"versionNonce": 2054319573,
+			"version": 1137,
+			"versionNonce": 1042254550,
 			"isDeleted": false,
 			"id": "qqLaMe85qOjtv1aaXkwnv",
 			"fillStyle": "solid",
@@ -3040,7 +3063,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3097,8 +3120,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 1183,
-			"versionNonce": 1855178235,
+			"version": 1186,
+			"versionNonce": 1569961354,
 			"isDeleted": false,
 			"id": "eakcpK7sRn_-cwfQHA5-W",
 			"fillStyle": "solid",
@@ -3120,7 +3143,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3177,8 +3200,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 1043,
-			"versionNonce": 1240460085,
+			"version": 1046,
+			"versionNonce": 1054064662,
 			"isDeleted": false,
 			"id": "gqWFIHqMHl5JMEC7TiVOF",
 			"fillStyle": "solid",
@@ -3200,7 +3223,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3257,8 +3280,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 302,
-			"versionNonce": 2109689499,
+			"version": 305,
+			"versionNonce": 425227338,
 			"isDeleted": false,
 			"id": "DQB4DZSM",
 			"fillStyle": "solid",
@@ -3280,7 +3303,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -3296,8 +3319,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 999734421,
+			"version": 156,
+			"versionNonce": 500125014,
 			"isDeleted": false,
 			"id": "id7skgSt",
 			"fillStyle": "solid",
@@ -3319,7 +3342,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -3335,8 +3358,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 223,
-			"versionNonce": 2075181883,
+			"version": 226,
+			"versionNonce": 1670863626,
 			"isDeleted": false,
 			"id": "dLwVjPMQWnQKzS528S-eu",
 			"fillStyle": "solid",
@@ -3358,14 +3381,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 375,
-			"versionNonce": 1729913333,
+			"version": 378,
+			"versionNonce": 1214722710,
 			"isDeleted": false,
 			"id": "ntleZQzoTLqtKxSR1XGnS",
 			"fillStyle": "solid",
@@ -3387,14 +3410,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 479,
-			"versionNonce": 1892328411,
+			"version": 482,
+			"versionNonce": 986409418,
 			"isDeleted": false,
 			"id": "2p5FaZFOOHx-h9OyC39-C",
 			"fillStyle": "solid",
@@ -3416,14 +3439,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1003,
-			"versionNonce": 1367759701,
+			"version": 1006,
+			"versionNonce": 961572822,
 			"isDeleted": false,
 			"id": "NZ7-speHxiP0m8-Pqe1BX",
 			"fillStyle": "solid",
@@ -3445,7 +3468,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3490,8 +3513,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 1261,
-			"versionNonce": 891252859,
+			"version": 1264,
+			"versionNonce": 370122890,
 			"isDeleted": false,
 			"id": "Cbt8_jnkOtlAN8pQyrSdB",
 			"fillStyle": "solid",
@@ -3518,7 +3541,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3559,8 +3582,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 1397,
-			"versionNonce": 1126836405,
+			"version": 1400,
+			"versionNonce": 1285555478,
 			"isDeleted": false,
 			"id": "Yc3GDiXUwH_z-GmekjqYz",
 			"fillStyle": "solid",
@@ -3587,7 +3610,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3628,8 +3651,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 1462,
-			"versionNonce": 2054269211,
+			"version": 1465,
+			"versionNonce": 1360985930,
 			"isDeleted": false,
 			"id": "AE7ek0tcPU80O69AUtm4E",
 			"fillStyle": "solid",
@@ -3656,7 +3679,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3697,8 +3720,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "ellipse",
-			"version": 1096,
-			"versionNonce": 1571637781,
+			"version": 1099,
+			"versionNonce": 332067414,
 			"isDeleted": false,
 			"id": "LdvAAmiDwTY9EV1u4fJh6",
 			"fillStyle": "solid",
@@ -3724,14 +3747,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 204,
-			"versionNonce": 372493755,
+			"version": 207,
+			"versionNonce": 408192522,
 			"isDeleted": false,
 			"id": "ZcgJYsRS",
 			"fillStyle": "solid",
@@ -3754,7 +3777,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3766,12 +3789,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "User\n(Browser)",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "line",
-			"version": 960,
-			"versionNonce": 1912946549,
+			"version": 963,
+			"versionNonce": 698759062,
 			"isDeleted": false,
 			"id": "OXVswG2m34oxpwWTIkNFJ",
 			"fillStyle": "solid",
@@ -3793,7 +3816,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3838,8 +3861,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "ellipse",
-			"version": 2163,
-			"versionNonce": 193486427,
+			"version": 2166,
+			"versionNonce": 1420506314,
 			"isDeleted": false,
 			"id": "c26wm0lGHqEKw14VWgDzq",
 			"fillStyle": "solid",
@@ -3867,14 +3890,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1907,
-			"versionNonce": 376932565,
+			"version": 1910,
+			"versionNonce": 107402454,
 			"isDeleted": false,
 			"id": "PvUfhT1PQxGWrF1buJ4uw",
 			"fillStyle": "solid",
@@ -3902,14 +3925,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 2176,
-			"versionNonce": 1430379259,
+			"version": 2179,
+			"versionNonce": 398330762,
 			"isDeleted": false,
 			"id": "hJq09bRsHjE6C0gWqOKfr",
 			"fillStyle": "solid",
@@ -3937,14 +3960,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 2264,
-			"versionNonce": 2090444341,
+			"version": 2267,
+			"versionNonce": 1403111958,
 			"isDeleted": false,
 			"id": "9ok2JdS--D2bsht-dvEJN",
 			"fillStyle": "solid",
@@ -3972,14 +3995,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 821,
-			"versionNonce": 1877132187,
+			"version": 824,
+			"versionNonce": 130550346,
 			"isDeleted": false,
 			"id": "vwfFwXdIL17Z44N2ib0DB",
 			"fillStyle": "solid",
@@ -4004,14 +4027,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 2099,
-			"versionNonce": 122754965,
+			"version": 2102,
+			"versionNonce": 1078728534,
 			"isDeleted": false,
 			"id": "jGQtdjfSxsbmVi07xC1tx",
 			"fillStyle": "solid",
@@ -4038,14 +4061,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 1971,
-			"versionNonce": 597530683,
+			"version": 1974,
+			"versionNonce": 1269051658,
 			"isDeleted": false,
 			"id": "_ZEF5HkN_pjjDSY0ygZSy",
 			"fillStyle": "solid",
@@ -4072,14 +4095,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 1586,
-			"versionNonce": 550722805,
+			"version": 1589,
+			"versionNonce": 1421524118,
 			"isDeleted": false,
 			"id": "FjKoGqRRIaPRZKQzJGu04",
 			"fillStyle": "solid",
@@ -4106,14 +4129,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706001349684,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1336,
-			"versionNonce": 240441563,
+			"version": 1339,
+			"versionNonce": 1993179082,
 			"isDeleted": false,
 			"id": "u4KRL12y6yygQ9Nz3PRbd",
 			"fillStyle": "solid",
@@ -4138,7 +4161,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4159,8 +4182,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 1525,
-			"versionNonce": 1353053781,
+			"version": 1528,
+			"versionNonce": 1185069526,
 			"isDeleted": false,
 			"id": "N3095QrvYmKSz5-SvLJf6",
 			"fillStyle": "solid",
@@ -4185,7 +4208,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4206,8 +4229,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 578,
-			"versionNonce": 1838876027,
+			"version": 581,
+			"versionNonce": 1969157770,
 			"isDeleted": false,
 			"id": "MjC0F1jR",
 			"fillStyle": "solid",
@@ -4231,7 +4254,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4243,12 +4266,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "SQL",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
-			"version": 422,
-			"versionNonce": 295592885,
+			"version": 425,
+			"versionNonce": 1293487894,
 			"isDeleted": false,
 			"id": "PXNOTX9L",
 			"fillStyle": "solid",
@@ -4271,7 +4294,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4283,12 +4306,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Database",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 266,
-			"versionNonce": 682794523,
+			"version": 269,
+			"versionNonce": 2014549322,
 			"isDeleted": false,
 			"id": "hrxEldlIf2mAHyOUWC8ce",
 			"fillStyle": "solid",
@@ -4310,14 +4333,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 227,
-			"versionNonce": 1742873877,
+			"version": 230,
+			"versionNonce": 1955773526,
 			"isDeleted": false,
 			"id": "WCaKcfRU",
 			"fillStyle": "solid",
@@ -4339,7 +4362,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026524,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4355,8 +4378,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 367,
-			"versionNonce": 445522619,
+			"version": 370,
+			"versionNonce": 1615223818,
 			"isDeleted": false,
 			"id": "GYv7MKqDlxPF6z3WJ3uHN",
 			"fillStyle": "solid",
@@ -4383,14 +4406,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "LXktbsW1"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 357,
-			"versionNonce": 921090677,
+			"version": 360,
+			"versionNonce": 1927594390,
 			"isDeleted": false,
 			"id": "LXktbsW1",
 			"fillStyle": "solid",
@@ -4412,7 +4435,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4428,8 +4451,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 400,
-			"versionNonce": 466621275,
+			"version": 403,
+			"versionNonce": 737299146,
 			"isDeleted": false,
 			"id": "GrOfzzqpfgjixuJs2yRDr",
 			"fillStyle": "solid",
@@ -4456,14 +4479,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "IWkurSrx"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 388,
-			"versionNonce": 1467065301,
+			"version": 391,
+			"versionNonce": 2068061910,
 			"isDeleted": false,
 			"id": "IWkurSrx",
 			"fillStyle": "solid",
@@ -4485,7 +4508,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4501,8 +4524,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 425,
-			"versionNonce": 1288368123,
+			"version": 428,
+			"versionNonce": 1639080330,
 			"isDeleted": false,
 			"id": "CBBPidEzr-fGOcCzP8GW4",
 			"fillStyle": "solid",
@@ -4529,14 +4552,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "eftDxgWm"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 415,
-			"versionNonce": 1838702901,
+			"version": 418,
+			"versionNonce": 306566166,
 			"isDeleted": false,
 			"id": "eftDxgWm",
 			"fillStyle": "solid",
@@ -4558,7 +4581,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4574,8 +4597,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 364,
-			"versionNonce": 528562331,
+			"version": 367,
+			"versionNonce": 2093064266,
 			"isDeleted": false,
 			"id": "HS7GSsqd7y6qT14JAB3fN",
 			"fillStyle": "solid",
@@ -4597,14 +4620,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 328,
-			"versionNonce": 2126541461,
+			"version": 331,
+			"versionNonce": 1641996630,
 			"isDeleted": false,
 			"id": "XaPvM3AH",
 			"fillStyle": "solid",
@@ -4626,7 +4649,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4642,8 +4665,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 298,
-			"versionNonce": 564489531,
+			"version": 301,
+			"versionNonce": 1492846346,
 			"isDeleted": false,
 			"id": "GuyzdlN6YrXSsBDK6ADbH",
 			"fillStyle": "solid",
@@ -4667,14 +4690,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 254,
-			"versionNonce": 1201625077,
+			"version": 257,
+			"versionNonce": 224675478,
 			"isDeleted": false,
 			"id": "mJA2OOSV",
 			"fillStyle": "solid",
@@ -4696,7 +4719,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4712,8 +4735,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 692,
-			"versionNonce": 110759387,
+			"version": 695,
+			"versionNonce": 517576138,
 			"isDeleted": false,
 			"id": "z5RThGOyj3UUsQtTFT9pY",
 			"fillStyle": "solid",
@@ -4742,14 +4765,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "IgJcIfba"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 137,
-			"versionNonce": 1379570005,
+			"version": 140,
+			"versionNonce": 92996566,
 			"isDeleted": false,
 			"id": "IgJcIfba",
 			"fillStyle": "solid",
@@ -4771,7 +4794,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4783,12 +4806,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "z5RThGOyj3UUsQtTFT9pY",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 725,
-			"versionNonce": 1903270523,
+			"version": 728,
+			"versionNonce": 796413066,
 			"isDeleted": false,
 			"id": "tlwX4WVnq_Px11QhUH_mt",
 			"fillStyle": "solid",
@@ -4817,14 +4840,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "T0cd8Scg"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 120,
-			"versionNonce": 1273470645,
+			"version": 123,
+			"versionNonce": 1550326038,
 			"isDeleted": false,
 			"id": "T0cd8Scg",
 			"fillStyle": "solid",
@@ -4846,7 +4869,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4858,12 +4881,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "tlwX4WVnq_Px11QhUH_mt",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 723,
-			"versionNonce": 2129564443,
+			"version": 726,
+			"versionNonce": 278014794,
 			"isDeleted": false,
 			"id": "b66l67TojYQHhqAJHjF_w",
 			"fillStyle": "solid",
@@ -4892,14 +4915,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "sLQhlCFM"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 140,
-			"versionNonce": 457965589,
+			"version": 143,
+			"versionNonce": 426804822,
 			"isDeleted": false,
 			"id": "sLQhlCFM",
 			"fillStyle": "solid",
@@ -4921,7 +4944,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4933,12 +4956,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "b66l67TojYQHhqAJHjF_w",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 244,
-			"versionNonce": 260274107,
+			"version": 247,
+			"versionNonce": 1484927498,
 			"isDeleted": false,
 			"id": "iRywGQeNshpwfQJHsqRiL",
 			"fillStyle": "solid",
@@ -4967,14 +4990,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "BqZgZ4rU"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 200,
-			"versionNonce": 912078197,
+			"version": 203,
+			"versionNonce": 226053014,
 			"isDeleted": false,
 			"id": "BqZgZ4rU",
 			"fillStyle": "solid",
@@ -4996,7 +5019,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5008,12 +5031,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "iRywGQeNshpwfQJHsqRiL",
 			"originalText": "app\n1",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
-			"version": 280,
-			"versionNonce": 1364379739,
+			"version": 283,
+			"versionNonce": 440623306,
 			"isDeleted": false,
 			"id": "4WvREpvm6zGhh_1CZTBe9",
 			"fillStyle": "solid",
@@ -5042,14 +5065,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "9uDJNg7g"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 237,
-			"versionNonce": 945864405,
+			"version": 240,
+			"versionNonce": 649554134,
 			"isDeleted": false,
 			"id": "9uDJNg7g",
 			"fillStyle": "solid",
@@ -5071,7 +5094,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5083,12 +5106,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "4WvREpvm6zGhh_1CZTBe9",
 			"originalText": "app\n2",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
-			"version": 266,
-			"versionNonce": 170853627,
+			"version": 269,
+			"versionNonce": 1366341514,
 			"isDeleted": false,
 			"id": "owXjRN_QZlXRNKjp3xJC0",
 			"fillStyle": "solid",
@@ -5117,14 +5140,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "YCjyK6Hk"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 223,
-			"versionNonce": 938220597,
+			"version": 226,
+			"versionNonce": 1153424918,
 			"isDeleted": false,
 			"id": "YCjyK6Hk",
 			"fillStyle": "solid",
@@ -5146,7 +5169,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5158,12 +5181,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "owXjRN_QZlXRNKjp3xJC0",
 			"originalText": "app\n3",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
-			"version": 275,
-			"versionNonce": 563785115,
+			"version": 278,
+			"versionNonce": 1313158730,
 			"isDeleted": false,
 			"id": "NfDUjIzRtHf1MUHzBWDej",
 			"fillStyle": "solid",
@@ -5192,14 +5215,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "ROF1ayKj"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 234,
-			"versionNonce": 1558498709,
+			"version": 237,
+			"versionNonce": 210217814,
 			"isDeleted": false,
 			"id": "ROF1ayKj",
 			"fillStyle": "solid",
@@ -5221,7 +5244,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5233,12 +5256,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "NfDUjIzRtHf1MUHzBWDej",
 			"originalText": "app\nN",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "line",
-			"version": 152,
-			"versionNonce": 1791509051,
+			"version": 155,
+			"versionNonce": 563862794,
 			"isDeleted": false,
 			"id": "P7pWL99NG8HR4rDXCY4ae",
 			"fillStyle": "solid",
@@ -5262,7 +5285,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5283,8 +5306,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 437,
-			"versionNonce": 914379509,
+			"version": 440,
+			"versionNonce": 1013174422,
 			"isDeleted": false,
 			"id": "qWhDMnEyTgI3YQ32LdN8G",
 			"fillStyle": "solid",
@@ -5308,14 +5331,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 401,
-			"versionNonce": 781861595,
+			"version": 404,
+			"versionNonce": 149924810,
 			"isDeleted": false,
 			"id": "XbRItT3j",
 			"fillStyle": "solid",
@@ -5339,7 +5362,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5355,8 +5378,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 374,
-			"versionNonce": 1363422293,
+			"version": 377,
+			"versionNonce": 609750,
 			"isDeleted": false,
 			"id": "_QmI2ctQ8FDqsVUjzoJfZ",
 			"fillStyle": "solid",
@@ -5387,14 +5410,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 327,
-			"versionNonce": 1973628795,
+			"version": 330,
+			"versionNonce": 1515954826,
 			"isDeleted": false,
 			"id": "HNMaebG5",
 			"fillStyle": "solid",
@@ -5418,7 +5441,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5434,8 +5457,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 765,
-			"versionNonce": 218487221,
+			"version": 768,
+			"versionNonce": 1150100246,
 			"isDeleted": false,
 			"id": "M6cBo-06QzSZuvkU6WEkp",
 			"fillStyle": "solid",
@@ -5466,14 +5489,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "pEcRlh6c"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 210,
-			"versionNonce": 304449563,
+			"version": 213,
+			"versionNonce": 1889190218,
 			"isDeleted": false,
 			"id": "pEcRlh6c",
 			"fillStyle": "solid",
@@ -5497,7 +5520,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5509,12 +5532,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "M6cBo-06QzSZuvkU6WEkp",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 798,
-			"versionNonce": 854252309,
+			"version": 801,
+			"versionNonce": 207900758,
 			"isDeleted": false,
 			"id": "0--KxwnQghmY_lg4IGGc_",
 			"fillStyle": "solid",
@@ -5545,14 +5568,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "KIRYmW5Y"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 193,
-			"versionNonce": 1779682491,
+			"version": 196,
+			"versionNonce": 386402314,
 			"isDeleted": false,
 			"id": "KIRYmW5Y",
 			"fillStyle": "solid",
@@ -5576,7 +5599,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026525,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5588,12 +5611,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "0--KxwnQghmY_lg4IGGc_",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 799,
-			"versionNonce": 1265152117,
+			"version": 802,
+			"versionNonce": 1130616214,
 			"isDeleted": false,
 			"id": "4rZsAjVennqt93L939FFe",
 			"fillStyle": "solid",
@@ -5628,14 +5651,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 215,
-			"versionNonce": 17857883,
+			"version": 218,
+			"versionNonce": 1973319370,
 			"isDeleted": false,
 			"id": "bvjIUe99",
 			"fillStyle": "solid",
@@ -5659,7 +5682,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5671,12 +5694,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "4rZsAjVennqt93L939FFe",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 413,
-			"versionNonce": 876927445,
+			"version": 416,
+			"versionNonce": 314618582,
 			"isDeleted": false,
 			"id": "EtsOGTUQbH_mvSetIOHeP",
 			"fillStyle": "solid",
@@ -5702,14 +5725,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 430,
-			"versionNonce": 1114511867,
+			"version": 433,
+			"versionNonce": 2096696714,
 			"isDeleted": false,
 			"id": "RhpUg3Dw",
 			"fillStyle": "solid",
@@ -5733,7 +5756,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5749,8 +5772,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 820,
-			"versionNonce": 1989465909,
+			"version": 823,
+			"versionNonce": 890234902,
 			"isDeleted": false,
 			"id": "V9T8CrdmVf8_jwYDXJrzX",
 			"fillStyle": "solid",
@@ -5785,14 +5808,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 274,
-			"versionNonce": 187638427,
+			"version": 277,
+			"versionNonce": 1381157962,
 			"isDeleted": false,
 			"id": "pIkLz06S",
 			"fillStyle": "solid",
@@ -5816,7 +5839,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5828,12 +5851,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "V9T8CrdmVf8_jwYDXJrzX",
 			"originalText": "view.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 419,
-			"versionNonce": 1555966101,
+			"version": 422,
+			"versionNonce": 1246131542,
 			"isDeleted": false,
 			"id": "NecjlQVe7IaZ4xCaD9gE4",
 			"fillStyle": "solid",
@@ -5857,7 +5880,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5878,8 +5901,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 906,
-			"versionNonce": 1946556219,
+			"version": 909,
+			"versionNonce": 998683402,
 			"isDeleted": false,
 			"id": "sXVRurNNDuV6D1Y2s4hHT",
 			"fillStyle": "solid",
@@ -5914,14 +5937,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349685,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 365,
-			"versionNonce": 1215712757,
+			"version": 368,
+			"versionNonce": 733567638,
 			"isDeleted": false,
 			"id": "nHDa6V7P",
 			"fillStyle": "solid",
@@ -5945,7 +5968,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349685,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5957,12 +5980,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "sXVRurNNDuV6D1Y2s4hHT",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 431,
-			"versionNonce": 1784144001,
+			"version": 443,
+			"versionNonce": 185582026,
 			"isDeleted": false,
 			"id": "GeGtbAcF3nyDucN5uJizp",
 			"fillStyle": "solid",
@@ -5986,7 +6009,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706251685734,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6011,8 +6034,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "arrow",
-			"version": 688,
-			"versionNonce": 275392609,
+			"version": 727,
+			"versionNonce": 1075681238,
 			"isDeleted": false,
 			"id": "iHHaSktUluC1UNoQ0j_NW",
 			"fillStyle": "solid",
@@ -6036,7 +6059,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706251685736,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6065,8 +6088,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "arrow",
-			"version": 335,
-			"versionNonce": 791659643,
+			"version": 338,
+			"versionNonce": 201914506,
 			"isDeleted": false,
 			"id": "2Y6eCQSVmAUSZ5E6xxVeE",
 			"fillStyle": "solid",
@@ -6090,7 +6113,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6115,8 +6138,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 288,
-			"versionNonce": 1878594741,
+			"version": 291,
+			"versionNonce": 1334324502,
 			"isDeleted": false,
 			"id": "NCPo6cnf",
 			"fillStyle": "solid",
@@ -6143,7 +6166,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.736116904425073,
@@ -6159,8 +6182,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 986,
-			"versionNonce": 2002222363,
+			"version": 989,
+			"versionNonce": 1848465226,
 			"isDeleted": false,
 			"id": "NKB7ICNE",
 			"fillStyle": "solid",
@@ -6187,7 +6210,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.736116904425073,
@@ -6203,8 +6226,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "arrow",
-			"version": 364,
-			"versionNonce": 1774106133,
+			"version": 367,
+			"versionNonce": 1466833494,
 			"isDeleted": false,
 			"id": "ydMRygzQMJASmGT5vZpUC",
 			"fillStyle": "solid",
@@ -6228,7 +6251,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6257,8 +6280,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 635,
-			"versionNonce": 524231099,
+			"version": 638,
+			"versionNonce": 836230666,
 			"isDeleted": false,
 			"id": "__lP39u76BhNGjuz4MwjG",
 			"fillStyle": "hachure",
@@ -6282,14 +6305,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 655,
-			"versionNonce": 1359555445,
+			"version": 658,
+			"versionNonce": 1587830678,
 			"isDeleted": false,
 			"id": "p-1dXGkriAR3zglPJ4u8O",
 			"fillStyle": "hachure",
@@ -6313,14 +6336,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 642,
-			"versionNonce": 602715,
+			"version": 645,
+			"versionNonce": 335776970,
 			"isDeleted": false,
 			"id": "_iGtSW0LwgbYT9mI13j2_",
 			"fillStyle": "hachure",
@@ -6345,7 +6368,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6366,8 +6389,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 673,
-			"versionNonce": 1176368341,
+			"version": 676,
+			"versionNonce": 1231027414,
 			"isDeleted": false,
 			"id": "7Cnsz0r-VAzk7skNRzVIs",
 			"fillStyle": "hachure",
@@ -6392,7 +6415,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6413,8 +6436,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 664,
-			"versionNonce": 713567995,
+			"version": 667,
+			"versionNonce": 2051761034,
 			"isDeleted": false,
 			"id": "1TVR7Tbl8YSvdIjqofba-",
 			"fillStyle": "hachure",
@@ -6439,7 +6462,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6460,8 +6483,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 695,
-			"versionNonce": 1150456373,
+			"version": 698,
+			"versionNonce": 758510102,
 			"isDeleted": false,
 			"id": "0p8QlCszDaGK0nr1p1XEI",
 			"fillStyle": "hachure",
@@ -6486,7 +6509,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6507,8 +6530,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 666,
-			"versionNonce": 1899927451,
+			"version": 669,
+			"versionNonce": 1592418890,
 			"isDeleted": false,
 			"id": "TaGW9Bx0HFfE8pkgb3WKr",
 			"fillStyle": "hachure",
@@ -6533,7 +6556,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6554,8 +6577,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 698,
-			"versionNonce": 961315733,
+			"version": 701,
+			"versionNonce": 622542678,
 			"isDeleted": false,
 			"id": "KTrqSSaar5uvx0L1sunlT",
 			"fillStyle": "hachure",
@@ -6580,7 +6603,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6601,8 +6624,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 687,
-			"versionNonce": 845081659,
+			"version": 690,
+			"versionNonce": 1018923274,
 			"isDeleted": false,
 			"id": "e4o-P1mFxShKilA8Wa4jq",
 			"fillStyle": "hachure",
@@ -6627,7 +6650,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6648,8 +6671,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 719,
-			"versionNonce": 1484867829,
+			"version": 722,
+			"versionNonce": 627369110,
 			"isDeleted": false,
 			"id": "xLr7bARltdg70S2C1lISr",
 			"fillStyle": "hachure",
@@ -6674,7 +6697,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6695,8 +6718,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 739,
-			"versionNonce": 1640738011,
+			"version": 742,
+			"versionNonce": 2067388362,
 			"isDeleted": false,
 			"id": "M_r2KwbULCus8ZC-hmk_B",
 			"fillStyle": "hachure",
@@ -6721,7 +6744,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6742,8 +6765,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 642,
-			"versionNonce": 867590741,
+			"version": 645,
+			"versionNonce": 1338499542,
 			"isDeleted": false,
 			"id": "8uIQbm6o1EuiabvMwkhLY",
 			"fillStyle": "hachure",
@@ -6768,7 +6791,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6789,8 +6812,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 665,
-			"versionNonce": 1394039163,
+			"version": 668,
+			"versionNonce": 1518358154,
 			"isDeleted": false,
 			"id": "EMgH6m1dwT9b2pCwQSEb2",
 			"fillStyle": "hachure",
@@ -6815,7 +6838,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6836,8 +6859,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 673,
-			"versionNonce": 264327093,
+			"version": 676,
+			"versionNonce": 1197029142,
 			"isDeleted": false,
 			"id": "F8hJRJ2LnKdiqt33bJ9tn",
 			"fillStyle": "hachure",
@@ -6862,7 +6885,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6883,8 +6906,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 664,
-			"versionNonce": 1132753435,
+			"version": 667,
+			"versionNonce": 1598680394,
 			"isDeleted": false,
 			"id": "b9inAy0dp_Tfgz_v4aUtv",
 			"fillStyle": "hachure",
@@ -6909,7 +6932,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6930,8 +6953,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 695,
-			"versionNonce": 2059899157,
+			"version": 698,
+			"versionNonce": 76407894,
 			"isDeleted": false,
 			"id": "SrL7iuxFP98iUAdZ_inFl",
 			"fillStyle": "hachure",
@@ -6956,7 +6979,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6977,8 +7000,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 666,
-			"versionNonce": 604337851,
+			"version": 669,
+			"versionNonce": 1056027658,
 			"isDeleted": false,
 			"id": "6iJe3QvcGp4OtoogYR9qh",
 			"fillStyle": "hachure",
@@ -7003,7 +7026,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7024,8 +7047,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 698,
-			"versionNonce": 574531189,
+			"version": 701,
+			"versionNonce": 691726742,
 			"isDeleted": false,
 			"id": "RzIs6XbceW8SZpD4VEEEF",
 			"fillStyle": "hachure",
@@ -7050,7 +7073,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7071,8 +7094,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 688,
-			"versionNonce": 591193947,
+			"version": 691,
+			"versionNonce": 1265803978,
 			"isDeleted": false,
 			"id": "P1_MIVbh0niYDcGUFuU7g",
 			"fillStyle": "hachure",
@@ -7097,7 +7120,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7118,8 +7141,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 718,
-			"versionNonce": 1760301013,
+			"version": 721,
+			"versionNonce": 1419069142,
 			"isDeleted": false,
 			"id": "QIy4nqbp8rrlIZ7TGynfK",
 			"fillStyle": "hachure",
@@ -7144,7 +7167,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7165,8 +7188,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 739,
-			"versionNonce": 2004698107,
+			"version": 742,
+			"versionNonce": 1600633226,
 			"isDeleted": false,
 			"id": "PAbUwWs5o-XimAod0NrK4",
 			"fillStyle": "hachure",
@@ -7191,7 +7214,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7212,8 +7235,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 642,
-			"versionNonce": 1021660469,
+			"version": 645,
+			"versionNonce": 1999764502,
 			"isDeleted": false,
 			"id": "9kwc6y0TTtpNOSZEy_l4L",
 			"fillStyle": "hachure",
@@ -7238,7 +7261,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026526,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7259,8 +7282,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 665,
-			"versionNonce": 1758006427,
+			"version": 668,
+			"versionNonce": 1242298442,
 			"isDeleted": false,
 			"id": "zIWwnjrJ8w81wYsgZKfwU",
 			"fillStyle": "hachure",
@@ -7285,7 +7308,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7306,8 +7329,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 695,
-			"versionNonce": 764403349,
+			"version": 698,
+			"versionNonce": 654707030,
 			"isDeleted": false,
 			"id": "ja8KQVzVYa5PDVSOUJXsE",
 			"fillStyle": "hachure",
@@ -7332,7 +7355,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7353,8 +7376,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 712,
-			"versionNonce": 450019643,
+			"version": 715,
+			"versionNonce": 993681162,
 			"isDeleted": false,
 			"id": "7yj1VPXkgjVJu8aAXd_On",
 			"fillStyle": "hachure",
@@ -7379,7 +7402,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7400,8 +7423,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 718,
-			"versionNonce": 1101087733,
+			"version": 721,
+			"versionNonce": 1936092822,
 			"isDeleted": false,
 			"id": "tMKDRPTzGjmb30hr056C-",
 			"fillStyle": "hachure",
@@ -7426,7 +7449,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7447,8 +7470,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 722,
-			"versionNonce": 385671643,
+			"version": 725,
+			"versionNonce": 795733450,
 			"isDeleted": false,
 			"id": "Huf9P4K3XLzyge3WswZBJ",
 			"fillStyle": "hachure",
@@ -7474,7 +7497,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7507,8 +7530,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 635,
-			"versionNonce": 220134741,
+			"version": 638,
+			"versionNonce": 956836822,
 			"isDeleted": false,
 			"id": "I55HQIdMUqjdWTp384YOF",
 			"fillStyle": "hachure",
@@ -7534,14 +7557,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 318,
-			"versionNonce": 374992507,
+			"version": 321,
+			"versionNonce": 1539417226,
 			"isDeleted": false,
 			"id": "khMVaBKF",
 			"fillStyle": "solid",
@@ -7563,7 +7586,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -7575,12 +7598,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 757,
-			"versionNonce": 123636405,
+			"version": 760,
+			"versionNonce": 1979728150,
 			"isDeleted": false,
 			"id": "Cuo01-ayZ7vI4d5MAEaxO",
 			"fillStyle": "solid",
@@ -7609,14 +7632,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "uIPymwaS"
 				}
 			],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 751,
-			"versionNonce": 195847963,
+			"version": 754,
+			"versionNonce": 435192650,
 			"isDeleted": false,
 			"id": "uIPymwaS",
 			"fillStyle": "solid",
@@ -7638,7 +7661,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -7650,12 +7673,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "Cuo01-ayZ7vI4d5MAEaxO",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 637,
-			"versionNonce": 554003477,
+			"version": 640,
+			"versionNonce": 499363414,
 			"isDeleted": false,
 			"id": "-WYBBqZbM1bBxFkxcaaCX",
 			"fillStyle": "solid",
@@ -7684,14 +7707,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "fHXuYw3z"
 				}
 			],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 641,
-			"versionNonce": 1835453371,
+			"version": 644,
+			"versionNonce": 1414892042,
 			"isDeleted": false,
 			"id": "fHXuYw3z",
 			"fillStyle": "solid",
@@ -7713,7 +7736,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -7725,12 +7748,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "-WYBBqZbM1bBxFkxcaaCX",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
-			"version": 1445,
-			"versionNonce": 436806005,
+			"version": 1448,
+			"versionNonce": 1831302038,
 			"isDeleted": false,
 			"id": "bUCRFWG-M9d3A-4ZINUhz",
 			"fillStyle": "solid",
@@ -7752,7 +7775,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7797,8 +7820,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 475,
-			"versionNonce": 1068211291,
+			"version": 478,
+			"versionNonce": 1911273674,
 			"isDeleted": false,
 			"id": "qvuJbt2C",
 			"fillStyle": "solid",
@@ -7820,7 +7843,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"fontSize": 8.474694633079924,
@@ -7836,8 +7859,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 1482,
-			"versionNonce": 397355733,
+			"version": 1485,
+			"versionNonce": 1046515926,
 			"isDeleted": false,
 			"id": "t5wgmN0mJooPhhl2SsCZ3",
 			"fillStyle": "solid",
@@ -7859,7 +7882,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7904,8 +7927,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 716,
-			"versionNonce": 1582127355,
+			"version": 719,
+			"versionNonce": 1112412042,
 			"isDeleted": false,
 			"id": "SlkEgCbfVlMd3a45lI6IQ",
 			"fillStyle": "solid",
@@ -7934,14 +7957,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "JbXC65mO"
 				}
 			],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 747,
-			"versionNonce": 2056063029,
+			"version": 750,
+			"versionNonce": 1560544790,
 			"isDeleted": false,
 			"id": "JbXC65mO",
 			"fillStyle": "solid",
@@ -7963,7 +7986,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -7975,12 +7998,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "SlkEgCbfVlMd3a45lI6IQ",
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 590,
-			"versionNonce": 114196891,
+			"version": 593,
+			"versionNonce": 1773637194,
 			"isDeleted": false,
 			"id": "D4gRNUIC",
 			"fillStyle": "solid",
@@ -8002,7 +8025,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"fontSize": 8.474694633079924,
@@ -8018,8 +8041,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 660,
-			"versionNonce": 1955084693,
+			"version": 663,
+			"versionNonce": 1510396758,
 			"isDeleted": false,
 			"id": "dR-4jDY8dxNA1dmpbA9ku",
 			"fillStyle": "hachure",
@@ -8043,14 +8066,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 680,
-			"versionNonce": 576820795,
+			"version": 683,
+			"versionNonce": 1292055818,
 			"isDeleted": false,
 			"id": "CnbK14qFqsERWPcFfPC-k",
 			"fillStyle": "hachure",
@@ -8074,14 +8097,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 667,
-			"versionNonce": 1591099125,
+			"version": 670,
+			"versionNonce": 1606285462,
 			"isDeleted": false,
 			"id": "bM_mCGI3IwnmnD3WaQStw",
 			"fillStyle": "hachure",
@@ -8106,7 +8129,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8127,8 +8150,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 698,
-			"versionNonce": 1340675803,
+			"version": 701,
+			"versionNonce": 2108425162,
 			"isDeleted": false,
 			"id": "UTXIjPlBKkV8Wa3QAyshg",
 			"fillStyle": "hachure",
@@ -8153,7 +8176,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8174,8 +8197,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 689,
-			"versionNonce": 1341954133,
+			"version": 692,
+			"versionNonce": 98465238,
 			"isDeleted": false,
 			"id": "_X1fKCIiNJhzCkjYom78O",
 			"fillStyle": "hachure",
@@ -8200,7 +8223,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8221,8 +8244,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 720,
-			"versionNonce": 771195771,
+			"version": 723,
+			"versionNonce": 634190474,
 			"isDeleted": false,
 			"id": "J2niLIdVwSvenE7D8wIfx",
 			"fillStyle": "hachure",
@@ -8247,7 +8270,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8268,8 +8291,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 691,
-			"versionNonce": 1909507509,
+			"version": 694,
+			"versionNonce": 628968214,
 			"isDeleted": false,
 			"id": "otQ0W6QKWj-djIQwmJQ-U",
 			"fillStyle": "hachure",
@@ -8294,7 +8317,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8315,8 +8338,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 723,
-			"versionNonce": 1691311131,
+			"version": 726,
+			"versionNonce": 1948326218,
 			"isDeleted": false,
 			"id": "0RzxpIxanbRp1VPa0dX83",
 			"fillStyle": "hachure",
@@ -8341,7 +8364,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8362,8 +8385,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 712,
-			"versionNonce": 393758485,
+			"version": 715,
+			"versionNonce": 755988566,
 			"isDeleted": false,
 			"id": "KIKGohCibeRLUWZBL8AJ3",
 			"fillStyle": "hachure",
@@ -8388,7 +8411,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8409,8 +8432,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 744,
-			"versionNonce": 1885544635,
+			"version": 747,
+			"versionNonce": 134438922,
 			"isDeleted": false,
 			"id": "UkpnM6fPo3miqbll1m-rw",
 			"fillStyle": "hachure",
@@ -8435,7 +8458,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8456,8 +8479,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 764,
-			"versionNonce": 325622901,
+			"version": 767,
+			"versionNonce": 1953103254,
 			"isDeleted": false,
 			"id": "wkgxU1liwm_vnX7A16y0d",
 			"fillStyle": "hachure",
@@ -8482,7 +8505,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8503,8 +8526,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 667,
-			"versionNonce": 710234459,
+			"version": 670,
+			"versionNonce": 1567542986,
 			"isDeleted": false,
 			"id": "NhsAy6R228VQiWuH_P0HA",
 			"fillStyle": "hachure",
@@ -8529,7 +8552,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8550,8 +8573,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 690,
-			"versionNonce": 1298613717,
+			"version": 693,
+			"versionNonce": 281139926,
 			"isDeleted": false,
 			"id": "2YtUUL_STlGOMFL_HJDm3",
 			"fillStyle": "hachure",
@@ -8576,7 +8599,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8597,8 +8620,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 698,
-			"versionNonce": 335048187,
+			"version": 701,
+			"versionNonce": 956196234,
 			"isDeleted": false,
 			"id": "lTn3cN_DVNZlTbRStuwqs",
 			"fillStyle": "hachure",
@@ -8623,7 +8646,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349686,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8644,8 +8667,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 689,
-			"versionNonce": 411681589,
+			"version": 692,
+			"versionNonce": 682364950,
 			"isDeleted": false,
 			"id": "akSBkfY6axD2RX8cEIO_u",
 			"fillStyle": "hachure",
@@ -8670,7 +8693,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8691,8 +8714,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 720,
-			"versionNonce": 1615787675,
+			"version": 723,
+			"versionNonce": 334308426,
 			"isDeleted": false,
 			"id": "jeluQftIc4BfVCp5SleVl",
 			"fillStyle": "hachure",
@@ -8717,7 +8740,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8738,8 +8761,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 691,
-			"versionNonce": 1228248213,
+			"version": 694,
+			"versionNonce": 1209900374,
 			"isDeleted": false,
 			"id": "7AunCOyN5qr3YV8ABz6t-",
 			"fillStyle": "hachure",
@@ -8764,7 +8787,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8785,8 +8808,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 723,
-			"versionNonce": 1040935739,
+			"version": 726,
+			"versionNonce": 135662346,
 			"isDeleted": false,
 			"id": "ivXMkVsMTOLl9l6D0dIFj",
 			"fillStyle": "hachure",
@@ -8811,7 +8834,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8832,8 +8855,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 713,
-			"versionNonce": 186661365,
+			"version": 716,
+			"versionNonce": 879461014,
 			"isDeleted": false,
 			"id": "JOTE2p6W4GQ55n8lZtP1q",
 			"fillStyle": "hachure",
@@ -8858,7 +8881,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8879,8 +8902,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 743,
-			"versionNonce": 1636846555,
+			"version": 746,
+			"versionNonce": 1005853130,
 			"isDeleted": false,
 			"id": "NCelJc7Dbmg0SwqonCQlh",
 			"fillStyle": "hachure",
@@ -8905,7 +8928,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8926,8 +8949,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 764,
-			"versionNonce": 2001679189,
+			"version": 767,
+			"versionNonce": 1078640598,
 			"isDeleted": false,
 			"id": "UvDcakKsoVPtYLpN3YmMV",
 			"fillStyle": "hachure",
@@ -8952,7 +8975,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8973,8 +8996,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 667,
-			"versionNonce": 1324357755,
+			"version": 670,
+			"versionNonce": 1319260298,
 			"isDeleted": false,
 			"id": "0veK_0mypgG1h485a0vFb",
 			"fillStyle": "hachure",
@@ -8999,7 +9022,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9020,8 +9043,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 690,
-			"versionNonce": 1779957941,
+			"version": 693,
+			"versionNonce": 533746966,
 			"isDeleted": false,
 			"id": "rH7EJpE75rx_0BKszOFHq",
 			"fillStyle": "hachure",
@@ -9046,7 +9069,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026527,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9067,8 +9090,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 720,
-			"versionNonce": 1676497179,
+			"version": 723,
+			"versionNonce": 1138470730,
 			"isDeleted": false,
 			"id": "9rJNrSwUpJv-BFsN6_No7",
 			"fillStyle": "hachure",
@@ -9093,7 +9116,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9114,8 +9137,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 737,
-			"versionNonce": 421536277,
+			"version": 740,
+			"versionNonce": 1014055510,
 			"isDeleted": false,
 			"id": "VvDUSS9TcwO0kc_upCaek",
 			"fillStyle": "hachure",
@@ -9140,7 +9163,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9161,8 +9184,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 743,
-			"versionNonce": 570062267,
+			"version": 746,
+			"versionNonce": 1878734346,
 			"isDeleted": false,
 			"id": "0kcRD5E-hGgePuQiHHJyE",
 			"fillStyle": "hachure",
@@ -9187,7 +9210,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9208,8 +9231,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 747,
-			"versionNonce": 1767708533,
+			"version": 750,
+			"versionNonce": 151160726,
 			"isDeleted": false,
 			"id": "XzIvF6wZ9aPOWj-1VpKs7",
 			"fillStyle": "hachure",
@@ -9235,7 +9258,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9268,8 +9291,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 660,
-			"versionNonce": 943326811,
+			"version": 663,
+			"versionNonce": 1677452490,
 			"isDeleted": false,
 			"id": "RZp6qWqkmHz-mOMdjp4R_",
 			"fillStyle": "hachure",
@@ -9295,14 +9318,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 343,
-			"versionNonce": 85221589,
+			"version": 346,
+			"versionNonce": 1438196950,
 			"isDeleted": false,
 			"id": "639Nad0X",
 			"fillStyle": "solid",
@@ -9324,7 +9347,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -9336,12 +9359,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 782,
-			"versionNonce": 1300136699,
+			"version": 785,
+			"versionNonce": 1501084554,
 			"isDeleted": false,
 			"id": "gKff4QHG4L8qwpqYj1Cya",
 			"fillStyle": "solid",
@@ -9370,14 +9393,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "bt3HcXbY"
 				}
 			],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 777,
-			"versionNonce": 836468277,
+			"version": 780,
+			"versionNonce": 606738966,
 			"isDeleted": false,
 			"id": "bt3HcXbY",
 			"fillStyle": "solid",
@@ -9399,7 +9422,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -9411,12 +9434,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "gKff4QHG4L8qwpqYj1Cya",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 664,
-			"versionNonce": 172649371,
+			"version": 667,
+			"versionNonce": 514636362,
 			"isDeleted": false,
 			"id": "CpA4CG2rxltdhCOYMCmP6",
 			"fillStyle": "solid",
@@ -9449,14 +9472,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 668,
-			"versionNonce": 1721233301,
+			"version": 671,
+			"versionNonce": 2068473686,
 			"isDeleted": false,
 			"id": "dBj2sW3I",
 			"fillStyle": "solid",
@@ -9478,7 +9501,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -9490,12 +9513,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "CpA4CG2rxltdhCOYMCmP6",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
-			"version": 1470,
-			"versionNonce": 1657815099,
+			"version": 1473,
+			"versionNonce": 41083146,
 			"isDeleted": false,
 			"id": "xryKqU713daE--jpgSfuj",
 			"fillStyle": "solid",
@@ -9517,7 +9540,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9562,8 +9585,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 1507,
-			"versionNonce": 561984757,
+			"version": 1510,
+			"versionNonce": 997133462,
 			"isDeleted": false,
 			"id": "fhkxqJOI90onmJ0ooD6o4",
 			"fillStyle": "solid",
@@ -9585,7 +9608,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9630,8 +9653,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 988,
-			"versionNonce": 552763611,
+			"version": 991,
+			"versionNonce": 1078341578,
 			"isDeleted": false,
 			"id": "y3WzibqblLXiVGPnHL9lv",
 			"fillStyle": "solid",
@@ -9655,14 +9678,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 197,
-			"versionNonce": 2115423829,
+			"version": 200,
+			"versionNonce": 1917651414,
 			"isDeleted": false,
 			"id": "71xIQTAf",
 			"fillStyle": "solid",
@@ -9684,7 +9707,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -9696,12 +9719,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 298,
-			"versionNonce": 776187259,
+			"version": 301,
+			"versionNonce": 1816241802,
 			"isDeleted": false,
 			"id": "npVTigin",
 			"fillStyle": "solid",
@@ -9728,7 +9751,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -9740,12 +9763,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "reverse(url_name)",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 2635,
-			"versionNonce": 552847919,
+			"version": 2647,
+			"versionNonce": 788094742,
 			"isDeleted": false,
 			"id": "ypINFAzaOkRT9B0SsgAUi",
 			"fillStyle": "solid",
@@ -9769,7 +9792,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706251685741,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9802,8 +9825,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 302,
-			"versionNonce": 503727643,
+			"version": 305,
+			"versionNonce": 1595950410,
 			"isDeleted": false,
 			"id": "5Yf5QqZuOvN2GLPD9Tubq",
 			"fillStyle": "solid",
@@ -9825,14 +9848,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 250,
-			"versionNonce": 1627192597,
+			"version": 253,
+			"versionNonce": 1441336406,
 			"isDeleted": false,
 			"id": "3Ygr6zO79dcvekU5Biz2U",
 			"fillStyle": "solid",
@@ -9854,14 +9877,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 201,
-			"versionNonce": 1999424187,
+			"version": 204,
+			"versionNonce": 574426122,
 			"isDeleted": false,
 			"id": "CxHYWMsr",
 			"fillStyle": "solid",
@@ -9883,7 +9906,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9895,12 +9918,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "base.html",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 326,
-			"versionNonce": 1994822261,
+			"version": 329,
+			"versionNonce": 1961955734,
 			"isDeleted": false,
 			"id": "O8NPPi_VA7GbdarNAzBOK",
 			"fillStyle": "solid",
@@ -9922,14 +9945,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 375,
-			"versionNonce": 1046068059,
+			"version": 378,
+			"versionNonce": 1536359114,
 			"isDeleted": false,
 			"id": "C6dDvFV5z-NPpL_zBZwNr",
 			"fillStyle": "solid",
@@ -9951,14 +9974,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 456,
-			"versionNonce": 968260565,
+			"version": 459,
+			"versionNonce": 390491862,
 			"isDeleted": false,
 			"id": "jatkiwN4HOaPh9SfW9dgc",
 			"fillStyle": "solid",
@@ -9980,14 +10003,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 386,
-			"versionNonce": 1071618043,
+			"version": 389,
+			"versionNonce": 968692106,
 			"isDeleted": false,
 			"id": "p1Qvr-n7ncTLOK1H9AmyW",
 			"fillStyle": "solid",
@@ -10009,14 +10032,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 1635924277,
+			"version": 150,
+			"versionNonce": 427697174,
 			"isDeleted": false,
 			"id": "MWA4kEUP",
 			"fillStyle": "solid",
@@ -10038,7 +10061,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10050,12 +10073,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 218,
-			"versionNonce": 432070811,
+			"version": 221,
+			"versionNonce": 1609977930,
 			"isDeleted": false,
 			"id": "vcDBueuR",
 			"fillStyle": "solid",
@@ -10077,7 +10100,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10089,12 +10112,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 214,
-			"versionNonce": 128928405,
+			"version": 217,
+			"versionNonce": 2106405206,
 			"isDeleted": false,
 			"id": "q6a1_MKQF4Sdv-6tpKsR1",
 			"fillStyle": "solid",
@@ -10116,14 +10139,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 267,
-			"versionNonce": 95425851,
+			"version": 270,
+			"versionNonce": 1377416970,
 			"isDeleted": false,
 			"id": "ug3l2k0D",
 			"fillStyle": "solid",
@@ -10145,7 +10168,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10157,12 +10180,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
-			"version": 271,
-			"versionNonce": 2096312309,
+			"version": 274,
+			"versionNonce": 1053333142,
 			"isDeleted": false,
 			"id": "6p0pggBk",
 			"fillStyle": "solid",
@@ -10184,7 +10207,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10196,12 +10219,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "{% extends \"base.html\" %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 200,
-			"versionNonce": 1661973979,
+			"version": 203,
+			"versionNonce": 1621247434,
 			"isDeleted": false,
 			"id": "Cb0Ly1IR",
 			"fillStyle": "solid",
@@ -10223,7 +10246,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10235,12 +10258,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 271,
-			"versionNonce": 1599301973,
+			"version": 274,
+			"versionNonce": 635786198,
 			"isDeleted": false,
 			"id": "PISHaLf6",
 			"fillStyle": "solid",
@@ -10262,7 +10285,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10274,12 +10297,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 267,
-			"versionNonce": 15876731,
+			"version": 270,
+			"versionNonce": 346750090,
 			"isDeleted": false,
 			"id": "PlxAOLmQInpOD27SntWPo",
 			"fillStyle": "solid",
@@ -10301,14 +10324,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 289,
-			"versionNonce": 1881503413,
+			"version": 292,
+			"versionNonce": 486041878,
 			"isDeleted": false,
 			"id": "p5SNwzisuZDuZEYzLglrN",
 			"fillStyle": "solid",
@@ -10330,14 +10353,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 251,
-			"versionNonce": 672807707,
+			"version": 254,
+			"versionNonce": 468638538,
 			"isDeleted": false,
 			"id": "uNm43nri",
 			"fillStyle": "solid",
@@ -10359,7 +10382,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10371,12 +10394,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 412,
-			"versionNonce": 705615893,
+			"version": 415,
+			"versionNonce": 58119766,
 			"isDeleted": false,
 			"id": "K8jd4hWV_32JQB7DzL85r",
 			"fillStyle": "solid",
@@ -10398,14 +10421,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 494,
-			"versionNonce": 1694113723,
+			"version": 497,
+			"versionNonce": 885580298,
 			"isDeleted": false,
 			"id": "f247bMdfJdKTk0leQvFsO",
 			"fillStyle": "solid",
@@ -10427,14 +10450,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 423,
-			"versionNonce": 386207093,
+			"version": 426,
+			"versionNonce": 37067670,
 			"isDeleted": false,
 			"id": "rOGa9FmxB6W1E5UiIH6_D",
 			"fillStyle": "solid",
@@ -10456,14 +10479,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 202,
-			"versionNonce": 297037915,
+			"version": 205,
+			"versionNonce": 439619786,
 			"isDeleted": false,
 			"id": "gSPVP9a9Y3ewpyPumsZqY",
 			"fillStyle": "solid",
@@ -10485,14 +10508,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 230,
-			"versionNonce": 1716360917,
+			"version": 233,
+			"versionNonce": 1600764118,
 			"isDeleted": false,
 			"id": "MbsuFxCbVAvnYE3yXnWzs",
 			"fillStyle": "solid",
@@ -10514,14 +10537,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 368,
-			"versionNonce": 538684667,
+			"version": 371,
+			"versionNonce": 1875601290,
 			"isDeleted": false,
 			"id": "kiGHn1lYV6JWzcNbTXIvv",
 			"fillStyle": "solid",
@@ -10543,14 +10566,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 203,
-			"versionNonce": 1115550773,
+			"version": 206,
+			"versionNonce": 1386753558,
 			"isDeleted": false,
 			"id": "0DqtXTg9pROpBls4GfS3y",
 			"fillStyle": "solid",
@@ -10573,14 +10596,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 279,
-			"versionNonce": 598889883,
+			"version": 282,
+			"versionNonce": 768206410,
 			"isDeleted": false,
 			"id": "X8L0Nfo1",
 			"fillStyle": "solid",
@@ -10603,7 +10626,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026528,
 			"link": null,
 			"locked": false,
 			"fontSize": 57.78320312499999,
@@ -10615,12 +10638,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "JS",
 			"lineHeight": 1.2,
-			"baseline": 56
+			"baseline": 55
 		},
 		{
 			"type": "text",
-			"version": 141,
-			"versionNonce": 1736156565,
+			"version": 144,
+			"versionNonce": 1491467094,
 			"isDeleted": false,
 			"id": "PhD2iYff",
 			"fillStyle": "solid",
@@ -10642,7 +10665,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10654,12 +10677,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Dynamic\nweakly-typed",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 464185915,
+			"version": 150,
+			"versionNonce": 218795274,
 			"isDeleted": false,
 			"id": "q9TY0UzV",
 			"fillStyle": "solid",
@@ -10681,7 +10704,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10693,12 +10716,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Interpreted\n전송 중에 컴파일 됨",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "text",
-			"version": 248,
-			"versionNonce": 2021403381,
+			"version": 251,
+			"versionNonce": 142090390,
 			"isDeleted": false,
 			"id": "LlVHntwl",
 			"fillStyle": "solid",
@@ -10720,7 +10743,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10732,12 +10755,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Hosted language\n여러 환경에서 실행 됨",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "text",
-			"version": 158,
-			"versionNonce": 2095573723,
+			"version": 161,
+			"versionNonce": 1929927626,
 			"isDeleted": false,
 			"id": "UZMAYo4L",
 			"fillStyle": "solid",
@@ -10759,7 +10782,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10771,12 +10794,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "브라우저에서 코드 실행",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 184,
-			"versionNonce": 369427541,
+			"version": 187,
+			"versionNonce": 1695784406,
 			"isDeleted": false,
 			"id": "6b3yvdd4kg8W3-te48JIh",
 			"fillStyle": "solid",
@@ -10798,14 +10821,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 473,
-			"versionNonce": 2080102267,
+			"version": 476,
+			"versionNonce": 1574851210,
 			"isDeleted": false,
 			"id": "7SjhUGR9",
 			"fillStyle": "solid",
@@ -10827,7 +10850,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10839,12 +10862,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "브라우저 built-in JS엔진\nV8(chrome)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
-			"version": 239,
-			"versionNonce": 871084469,
+			"version": 242,
+			"versionNonce": 869102358,
 			"isDeleted": false,
 			"id": "AuxI8odq",
 			"fillStyle": "solid",
@@ -10866,7 +10889,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349687,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10878,12 +10901,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "{code}",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 467,
-			"versionNonce": 388575259,
+			"version": 470,
+			"versionNonce": 1346859338,
 			"isDeleted": false,
 			"id": "_9CXkCa65FvB18rNGgkF2",
 			"fillStyle": "solid",
@@ -10905,7 +10928,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -10926,8 +10949,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 252,
-			"versionNonce": 794145557,
+			"version": 255,
+			"versionNonce": 1327145046,
 			"isDeleted": false,
 			"id": "Q1Mwi3sQ",
 			"fillStyle": "solid",
@@ -10949,7 +10972,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10965,8 +10988,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "arrow",
-			"version": 186,
-			"versionNonce": 1617065147,
+			"version": 189,
+			"versionNonce": 1033811978,
 			"isDeleted": false,
 			"id": "1hkxzJrwa3e2Vb1fw8nOB",
 			"fillStyle": "solid",
@@ -10988,7 +11011,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11009,8 +11032,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "arrow",
-			"version": 208,
-			"versionNonce": 616073333,
+			"version": 211,
+			"versionNonce": 2060461462,
 			"isDeleted": false,
 			"id": "EIZxt9RoDi_M_uv-GoFF6",
 			"fillStyle": "solid",
@@ -11032,7 +11055,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11053,8 +11076,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 194,
-			"versionNonce": 122299739,
+			"version": 197,
+			"versionNonce": 1977558730,
 			"isDeleted": false,
 			"id": "pJQDh24C",
 			"fillStyle": "solid",
@@ -11076,7 +11099,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11088,12 +11111,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Effect",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 154,
-			"versionNonce": 98152917,
+			"version": 157,
+			"versionNonce": 941818582,
 			"isDeleted": false,
 			"id": "auhQIrw8",
 			"fillStyle": "solid",
@@ -11115,7 +11138,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11127,12 +11150,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Single Thread",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 297,
-			"versionNonce": 590529019,
+			"version": 300,
+			"versionNonce": 295943562,
 			"isDeleted": false,
 			"id": "DLKr_Iw6MZLBsA3jHXG7G",
 			"fillStyle": "solid",
@@ -11154,14 +11177,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 649,
-			"versionNonce": 1875816245,
+			"version": 652,
+			"versionNonce": 430454806,
 			"isDeleted": false,
 			"id": "Du6_1G2nsZ8addcnXAjAb",
 			"fillStyle": "solid",
@@ -11189,14 +11212,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 566,
-			"versionNonce": 1025428123,
+			"version": 569,
+			"versionNonce": 1579646026,
 			"isDeleted": false,
 			"id": "5pOdeRoG",
 			"fillStyle": "solid",
@@ -11219,7 +11242,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11231,12 +11254,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "<code>",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 258,
-			"versionNonce": 1090322581,
+			"version": 261,
+			"versionNonce": 391431510,
 			"isDeleted": false,
 			"id": "_0weq-jmETzMazabZ5U0P",
 			"fillStyle": "solid",
@@ -11258,14 +11281,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 251,
-			"versionNonce": 432062267,
+			"version": 254,
+			"versionNonce": 1229284106,
 			"isDeleted": false,
 			"id": "Bo6LyU-0KEvyH-7_LUJOR",
 			"fillStyle": "solid",
@@ -11287,14 +11310,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 152,
-			"versionNonce": 1863984629,
+			"version": 155,
+			"versionNonce": 1652402838,
 			"isDeleted": false,
 			"id": "C81iR5F5",
 			"fillStyle": "solid",
@@ -11316,7 +11339,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11328,12 +11351,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "browser",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 274,
-			"versionNonce": 1132142555,
+			"version": 277,
+			"versionNonce": 1299739082,
 			"isDeleted": false,
 			"id": "K8mgdfrt5mwZhfFOTMNno",
 			"fillStyle": "solid",
@@ -11360,14 +11383,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "tB6vlZa7"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 276,
-			"versionNonce": 489398101,
+			"version": 279,
+			"versionNonce": 970450902,
 			"isDeleted": false,
 			"id": "tB6vlZa7",
 			"fillStyle": "solid",
@@ -11389,7 +11412,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11401,12 +11424,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "K8mgdfrt5mwZhfFOTMNno",
 			"originalText": "JS 파싱 및 실행",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 350,
-			"versionNonce": 1415605371,
+			"version": 353,
+			"versionNonce": 1574676618,
 			"isDeleted": false,
 			"id": "BAoYMBK7gcohntNzzJDVC",
 			"fillStyle": "solid",
@@ -11433,14 +11456,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 185,
-			"versionNonce": 1904667829,
+			"version": 188,
+			"versionNonce": 1031306518,
 			"isDeleted": false,
 			"id": "pTuu9HtEb1x_juUmcj_po",
 			"fillStyle": "solid",
@@ -11475,14 +11498,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 175,
-			"versionNonce": 3351835,
+			"version": 178,
+			"versionNonce": 1378486090,
 			"isDeleted": false,
 			"id": "n67LJNH9",
 			"fillStyle": "solid",
@@ -11504,7 +11527,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11516,12 +11539,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "pTuu9HtEb1x_juUmcj_po",
 			"originalText": "interpreter",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 308,
-			"versionNonce": 735153685,
+			"version": 311,
+			"versionNonce": 1121217110,
 			"isDeleted": false,
 			"id": "SUGRFK1cJOYkLW9hUjYUE",
 			"fillStyle": "solid",
@@ -11556,14 +11579,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 341,
-			"versionNonce": 1583729083,
+			"version": 344,
+			"versionNonce": 1388219914,
 			"isDeleted": false,
 			"id": "Ackwd1Mz",
 			"fillStyle": "solid",
@@ -11585,7 +11608,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11597,12 +11620,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "SUGRFK1cJOYkLW9hUjYUE",
 			"originalText": "compiler(JIT)",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 289,
-			"versionNonce": 1890088001,
+			"version": 301,
+			"versionNonce": 683716502,
 			"isDeleted": false,
 			"id": "RNzrlE8PzV-MStjIANndi",
 			"fillStyle": "solid",
@@ -11624,7 +11647,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685744,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11657,8 +11680,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "arrow",
-			"version": 379,
-			"versionNonce": 1861370913,
+			"version": 400,
+			"versionNonce": 1150565578,
 			"isDeleted": false,
 			"id": "Ey98i2quu_ZaJrVufSyP3",
 			"fillStyle": "solid",
@@ -11680,7 +11703,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685745,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11717,8 +11740,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 656,
-			"versionNonce": 324717781,
+			"version": 659,
+			"versionNonce": 728911062,
 			"isDeleted": false,
 			"id": "CzJy2z7DWHCO81eVUd2cK",
 			"fillStyle": "solid",
@@ -11749,14 +11772,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 672,
-			"versionNonce": 2116343547,
+			"version": 675,
+			"versionNonce": 893784970,
 			"isDeleted": false,
 			"id": "2s1D8ZCe",
 			"fillStyle": "solid",
@@ -11778,7 +11801,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11790,12 +11813,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "CzJy2z7DWHCO81eVUd2cK",
 			"originalText": "byte code",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 733,
-			"versionNonce": 74738229,
+			"version": 736,
+			"versionNonce": 947798550,
 			"isDeleted": false,
 			"id": "2ExWHXOWc6xiH2xiJnTOG",
 			"fillStyle": "solid",
@@ -11819,14 +11842,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 627,
-			"versionNonce": 2064007067,
+			"version": 630,
+			"versionNonce": 1192170058,
 			"isDeleted": false,
 			"id": "SLvNie4hv2sil2J89jhW-",
 			"fillStyle": "solid",
@@ -11850,14 +11873,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 618,
-			"versionNonce": 1328765845,
+			"version": 621,
+			"versionNonce": 1121554262,
 			"isDeleted": false,
 			"id": "cS9tUeJt4QL2RxU30E-xR",
 			"fillStyle": "solid",
@@ -11881,14 +11904,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 473,
-			"versionNonce": 1666992751,
+			"version": 485,
+			"versionNonce": 483014922,
 			"isDeleted": false,
 			"id": "cpKGZUiWy8LjnBOVjFOuT",
 			"fillStyle": "solid",
@@ -11910,7 +11933,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685745,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11939,8 +11962,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 1003299061,
+			"version": 131,
+			"versionNonce": 383333526,
 			"isDeleted": false,
 			"id": "nQamyKTe",
 			"fillStyle": "solid",
@@ -11962,7 +11985,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11974,12 +11997,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "client\ncomputer",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 735,
-			"versionNonce": 197743835,
+			"version": 738,
+			"versionNonce": 1173522378,
 			"isDeleted": false,
 			"id": "Y1MsRQFhoG3xJLahODbPi",
 			"fillStyle": "solid",
@@ -12006,14 +12029,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "LSDCAnC7"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 767,
-			"versionNonce": 1875327573,
+			"version": 770,
+			"versionNonce": 775041494,
 			"isDeleted": false,
 			"id": "LSDCAnC7",
 			"fillStyle": "solid",
@@ -12035,7 +12058,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026529,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12047,12 +12070,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "Y1MsRQFhoG3xJLahODbPi",
 			"originalText": "script 로드 및 실행",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 737,
-			"versionNonce": 1059062139,
+			"version": 740,
+			"versionNonce": 715325066,
 			"isDeleted": false,
 			"id": "M92TKW3HVZsUw3Mg4Wah_",
 			"fillStyle": "solid",
@@ -12079,14 +12102,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "HEAhM30H"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 778,
-			"versionNonce": 1140271029,
+			"version": 781,
+			"versionNonce": 66684694,
 			"isDeleted": false,
 			"id": "HEAhM30H",
 			"fillStyle": "solid",
@@ -12108,7 +12131,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12120,12 +12143,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "M92TKW3HVZsUw3Mg4Wah_",
 			"originalText": "compiled\nmachine code",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
-			"version": 427,
-			"versionNonce": 2016942619,
+			"version": 430,
+			"versionNonce": 2006359370,
 			"isDeleted": false,
 			"id": "BujRFqj7xHcHN9bYhRphG",
 			"fillStyle": "solid",
@@ -12152,14 +12175,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "jeGLOYh6"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 453,
-			"versionNonce": 1518496021,
+			"version": 456,
+			"versionNonce": 1755591766,
 			"isDeleted": false,
 			"id": "jeGLOYh6",
 			"fillStyle": "solid",
@@ -12181,7 +12204,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12193,12 +12216,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "BujRFqj7xHcHN9bYhRphG",
 			"originalText": "브라우저 API",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 508,
-			"versionNonce": 1409556155,
+			"version": 511,
+			"versionNonce": 170419210,
 			"isDeleted": false,
 			"id": "L1JkMuAn_S3x4mdxP-z58",
 			"fillStyle": "solid",
@@ -12225,14 +12248,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 344,
-			"versionNonce": 1960738421,
+			"version": 347,
+			"versionNonce": 1443314070,
 			"isDeleted": false,
 			"id": "q88IpGLXTQ_RdMEvoSTuO",
 			"fillStyle": "solid",
@@ -12252,7 +12275,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12289,8 +12312,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 385,
-			"versionNonce": 757501787,
+			"version": 388,
+			"versionNonce": 1548964554,
 			"isDeleted": false,
 			"id": "1RHAA2E151ZbfAYPIC2FD",
 			"fillStyle": "solid",
@@ -12317,14 +12340,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "uEzkjzRL"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 546,
-			"versionNonce": 164685781,
+			"version": 549,
+			"versionNonce": 1129813718,
 			"isDeleted": false,
 			"id": "uEzkjzRL",
 			"fillStyle": "solid",
@@ -12346,7 +12369,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12362,8 +12385,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 1710353403,
+			"version": 214,
+			"versionNonce": 1890740618,
 			"isDeleted": false,
 			"id": "qAOdAS0H",
 			"fillStyle": "solid",
@@ -12383,7 +12406,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12395,12 +12418,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "머신 코드에 포함된다.",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 308,
-			"versionNonce": 460268853,
+			"version": 311,
+			"versionNonce": 2032815126,
 			"isDeleted": false,
 			"id": "OaR8u-h0O8kszaiFmQW1r",
 			"fillStyle": "solid",
@@ -12427,14 +12450,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "hoHNqMlm"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 381,
-			"versionNonce": 1919464603,
+			"version": 384,
+			"versionNonce": 1048619082,
 			"isDeleted": false,
 			"id": "hoHNqMlm",
 			"fillStyle": "solid",
@@ -12456,7 +12479,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12468,12 +12491,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "OaR8u-h0O8kszaiFmQW1r",
 			"originalText": "Document",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 261,
-			"versionNonce": 1293858453,
+			"version": 264,
+			"versionNonce": 1702123862,
 			"isDeleted": false,
 			"id": "g4TZq2XxQpbIUP5WhKUBZ",
 			"fillStyle": "solid",
@@ -12500,14 +12523,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "m7wucACs"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 243,
-			"versionNonce": 574449979,
+			"version": 246,
+			"versionNonce": 496570122,
 			"isDeleted": false,
 			"id": "m7wucACs",
 			"fillStyle": "solid",
@@ -12529,7 +12552,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12541,12 +12564,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "g4TZq2XxQpbIUP5WhKUBZ",
 			"originalText": "Root DOM Node",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 352,
-			"versionNonce": 966073333,
+			"version": 355,
+			"versionNonce": 1871363734,
 			"isDeleted": false,
 			"id": "SY0_IzceiFHQ8xVPk74xZ",
 			"fillStyle": "solid",
@@ -12573,14 +12596,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "sexZAsPG"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 801,
-			"versionNonce": 718440923,
+			"version": 804,
+			"versionNonce": 846634442,
 			"isDeleted": false,
 			"id": "sexZAsPG",
 			"fillStyle": "solid",
@@ -12602,7 +12625,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12614,12 +12637,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "SY0_IzceiFHQ8xVPk74xZ",
 			"originalText": "HTML 요소에 쿼리 & 엑세스\nDOM 컨텐츠, HTML 요소와 상호작용",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 375,
-			"versionNonce": 148362581,
+			"version": 378,
+			"versionNonce": 1277328342,
 			"isDeleted": false,
 			"id": "_ldtDoNspjUwLGAg6e0IO",
 			"fillStyle": "solid",
@@ -12646,14 +12669,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "8xmTaWC6"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 454,
-			"versionNonce": 1899665019,
+			"version": 457,
+			"versionNonce": 1513378954,
 			"isDeleted": false,
 			"id": "8xmTaWC6",
 			"fillStyle": "solid",
@@ -12675,7 +12698,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12687,12 +12710,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "_ldtDoNspjUwLGAg6e0IO",
 			"originalText": "Window",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 305,
-			"versionNonce": 1178362549,
+			"version": 308,
+			"versionNonce": 1364234518,
 			"isDeleted": false,
 			"id": "pH7q87Wp34511nUP7rv3P",
 			"fillStyle": "solid",
@@ -12719,14 +12742,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "YlXEv77E"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 345,
-			"versionNonce": 339218203,
+			"version": 348,
+			"versionNonce": 378352458,
 			"isDeleted": false,
 			"id": "YlXEv77E",
 			"fillStyle": "solid",
@@ -12748,7 +12771,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12760,12 +12783,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "pH7q87Wp34511nUP7rv3P",
 			"originalText": "활성화된 창 또는 탭",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 390,
-			"versionNonce": 1986544661,
+			"version": 393,
+			"versionNonce": 1250557526,
 			"isDeleted": false,
 			"id": "JXth2j4lV-x70ulAeb8MC",
 			"fillStyle": "solid",
@@ -12792,14 +12815,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "XAwmTlFM"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1024,
-			"versionNonce": 909996987,
+			"version": 1027,
+			"versionNonce": 2044475914,
 			"isDeleted": false,
 			"id": "XAwmTlFM",
 			"fillStyle": "solid",
@@ -12821,7 +12844,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12833,12 +12856,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "JXth2j4lV-x70ulAeb8MC",
 			"originalText": "스크립트의 global storage\n브라우저가 제공하는 모든 기능에 대한 엑세스를 허용한다.",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
-			"version": 342,
-			"versionNonce": 1834023285,
+			"version": 345,
+			"versionNonce": 1285800854,
 			"isDeleted": false,
 			"id": "hULijffl96PftAIW7Qj36",
 			"fillStyle": "solid",
@@ -12865,14 +12888,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "eulS5QY9"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 412,
-			"versionNonce": 124601435,
+			"version": 415,
+			"versionNonce": 320628938,
 			"isDeleted": false,
 			"id": "eulS5QY9",
 			"fillStyle": "solid",
@@ -12894,7 +12917,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12906,12 +12929,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "hULijffl96PftAIW7Qj36",
 			"originalText": "Root Entry Point",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
-			"version": 152,
-			"versionNonce": 1681654485,
+			"version": 155,
+			"versionNonce": 164815062,
 			"isDeleted": false,
 			"id": "gaFXU982a_ZOoYi_wUagd",
 			"fillStyle": "solid",
@@ -12933,7 +12956,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -12954,8 +12977,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 125,
-			"versionNonce": 261751035,
+			"version": 128,
+			"versionNonce": 1508425610,
 			"isDeleted": false,
 			"id": "r6SrHrrBRAgLL-DboUybi",
 			"fillStyle": "solid",
@@ -12977,7 +13000,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -12998,8 +13021,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 401,
-			"versionNonce": 1337909301,
+			"version": 404,
+			"versionNonce": 632051222,
 			"isDeleted": false,
 			"id": "WaQiCYEw8QReFHPzsj0Gk",
 			"fillStyle": "solid",
@@ -13021,14 +13044,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 364,
-			"versionNonce": 944122267,
+			"version": 367,
+			"versionNonce": 444350026,
 			"isDeleted": false,
 			"id": "ybQwChY23cNwVDS4oljms",
 			"fillStyle": "solid",
@@ -13055,14 +13078,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "C5JBYKFU"
 				}
 			],
-			"updated": 1706001349688,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 547,
-			"versionNonce": 1975456149,
+			"version": 550,
+			"versionNonce": 153428822,
 			"isDeleted": false,
 			"id": "C5JBYKFU",
 			"fillStyle": "solid",
@@ -13084,7 +13107,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13096,12 +13119,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "ybQwChY23cNwVDS4oljms",
 			"originalText": "<html lang=\"en\">\n  <head>\n    <title>DOM Interaction</title>\n  </script>\n  </head>\n  <body>\n      <header>\n          <h1>Dive into the DOM</h1>\n      </header>\n      <p>There's a log to it!<p>\n  </body>\n</html>",
 			"lineHeight": 1.2,
-			"baseline": 226
+			"baseline": 227
 		},
 		{
 			"type": "rectangle",
-			"version": 185,
-			"versionNonce": 379862587,
+			"version": 188,
+			"versionNonce": 1639048458,
 			"isDeleted": false,
 			"id": "xmCD5DrqA27kTlzCRVQE2",
 			"fillStyle": "solid",
@@ -13132,14 +13155,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 125,
-			"versionNonce": 1131550453,
+			"version": 128,
+			"versionNonce": 915556502,
 			"isDeleted": false,
 			"id": "GSCghV1C",
 			"fillStyle": "solid",
@@ -13161,7 +13184,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13173,12 +13196,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "xmCD5DrqA27kTlzCRVQE2",
 			"originalText": "HTML",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 310,
-			"versionNonce": 1972813531,
+			"version": 313,
+			"versionNonce": 1761915850,
 			"isDeleted": false,
 			"id": "zvsQpyzIfgq239Ek1e61p",
 			"fillStyle": "solid",
@@ -13205,14 +13228,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "MpwJyg78"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 260,
-			"versionNonce": 1667067989,
+			"version": 263,
+			"versionNonce": 497599958,
 			"isDeleted": false,
 			"id": "MpwJyg78",
 			"fillStyle": "solid",
@@ -13234,7 +13257,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13246,12 +13269,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "zvsQpyzIfgq239Ek1e61p",
 			"originalText": "TITLE",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 318,
-			"versionNonce": 531639163,
+			"version": 321,
+			"versionNonce": 42969738,
 			"isDeleted": false,
 			"id": "zXWgFVS5Kb1hhRhMeNjqT",
 			"fillStyle": "solid",
@@ -13278,14 +13301,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "vyniAq5y"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 282,
-			"versionNonce": 324443573,
+			"version": 285,
+			"versionNonce": 1870502678,
 			"isDeleted": false,
 			"id": "vyniAq5y",
 			"fillStyle": "solid",
@@ -13307,7 +13330,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13319,12 +13342,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "zXWgFVS5Kb1hhRhMeNjqT",
 			"originalText": "H1",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 341,
-			"versionNonce": 1764951067,
+			"version": 344,
+			"versionNonce": 84789578,
 			"isDeleted": false,
 			"id": "zgBXXcT1tAUCczkoSr27z",
 			"fillStyle": "solid",
@@ -13351,14 +13374,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "aFIscUkB"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 309,
-			"versionNonce": 981671701,
+			"version": 312,
+			"versionNonce": 1921370198,
 			"isDeleted": false,
 			"id": "aFIscUkB",
 			"fillStyle": "solid",
@@ -13380,7 +13403,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13392,12 +13415,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "zgBXXcT1tAUCczkoSr27z",
 			"originalText": "P",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 228,
-			"versionNonce": 2047985851,
+			"version": 231,
+			"versionNonce": 937037834,
 			"isDeleted": false,
 			"id": "i_N_6BN1O1a3g99AXIfHd",
 			"fillStyle": "solid",
@@ -13419,14 +13442,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 288,
-			"versionNonce": 1062761589,
+			"version": 291,
+			"versionNonce": 1452690838,
 			"isDeleted": false,
 			"id": "ZwzH08ePZubsa7d4iR0r5",
 			"fillStyle": "solid",
@@ -13448,14 +13471,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 282,
-			"versionNonce": 1475279195,
+			"version": 285,
+			"versionNonce": 1055882954,
 			"isDeleted": false,
 			"id": "8ou3rZueV4MD2Wi6lJDi4",
 			"fillStyle": "solid",
@@ -13482,14 +13505,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "oJP9V8WR"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026530,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 236,
-			"versionNonce": 496770517,
+			"version": 239,
+			"versionNonce": 149170902,
 			"isDeleted": false,
 			"id": "oJP9V8WR",
 			"fillStyle": "solid",
@@ -13511,7 +13534,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13523,12 +13546,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "8ou3rZueV4MD2Wi6lJDi4",
 			"originalText": "BODY",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
-			"version": 81,
-			"versionNonce": 807212539,
+			"version": 84,
+			"versionNonce": 115938698,
 			"isDeleted": false,
 			"id": "8K0UFfsbTOHpdWU2a1n90",
 			"fillStyle": "solid",
@@ -13550,7 +13573,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -13571,8 +13594,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 110,
-			"versionNonce": 1013160757,
+			"version": 113,
+			"versionNonce": 134504470,
 			"isDeleted": false,
 			"id": "IQ64ud6gbTulu_QnN2hGZ",
 			"fillStyle": "solid",
@@ -13594,7 +13617,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -13615,8 +13638,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 291,
-			"versionNonce": 1637785243,
+			"version": 294,
+			"versionNonce": 822203466,
 			"isDeleted": false,
 			"id": "Oj-4ohao_tF-Lo0RUWp1G",
 			"fillStyle": "solid",
@@ -13643,14 +13666,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "f8ppQ0mZ"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 236,
-			"versionNonce": 68447381,
+			"version": 239,
+			"versionNonce": 938208598,
 			"isDeleted": false,
 			"id": "f8ppQ0mZ",
 			"fillStyle": "solid",
@@ -13672,7 +13695,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13684,12 +13707,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "Oj-4ohao_tF-Lo0RUWp1G",
 			"originalText": "HEAD",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
-			"version": 144,
-			"versionNonce": 1193677627,
+			"version": 147,
+			"versionNonce": 2132065034,
 			"isDeleted": false,
 			"id": "Ae9itNwffAAvrCALwyzMm",
 			"fillStyle": "solid",
@@ -13711,7 +13734,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -13732,8 +13755,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 423,
-			"versionNonce": 878973429,
+			"version": 426,
+			"versionNonce": 904909462,
 			"isDeleted": false,
 			"id": "Ci89McEHpR_zwoEegYyze",
 			"fillStyle": "solid",
@@ -13755,14 +13778,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 197,
-			"versionNonce": 1091957723,
+			"version": 200,
+			"versionNonce": 1067239882,
 			"isDeleted": false,
 			"id": "k29VMUq-_31CQlDlXzk3H",
 			"fillStyle": "solid",
@@ -13784,7 +13807,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -13805,8 +13828,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 312,
-			"versionNonce": 2052590421,
+			"version": 315,
+			"versionNonce": 751112150,
 			"isDeleted": false,
 			"id": "IdpCclJi1snOOGuRKSlqO",
 			"fillStyle": "solid",
@@ -13833,14 +13856,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "WXASnsTA"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 272,
-			"versionNonce": 2139144315,
+			"version": 275,
+			"versionNonce": 968163466,
 			"isDeleted": false,
 			"id": "WXASnsTA",
 			"fillStyle": "solid",
@@ -13862,7 +13885,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13874,12 +13897,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "IdpCclJi1snOOGuRKSlqO",
 			"originalText": "HEADER",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 403,
-			"versionNonce": 1030169743,
+			"version": 424,
+			"versionNonce": 679519510,
 			"isDeleted": false,
 			"id": "5Fc0zoKSfbSkhhfzzXQ5p",
 			"fillStyle": "solid",
@@ -13901,7 +13924,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685764,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -13930,8 +13953,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 268,
-			"versionNonce": 204011803,
+			"version": 271,
+			"versionNonce": 421027658,
 			"isDeleted": false,
 			"id": "LPlg3icer4HgVuBWosq-W",
 			"fillStyle": "solid",
@@ -13958,14 +13981,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 174,
-			"versionNonce": 1641216533,
+			"version": 177,
+			"versionNonce": 1788318294,
 			"isDeleted": false,
 			"id": "Ljr2HEnnboxOytRcEsQrb",
 			"fillStyle": "solid",
@@ -13987,7 +14010,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14008,8 +14031,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 147,
-			"versionNonce": 344006075,
+			"version": 150,
+			"versionNonce": 1512171018,
 			"isDeleted": false,
 			"id": "TuDOASWZ3QdUyG36HiqgY",
 			"fillStyle": "solid",
@@ -14031,7 +14054,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14052,8 +14075,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 419,
-			"versionNonce": 1173679989,
+			"version": 422,
+			"versionNonce": 1038014358,
 			"isDeleted": false,
 			"id": "JQnfm7crwliZjixq-VsK8",
 			"fillStyle": "solid",
@@ -14080,14 +14103,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 385,
-			"versionNonce": 1940631131,
+			"version": 388,
+			"versionNonce": 902599882,
 			"isDeleted": false,
 			"id": "5I6AO6QU9swfDYvI2QYF9",
 			"fillStyle": "solid",
@@ -14114,14 +14137,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "3aOfyMZr"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 585,
-			"versionNonce": 821115093,
+			"version": 588,
+			"versionNonce": 1250653398,
 			"isDeleted": false,
 			"id": "3aOfyMZr",
 			"fillStyle": "solid",
@@ -14143,7 +14166,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14155,12 +14178,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "5I6AO6QU9swfDYvI2QYF9",
 			"originalText": "<html lang=\"en\">\n  <head>\n    <title>The DOM</title>\n  </script>\n  </head>\n  <body>\n      <header>\n          <h1>Dive into the DOM</h1>\n      </header>\n      <p>There's a lot to it!<p>\n  </body>\n</html>",
 			"lineHeight": 1.2,
-			"baseline": 226
+			"baseline": 227
 		},
 		{
 			"type": "rectangle",
-			"version": 202,
-			"versionNonce": 2088446715,
+			"version": 205,
+			"versionNonce": 229862282,
 			"isDeleted": false,
 			"id": "4mYx5KbyA6lK8YZcvdRcJ",
 			"fillStyle": "solid",
@@ -14191,14 +14214,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 143,
-			"versionNonce": 2086491701,
+			"version": 146,
+			"versionNonce": 1781688854,
 			"isDeleted": false,
 			"id": "xuTUVk4O",
 			"fillStyle": "solid",
@@ -14220,7 +14243,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14232,12 +14255,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "4mYx5KbyA6lK8YZcvdRcJ",
 			"originalText": "HTML",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 333,
-			"versionNonce": 57807771,
+			"version": 336,
+			"versionNonce": 1477536330,
 			"isDeleted": false,
 			"id": "q4ZYJ-8OXzb7xp2ZB410x",
 			"fillStyle": "solid",
@@ -14264,14 +14287,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "LLhggmnt"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 283,
-			"versionNonce": 857655189,
+			"version": 286,
+			"versionNonce": 2076751702,
 			"isDeleted": false,
 			"id": "LLhggmnt",
 			"fillStyle": "solid",
@@ -14293,7 +14316,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14305,12 +14328,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "q4ZYJ-8OXzb7xp2ZB410x",
 			"originalText": "TITLE",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 340,
-			"versionNonce": 683862075,
+			"version": 343,
+			"versionNonce": 197234954,
 			"isDeleted": false,
 			"id": "y3meWec_dLs-d7bv_-Aei",
 			"fillStyle": "solid",
@@ -14337,14 +14360,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "UbWiBIqv"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 305,
-			"versionNonce": 1735068917,
+			"version": 308,
+			"versionNonce": 933452950,
 			"isDeleted": false,
 			"id": "UbWiBIqv",
 			"fillStyle": "solid",
@@ -14366,7 +14389,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14378,12 +14401,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "y3meWec_dLs-d7bv_-Aei",
 			"originalText": "H1",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 365,
-			"versionNonce": 1649420507,
+			"version": 368,
+			"versionNonce": 205447114,
 			"isDeleted": false,
 			"id": "1FG5S14T1b4whbm8Ux8aW",
 			"fillStyle": "solid",
@@ -14410,14 +14433,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "eHwccJCF"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 334,
-			"versionNonce": 1221043797,
+			"version": 337,
+			"versionNonce": 58153430,
 			"isDeleted": false,
 			"id": "eHwccJCF",
 			"fillStyle": "solid",
@@ -14439,7 +14462,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14451,12 +14474,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "1FG5S14T1b4whbm8Ux8aW",
 			"originalText": "P",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 250,
-			"versionNonce": 1168921979,
+			"version": 253,
+			"versionNonce": 363091594,
 			"isDeleted": false,
 			"id": "7nwmH9MDgY0lq8lrlW1Z8",
 			"fillStyle": "solid",
@@ -14478,14 +14501,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 310,
-			"versionNonce": 2047480757,
+			"version": 313,
+			"versionNonce": 1180282646,
 			"isDeleted": false,
 			"id": "Bimk5LaUNL1oaG8YNULkM",
 			"fillStyle": "solid",
@@ -14507,14 +14530,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 304,
-			"versionNonce": 303689243,
+			"version": 307,
+			"versionNonce": 682423626,
 			"isDeleted": false,
 			"id": "EqNB8JyTlP8udZmZKXmiT",
 			"fillStyle": "solid",
@@ -14541,14 +14564,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "5CQweBca"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 259,
-			"versionNonce": 660067605,
+			"version": 262,
+			"versionNonce": 1019173974,
 			"isDeleted": false,
 			"id": "5CQweBca",
 			"fillStyle": "solid",
@@ -14570,7 +14593,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14582,12 +14605,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "EqNB8JyTlP8udZmZKXmiT",
 			"originalText": "BODY",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
-			"version": 103,
-			"versionNonce": 2055959227,
+			"version": 106,
+			"versionNonce": 1991490570,
 			"isDeleted": false,
 			"id": "1PM6mE73Bkdh7HmgqhfVa",
 			"fillStyle": "solid",
@@ -14609,7 +14632,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14630,8 +14653,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 132,
-			"versionNonce": 1546021493,
+			"version": 135,
+			"versionNonce": 1283285398,
 			"isDeleted": false,
 			"id": "RlzU8wHzgpQ1yDaEpZAzW",
 			"fillStyle": "solid",
@@ -14653,7 +14676,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14674,8 +14697,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 315,
-			"versionNonce": 799236955,
+			"version": 318,
+			"versionNonce": 1303620298,
 			"isDeleted": false,
 			"id": "YrpqWBeb6KQshm8p5B9QT",
 			"fillStyle": "solid",
@@ -14706,14 +14729,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 260,
-			"versionNonce": 423318485,
+			"version": 263,
+			"versionNonce": 1489551062,
 			"isDeleted": false,
 			"id": "SnNHcNum",
 			"fillStyle": "solid",
@@ -14735,7 +14758,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14747,12 +14770,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "YrpqWBeb6KQshm8p5B9QT",
 			"originalText": "HEAD",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
-			"version": 166,
-			"versionNonce": 699678715,
+			"version": 169,
+			"versionNonce": 71811466,
 			"isDeleted": false,
 			"id": "LSgcx6RXrWNAaGwuwfNQg",
 			"fillStyle": "solid",
@@ -14774,7 +14797,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14795,8 +14818,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 445,
-			"versionNonce": 715919669,
+			"version": 448,
+			"versionNonce": 372667414,
 			"isDeleted": false,
 			"id": "T3BKrSHEkkehIre6cOQeS",
 			"fillStyle": "solid",
@@ -14818,14 +14841,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 219,
-			"versionNonce": 851478683,
+			"version": 222,
+			"versionNonce": 1705705546,
 			"isDeleted": false,
 			"id": "DlZTXhuUJsIWk4EOeDXiL",
 			"fillStyle": "solid",
@@ -14847,7 +14870,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14868,8 +14891,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 334,
-			"versionNonce": 1037968021,
+			"version": 337,
+			"versionNonce": 1589346646,
 			"isDeleted": false,
 			"id": "3BnmCYgMw1DRhntiZ49oK",
 			"fillStyle": "solid",
@@ -14896,14 +14919,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "MV8XOhkN"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 295,
-			"versionNonce": 813350203,
+			"version": 298,
+			"versionNonce": 498624266,
 			"isDeleted": false,
 			"id": "MV8XOhkN",
 			"fillStyle": "solid",
@@ -14925,7 +14948,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14937,12 +14960,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "3BnmCYgMw1DRhntiZ49oK",
 			"originalText": "HEADER",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 975,
-			"versionNonce": 931596277,
+			"version": 978,
+			"versionNonce": 95217302,
 			"isDeleted": false,
 			"id": "JbhgUXh8Q9HDAiifGPLe7",
 			"fillStyle": "solid",
@@ -14964,7 +14987,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -14993,8 +15016,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 454,
-			"versionNonce": 776297947,
+			"version": 457,
+			"versionNonce": 619378122,
 			"isDeleted": false,
 			"id": "5Ln-fTn4VZbZt4abloyMh",
 			"fillStyle": "solid",
@@ -15021,14 +15044,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 495,
-			"versionNonce": 1236025685,
+			"version": 498,
+			"versionNonce": 733979606,
 			"isDeleted": false,
 			"id": "Bmkozz3pA3ynjNaBhqBc0",
 			"fillStyle": "solid",
@@ -15055,14 +15078,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "6dynjPv8"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 465,
-			"versionNonce": 657648251,
+			"version": 468,
+			"versionNonce": 744336522,
 			"isDeleted": false,
 			"id": "6dynjPv8",
 			"fillStyle": "solid",
@@ -15084,7 +15107,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026531,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15096,12 +15119,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "Bmkozz3pA3ynjNaBhqBc0",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 617,
-			"versionNonce": 1235439285,
+			"version": 620,
+			"versionNonce": 319338774,
 			"isDeleted": false,
 			"id": "pKGtDuQ-KA2ZHS4dr20Yr",
 			"fillStyle": "solid",
@@ -15128,14 +15151,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "bVVd5nXo"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 588,
-			"versionNonce": 268821275,
+			"version": 591,
+			"versionNonce": 164334410,
 			"isDeleted": false,
 			"id": "bVVd5nXo",
 			"fillStyle": "solid",
@@ -15157,7 +15180,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15169,12 +15192,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "pKGtDuQ-KA2ZHS4dr20Yr",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 648,
-			"versionNonce": 1175564309,
+			"version": 651,
+			"versionNonce": 1929193046,
 			"isDeleted": false,
 			"id": "WQl5rqsqEoJ6GIk7nDifD",
 			"fillStyle": "solid",
@@ -15201,14 +15224,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "SIQDhUzX"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 620,
-			"versionNonce": 556844987,
+			"version": 623,
+			"versionNonce": 596611594,
 			"isDeleted": false,
 			"id": "SIQDhUzX",
 			"fillStyle": "solid",
@@ -15230,7 +15253,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349689,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15242,12 +15265,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "WQl5rqsqEoJ6GIk7nDifD",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 638,
-			"versionNonce": 1559029109,
+			"version": 641,
+			"versionNonce": 1282534294,
 			"isDeleted": false,
 			"id": "dxx9RDAh8ZA3wacA8GI7-",
 			"fillStyle": "solid",
@@ -15274,14 +15297,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "O0irbwZs"
 				}
 			],
-			"updated": 1706001349689,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 610,
-			"versionNonce": 1624643675,
+			"version": 613,
+			"versionNonce": 1554301130,
 			"isDeleted": false,
 			"id": "O0irbwZs",
 			"fillStyle": "solid",
@@ -15303,7 +15326,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15315,12 +15338,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "dxx9RDAh8ZA3wacA8GI7-",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 785,
-			"versionNonce": 1366978261,
+			"version": 788,
+			"versionNonce": 1033636054,
 			"isDeleted": false,
 			"id": "tM9tCfx65sF5s9vYDkZwS",
 			"fillStyle": "solid",
@@ -15347,14 +15370,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "0WJPsEfc"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 766,
-			"versionNonce": 1825068283,
+			"version": 769,
+			"versionNonce": 10885002,
 			"isDeleted": false,
 			"id": "0WJPsEfc",
 			"fillStyle": "solid",
@@ -15376,7 +15399,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15388,12 +15411,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "tM9tCfx65sF5s9vYDkZwS",
 			"originalText": "The DOM",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 841,
-			"versionNonce": 1649396789,
+			"version": 844,
+			"versionNonce": 1443921430,
 			"isDeleted": false,
 			"id": "Ru9yWIc60gmwiwHdZUiH_",
 			"fillStyle": "solid",
@@ -15420,14 +15443,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "ZpKryQFD"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 862,
-			"versionNonce": 76152219,
+			"version": 865,
+			"versionNonce": 802068042,
 			"isDeleted": false,
 			"id": "ZpKryQFD",
 			"fillStyle": "solid",
@@ -15449,7 +15472,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15461,12 +15484,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "Ru9yWIc60gmwiwHdZUiH_",
 			"originalText": "Dive into the DOM",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 797,
-			"versionNonce": 1599241621,
+			"version": 800,
+			"versionNonce": 1791249238,
 			"isDeleted": false,
 			"id": "Ld8-4grFjrJCpBf-Zf5ew",
 			"fillStyle": "solid",
@@ -15493,14 +15516,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "0oo9xCJQ"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 790,
-			"versionNonce": 1397592635,
+			"version": 793,
+			"versionNonce": 1257848074,
 			"isDeleted": false,
 			"id": "0oo9xCJQ",
 			"fillStyle": "solid",
@@ -15522,7 +15545,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15534,12 +15557,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "Ld8-4grFjrJCpBf-Zf5ew",
 			"originalText": "There's a lot to it!",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 713,
-			"versionNonce": 2142765813,
+			"version": 716,
+			"versionNonce": 1779200150,
 			"isDeleted": false,
 			"id": "QOC8L1vys5n7Jf6h1S8FZ",
 			"fillStyle": "solid",
@@ -15570,14 +15593,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 983,
-			"versionNonce": 2046137051,
+			"version": 986,
+			"versionNonce": 1604389834,
 			"isDeleted": false,
 			"id": "f9FSV43z",
 			"fillStyle": "solid",
@@ -15599,7 +15622,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.281157659243917,
@@ -15611,12 +15634,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "QOC8L1vys5n7Jf6h1S8FZ",
 			"originalText": "<p id=\"welcome-text\" class=\"text-default\">Welcome!</p>",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 834,
-			"versionNonce": 1632746159,
+			"version": 855,
+			"versionNonce": 798879190,
 			"isDeleted": false,
 			"id": "y9ZZjQRBXPBqBj37safu0",
 			"fillStyle": "solid",
@@ -15638,7 +15661,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685791,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -15675,8 +15698,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 562,
-			"versionNonce": 1494515579,
+			"version": 565,
+			"versionNonce": 333513354,
 			"isDeleted": false,
 			"id": "BDxZ2MHbhnuENu0iVlU7w",
 			"fillStyle": "solid",
@@ -15711,14 +15734,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 552,
-			"versionNonce": 1343326645,
+			"version": 555,
+			"versionNonce": 1485685526,
 			"isDeleted": false,
 			"id": "HgS4B3Ae",
 			"fillStyle": "solid",
@@ -15740,7 +15763,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15752,12 +15775,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "BDxZ2MHbhnuENu0iVlU7w",
 			"originalText": "const p",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 658,
-			"versionNonce": 451729435,
+			"version": 661,
+			"versionNonce": 309600586,
 			"isDeleted": false,
 			"id": "q7La-5-CTf8Hc8lIO38Ux",
 			"fillStyle": "solid",
@@ -15788,14 +15811,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 679,
-			"versionNonce": 2030078741,
+			"version": 682,
+			"versionNonce": 391180374,
 			"isDeleted": false,
 			"id": "GR3b4qTD",
 			"fillStyle": "solid",
@@ -15817,7 +15840,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15829,12 +15852,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "q7La-5-CTf8Hc8lIO38Ux",
 			"originalText": "p.textContent",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 668,
-			"versionNonce": 2104564923,
+			"version": 671,
+			"versionNonce": 1991600138,
 			"isDeleted": false,
 			"id": "qRvrca5b_Y4MsALCjCyEn",
 			"fillStyle": "solid",
@@ -15865,14 +15888,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 706,
-			"versionNonce": 591945845,
+			"version": 709,
+			"versionNonce": 129791382,
 			"isDeleted": false,
 			"id": "tfd8ELoD",
 			"fillStyle": "solid",
@@ -15894,7 +15917,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15906,12 +15929,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "qRvrca5b_Y4MsALCjCyEn",
 			"originalText": "p.id",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 734,
-			"versionNonce": 1547947355,
+			"version": 737,
+			"versionNonce": 949999306,
 			"isDeleted": false,
 			"id": "5CT_XPPIqKeIW0JL9x8j4",
 			"fillStyle": "solid",
@@ -15942,14 +15965,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 792,
-			"versionNonce": 1420724693,
+			"version": 795,
+			"versionNonce": 50680534,
 			"isDeleted": false,
 			"id": "uGsxJPqe",
 			"fillStyle": "solid",
@@ -15971,7 +15994,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15983,12 +16006,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "5CT_XPPIqKeIW0JL9x8j4",
 			"originalText": "p.className",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 784,
-			"versionNonce": 2058840571,
+			"version": 787,
+			"versionNonce": 416181642,
 			"isDeleted": false,
 			"id": "8d9m97jdyLVfKYrCK7rSn",
 			"fillStyle": "solid",
@@ -16015,14 +16038,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "JLD0MF73"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 814,
-			"versionNonce": 1044940597,
+			"version": 817,
+			"versionNonce": 1941997590,
 			"isDeleted": false,
 			"id": "JLD0MF73",
 			"fillStyle": "solid",
@@ -16044,7 +16067,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16056,12 +16079,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "8d9m97jdyLVfKYrCK7rSn",
 			"originalText": "\"Welcome\"",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 846,
-			"versionNonce": 231633563,
+			"version": 849,
+			"versionNonce": 209464394,
 			"isDeleted": false,
 			"id": "AGpwZds1ld-3g2ebPyuNe",
 			"fillStyle": "solid",
@@ -16092,14 +16115,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 913,
-			"versionNonce": 1383848085,
+			"version": 916,
+			"versionNonce": 702747990,
 			"isDeleted": false,
 			"id": "pbo7lVDE",
 			"fillStyle": "solid",
@@ -16121,7 +16144,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16133,12 +16156,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "AGpwZds1ld-3g2ebPyuNe",
 			"originalText": "\"welcome-text\"",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 873,
-			"versionNonce": 104556347,
+			"version": 876,
+			"versionNonce": 696521482,
 			"isDeleted": false,
 			"id": "24mfIlNIiRHZW8HS090_N",
 			"fillStyle": "solid",
@@ -16169,14 +16192,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 955,
-			"versionNonce": 452853237,
+			"version": 958,
+			"versionNonce": 784464534,
 			"isDeleted": false,
 			"id": "GSSLwDon",
 			"fillStyle": "solid",
@@ -16198,7 +16221,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16210,12 +16233,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "24mfIlNIiRHZW8HS090_N",
 			"originalText": "\"text-default\"",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 126,
-			"versionNonce": 36875169,
+			"version": 138,
+			"versionNonce": 308355530,
 			"isDeleted": false,
 			"id": "sps6-OWWSrVVIjbzLe7Hc",
 			"fillStyle": "solid",
@@ -16237,7 +16260,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685792,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16262,8 +16285,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "arrow",
-			"version": 263,
-			"versionNonce": 917463873,
+			"version": 302,
+			"versionNonce": 420624342,
 			"isDeleted": false,
 			"id": "ZKhGYTAVytSfuqAO-aQ69",
 			"fillStyle": "solid",
@@ -16285,7 +16308,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685797,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16314,8 +16337,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "arrow",
-			"version": 263,
-			"versionNonce": 1413698337,
+			"version": 302,
+			"versionNonce": 1647204490,
 			"isDeleted": false,
 			"id": "BajE-CHs_82sRPJmBTeeK",
 			"fillStyle": "solid",
@@ -16337,7 +16360,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685798,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16366,8 +16389,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 115,
-			"versionNonce": 676644021,
+			"version": 118,
+			"versionNonce": 1625869590,
 			"isDeleted": false,
 			"id": "dXfEg8LB",
 			"fillStyle": "solid",
@@ -16389,7 +16412,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 45.477302511830324,
@@ -16405,8 +16428,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 1195,
-			"versionNonce": 1204735259,
+			"version": 1198,
+			"versionNonce": 413579082,
 			"isDeleted": false,
 			"id": "c699tcMueD3OExfGGfvCF",
 			"fillStyle": "solid",
@@ -16441,14 +16464,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1538,
-			"versionNonce": 2065982997,
+			"version": 1541,
+			"versionNonce": 867875414,
 			"isDeleted": false,
 			"id": "R04FPQU5",
 			"fillStyle": "solid",
@@ -16470,7 +16493,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.281157659243917,
@@ -16482,12 +16505,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "c699tcMueD3OExfGGfvCF",
 			"originalText": "p.className = \"new-class\"",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 571,
-			"versionNonce": 219135713,
+			"version": 610,
+			"versionNonce": 103104010,
 			"isDeleted": false,
 			"id": "utk2acYCoO2DHj5b329KH",
 			"fillStyle": "solid",
@@ -16509,7 +16532,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685799,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16538,8 +16561,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "arrow",
-			"version": 707,
-			"versionNonce": 559364801,
+			"version": 746,
+			"versionNonce": 1214054294,
 			"isDeleted": false,
 			"id": "fkq-cirz18fJ-nkjwMSDk",
 			"fillStyle": "solid",
@@ -16561,7 +16584,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685801,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16590,8 +16613,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 1058,
-			"versionNonce": 1995211355,
+			"version": 1061,
+			"versionNonce": 933555402,
 			"isDeleted": false,
 			"id": "PBGz2QZgprVjUo4VTFrpy",
 			"fillStyle": "solid",
@@ -16622,14 +16645,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1380,
-			"versionNonce": 500671701,
+			"version": 1383,
+			"versionNonce": 855940310,
 			"isDeleted": false,
 			"id": "sT48lQyd",
 			"fillStyle": "solid",
@@ -16651,7 +16674,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.281157659243917,
@@ -16663,12 +16686,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "PBGz2QZgprVjUo4VTFrpy",
 			"originalText": "<p ... class=\"new-class\">",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 1431,
-			"versionNonce": 142704379,
+			"version": 1434,
+			"versionNonce": 1656800138,
 			"isDeleted": false,
 			"id": "2eZiQWWXB2uvnYJiqaicv",
 			"fillStyle": "solid",
@@ -16695,14 +16718,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "x1PPIXER"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1839,
-			"versionNonce": 1503019573,
+			"version": 1842,
+			"versionNonce": 960926230,
 			"isDeleted": false,
 			"id": "x1PPIXER",
 			"fillStyle": "solid",
@@ -16724,7 +16747,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026532,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.281157659243917,
@@ -16736,12 +16759,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "2eZiQWWXB2uvnYJiqaicv",
 			"originalText": "<input id=\"input-1\" class=\"input-default\" value=\"Enter text...\">",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 314,
-			"versionNonce": 1670244251,
+			"version": 317,
+			"versionNonce": 1370735178,
 			"isDeleted": false,
 			"id": "9vNZNobzeDyO8I0aijhLy",
 			"fillStyle": "solid",
@@ -16763,14 +16786,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 418,
-			"versionNonce": 1381643157,
+			"version": 421,
+			"versionNonce": 639098710,
 			"isDeleted": false,
 			"id": "mQWQBMvVsHuBUaomgg5I9",
 			"fillStyle": "solid",
@@ -16792,14 +16815,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 413,
-			"versionNonce": 1044659259,
+			"version": 416,
+			"versionNonce": 1331226890,
 			"isDeleted": false,
 			"id": "4n4PeEGwc4nBZ_NIEKWpm",
 			"fillStyle": "solid",
@@ -16821,14 +16844,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 566,
-			"versionNonce": 1683552501,
+			"version": 569,
+			"versionNonce": 500008086,
 			"isDeleted": false,
 			"id": "afpCWchX2QPxoqtJaOmaR",
 			"fillStyle": "solid",
@@ -16850,7 +16873,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -16891,8 +16914,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 259,
-			"versionNonce": 1686568155,
+			"version": 262,
+			"versionNonce": 321599434,
 			"isDeleted": false,
 			"id": "nI44yj5KwhO5o-OB4Xdq5",
 			"fillStyle": "solid",
@@ -16919,14 +16942,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "Q84JANu9"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 325,
-			"versionNonce": 1226314325,
+			"version": 328,
+			"versionNonce": 1914470870,
 			"isDeleted": false,
 			"id": "Q84JANu9",
 			"fillStyle": "solid",
@@ -16948,7 +16971,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16960,12 +16983,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "nI44yj5KwhO5o-OB4Xdq5",
 			"originalText": "속성(Attribute)",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 239,
-			"versionNonce": 32024955,
+			"version": 242,
+			"versionNonce": 759541386,
 			"isDeleted": false,
 			"id": "bAspsIgw",
 			"fillStyle": "solid",
@@ -16987,7 +17010,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16999,12 +17022,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "> const input = document.querySelector(\"input\");",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 293,
-			"versionNonce": 1835859893,
+			"version": 296,
+			"versionNonce": 1981404950,
 			"isDeleted": false,
 			"id": "7u2vfVXwXz8O32g4pN0He",
 			"fillStyle": "solid",
@@ -17031,14 +17054,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "n4YC5p6R"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 259,
-			"versionNonce": 732676635,
+			"version": 262,
+			"versionNonce": 1919110474,
 			"isDeleted": false,
 			"id": "n4YC5p6R",
 			"fillStyle": "solid",
@@ -17060,7 +17083,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17072,12 +17095,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "7u2vfVXwXz8O32g4pN0He",
 			"originalText": "input.id",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 181,
-			"versionNonce": 125649173,
+			"version": 184,
+			"versionNonce": 1379566678,
 			"isDeleted": false,
 			"id": "7cmhsbuhFQ6FbSECgn2yQ",
 			"fillStyle": "solid",
@@ -17104,14 +17127,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "KrXbaKTD"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 178,
-			"versionNonce": 717407931,
+			"version": 181,
+			"versionNonce": 1742672906,
 			"isDeleted": false,
 			"id": "KrXbaKTD",
 			"fillStyle": "solid",
@@ -17133,7 +17156,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17145,12 +17168,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "7cmhsbuhFQ6FbSECgn2yQ",
 			"originalText": "input.className",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 208,
-			"versionNonce": 1824413301,
+			"version": 211,
+			"versionNonce": 1481869718,
 			"isDeleted": false,
 			"id": "A2A48_nbZ_nRQi0lJ6adF",
 			"fillStyle": "solid",
@@ -17177,14 +17200,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "7WtCnnuV"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 217,
-			"versionNonce": 97531739,
+			"version": 220,
+			"versionNonce": 800326346,
 			"isDeleted": false,
 			"id": "7WtCnnuV",
 			"fillStyle": "solid",
@@ -17206,7 +17229,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17218,12 +17241,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "A2A48_nbZ_nRQi0lJ6adF",
 			"originalText": "input.value",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 97,
-			"versionNonce": 670416853,
+			"version": 100,
+			"versionNonce": 1469703894,
 			"isDeleted": false,
 			"id": "D59OfdOP",
 			"fillStyle": "solid",
@@ -17245,7 +17268,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 104.8528292223427,
@@ -17261,8 +17284,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 120,
-			"versionNonce": 1260819451,
+			"version": 123,
+			"versionNonce": 1954355594,
 			"isDeleted": false,
 			"id": "CcJkIvgP",
 			"fillStyle": "solid",
@@ -17284,7 +17307,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17296,12 +17319,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "실시간 동기화",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 1329134901,
+			"version": 185,
+			"versionNonce": 1889704982,
 			"isDeleted": false,
 			"id": "ngIypxq5",
 			"fillStyle": "solid",
@@ -17323,7 +17346,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17335,12 +17358,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "단방향 실시간 동기화",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 293,
-			"versionNonce": 449338523,
+			"version": 296,
+			"versionNonce": 1433753674,
 			"isDeleted": false,
 			"id": "a0avYpec",
 			"fillStyle": "solid",
@@ -17360,7 +17383,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17372,12 +17395,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "value를 변경하더라도 속성값에 바로 반영되지 않는다.\n속성값을 변경해야 프로퍼티값이 변경된다.",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
-			"version": 355,
-			"versionNonce": 434998933,
+			"version": 358,
+			"versionNonce": 1768073558,
 			"isDeleted": false,
 			"id": "wgpir4E0",
 			"fillStyle": "solid",
@@ -17397,7 +17420,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17409,12 +17432,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "사용자의 입력 값을 받기 위한 input을 다시 속성값에 반영하려고 한다는 것.\nvalue의 속성을 저장하려고 input의 초깃값을 다시 리셋하는 것.",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 1885868347,
+			"version": 173,
+			"versionNonce": 1383579402,
 			"isDeleted": false,
 			"id": "F3bVyjHV",
 			"fillStyle": "solid",
@@ -17434,7 +17457,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17446,12 +17469,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "불가능",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 293,
-			"versionNonce": 919139317,
+			"version": 296,
+			"versionNonce": 19861142,
 			"isDeleted": false,
 			"id": "OCT9WDHp",
 			"fillStyle": "solid",
@@ -17471,7 +17494,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17483,12 +17506,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "사용자 input을 value 속성에 반영하려고 하는 경우 할당하려는 값을 잃어버려서 리셋할 수 없게 된다.",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 165,
-			"versionNonce": 761803227,
+			"version": 168,
+			"versionNonce": 939478474,
 			"isDeleted": false,
 			"id": "qel1bZ9C",
 			"fillStyle": "solid",
@@ -17508,7 +17531,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17520,12 +17543,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "traversing the DOM",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 301,
-			"versionNonce": 1641065813,
+			"version": 304,
+			"versionNonce": 1153223638,
 			"isDeleted": false,
 			"id": "091jO7WQ7K-l0UaTviu6-",
 			"fillStyle": "solid",
@@ -17576,14 +17599,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349690,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 291,
-			"versionNonce": 1658535547,
+			"version": 294,
+			"versionNonce": 187106442,
 			"isDeleted": false,
 			"id": "Gfxgk4CX",
 			"fillStyle": "solid",
@@ -17605,7 +17628,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17617,12 +17640,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "091jO7WQ7K-l0UaTviu6-",
 			"originalText": "현재 노드",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 970,
-			"versionNonce": 1527003809,
+			"version": 991,
+			"versionNonce": 1646321942,
 			"isDeleted": false,
 			"id": "rMfibXvXXvC_CuVFQTJgy",
 			"fillStyle": "solid",
@@ -17644,7 +17667,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685808,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17673,8 +17696,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 574,
-			"versionNonce": 1535358747,
+			"version": 577,
+			"versionNonce": 1974068042,
 			"isDeleted": false,
 			"id": "oVqjLJa0",
 			"fillStyle": "solid",
@@ -17701,7 +17724,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349691,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17713,12 +17736,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "childNodes()\nchildren()\nquerySelector()",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "arrow",
-			"version": 223,
-			"versionNonce": 1919613935,
+			"version": 235,
+			"versionNonce": 2094026326,
 			"isDeleted": false,
 			"id": "ZUvNEymhGiLyNVVQr3XOZ",
 			"fillStyle": "solid",
@@ -17740,7 +17763,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685808,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17765,8 +17788,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "arrow",
-			"version": 369,
-			"versionNonce": 130157679,
+			"version": 390,
+			"versionNonce": 836954634,
 			"isDeleted": false,
 			"id": "s7okwzkmruzDNA0XAs-C3",
 			"fillStyle": "solid",
@@ -17788,7 +17811,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685808,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17817,8 +17840,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 111,
-			"versionNonce": 634966389,
+			"version": 114,
+			"versionNonce": 27267990,
 			"isDeleted": false,
 			"id": "M3KAggrQ",
 			"fillStyle": "solid",
@@ -17845,7 +17868,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349691,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17857,12 +17880,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "firstChild()\nfirstElementChild()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 1575939163,
+			"version": 139,
+			"versionNonce": 1993152714,
 			"isDeleted": false,
 			"id": "GUTMWX4D",
 			"fillStyle": "solid",
@@ -17884,7 +17907,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17896,12 +17919,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "lastChild()\nlastElementChild()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 347,
-			"versionNonce": 1182927919,
+			"version": 368,
+			"versionNonce": 2059743446,
 			"isDeleted": false,
 			"id": "_ku2qWWkD_0431WL0Jq_t",
 			"fillStyle": "solid",
@@ -17923,7 +17946,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685808,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17952,8 +17975,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "arrow",
-			"version": 444,
-			"versionNonce": 715367951,
+			"version": 465,
+			"versionNonce": 1677946762,
 			"isDeleted": false,
 			"id": "g4Pwpkl1cD2NpMBylOq2G",
 			"fillStyle": "solid",
@@ -17975,7 +17998,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685808,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18004,8 +18027,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 187,
-			"versionNonce": 976271413,
+			"version": 190,
+			"versionNonce": 1674880534,
 			"isDeleted": false,
 			"id": "dgsleYo2",
 			"fillStyle": "solid",
@@ -18032,7 +18055,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349691,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18044,12 +18067,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "previousSibling()\npreviousElementSibling()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
-			"version": 225,
-			"versionNonce": 1216205211,
+			"version": 228,
+			"versionNonce": 1841360458,
 			"isDeleted": false,
 			"id": "4PQEoMjs",
 			"fillStyle": "solid",
@@ -18076,7 +18099,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349691,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18088,12 +18111,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "nextSibling()\nnextElementSibling()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
-			"version": 545,
-			"versionNonce": 1681254805,
+			"version": 548,
+			"versionNonce": 2109961046,
 			"isDeleted": false,
 			"id": "T3e6id6h",
 			"fillStyle": "solid",
@@ -18120,7 +18143,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706001349691,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18132,12 +18155,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "parentNode()\nparentElement()\nclosest()",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "arrow",
-			"version": 403,
-			"versionNonce": 1106161231,
+			"version": 424,
+			"versionNonce": 1222677770,
 			"isDeleted": false,
 			"id": "pPVlmXCTZKKlZ9VD9jBbW",
 			"fillStyle": "solid",
@@ -18159,7 +18182,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251685808,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18188,8 +18211,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 160,
-			"versionNonce": 1833823989,
+			"version": 163,
+			"versionNonce": 585537686,
 			"isDeleted": false,
 			"id": "XzxDkmxfBu1nPtUVVE034",
 			"fillStyle": "solid",
@@ -18211,7 +18234,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -18232,8 +18255,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 182,
-			"versionNonce": 1241802459,
+			"version": 185,
+			"versionNonce": 1457349578,
 			"isDeleted": false,
 			"id": "UvdeiY99vpZMs_hpY0Uo5",
 			"fillStyle": "solid",
@@ -18256,14 +18279,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 225,
-			"versionNonce": 335431765,
+			"version": 228,
+			"versionNonce": 452138454,
 			"isDeleted": false,
 			"id": "1FDmW1J4rpVoWM1ofhkz3",
 			"fillStyle": "solid",
@@ -18286,14 +18309,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026533,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 268,
-			"versionNonce": 1747506043,
+			"version": 271,
+			"versionNonce": 298998410,
 			"isDeleted": false,
 			"id": "QlDieqsmjxfhTpMECwHS7",
 			"fillStyle": "solid",
@@ -18316,14 +18339,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 235,
-			"versionNonce": 706508213,
+			"version": 238,
+			"versionNonce": 1862134550,
 			"isDeleted": false,
 			"id": "nXSYdCU9exjd3MJZ_AObK",
 			"fillStyle": "solid",
@@ -18346,14 +18369,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 244,
-			"versionNonce": 1817619483,
+			"version": 247,
+			"versionNonce": 2021292362,
 			"isDeleted": false,
 			"id": "Sdm4WvGCqZbBTaUaO_lLR",
 			"fillStyle": "solid",
@@ -18376,7 +18399,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -18401,8 +18424,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 153,
-			"versionNonce": 718141205,
+			"version": 156,
+			"versionNonce": 1031542870,
 			"isDeleted": false,
 			"id": "E8kJVLUk81dHtynBKISsB",
 			"fillStyle": "solid",
@@ -18425,7 +18448,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -18446,8 +18469,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 342,
-			"versionNonce": 713060539,
+			"version": 345,
+			"versionNonce": 2050015242,
 			"isDeleted": false,
 			"id": "mP80pKz6S_UuUGoG50JjF",
 			"fillStyle": "solid",
@@ -18470,14 +18493,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 146,
-			"versionNonce": 277367925,
+			"version": 149,
+			"versionNonce": 239246742,
 			"isDeleted": false,
 			"id": "bBXR1OlSf-5Mnz-A4EmZX",
 			"fillStyle": "solid",
@@ -18500,7 +18523,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -18525,8 +18548,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "line",
-			"version": 63,
-			"versionNonce": 1414046043,
+			"version": 66,
+			"versionNonce": 1659907786,
 			"isDeleted": false,
 			"id": "nZ8ZlCaELSIMnhCt1wNR2",
 			"fillStyle": "solid",
@@ -18549,7 +18572,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -18570,8 +18593,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 49,
-			"versionNonce": 1796273621,
+			"version": 52,
+			"versionNonce": 646347478,
 			"isDeleted": false,
 			"id": "0UBqxrcp",
 			"fillStyle": "solid",
@@ -18591,7 +18614,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706001349691,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18603,12 +18626,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": "Creation & Inserting Elements",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 157,
-			"versionNonce": 353581173,
+			"version": 160,
+			"versionNonce": 1196672394,
 			"isDeleted": false,
 			"id": "MHFokJVJHmnUD4LZ7_j-N",
 			"fillStyle": "solid",
@@ -18635,14 +18658,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "m0rLYDMP"
 				}
 			],
-			"updated": 1706002048039,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 1664251227,
+			"version": 139,
+			"versionNonce": 1557966870,
 			"isDeleted": false,
 			"id": "m0rLYDMP",
 			"fillStyle": "solid",
@@ -18664,7 +18687,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048039,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18676,12 +18699,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "MHFokJVJHmnUD4LZ7_j-N",
 			"originalText": "HTML 코드",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 281,
-			"versionNonce": 2002674133,
+			"version": 284,
+			"versionNonce": 1888912458,
 			"isDeleted": false,
 			"id": "q9L6x9bhfrV7nrIv4vO7z",
 			"fillStyle": "solid",
@@ -18708,14 +18731,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "EQHp471d"
 				}
 			],
-			"updated": 1706002048039,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 284,
-			"versionNonce": 2106659323,
+			"version": 287,
+			"versionNonce": 1832533334,
 			"isDeleted": false,
 			"id": "EQHp471d",
 			"fillStyle": "solid",
@@ -18737,7 +18760,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048039,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18749,12 +18772,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "q9L6x9bhfrV7nrIv4vO7z",
 			"originalText": "createElement()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 217,
-			"versionNonce": 758996789,
+			"version": 220,
+			"versionNonce": 1217620746,
 			"isDeleted": false,
 			"id": "kkQsMEPCxvIftyjRzyeZI",
 			"fillStyle": "solid",
@@ -18781,14 +18804,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "w8JWVgPk"
 				}
 			],
-			"updated": 1706002048039,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 216,
-			"versionNonce": 1462966939,
+			"version": 219,
+			"versionNonce": 1291068054,
 			"isDeleted": false,
 			"id": "w8JWVgPk",
 			"fillStyle": "solid",
@@ -18810,7 +18833,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18822,12 +18845,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "kkQsMEPCxvIftyjRzyeZI",
 			"originalText": "innerHTML",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 671,
-			"versionNonce": 1024831637,
+			"version": 674,
+			"versionNonce": 1170569674,
 			"isDeleted": false,
 			"id": "0gqBuDtjjgWQ-qFDF4L3F",
 			"fillStyle": "solid",
@@ -18854,14 +18877,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "oPfR3C7B"
 				}
 			],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 749,
-			"versionNonce": 214634299,
+			"version": 752,
+			"versionNonce": 2126471126,
 			"isDeleted": false,
 			"id": "oPfR3C7B",
 			"fillStyle": "solid",
@@ -18883,7 +18906,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18895,12 +18918,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "0gqBuDtjjgWQ-qFDF4L3F",
 			"originalText": "insertAdacentHTML()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 110,
-			"versionNonce": 1151129077,
+			"version": 113,
+			"versionNonce": 1464316042,
 			"isDeleted": false,
 			"id": "SJ18ZPd6",
 			"fillStyle": "solid",
@@ -18922,7 +18945,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18934,12 +18957,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": ": HTML 문자열 추가",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 166,
-			"versionNonce": 12283867,
+			"version": 169,
+			"versionNonce": 1722873110,
 			"isDeleted": false,
 			"id": "QTGzWEU4",
 			"fillStyle": "solid",
@@ -18961,7 +18984,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18973,12 +18996,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": ":특정 부분에 HTML 문자열 추가",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 322,
-			"versionNonce": 249057109,
+			"version": 325,
+			"versionNonce": 1356140362,
 			"isDeleted": false,
 			"id": "lDPQllJKhNDTjrlSTs_dz",
 			"fillStyle": "solid",
@@ -19005,14 +19028,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "XXQ8pclu"
 				}
 			],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 357,
-			"versionNonce": 622247035,
+			"version": 360,
+			"versionNonce": 507372118,
 			"isDeleted": false,
 			"id": "XXQ8pclu",
 			"fillStyle": "solid",
@@ -19034,7 +19057,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19046,12 +19069,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "lDPQllJKhNDTjrlSTs_dz",
 			"originalText": "appendChild()\nappend()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
-			"version": 348,
-			"versionNonce": 1780325557,
+			"version": 351,
+			"versionNonce": 1455986186,
 			"isDeleted": false,
 			"id": "M75tban4TUsy99xPW4_Ar",
 			"fillStyle": "solid",
@@ -19078,14 +19101,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "qSLIM9U8"
 				}
 			],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 442,
-			"versionNonce": 94336283,
+			"version": 445,
+			"versionNonce": 1211836310,
 			"isDeleted": false,
 			"id": "qSLIM9U8",
 			"fillStyle": "solid",
@@ -19107,7 +19130,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19123,8 +19146,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 436,
-			"versionNonce": 1041382933,
+			"version": 439,
+			"versionNonce": 1243432138,
 			"isDeleted": false,
 			"id": "12E5FSczBGZ0ejO41D2Jy",
 			"fillStyle": "solid",
@@ -19151,14 +19174,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"id": "2WbmRMiP"
 				}
 			],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 535,
-			"versionNonce": 298326459,
+			"version": 538,
+			"versionNonce": 1692255446,
 			"isDeleted": false,
 			"id": "2WbmRMiP",
 			"fillStyle": "solid",
@@ -19180,7 +19203,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19192,12 +19215,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": "12E5FSczBGZ0ejO41D2Jy",
 			"originalText": "replaceChild()\nreplaceWith()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
-			"version": 292,
-			"versionNonce": 1638642549,
+			"version": 295,
+			"versionNonce": 879631242,
 			"isDeleted": false,
 			"id": "MUuADDlM",
 			"fillStyle": "solid",
@@ -19219,7 +19242,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19231,12 +19254,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": ": 새로운 DOM 요소/노드 추가",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 356,
-			"versionNonce": 649275995,
+			"version": 359,
+			"versionNonce": 632994326,
 			"isDeleted": false,
 			"id": "2XUAj3fA",
 			"fillStyle": "solid",
@@ -19258,7 +19281,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19270,12 +19293,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": ": 새로운 DOM 요소/노드 특정 위치에 삽입",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 398,
-			"versionNonce": 825195733,
+			"version": 401,
+			"versionNonce": 871766602,
 			"isDeleted": false,
 			"id": "GKNSApp7",
 			"fillStyle": "solid",
@@ -19297,7 +19320,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706002048040,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19309,12 +19332,12 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"containerId": null,
 			"originalText": ": 기존 DOM 요소/노드 대체",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "image",
-			"version": 125,
-			"versionNonce": 100235247,
+			"version": 128,
+			"versionNonce": 1103562582,
 			"isDeleted": false,
 			"id": "1bFMPt148LoxmtSwwmhnV",
 			"fillStyle": "solid",
@@ -19336,7 +19359,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251683828,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"status": "saved",
@@ -19348,8 +19371,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "rectangle",
-			"version": 179,
-			"versionNonce": 174948993,
+			"version": 182,
+			"versionNonce": 1737507082,
 			"isDeleted": false,
 			"id": "8Wh221BZyawSONScnIu25",
 			"fillStyle": "solid",
@@ -19376,14 +19399,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706251683828,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 981,
-			"versionNonce": 1770203439,
+			"version": 984,
+			"versionNonce": 1230482582,
 			"isDeleted": false,
 			"id": "M032LADGS8WfhR-59tIcK",
 			"fillStyle": "solid",
@@ -19405,7 +19428,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251683911,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -19438,8 +19461,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 325,
-			"versionNonce": 1839302703,
+			"version": 328,
+			"versionNonce": 1521979338,
 			"isDeleted": false,
 			"id": "41vOjVZB",
 			"fillStyle": "solid",
@@ -19452,7 +19475,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"y": 1506.7655056142457,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 300.82022349039727,
+			"width": 300.7265625,
 			"height": 47.39313734612625,
 			"seed": 242790817,
 			"groupIds": [
@@ -19462,24 +19485,24 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251683828,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.74714056088594,
 			"fontFamily": 3,
 			"text": "{name: 'Max', age: 30},\n{name : 'Manuel', age: 31}",
-			"rawText": "",
+			"rawText": "{name: 'Max', age: 30},\n{name : 'Manuel', age: 31}",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "{name: 'Max', age: 30},\n{name : 'Manuel', age: 31}",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "text",
-			"version": 581,
-			"versionNonce": 1564317249,
+			"version": 584,
+			"versionNonce": 2049026518,
 			"isDeleted": false,
 			"id": "WZ61042z",
 			"fillStyle": "solid",
@@ -19492,8 +19515,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"y": 1461.1367887216124,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 425.03187323232913,
-			"height": 22.291628072558517,
+			"width": 424.88739013671875,
+			"height": 22.291628072558524,
 			"seed": 1452529025,
 			"groupIds": [
 				"KeVXg9pDa6WtZEzxctHA9",
@@ -19502,24 +19525,24 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251683828,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.576356727132104,
 			"fontFamily": 3,
 			"text": "map()은 객체의 내용으로 새로운 배열을 만들어 반환",
-			"rawText": "",
+			"rawText": "map()은 객체의 내용으로 새로운 배열을 만들어 반환",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "map()은 객체의 내용으로 새로운 배열을 만들어 반환",
 			"lineHeight": 1.2,
-			"baseline": 17.999999999999993
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
-			"version": 346,
-			"versionNonce": 1337895503,
+			"version": 349,
+			"versionNonce": 1904674442,
 			"isDeleted": false,
 			"id": "pdSuvVuA-IZkXFHH5LQtT",
 			"fillStyle": "solid",
@@ -19547,14 +19570,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706251683828,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 304,
-			"versionNonce": 1379043439,
+			"version": 307,
+			"versionNonce": 322567958,
 			"isDeleted": false,
 			"id": "9EFLgOVb",
 			"fillStyle": "solid",
@@ -19567,8 +19590,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"y": 1479.7933313901508,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 397.0373858827535,
-			"height": 101.64209083213689,
+			"width": 397.03125,
+			"height": 101.6420908321369,
 			"seed": 1009461569,
 			"groupIds": [
 				"KeVXg9pDa6WtZEzxctHA9",
@@ -19577,24 +19600,24 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251683828,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 84.70174236011408,
 			"fontFamily": 3,
 			"text": "[      ]",
-			"rawText": "",
+			"rawText": "[      ]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "[      ]",
 			"lineHeight": 1.2,
-			"baseline": 81.99999999999999
+			"baseline": 82
 		},
 		{
 			"type": "rectangle",
-			"version": 187,
-			"versionNonce": 107723265,
+			"version": 190,
+			"versionNonce": 1421452618,
 			"isDeleted": false,
 			"id": "KNZhlWYwkB02GkmaEH92F",
 			"fillStyle": "solid",
@@ -19621,14 +19644,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706251683828,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 391,
-			"versionNonce": 12856143,
+			"version": 394,
+			"versionNonce": 689286230,
 			"isDeleted": false,
 			"id": "9TK70fDtmfmIhotEjXGjW",
 			"fillStyle": "solid",
@@ -19650,7 +19673,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251683912,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -19679,8 +19702,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 599,
-			"versionNonce": 1647343791,
+			"version": 602,
+			"versionNonce": 1571449866,
 			"isDeleted": false,
 			"id": "Gt0nHrZQ",
 			"fillStyle": "solid",
@@ -19693,8 +19716,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"y": 1808.88159290576,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 252.41359320915117,
-			"height": 22.291628072558527,
+			"width": 252.34307861328125,
+			"height": 22.291628072558524,
 			"seed": 714687713,
 			"groupIds": [
 				"KwBI_OvWnkLFurekv-p8Z"
@@ -19707,24 +19730,24 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706251683828,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.576356727132104,
 			"fontFamily": 3,
 			"text": "전개연산을 통해 다시 요소 해체",
-			"rawText": "",
+			"rawText": "전개연산을 통해 다시 요소 해체",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "전개연산을 통해 다시 요소 해체",
 			"lineHeight": 1.2,
-			"baseline": 18.000000000000004
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
-			"version": 253,
-			"versionNonce": 639339215,
+			"version": 256,
+			"versionNonce": 2039067030,
 			"isDeleted": false,
 			"id": "eDQqhkpXFzGSJtdOonUOw",
 			"fillStyle": "solid",
@@ -19751,14 +19774,14 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706251683828,
+			"updated": 1706448026534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 504,
-			"versionNonce": 685762927,
+			"version": 507,
+			"versionNonce": 39082698,
 			"isDeleted": false,
 			"id": "nk9qynC6RjEQZ6wEgSM0n",
 			"fillStyle": "solid",
@@ -19780,7 +19803,7 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706251683912,
+			"updated": 1706448026535,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -19809,8 +19832,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		},
 		{
 			"type": "text",
-			"version": 662,
-			"versionNonce": 1272066433,
+			"version": 665,
+			"versionNonce": 1070272214,
 			"isDeleted": false,
 			"id": "SAoGux6N",
 			"fillStyle": "solid",
@@ -19823,8 +19846,8 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 			"y": 1848.059652092984,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 252.41357635307804,
-			"height": 22.291628072558527,
+			"width": 252.34307861328125,
+			"height": 22.291628072558524,
 			"seed": 506823809,
 			"groupIds": [
 				"KwBI_OvWnkLFurekv-p8Z"
@@ -19837,26 +19860,684 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 					"type": "arrow"
 				}
 			],
-			"updated": 1706251683828,
+			"updated": 1706448026535,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.576356727132104,
 			"fontFamily": 3,
 			"text": "해체된 요소를 다시 배열로 묶음",
-			"rawText": "",
+			"rawText": "해체된 요소를 다시 배열로 묶음",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "해체된 요소를 다시 배열로 묶음",
 			"lineHeight": 1.2,
-			"baseline": 18.000000000000004
+			"baseline": 17
+		},
+		{
+			"id": "GsInA9Ep",
+			"type": "text",
+			"x": 3010.5870123400696,
+			"y": 1998.9842830265939,
+			"width": 187.5,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1193993942,
+			"version": 29,
+			"versionNonce": 1095922058,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706448026535,
+			"link": null,
+			"locked": false,
+			"text": "Object VS Map VS Set",
+			"rawText": "Object VS Map VS Set",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 16,
+			"containerId": null,
+			"originalText": "Object VS Map VS Set",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "rectangle",
+			"version": 282,
+			"versionNonce": 502620874,
+			"isDeleted": false,
+			"id": "iEcizWLCH0iRU9cyBT8ZS",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3003.24343672623,
+			"y": 2106.103882868483,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 180,
+			"height": 49,
+			"seed": 2008116170,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "VaWmTiS7"
+				}
+			],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 301,
+			"versionNonce": 1889437398,
+			"isDeleted": false,
+			"id": "VaWmTiS7",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3018.910947712558,
+			"y": 2111.4038828684834,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 148.66497802734375,
+			"height": 38.4,
+			"seed": 182805130,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "key: 어떤 값이라도 \n키가 될 수 있음",
+			"rawText": "key: 어떤 값이라도 키가 될 수 있음",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "iEcizWLCH0iRU9cyBT8ZS",
+			"originalText": "key: 어떤 값이라도 키가 될 수 있음",
+			"lineHeight": 1.2,
+			"baseline": 35
+		},
+		{
+			"type": "rectangle",
+			"version": 234,
+			"versionNonce": 1402108298,
+			"isDeleted": false,
+			"id": "q9Pa-2afdtm5-BfcdxiAo",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3003.24343672623,
+			"y": 2050.190657422055,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#b2f2bb",
+			"width": 180,
+			"height": 30,
+			"seed": 916941962,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "Dtgnyscw"
+				}
+			],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 194,
+			"versionNonce": 1075002390,
+			"isDeleted": false,
+			"id": "Dtgnyscw",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3079.18093672623,
+			"y": 2055.5906574220553,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 28.125,
+			"height": 19.2,
+			"seed": 618482506,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "Map",
+			"rawText": "Map",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "q9Pa-2afdtm5-BfcdxiAo",
+			"originalText": "Map",
+			"lineHeight": 1.2,
+			"baseline": 16
+		},
+		{
+			"type": "rectangle",
+			"version": 380,
+			"versionNonce": 1792981066,
+			"isDeleted": false,
+			"id": "ydyUaAkyCn_rvFL2Q5N66",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3003.1517677344145,
+			"y": 2181.0171083149116,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 180,
+			"height": 68,
+			"seed": 1463276234,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "WLNrwwA3"
+				}
+			],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 557,
+			"versionNonce": 1103055190,
+			"isDeleted": false,
+			"id": "WLNrwwA3",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3021.4967842139067,
+			"y": 2186.2171083149115,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 143.30996704101562,
+			"height": 57.599999999999994,
+			"seed": 453437834,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "요소가 많을 경우 \nobject 보다 \n성능적으로 유리하다.",
+			"rawText": "요소가 많을 경우 object 보다 성능적으로 유리하다.",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "ydyUaAkyCn_rvFL2Q5N66",
+			"originalText": "요소가 많을 경우 object 보다 성능적으로 유리하다.",
+			"lineHeight": 1.2,
+			"baseline": 54
+		},
+		{
+			"type": "rectangle",
+			"version": 459,
+			"versionNonce": 867507978,
+			"isDeleted": false,
+			"id": "o-jOBDNo73zEViLPKc50b",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3003.24343672623,
+			"y": 2289.712850967441,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 180,
+			"height": 68,
+			"seed": 710643402,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "5nMXBdHm"
+				}
+			],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 765,
+			"versionNonce": 1693953686,
+			"isDeleted": false,
+			"id": "5nMXBdHm",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3019.1334513746674,
+			"y": 2294.912850967441,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 148.219970703125,
+			"height": 57.599999999999994,
+			"seed": 1246963082,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "데이터를 자주\n(초당 여러 번) \n추가/제거 할 때 유리",
+			"rawText": "데이터를 자주\n(초당 여러 번) \n추가/제거 할 때 유리",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "o-jOBDNo73zEViLPKc50b",
+			"originalText": "데이터를 자주\n(초당 여러 번) \n추가/제거 할 때 유리",
+			"lineHeight": 1.2,
+			"baseline": 54
+		},
+		{
+			"id": "1oRBLo7dM5lAB5S0gXtVK",
+			"type": "rectangle",
+			"x": 3234.4297276488483,
+			"y": 2050.190657422055,
+			"width": 180,
+			"height": 30,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 437655306,
+			"version": 214,
+			"versionNonce": 1250995658,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "L136bjU8"
+				}
+			],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "L136bjU8",
+			"type": "text",
+			"x": 3296.3047276488483,
+			"y": 2055.5906574220553,
+			"width": 56.25,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 722201622,
+			"version": 166,
+			"versionNonce": 1718709206,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false,
+			"text": "object",
+			"rawText": "object",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 16,
+			"containerId": "1oRBLo7dM5lAB5S0gXtVK",
+			"originalText": "object",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "rectangle",
+			"version": 436,
+			"versionNonce": 76309642,
+			"isDeleted": false,
+			"id": "2nVKc4Xh_u9m9zkn_1KoJ",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3234.4297276488483,
+			"y": 2106.103882868483,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e7f5ff",
+			"width": 180,
+			"height": 49,
+			"seed": 19687190,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "yXFQUO92"
+				}
+			],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 565,
+			"versionNonce": 608272662,
+			"isDeleted": false,
+			"id": "yXFQUO92",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3258.8047276488483,
+			"y": 2111.4038828684834,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 131.25,
+			"height": 38.4,
+			"seed": 2088440918,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "key: string, \nnumber, symbol",
+			"rawText": "key: string, number, symbol",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "2nVKc4Xh_u9m9zkn_1KoJ",
+			"originalText": "key: string, number, symbol",
+			"lineHeight": 1.2,
+			"baseline": 35
+		},
+		{
+			"type": "rectangle",
+			"version": 438,
+			"versionNonce": 1533231946,
+			"isDeleted": false,
+			"id": "vna86Lb8VsS0YmGqsJX3v",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3234.640269873551,
+			"y": 2181.0171083149116,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e7f5ff",
+			"width": 180,
+			"height": 87,
+			"seed": 657224726,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "yg1ID293"
+				}
+			],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 699,
+			"versionNonce": 1920044746,
+			"isDeleted": false,
+			"id": "yg1ID293",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3245.620280859879,
+			"y": 2186.1171083149115,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 158.03997802734375,
+			"height": 76.8,
+			"seed": 1626440022,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706448097939,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "1~40개 까지의 데이터\n('키:값'의 한 쌍)를 \n관리하는 데에는 \nobject가 유리하다.",
+			"rawText": "1~40개 까지의 데이터\n('키:값'의 한 쌍)를 관리하는 데에는 object가 유리하다.",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "vna86Lb8VsS0YmGqsJX3v",
+			"originalText": "1~40개 까지의 데이터\n('키:값'의 한 쌍)를 관리하는 데에는 object가 유리하다.",
+			"lineHeight": 1.2,
+			"baseline": 73
+		},
+		{
+			"type": "rectangle",
+			"version": 609,
+			"versionNonce": 1500531210,
+			"isDeleted": false,
+			"id": "aylcEI4oWRMgoUd77MGtK",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3235.319503969533,
+			"y": 2289.712850967441,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e7f5ff",
+			"width": 180,
+			"height": 68,
+			"seed": 795222934,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "BM8DLO5B"
+				}
+			],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 1059,
+			"versionNonce": 1813558166,
+			"isDeleted": false,
+			"id": "BM8DLO5B",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3248.977020449025,
+			"y": 2294.912850967441,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 152.68496704101562,
+			"height": 57.599999999999994,
+			"seed": 625557718,
+			"groupIds": [
+				"fJUA53QXpxS7ViV8nzRNq"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706448083574,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "쉽고 빠르게 \n생성할 수 있다.\n성능 측면에서도 좋음.",
+			"rawText": "쉽고 빠르게 \n생성할 수 있다.\n성능 측면에서도 좋음.",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "aylcEI4oWRMgoUd77MGtK",
+			"originalText": "쉽고 빠르게 \n생성할 수 있다.\n성능 측면에서도 좋음.",
+			"lineHeight": 1.2,
+			"baseline": 54
+		},
+		{
+			"id": "Cnd9wOh5",
+			"type": "text",
+			"x": 3721.063202816259,
+			"y": 2024.6985687408796,
+			"width": 9.375,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1286181846,
+			"version": 3,
+			"versionNonce": 1324928534,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1706448026535,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 16,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#ebfbee",
+		"currentItemBackgroundColor": "#b2f2bb",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
 		"currentItemStrokeStyle": "solid",
@@ -19867,10 +20548,10 @@ map()은 객체의 내용으로 새로운 배열을 만들어 반환 ^WZ61042z
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2606.6876040904403,
-		"scrollY": -362.27812436795136,
+		"scrollX": -2732.4838978032385,
+		"scrollY": -1715.5148776252734,
 		"zoom": {
-			"value": 0.5499999999999999
+			"value": 1.0500000000000003
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
