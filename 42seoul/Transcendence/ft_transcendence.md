@@ -8,6 +8,7 @@ aliases:
 ### 날짜  2023-12-12 19:11
 
 ### 태그: #42subject 
+다이어그램으로 정리: [[트센 캔버스.canvas|트센 캔버스]]
 
 >[!메모]
 > This project is about doing something you've never one before.
