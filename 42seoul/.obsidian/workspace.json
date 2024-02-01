@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2024-01-31.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/8.1 객체 프로퍼티.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2024-01-31.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/8.1 객체 프로퍼티.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2024-01-31.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/8.1 객체 프로퍼티.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2024-01-31.md"
+                "file": "Transcendence/JavaScript 완벽 가이드/8.1 객체 프로퍼티.md"
               }
             }
           },
@@ -147,20 +147,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3a6f3ffa1939fb90",
   "lastOpenFiles": [
+    "첨부파일/Pasted image 20240201004555.png",
+    "첨부파일/Pasted image 20240201004413.png",
+    "Pasted image 20240201004227.png",
     "Transcendence/JavaScript 완벽 가이드/8.1 객체 프로퍼티.md",
-    "Transcendence/JavaScript 완벽 가이드/8.0 객체란 무엇인가?.md",
+    "첨부파일/Pasted image 20240201001027.png",
     "Day Planners/2024-01-31.md",
+    "Transcendence/JavaScript 완벽 가이드/8.0 객체란 무엇인가?.md",
     "Excalidraw/FJsort.excalidraw.md",
     "첨부파일/Pasted image 20240131184409.png",
     "Transcendence/JavaScript 완벽 가이드/8.2 객체의 키.md",
@@ -192,9 +196,6 @@
     "첨부파일/Pasted image 20240127164520.png",
     "첨부파일/Pasted image 20240126160056.png",
     "첨부파일/Pasted image 20240126141343.png",
-    "첨부파일/Pasted Image 20240126154758_076.png",
-    "첨부파일/Pasted image 20240126015043.png",
-    "첨부파일/Pasted image 20240125214248.png",
     "Transcendence/작성 해야 함",
     "C++ Unmanaged Programming",
     "Day Planners/2023",
