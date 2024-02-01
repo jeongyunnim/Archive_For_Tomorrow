@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/8.2 객체의 this.md",
+                "file": "Day Planners/2024-02-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/8.2 객체의 this.md",
+                "file": "Day Planners/2024-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/8.2 객체의 this.md",
+                "file": "Day Planners/2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/8.2 객체의 this.md"
+                "file": "Day Planners/2024-02-01.md"
               }
             }
           },
@@ -158,16 +158,18 @@
   },
   "active": "3a6f3ffa1939fb90",
   "lastOpenFiles": [
+    "Day Planners/2024-01-31.md",
+    "Day Planners/2024-02-01.md",
+    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
+    "Transcendence/JavaScript 완벽 가이드/1. JavaScript란?.md",
+    "Transcendence/8.2 객체의 this.md",
     "첨부파일/Pasted image 20240201151037.png",
     "첨부파일/Pasted image 20240201144927.png",
-    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
-    "Transcendence/8.2 객체의 this.md",
     "Transcendence/JavaScript 완벽 가이드/8.1 객체 프로퍼티.md",
     "첨부파일/Pasted image 20240201004555.png",
     "첨부파일/Pasted image 20240201004413.png",
     "Pasted image 20240201004227.png",
     "첨부파일/Pasted image 20240201001027.png",
-    "Day Planners/2024-01-31.md",
     "Transcendence/JavaScript 완벽 가이드/8.0 객체란 무엇인가?.md",
     "Excalidraw/FJsort.excalidraw.md",
     "첨부파일/Pasted image 20240131184409.png",
@@ -192,10 +194,8 @@
     "Day Planners/2024-01-26.md",
     "Day Planners/2024-01-29.md",
     "Transcendence/JavaScript 완벽 가이드/7.4 Weak Map과 Weak Set.md",
-    "Transcendence/왜 WeakMap을 사용해야 하는가?.md",
     "첨부파일/Pasted image 20240127164907.png",
     "첨부파일/Pasted image 20240127164757.png",
-    "첨부파일/Pasted image 20240127164520.png",
     "Transcendence/작성 해야 함",
     "C++ Unmanaged Programming",
     "Day Planners/2023",
