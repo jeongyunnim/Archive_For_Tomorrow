@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1efa3ff59625f219",
+        "id": "15957f5b702ff403",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6f3ffa1939fb90",
+            "id": "979aa1cb5cd64d00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2024-02-01.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/9.0 OOP란 무엇인가?.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2024-02-01.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/9.0 OOP란 무엇인가?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2024-02-01.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/9.0 OOP란 무엇인가?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2024-02-01.md"
+                "file": "Transcendence/JavaScript 완벽 가이드/9.0 OOP란 무엇인가?.md"
               }
             }
           },
@@ -156,44 +156,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a6f3ffa1939fb90",
+  "active": "979aa1cb5cd64d00",
   "lastOpenFiles": [
-    "Day Planners/2024-01-31.md",
+    "Transcendence/JavaScript 완벽 가이드/9.0 OOP란 무엇인가?.md",
+    "Transcendence/JavaScript 완벽 가이드/8.1 객체 프로퍼티.md",
     "Day Planners/2024-02-01.md",
-    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
-    "Transcendence/JavaScript 완벽 가이드/1. JavaScript란?.md",
-    "Transcendence/8.2 객체의 this.md",
+    "archive(non_fixed)/inception/NGINX HTTP 서버/5. NGINX와 PHP,파이썬 통합.md",
+    "archive(non_fixed)/inception/NGINX HTTP 서버/4. 모듈 구성.md",
+    "archive(non_fixed)/inception/NGINX HTTP 서버/3. HTTP 구성.md",
+    "archive(non_fixed)/inception/NGINX HTTP 서버/9. 사례 연구.md",
+    "archive(non_fixed)/inception/도커/Docker docs/3-2. Best practices for Dockerfile instructions.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/Awesome-Compose.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
+    "archive(non_fixed)/inception/도커/컨테이너 오케스트레이션.md",
+    "archive(non_fixed)/inception/도커/쿠버네티스.md",
+    "archive(non_fixed)/inception/도커/쿠버네티스 입문.md",
+    "archive(non_fixed)/inception/도커/Alpine Linux에 WordPress 설치하기.md",
+    "archive(non_fixed)/inception/도커/Alpine Linux에 WordPress MariaDB 설치하기.md",
+    "archive(non_fixed)/inception/도커/alpine을 사용해야하는 3가지 이유.md",
+    "archive(non_fixed)/inception/도커/docker-compose.yml.md",
+    "archive(non_fixed)/inception/도커/namespace.md",
+    "archive(non_fixed)/inception/도커/docker compose volume.md",
+    "archive(non_fixed)/inception/Hacky patch.md",
+    "archive(non_fixed)/inception/도커/0. Docker.md",
+    "archive(non_fixed)/inception/도커/2. docker-compose WordPress 세팅.md",
+    "archive(non_fixed)/inception/도커/데몬화.md",
+    "archive(non_fixed)/inception/도커/도커 빌드 시간 줄이기.md",
+    "archive(non_fixed)/inception/도커/도커엔진.md",
+    "archive(non_fixed)/inception/도커/볼륨 드라이버.md",
     "첨부파일/Pasted image 20240201151037.png",
     "첨부파일/Pasted image 20240201144927.png",
-    "Transcendence/JavaScript 완벽 가이드/8.1 객체 프로퍼티.md",
     "첨부파일/Pasted image 20240201004555.png",
     "첨부파일/Pasted image 20240201004413.png",
     "Pasted image 20240201004227.png",
     "첨부파일/Pasted image 20240201001027.png",
-    "Transcendence/JavaScript 완벽 가이드/8.0 객체란 무엇인가?.md",
-    "Excalidraw/FJsort.excalidraw.md",
     "첨부파일/Pasted image 20240131184409.png",
-    "Transcendence/JavaScript 완벽 가이드/8.2 객체의 키.md",
     "첨부파일/Pasted image 20240131184058.png",
-    "Day Planners/2024-01-25.md",
-    "Excalidraw/inception.excalidraw.md",
-    "archive(non_fixed)/inception/도커/2. docker-compose WordPress 세팅.md",
-    "archive(non_fixed)/inception/도커/1. docker-compose WordPress 세팅.md",
-    "archive(non_fixed)/inception/도커/docker-compose.yml.md",
-    "archive(non_fixed)/inception/도커/docker compose volume.md",
-    "archive(non_fixed)/inception/NGINX HTTP 서버/9. 사례 연구.md",
-    "archive(non_fixed)/inception/NGINX HTTP 서버/3. HTTP 구성.md",
-    "archive(non_fixed)/inception/NGINX HTTP 서버/1. 엔진엑스 설치.md",
-    "archive(non_fixed)/inception/NGINX HTTP 서버/2. 기본 엔진엑스 구성.md",
-    "archive(non_fixed)/inception/NGINX HTTP 서버/0. NGINX HTTP 서버.md",
-    "archive(non_fixed)/inception/Inception 번역.md",
-    "archive(non_fixed)/inception/NGINX 쿡북.md",
     "Transcendence/트센 캔버스.canvas",
-    "Transcendence/ft_transcendence.md",
     "Untitled.canvas",
-    "Day Planners/2024-01-26.md",
-    "Day Planners/2024-01-29.md",
-    "Transcendence/JavaScript 완벽 가이드/7.4 Weak Map과 Weak Set.md",
     "첨부파일/Pasted image 20240127164907.png",
     "첨부파일/Pasted image 20240127164757.png",
     "Transcendence/작성 해야 함",
