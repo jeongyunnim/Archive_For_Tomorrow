@@ -483,6 +483,7 @@ property ^WKEy9o6A
 # Embedded files
 3250f37bdcd718fd30733da1e17818e463171b58: [[Pasted Image 20240126154758_076.png]]
 8b15900de0bbaa5c976c5298dee704dd96814e52: [[Pasted Image 20240201235815_579.png]]
+8a3b15f37cc22be1b84a25cf425abd2fda808ecb: [[Pasted Image 20240202141152_243.png]]
 
 %%
 # Drawing
@@ -563,7 +564,7 @@ property ^WKEy9o6A
 			"containerId": "C9cNPAzPmzEdD4g0bYTPV",
 			"originalText": "개발 영역",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -635,7 +636,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -705,7 +706,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -775,7 +776,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -872,7 +873,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -911,7 +912,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -984,7 +985,7 @@ property ^WKEy9o6A
 			"containerId": "IJuE28G_8iB75z14fXF-0",
 			"originalText": "FE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1145,7 +1146,7 @@ property ^WKEy9o6A
 			"containerId": "I-pfeJbRZycdodm8NqNQB",
 			"originalText": "BE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1301,7 +1302,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "SPA 전환",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
@@ -1418,7 +1419,7 @@ property ^WKEy9o6A
 			"containerId": "AGkp07icIHablqN1Pxgih",
 			"originalText": "개발 영역",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1490,7 +1491,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -1560,7 +1561,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -1630,7 +1631,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -1727,7 +1728,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -1766,7 +1767,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -1839,7 +1840,7 @@ property ^WKEy9o6A
 			"containerId": "dqe_oJoLE1Qc-QxAik6CW",
 			"originalText": "FE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1914,7 +1915,7 @@ property ^WKEy9o6A
 			"containerId": "KghutSZDmCXo8DkXsQRp-",
 			"originalText": "페이지 개발 (JS)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2016,7 +2017,7 @@ property ^WKEy9o6A
 			"containerId": "urh6tAoORoHyglOtlTCJx",
 			"originalText": "BE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -2055,7 +2056,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "SSR 전환",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
@@ -2174,7 +2175,7 @@ property ^WKEy9o6A
 			"containerId": "mzoEcpvVktNYH2qfomtm7",
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2249,7 +2250,7 @@ property ^WKEy9o6A
 			"containerId": "dEsShZFMou07WNKK-4v2V",
 			"originalText": "Node.js",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2324,7 +2325,7 @@ property ^WKEy9o6A
 			"containerId": "4t6jRiOJQLlnU2C7oiftR",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2399,7 +2400,7 @@ property ^WKEy9o6A
 			"containerId": "_FqBxSTaRZ8W8HneD1bZ8",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -2438,7 +2439,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "API 개발\n(JAVA)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -2589,7 +2590,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "{{JINJA}}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2661,7 +2662,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Pyton file\nwith\nURL routing",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -2733,7 +2734,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Python file\nusing Django",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -2807,7 +2808,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Python file\nusing Django\nModels",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -2881,7 +2882,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Application \nlogic \nin Python",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "line",
@@ -3794,7 +3795,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "User\n(Browser)",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "line",
@@ -4271,7 +4272,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "SQL",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -4311,7 +4312,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Database",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4811,7 +4812,7 @@ property ^WKEy9o6A
 			"containerId": "z5RThGOyj3UUsQtTFT9pY",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4886,7 +4887,7 @@ property ^WKEy9o6A
 			"containerId": "tlwX4WVnq_Px11QhUH_mt",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4961,7 +4962,7 @@ property ^WKEy9o6A
 			"containerId": "b66l67TojYQHhqAJHjF_w",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5036,7 +5037,7 @@ property ^WKEy9o6A
 			"containerId": "iRywGQeNshpwfQJHsqRiL",
 			"originalText": "app\n1",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -5111,7 +5112,7 @@ property ^WKEy9o6A
 			"containerId": "4WvREpvm6zGhh_1CZTBe9",
 			"originalText": "app\n2",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -5186,7 +5187,7 @@ property ^WKEy9o6A
 			"containerId": "owXjRN_QZlXRNKjp3xJC0",
 			"originalText": "app\n3",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -5261,7 +5262,7 @@ property ^WKEy9o6A
 			"containerId": "NfDUjIzRtHf1MUHzBWDej",
 			"originalText": "app\nN",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "line",
@@ -5537,7 +5538,7 @@ property ^WKEy9o6A
 			"containerId": "M6cBo-06QzSZuvkU6WEkp",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5616,7 +5617,7 @@ property ^WKEy9o6A
 			"containerId": "0--KxwnQghmY_lg4IGGc_",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5699,7 +5700,7 @@ property ^WKEy9o6A
 			"containerId": "4rZsAjVennqt93L939FFe",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5856,7 +5857,7 @@ property ^WKEy9o6A
 			"containerId": "V9T8CrdmVf8_jwYDXJrzX",
 			"originalText": "view.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
@@ -5985,12 +5986,12 @@ property ^WKEy9o6A
 			"containerId": "sXVRurNNDuV6D1Y2s4hHT",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 450,
-			"versionNonce": 170177321,
+			"version": 453,
+			"versionNonce": 1459513258,
 			"isDeleted": false,
 			"id": "GeGtbAcF3nyDucN5uJizp",
 			"fillStyle": "solid",
@@ -6014,7 +6015,7 @@ property ^WKEy9o6A
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706799618186,
+			"updated": 1706860095235,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6039,8 +6040,8 @@ property ^WKEy9o6A
 		},
 		{
 			"type": "arrow",
-			"version": 743,
-			"versionNonce": 504508391,
+			"version": 755,
+			"versionNonce": 317186666,
 			"isDeleted": false,
 			"id": "iHHaSktUluC1UNoQ0j_NW",
 			"fillStyle": "solid",
@@ -6064,7 +6065,7 @@ property ^WKEy9o6A
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706799618186,
+			"updated": 1706860095237,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7603,7 +7604,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -7678,7 +7679,7 @@ property ^WKEy9o6A
 			"containerId": "Cuo01-ayZ7vI4d5MAEaxO",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -7753,7 +7754,7 @@ property ^WKEy9o6A
 			"containerId": "-WYBBqZbM1bBxFkxcaaCX",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -8003,7 +8004,7 @@ property ^WKEy9o6A
 			"containerId": "SlkEgCbfVlMd3a45lI6IQ",
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -9364,7 +9365,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -9439,7 +9440,7 @@ property ^WKEy9o6A
 			"containerId": "gKff4QHG4L8qwpqYj1Cya",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -9518,7 +9519,7 @@ property ^WKEy9o6A
 			"containerId": "CpA4CG2rxltdhCOYMCmP6",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -9724,7 +9725,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -9768,12 +9769,12 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "reverse(url_name)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 2654,
-			"versionNonce": 1597245447,
+			"version": 2657,
+			"versionNonce": 1506627894,
 			"isDeleted": false,
 			"id": "ypINFAzaOkRT9B0SsgAUi",
 			"fillStyle": "solid",
@@ -9797,7 +9798,7 @@ property ^WKEy9o6A
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706799618190,
+			"updated": 1706860095242,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9923,7 +9924,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "base.html",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10078,7 +10079,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -10117,7 +10118,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -10185,7 +10186,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -10224,7 +10225,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "{% extends \"base.html\" %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -10263,7 +10264,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -10302,7 +10303,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -10399,7 +10400,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10643,7 +10644,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "JS",
 			"lineHeight": 1.2,
-			"baseline": 55
+			"baseline": 56
 		},
 		{
 			"type": "text",
@@ -10682,7 +10683,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Dynamic\nweakly-typed",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "text",
@@ -10721,7 +10722,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Interpreted\n전송 중에 컴파일 됨",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "text",
@@ -10760,7 +10761,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Hosted language\n여러 환경에서 실행 됨",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "text",
@@ -10799,7 +10800,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "브라우저에서 코드 실행",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10867,7 +10868,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "브라우저 built-in JS엔진\nV8(chrome)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -10906,7 +10907,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "{code}",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
@@ -11116,7 +11117,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Effect",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -11155,7 +11156,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Single Thread",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -11259,7 +11260,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "<code>",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -11356,7 +11357,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "browser",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -11429,7 +11430,7 @@ property ^WKEy9o6A
 			"containerId": "K8mgdfrt5mwZhfFOTMNno",
 			"originalText": "JS 파싱 및 실행",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -11544,7 +11545,7 @@ property ^WKEy9o6A
 			"containerId": "pTuu9HtEb1x_juUmcj_po",
 			"originalText": "interpreter",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -11625,12 +11626,12 @@ property ^WKEy9o6A
 			"containerId": "SUGRFK1cJOYkLW9hUjYUE",
 			"originalText": "compiler(JIT)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 308,
-			"versionNonce": 219811143,
+			"version": 311,
+			"versionNonce": 1901331754,
 			"isDeleted": false,
 			"id": "RNzrlE8PzV-MStjIANndi",
 			"fillStyle": "solid",
@@ -11652,7 +11653,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618192,
+			"updated": 1706860095244,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11685,8 +11686,8 @@ property ^WKEy9o6A
 		},
 		{
 			"type": "arrow",
-			"version": 410,
-			"versionNonce": 1934462633,
+			"version": 416,
+			"versionNonce": 1538117610,
 			"isDeleted": false,
 			"id": "Ey98i2quu_ZaJrVufSyP3",
 			"fillStyle": "solid",
@@ -11708,7 +11709,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618192,
+			"updated": 1706860095246,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11818,7 +11819,7 @@ property ^WKEy9o6A
 			"containerId": "CzJy2z7DWHCO81eVUd2cK",
 			"originalText": "byte code",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -11915,8 +11916,8 @@ property ^WKEy9o6A
 		},
 		{
 			"type": "arrow",
-			"version": 492,
-			"versionNonce": 1125499721,
+			"version": 495,
+			"versionNonce": 1522990006,
 			"isDeleted": false,
 			"id": "cpKGZUiWy8LjnBOVjFOuT",
 			"fillStyle": "solid",
@@ -11938,7 +11939,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618192,
+			"updated": 1706860095246,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12002,7 +12003,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "client\ncomputer",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -12075,7 +12076,7 @@ property ^WKEy9o6A
 			"containerId": "Y1MsRQFhoG3xJLahODbPi",
 			"originalText": "script 로드 및 실행",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -12148,7 +12149,7 @@ property ^WKEy9o6A
 			"containerId": "M92TKW3HVZsUw3Mg4Wah_",
 			"originalText": "compiled\nmachine code",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -12221,7 +12222,7 @@ property ^WKEy9o6A
 			"containerId": "BujRFqj7xHcHN9bYhRphG",
 			"originalText": "브라우저 API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -12423,7 +12424,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "머신 코드에 포함된다.",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -12496,7 +12497,7 @@ property ^WKEy9o6A
 			"containerId": "OaR8u-h0O8kszaiFmQW1r",
 			"originalText": "Document",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -12569,7 +12570,7 @@ property ^WKEy9o6A
 			"containerId": "g4TZq2XxQpbIUP5WhKUBZ",
 			"originalText": "Root DOM Node",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -12642,7 +12643,7 @@ property ^WKEy9o6A
 			"containerId": "SY0_IzceiFHQ8xVPk74xZ",
 			"originalText": "HTML 요소에 쿼리 & 엑세스\nDOM 컨텐츠, HTML 요소와 상호작용",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -12715,7 +12716,7 @@ property ^WKEy9o6A
 			"containerId": "_ldtDoNspjUwLGAg6e0IO",
 			"originalText": "Window",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -12788,7 +12789,7 @@ property ^WKEy9o6A
 			"containerId": "pH7q87Wp34511nUP7rv3P",
 			"originalText": "활성화된 창 또는 탭",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -12861,7 +12862,7 @@ property ^WKEy9o6A
 			"containerId": "JXth2j4lV-x70ulAeb8MC",
 			"originalText": "스크립트의 global storage\n브라우저가 제공하는 모든 기능에 대한 엑세스를 허용한다.",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -12934,7 +12935,7 @@ property ^WKEy9o6A
 			"containerId": "hULijffl96PftAIW7Qj36",
 			"originalText": "Root Entry Point",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -13124,7 +13125,7 @@ property ^WKEy9o6A
 			"containerId": "ybQwChY23cNwVDS4oljms",
 			"originalText": "<html lang=\"en\">\n  <head>\n    <title>DOM Interaction</title>\n  </script>\n  </head>\n  <body>\n      <header>\n          <h1>Dive into the DOM</h1>\n      </header>\n      <p>There's a log to it!<p>\n  </body>\n</html>",
 			"lineHeight": 1.2,
-			"baseline": 227
+			"baseline": 226
 		},
 		{
 			"type": "rectangle",
@@ -13201,7 +13202,7 @@ property ^WKEy9o6A
 			"containerId": "xmCD5DrqA27kTlzCRVQE2",
 			"originalText": "HTML",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -13274,7 +13275,7 @@ property ^WKEy9o6A
 			"containerId": "zvsQpyzIfgq239Ek1e61p",
 			"originalText": "TITLE",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -13347,7 +13348,7 @@ property ^WKEy9o6A
 			"containerId": "zXWgFVS5Kb1hhRhMeNjqT",
 			"originalText": "H1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -13420,7 +13421,7 @@ property ^WKEy9o6A
 			"containerId": "zgBXXcT1tAUCczkoSr27z",
 			"originalText": "P",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -13551,7 +13552,7 @@ property ^WKEy9o6A
 			"containerId": "8ou3rZueV4MD2Wi6lJDi4",
 			"originalText": "BODY",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -13712,7 +13713,7 @@ property ^WKEy9o6A
 			"containerId": "Oj-4ohao_tF-Lo0RUWp1G",
 			"originalText": "HEAD",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -13902,12 +13903,12 @@ property ^WKEy9o6A
 			"containerId": "IdpCclJi1snOOGuRKSlqO",
 			"originalText": "HEADER",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 434,
-			"versionNonce": 1622607623,
+			"version": 440,
+			"versionNonce": 991565046,
 			"isDeleted": false,
 			"id": "5Fc0zoKSfbSkhhfzzXQ5p",
 			"fillStyle": "solid",
@@ -13929,7 +13930,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618193,
+			"updated": 1706860095263,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -14183,7 +14184,7 @@ property ^WKEy9o6A
 			"containerId": "5I6AO6QU9swfDYvI2QYF9",
 			"originalText": "<html lang=\"en\">\n  <head>\n    <title>The DOM</title>\n  </script>\n  </head>\n  <body>\n      <header>\n          <h1>Dive into the DOM</h1>\n      </header>\n      <p>There's a lot to it!<p>\n  </body>\n</html>",
 			"lineHeight": 1.2,
-			"baseline": 227
+			"baseline": 226
 		},
 		{
 			"type": "rectangle",
@@ -14260,7 +14261,7 @@ property ^WKEy9o6A
 			"containerId": "4mYx5KbyA6lK8YZcvdRcJ",
 			"originalText": "HTML",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -14333,7 +14334,7 @@ property ^WKEy9o6A
 			"containerId": "q4ZYJ-8OXzb7xp2ZB410x",
 			"originalText": "TITLE",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -14406,7 +14407,7 @@ property ^WKEy9o6A
 			"containerId": "y3meWec_dLs-d7bv_-Aei",
 			"originalText": "H1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -14479,7 +14480,7 @@ property ^WKEy9o6A
 			"containerId": "1FG5S14T1b4whbm8Ux8aW",
 			"originalText": "P",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -14610,7 +14611,7 @@ property ^WKEy9o6A
 			"containerId": "EqNB8JyTlP8udZmZKXmiT",
 			"originalText": "BODY",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -14775,7 +14776,7 @@ property ^WKEy9o6A
 			"containerId": "YrpqWBeb6KQshm8p5B9QT",
 			"originalText": "HEAD",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -14965,7 +14966,7 @@ property ^WKEy9o6A
 			"containerId": "3BnmCYgMw1DRhntiZ49oK",
 			"originalText": "HEADER",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
@@ -15124,7 +15125,7 @@ property ^WKEy9o6A
 			"containerId": "Bmkozz3pA3ynjNaBhqBc0",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15197,7 +15198,7 @@ property ^WKEy9o6A
 			"containerId": "pKGtDuQ-KA2ZHS4dr20Yr",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15270,7 +15271,7 @@ property ^WKEy9o6A
 			"containerId": "WQl5rqsqEoJ6GIk7nDifD",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15343,7 +15344,7 @@ property ^WKEy9o6A
 			"containerId": "dxx9RDAh8ZA3wacA8GI7-",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15416,7 +15417,7 @@ property ^WKEy9o6A
 			"containerId": "tM9tCfx65sF5s9vYDkZwS",
 			"originalText": "The DOM",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15489,7 +15490,7 @@ property ^WKEy9o6A
 			"containerId": "Ru9yWIc60gmwiwHdZUiH_",
 			"originalText": "Dive into the DOM",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15562,7 +15563,7 @@ property ^WKEy9o6A
 			"containerId": "Ld8-4grFjrJCpBf-Zf5ew",
 			"originalText": "There's a lot to it!",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15639,12 +15640,12 @@ property ^WKEy9o6A
 			"containerId": "QOC8L1vys5n7Jf6h1S8FZ",
 			"originalText": "<p id=\"welcome-text\" class=\"text-default\">Welcome!</p>",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 865,
-			"versionNonce": 1208178407,
+			"version": 871,
+			"versionNonce": 1815610934,
 			"isDeleted": false,
 			"id": "y9ZZjQRBXPBqBj37safu0",
 			"fillStyle": "solid",
@@ -15666,7 +15667,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618195,
+			"updated": 1706860095288,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -15780,7 +15781,7 @@ property ^WKEy9o6A
 			"containerId": "BDxZ2MHbhnuENu0iVlU7w",
 			"originalText": "const p",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15857,7 +15858,7 @@ property ^WKEy9o6A
 			"containerId": "q7La-5-CTf8Hc8lIO38Ux",
 			"originalText": "p.textContent",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15934,7 +15935,7 @@ property ^WKEy9o6A
 			"containerId": "qRvrca5b_Y4MsALCjCyEn",
 			"originalText": "p.id",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -16011,7 +16012,7 @@ property ^WKEy9o6A
 			"containerId": "5CT_XPPIqKeIW0JL9x8j4",
 			"originalText": "p.className",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -16084,7 +16085,7 @@ property ^WKEy9o6A
 			"containerId": "8d9m97jdyLVfKYrCK7rSn",
 			"originalText": "\"Welcome\"",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -16161,7 +16162,7 @@ property ^WKEy9o6A
 			"containerId": "AGpwZds1ld-3g2ebPyuNe",
 			"originalText": "\"welcome-text\"",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -16238,12 +16239,12 @@ property ^WKEy9o6A
 			"containerId": "24mfIlNIiRHZW8HS090_N",
 			"originalText": "\"text-default\"",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 145,
-			"versionNonce": 185934633,
+			"version": 148,
+			"versionNonce": 2023328490,
 			"isDeleted": false,
 			"id": "sps6-OWWSrVVIjbzLe7Hc",
 			"fillStyle": "solid",
@@ -16265,7 +16266,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618195,
+			"updated": 1706860095289,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16290,8 +16291,8 @@ property ^WKEy9o6A
 		},
 		{
 			"type": "arrow",
-			"version": 318,
-			"versionNonce": 916504551,
+			"version": 330,
+			"versionNonce": 1350351658,
 			"isDeleted": false,
 			"id": "ZKhGYTAVytSfuqAO-aQ69",
 			"fillStyle": "solid",
@@ -16313,7 +16314,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618195,
+			"updated": 1706860095294,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16342,8 +16343,8 @@ property ^WKEy9o6A
 		},
 		{
 			"type": "arrow",
-			"version": 318,
-			"versionNonce": 280548873,
+			"version": 330,
+			"versionNonce": 5228010,
 			"isDeleted": false,
 			"id": "BajE-CHs_82sRPJmBTeeK",
 			"fillStyle": "solid",
@@ -16365,7 +16366,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618195,
+			"updated": 1706860095295,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16510,12 +16511,12 @@ property ^WKEy9o6A
 			"containerId": "c699tcMueD3OExfGGfvCF",
 			"originalText": "p.className = \"new-class\"",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 626,
-			"versionNonce": 64989129,
+			"version": 638,
+			"versionNonce": 1007866730,
 			"isDeleted": false,
 			"id": "utk2acYCoO2DHj5b329KH",
 			"fillStyle": "solid",
@@ -16537,7 +16538,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618195,
+			"updated": 1706860095296,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16566,8 +16567,8 @@ property ^WKEy9o6A
 		},
 		{
 			"type": "arrow",
-			"version": 762,
-			"versionNonce": 1764119879,
+			"version": 774,
+			"versionNonce": 2046350890,
 			"isDeleted": false,
 			"id": "fkq-cirz18fJ-nkjwMSDk",
 			"fillStyle": "solid",
@@ -16589,7 +16590,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618195,
+			"updated": 1706860095297,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16691,7 +16692,7 @@ property ^WKEy9o6A
 			"containerId": "PBGz2QZgprVjUo4VTFrpy",
 			"originalText": "<p ... class=\"new-class\">",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -16764,7 +16765,7 @@ property ^WKEy9o6A
 			"containerId": "2eZiQWWXB2uvnYJiqaicv",
 			"originalText": "<input id=\"input-1\" class=\"input-default\" value=\"Enter text...\">",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -16988,7 +16989,7 @@ property ^WKEy9o6A
 			"containerId": "nI44yj5KwhO5o-OB4Xdq5",
 			"originalText": "속성(Attribute)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17027,7 +17028,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "> const input = document.querySelector(\"input\");",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -17100,7 +17101,7 @@ property ^WKEy9o6A
 			"containerId": "7u2vfVXwXz8O32g4pN0He",
 			"originalText": "input.id",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -17173,7 +17174,7 @@ property ^WKEy9o6A
 			"containerId": "7cmhsbuhFQ6FbSECgn2yQ",
 			"originalText": "input.className",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -17246,7 +17247,7 @@ property ^WKEy9o6A
 			"containerId": "A2A48_nbZ_nRQi0lJ6adF",
 			"originalText": "input.value",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17324,7 +17325,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "실시간 동기화",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17363,7 +17364,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "단방향 실시간 동기화",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17400,7 +17401,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "value를 변경하더라도 속성값에 바로 반영되지 않는다.\n속성값을 변경해야 프로퍼티값이 변경된다.",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -17437,7 +17438,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "사용자의 입력 값을 받기 위한 input을 다시 속성값에 반영하려고 한다는 것.\nvalue의 속성을 저장하려고 input의 초깃값을 다시 리셋하는 것.",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -17474,7 +17475,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "불가능",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17511,7 +17512,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "사용자 input을 value 속성에 반영하려고 하는 경우 할당하려는 값을 잃어버려서 리셋할 수 없게 된다.",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17548,7 +17549,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "traversing the DOM",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -17645,12 +17646,12 @@ property ^WKEy9o6A
 			"containerId": "091jO7WQ7K-l0UaTviu6-",
 			"originalText": "현재 노드",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 1001,
-			"versionNonce": 1421065479,
+			"version": 1007,
+			"versionNonce": 2039513322,
 			"isDeleted": false,
 			"id": "rMfibXvXXvC_CuVFQTJgy",
 			"fillStyle": "solid",
@@ -17672,7 +17673,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618196,
+			"updated": 1706860095304,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17741,12 +17742,12 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "childNodes()\nchildren()\nquerySelector()",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "arrow",
-			"version": 242,
-			"versionNonce": 761562151,
+			"version": 245,
+			"versionNonce": 107207350,
 			"isDeleted": false,
 			"id": "ZUvNEymhGiLyNVVQr3XOZ",
 			"fillStyle": "solid",
@@ -17768,7 +17769,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618196,
+			"updated": 1706860095304,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17793,8 +17794,8 @@ property ^WKEy9o6A
 		},
 		{
 			"type": "arrow",
-			"version": 400,
-			"versionNonce": 741504457,
+			"version": 406,
+			"versionNonce": 310235062,
 			"isDeleted": false,
 			"id": "s7okwzkmruzDNA0XAs-C3",
 			"fillStyle": "solid",
@@ -17816,7 +17817,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618196,
+			"updated": 1706860095304,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17885,7 +17886,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "firstChild()\nfirstElementChild()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -17924,12 +17925,12 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "lastChild()\nlastElementChild()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "arrow",
-			"version": 378,
-			"versionNonce": 653321831,
+			"version": 384,
+			"versionNonce": 1332290870,
 			"isDeleted": false,
 			"id": "_ku2qWWkD_0431WL0Jq_t",
 			"fillStyle": "solid",
@@ -17951,7 +17952,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618196,
+			"updated": 1706860095304,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17980,8 +17981,8 @@ property ^WKEy9o6A
 		},
 		{
 			"type": "arrow",
-			"version": 475,
-			"versionNonce": 700733321,
+			"version": 481,
+			"versionNonce": 1036194806,
 			"isDeleted": false,
 			"id": "g4Pwpkl1cD2NpMBylOq2G",
 			"fillStyle": "solid",
@@ -18003,7 +18004,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618196,
+			"updated": 1706860095304,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18072,7 +18073,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "previousSibling()\npreviousElementSibling()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -18116,7 +18117,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "nextSibling()\nnextElementSibling()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -18160,12 +18161,12 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "parentNode()\nparentElement()\nclosest()",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "arrow",
-			"version": 434,
-			"versionNonce": 370723145,
+			"version": 440,
+			"versionNonce": 2092633718,
 			"isDeleted": false,
 			"id": "pPVlmXCTZKKlZ9VD9jBbW",
 			"fillStyle": "solid",
@@ -18187,7 +18188,7 @@ property ^WKEy9o6A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706799618196,
+			"updated": 1706860095304,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18631,7 +18632,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Creation & Inserting Elements",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -18704,7 +18705,7 @@ property ^WKEy9o6A
 			"containerId": "MHFokJVJHmnUD4LZ7_j-N",
 			"originalText": "HTML 코드",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -18777,7 +18778,7 @@ property ^WKEy9o6A
 			"containerId": "q9L6x9bhfrV7nrIv4vO7z",
 			"originalText": "createElement()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -18850,7 +18851,7 @@ property ^WKEy9o6A
 			"containerId": "kkQsMEPCxvIftyjRzyeZI",
 			"originalText": "innerHTML",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -18923,7 +18924,7 @@ property ^WKEy9o6A
 			"containerId": "0gqBuDtjjgWQ-qFDF4L3F",
 			"originalText": "insertAdacentHTML()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -18962,7 +18963,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": ": HTML 문자열 추가",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -19001,7 +19002,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": ":특정 부분에 HTML 문자열 추가",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -19074,7 +19075,7 @@ property ^WKEy9o6A
 			"containerId": "lDPQllJKhNDTjrlSTs_dz",
 			"originalText": "appendChild()\nappend()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -19220,7 +19221,7 @@ property ^WKEy9o6A
 			"containerId": "12E5FSczBGZ0ejO41D2Jy",
 			"originalText": "replaceChild()\nreplaceWith()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -19259,7 +19260,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": ": 새로운 DOM 요소/노드 추가",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -19298,7 +19299,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": ": 새로운 DOM 요소/노드 특정 위치에 삽입",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -19337,7 +19338,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": ": 기존 DOM 요소/노드 대체",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "image",
@@ -19502,7 +19503,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "{name: 'Max', age: 30},\n{name : 'Manuel', age: 31}",
 			"lineHeight": 1.2,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "text",
@@ -19542,7 +19543,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "map()은 객체의 내용으로 새로운 배열을 만들어 반환",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -19747,7 +19748,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "전개연산을 통해 다시 요소 해체",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -19877,7 +19878,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "해체된 요소를 다시 배열로 묶음",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -19914,7 +19915,7 @@ property ^WKEy9o6A
 			"containerId": null,
 			"originalText": "Object VS Map VS Set",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -19987,7 +19988,7 @@ property ^WKEy9o6A
 			"containerId": "iEcizWLCH0iRU9cyBT8ZS",
 			"originalText": "key: 어떤 값이라도 키가 될 수 있음",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -20060,7 +20061,7 @@ property ^WKEy9o6A
 			"containerId": "q9Pa-2afdtm5-BfcdxiAo",
 			"originalText": "Map",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -20133,7 +20134,7 @@ property ^WKEy9o6A
 			"containerId": "ydyUaAkyCn_rvFL2Q5N66",
 			"originalText": "요소가 많을 경우 object 보다 성능적으로 유리하다.",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -20206,7 +20207,7 @@ property ^WKEy9o6A
 			"containerId": "o-jOBDNo73zEViLPKc50b",
 			"originalText": "데이터를 자주\n(초당 여러 번) \n추가/제거 할 때 유리",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -20279,7 +20280,7 @@ property ^WKEy9o6A
 			"containerId": "1oRBLo7dM5lAB5S0gXtVK",
 			"originalText": "object",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -20352,7 +20353,7 @@ property ^WKEy9o6A
 			"containerId": "2nVKc4Xh_u9m9zkn_1KoJ",
 			"originalText": "key: string, number, symbol",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -20498,33 +20499,33 @@ property ^WKEy9o6A
 			"containerId": "aylcEI4oWRMgoUd77MGtK",
 			"originalText": "쉽고 빠르게 \n생성할 수 있다.\n성능 측면에서도 좋음.",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
-			"id": "vcEZe2CRqqE3dSVz3RA0z",
 			"type": "image",
-			"x": 4178.816946965942,
-			"y": 168.13281315157735,
-			"width": 718.6158527955877,
-			"height": 513.7847308586031,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#b2f2bb",
+			"version": 114,
+			"versionNonce": 1051372041,
+			"isDeleted": false,
+			"id": "vcEZe2CRqqE3dSVz3RA0z",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 4178.816946965942,
+			"y": 168.13281315157735,
+			"strokeColor": "transparent",
+			"backgroundColor": "#b2f2bb",
+			"width": 718.6158527955877,
+			"height": 513.7847308586031,
+			"seed": 499832167,
 			"groupIds": [
 				"hJ2U4CNuc7tGMezLkfp18"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 499832167,
-			"version": 114,
-			"versionNonce": 1051372041,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1706799628816,
 			"link": null,
 			"locked": false,
@@ -20536,29 +20537,29 @@ property ^WKEy9o6A
 			]
 		},
 		{
-			"id": "o3qlTbGF6GaMUowomRAK4",
 			"type": "rectangle",
-			"x": 4238.974067321993,
-			"y": 206.20772287897478,
-			"width": 312.73635033610117,
-			"height": 172.08470138666434,
-			"angle": 0,
-			"strokeColor": "#b2f2bb",
-			"backgroundColor": "transparent",
+			"version": 116,
+			"versionNonce": 1446221575,
+			"isDeleted": false,
+			"id": "o3qlTbGF6GaMUowomRAK4",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 4238.974067321993,
+			"y": 206.20772287897478,
+			"strokeColor": "#b2f2bb",
+			"backgroundColor": "transparent",
+			"width": 312.73635033610117,
+			"height": 172.08470138666434,
+			"seed": 659306919,
 			"groupIds": [
 				"hJ2U4CNuc7tGMezLkfp18"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 659306919,
-			"version": 116,
-			"versionNonce": 1446221575,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "n9Ds1tekYSpDe_kIJNcJa",
@@ -20604,29 +20605,29 @@ property ^WKEy9o6A
 			"locked": false
 		},
 		{
-			"id": "uYl2oAzR",
 			"type": "text",
-			"x": 4617.700228444193,
-			"y": 202.92984149416577,
-			"width": 153.9199955062684,
-			"height": 63.04563015936754,
-			"angle": 0,
-			"strokeColor": "#b2f2bb",
-			"backgroundColor": "transparent",
+			"version": 664,
+			"versionNonce": 1708727847,
+			"isDeleted": false,
+			"id": "uYl2oAzR",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 4617.700228444193,
+			"y": 202.92984149416577,
+			"strokeColor": "#b2f2bb",
+			"backgroundColor": "transparent",
+			"width": 153.896484375,
+			"height": 63.04563015936757,
+			"seed": 1561461161,
 			"groupIds": [
 				"hJ2U4CNuc7tGMezLkfp18"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1561461161,
-			"version": 664,
-			"versionNonce": 1708727847,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "n9Ds1tekYSpDe_kIJNcJa",
@@ -20636,16 +20637,16 @@ property ^WKEy9o6A
 			"updated": 1706799628816,
 			"link": null,
 			"locked": false,
-			"text": "field",
-			"rawText": "field",
 			"fontSize": 52.53802513280631,
 			"fontFamily": 3,
+			"text": "field",
+			"rawText": "field",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 50.99999999999997,
 			"containerId": null,
 			"originalText": "field",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 51
 		},
 		{
 			"type": "text",
@@ -20692,47 +20693,33 @@ property ^WKEy9o6A
 			"baseline": 51
 		},
 		{
-			"id": "dR4phEnJfU6Dw__IKacSH",
 			"type": "arrow",
-			"x": 4671.276036102185,
-			"y": 440.2342602743861,
-			"width": 0.5121483648053982,
-			"height": 61.43382132125254,
-			"angle": 0,
-			"strokeColor": "#a5d8ff",
-			"backgroundColor": "transparent",
+			"version": 159,
+			"versionNonce": 1904263495,
+			"isDeleted": false,
+			"id": "dR4phEnJfU6Dw__IKacSH",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 4671.276036102185,
+			"y": 440.2342602743861,
+			"strokeColor": "#a5d8ff",
+			"backgroundColor": "transparent",
+			"width": 0.5121483648053982,
+			"height": 61.43382132125254,
+			"seed": 726771337,
 			"groupIds": [
 				"hJ2U4CNuc7tGMezLkfp18"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 726771337,
-			"version": 159,
-			"versionNonce": 1904263495,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1706799628816,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.5121483648053982,
-					-61.43382132125254
-				]
-			],
-			"lastCommittedPoint": [
-				0.5121483648053982,
-				-61.43382132125254
-			],
 			"startBinding": {
 				"elementId": "Puqj_KXw17kOp3fz1UKbC",
 				"focus": 0.7986356337515083,
@@ -20743,51 +20730,48 @@ property ^WKEy9o6A
 				"focus": 0.5943215618885626,
 				"gap": 13.2622288838173
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "n9Ds1tekYSpDe_kIJNcJa",
-			"type": "arrow",
-			"x": 4554.096262169678,
-			"y": 237.7782379043767,
-			"width": 57.478141580419106,
-			"height": 0.1415784479107458,
-			"angle": 0,
-			"strokeColor": "#b2f2bb",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [
-				"hJ2U4CNuc7tGMezLkfp18"
-			],
-			"frameId": null,
-			"roundness": null,
-			"seed": 787564969,
-			"version": 323,
-			"versionNonce": 1960581801,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1706799628816,
-			"link": null,
-			"locked": false,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					57.478141580419106,
-					0.1415784479107458
+					0.5121483648053982,
+					-61.43382132125254
 				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 323,
+			"versionNonce": 1960581801,
+			"isDeleted": false,
+			"id": "n9Ds1tekYSpDe_kIJNcJa",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4554.096262169678,
+			"y": 237.7782379043767,
+			"strokeColor": "#b2f2bb",
+			"backgroundColor": "transparent",
+			"width": 57.478141580419106,
+			"height": 0.1415784479107458,
+			"seed": 787564969,
+			"groupIds": [
+				"hJ2U4CNuc7tGMezLkfp18"
 			],
-			"lastCommittedPoint": [
-				57.478141580419106,
-				0.1415784479107458
-			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706799628816,
+			"link": null,
+			"locked": false,
 			"startBinding": {
 				"elementId": "o3qlTbGF6GaMUowomRAK4",
 				"focus": -0.6347848329012655,
@@ -20798,45 +20782,464 @@ property ^WKEy9o6A
 				"focus": -0.11578488362828228,
 				"gap": 6.125824694096082
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					57.478141580419106,
+					0.1415784479107458
+				]
+			]
 		},
 		{
-			"id": "i32y6ady",
-			"type": "text",
-			"x": 4617.700228444193,
-			"y": 202.92984149416577,
-			"width": 153.9199955062684,
-			"height": 63.04563015936754,
-			"angle": 0,
-			"strokeColor": "#b2f2bb",
-			"backgroundColor": "transparent",
+			"type": "image",
+			"version": 76,
+			"versionNonce": 840020458,
+			"isDeleted": false,
+			"id": "JttvJFav7IWcBXpsFlZz4",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"groupIds": [],
+			"angle": 0,
+			"x": 4184.840005836135,
+			"y": 811.207710246351,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 632.3396379102059,
+			"height": 651.3369660877657,
+			"seed": 657997482,
+			"groupIds": [
+				"LohFW6bnu1PwLK2R7SrvK"
+			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1732417671,
-			"version": 577,
-			"versionNonce": 1752721161,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1706799618198,
+			"boundElements": [],
+			"updated": 1706860099215,
 			"link": null,
 			"locked": false,
-			"text": "field",
-			"rawText": "field",
-			"fontSize": 52.53802513280631,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 50.99999999999997,
-			"containerId": null,
-			"originalText": "field",
-			"lineHeight": 1.2
+			"status": "saved",
+			"fileId": "8a3b15f37cc22be1b84a25cf425abd2fda808ecb",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "rectangle",
+			"version": 155,
+			"versionNonce": 1988770230,
+			"isDeleted": false,
+			"id": "ijJbkz-9M3Gv0mY-zmPfx",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4210.309378634624,
+			"y": 916.1456892045144,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 607.2898448558293,
+			"height": 82.59224972572268,
+			"seed": 198105450,
+			"groupIds": [
+				"LohFW6bnu1PwLK2R7SrvK"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "fhzRIXHUrFWHMHC3YcUiz",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706860099215,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 174,
+			"versionNonce": 935695094,
+			"isDeleted": false,
+			"id": "Wgd_H7ddmSp14ryJcCX0h",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4209.067247288871,
+			"y": 1008.9276252066132,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 436.75086934969664,
+			"height": 128.23209366136018,
+			"seed": 1078205482,
+			"groupIds": [
+				"LohFW6bnu1PwLK2R7SrvK"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "8VrYO8Dt-rWq7LVTE-ocR",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706860099215,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "arrow",
+			"version": 333,
+			"versionNonce": 685570358,
+			"isDeleted": false,
+			"id": "fhzRIXHUrFWHMHC3YcUiz",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4713.912704995406,
+			"y": 1000.6725060568987,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 255.36769109863022,
+			"height": 216.94443464670306,
+			"seed": 579012330,
+			"groupIds": [
+				"LohFW6bnu1PwLK2R7SrvK"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706860099241,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "ijJbkz-9M3Gv0mY-zmPfx",
+				"focus": -0.6571781953153073,
+				"gap": 1.934567126661591
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.2607291387207669,
+					216.60389286785983
+				],
+				[
+					-254.10696195990946,
+					216.94443464670306
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 606,
+			"versionNonce": 443735338,
+			"isDeleted": false,
+			"id": "8VrYO8Dt-rWq7LVTE-ocR",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4648.639058466202,
+			"y": 1078.276146535081,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 20.483949445730133,
+			"height": 97.07124596547678,
+			"seed": 454465962,
+			"groupIds": [
+				"LohFW6bnu1PwLK2R7SrvK"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706860099241,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "Wgd_H7ddmSp14ryJcCX0h",
+				"focus": 0.13435056378410629,
+				"gap": 2.8209418276346696
+			},
+			"endBinding": {
+				"elementId": "Wgd_H7ddmSp14ryJcCX0h",
+				"gap": 17.3995458640984,
+				"focus": -1.1047339522756925
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					20.483949445730133,
+					-0.36103642729083685
+				],
+				[
+					19.970165548426465,
+					-97.07124596547678
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 173,
+			"versionNonce": 1231670646,
+			"isDeleted": false,
+			"id": "Jyxfy0d10YSM0FtEJthQv",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4563.818312169869,
+			"y": 973.4798827372443,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 116.08610354905437,
+			"height": 0.17389367430366431,
+			"seed": 1227478122,
+			"groupIds": [
+				"LohFW6bnu1PwLK2R7SrvK"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706860099215,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					116.08610354905437,
+					-0.17389367430366431
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 162,
+			"versionNonce": 888958186,
+			"isDeleted": false,
+			"id": "txhT5Rd2M0AOQGxL2gotP",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4244.407029938184,
+			"y": 1223.879528168548,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 197.55045958170902,
+			"height": 1.335600026272646,
+			"seed": 780646186,
+			"groupIds": [
+				"LohFW6bnu1PwLK2R7SrvK"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706860099215,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					197.55045958170902,
+					-1.335600026272646
+				]
+			]
+		},
+		{
+			"type": "rectangle",
+			"version": 189,
+			"versionNonce": 2029825718,
+			"isDeleted": false,
+			"id": "vQozD5lhiUCrA4oKxM4Qv",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4270.988610207837,
+			"y": 1313.7982565193297,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 169.1912995302586,
+			"height": 17.575337054537773,
+			"seed": 1536901610,
+			"groupIds": [
+				"LohFW6bnu1PwLK2R7SrvK"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "b4ot7izKr907sz8KTfNBM",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706860099215,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "arrow",
+			"version": 358,
+			"versionNonce": 546595446,
+			"isDeleted": false,
+			"id": "b4ot7izKr907sz8KTfNBM",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4270.597349440648,
+			"y": 1322.314216180494,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 58.739834066713215,
+			"height": 72.42430015865034,
+			"seed": 460289194,
+			"groupIds": [
+				"LohFW6bnu1PwLK2R7SrvK"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706860099242,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "vQozD5lhiUCrA4oKxM4Qv",
+				"focus": 0.12117813936490744,
+				"gap": 1
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-58.71326697758252,
+					0.6231189995910287
+				],
+				[
+					-58.739834066713215,
+					72.33493813157135
+				],
+				[
+					-30.56664363917219,
+					72.42430015865034
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 525,
+			"versionNonce": 848496746,
+			"isDeleted": false,
+			"id": "SxIVWMXKUX2PqlDevGZ2B",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4369.9010721058685,
+			"y": 1404.0792077289218,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 233.0725432728998,
+			"height": 499.19156811249263,
+			"seed": 531582826,
+			"groupIds": [
+				"LohFW6bnu1PwLK2R7SrvK"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706860116654,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.9870388010124274,
+					57.51448270994292
+				],
+				[
+					-231.31800374274616,
+					59.11092324765947
+				],
+				[
+					-232.08550447188736,
+					-440.0806448648332
+				],
+				[
+					-135.2634853978083,
+					-438.881916926817
+				]
+			]
 		}
 	],
 	"appState": {
@@ -20854,10 +21257,10 @@ property ^WKEy9o6A
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -3870.114245603643,
-		"scrollY": 68.96760330805971,
+		"scrollX": -4039.6863448751833,
+		"scrollY": -744.2002018100596,
 		"zoom": {
-			"value": 0.8563897943496707
+			"value": 1.357537040304193
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
