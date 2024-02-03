@@ -16,6 +16,8 @@ aliases:
 ---
 # Blockchain
 
+- smart contract
+	https://www.techtarget.com/searchcio/definition/smart-contract
 
 
 ---
