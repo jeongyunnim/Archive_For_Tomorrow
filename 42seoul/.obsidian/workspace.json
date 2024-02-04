@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/12.0 이벤트.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65b0122d041e4647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/12.0 이벤트.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/12.0 이벤트.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/12.0 이벤트.md"
+                "file": "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md"
               }
             }
           },
@@ -156,14 +169,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a6f3ffa1939fb90",
+  "active": "65b0122d041e4647",
   "lastOpenFiles": [
-    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
-    "Transcendence/12.0 이벤트.md",
-    "Transcendence/11.0 DOM & Browser API.md",
-    "첨부파일/Pasted image 20240204163223.png",
     "Excalidraw/ft_transcendence.excalidraw.md",
     "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
+    "첨부파일/Pasted image 20240203195318.png",
+    "첨부파일/Pasted image 20240203164149.png",
+    "첨부파일/Pasted image 20240203195730.png",
+    "Transcendence/12.0 이벤트.md",
+    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
+    "Transcendence/11.0 DOM & Browser API.md",
+    "첨부파일/Pasted image 20240204163223.png",
     "Transcendence/JavaScript 완벽 가이드/9.0 OOP란 무엇인가?.md",
     "첨부파일/Pasted image 20240203120714.png",
     "첨부파일/Pasted Image 20240202141152_243.png",
@@ -177,9 +193,6 @@
     "Transcendence/JavaScript 완벽 가이드/8.2 객체의 this.md",
     "Day Planners/2024-02-01.md",
     "첨부파일/Pasted image 20240201004555.png",
-    "첨부파일/Pasted image 20240201004413.png",
-    "Pasted image 20240201004227.png",
-    "첨부파일/Pasted image 20240201001027.png",
     "Day Planners/2024-01-31.md",
     "Transcendence/JavaScript 완벽 가이드/8.0 객체란 무엇인가?.md",
     "Excalidraw/FJsort.excalidraw.md",
@@ -193,7 +206,6 @@
     "archive(non_fixed)/inception/NGINX HTTP 서버/3. HTTP 구성.md",
     "archive(non_fixed)/inception/NGINX HTTP 서버/1. 엔진엑스 설치.md",
     "archive(non_fixed)/inception/NGINX HTTP 서버/2. 기본 엔진엑스 구성.md",
-    "archive(non_fixed)/inception/NGINX HTTP 서버/0. NGINX HTTP 서버.md",
     "Transcendence/트센 캔버스.canvas",
     "Untitled.canvas",
     "Transcendence/작성 해야 함",
