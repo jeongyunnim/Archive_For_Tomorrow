@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "81ae17e857c97bf8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           },
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md"
+                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md"
               }
             }
           },
@@ -159,22 +169,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a06e7a5a000c50b2",
   "lastOpenFiles": [
+    "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/JavaScript 완벽 가이드/11.0 DOM & Browser API.md",
+    "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
     "첨부파일/Pasted image 20240203195730.png",
     "첨부파일/Pasted image 20240203195318.png",
     "첨부파일/Pasted image 20240203164149.png",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
     "Transcendence/작성 해야 함/fallback.md",
     "Transcendence/작성 해야 함/프로젝트 구성 참고하기.md",
     "Transcendence/작성 해야 함/Two Scoops of Django.md",
@@ -199,7 +211,6 @@
     "첨부파일/Pasted image 20240201144927.png",
     "첨부파일/Pasted image 20240201004555.png",
     "첨부파일/Pasted image 20240201004413.png",
-    "첨부파일/Pasted image 20240201001027.png",
     "template/pope 강의 템플릿.md",
     "template/inception 템플릿.md",
     "template/Zettelkasten.md",
@@ -208,7 +219,6 @@
     "template/Daily Note Template.md",
     "template",
     "archive(non_fixed)/inception/도커/0. Docker.md",
-    "Transcendence/작성 해야 함/gRPC.md",
     "Transcendence/작성 해야 함",
     "Transcendence/Python 100일 부트캠프",
     "Transcendence/JavaScript 완벽 가이드",
