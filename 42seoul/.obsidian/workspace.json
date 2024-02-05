@@ -11,11 +11,9 @@
             "id": "6106800b97cd24a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           }
@@ -65,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+                "file": "Excalidraw/ft_transcendence.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+                "file": "Excalidraw/ft_transcendence.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md"
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           },
@@ -157,10 +156,17 @@
   },
   "active": "6106800b97cd24a6",
   "lastOpenFiles": [
+    "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.1 워드프레스 구축.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/0. 그림과 실습으로 배우는 도커 & 쿠버네티스.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.0 여러 개의 컨테이너를 연동해 실행해보자.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/Awesome-Compose.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.2 워드프레스 및 MySQL 컨테이너 생성과 연동.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/2. HTML.md",
     "C++ Unmanaged Programming/5. 문자열(string).md",
     "Transcendence/JavaScript 완벽 가이드/5.0 함수에 대한 심화 개념.md",
-    "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
     "Transcendence/트센 캔버스.canvas",
     "Transcendence/<번역>ft_transcendence.md",
     "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
@@ -181,20 +187,13 @@
     "Transcendence/작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
     "Transcendence/작성 해야 함/Blockchain.md",
     "Untitled.canvas",
-    "Transcendence/JavaScript 완벽 가이드/9.0 OOP란 무엇인가?.md",
     "첨부파일/Pasted image 20240203120714.png",
-    "Excalidraw/FJsort.excalidraw.md",
-    "Day Planners/2024-02-02.md",
     "첨부파일/Pasted Image 20240202141152_243.png",
     "첨부파일/Pasted Image 20240201235815_579.png",
-    "Day Planners/2024-01-31.md",
     "첨부파일/Pasted image 20240201151037.png",
     "첨부파일/Pasted image 20240201144927.png",
     "첨부파일/Pasted image 20240201004555.png",
     "첨부파일/Pasted image 20240201004413.png",
-    "template/pope 강의 템플릿.md",
-    "template/inception 템플릿.md",
-    "template/Zettelkasten.md",
     "template",
     "Transcendence/작성 해야 함",
     "Transcendence/Python 100일 부트캠프",
