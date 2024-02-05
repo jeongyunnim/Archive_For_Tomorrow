@@ -4,38 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "97b7a0013256c7f8",
+        "id": "0777c886be2670da",
         "type": "tabs",
         "children": [
           {
-            "id": "a06e7a5a000c50b2",
+            "id": "46a16ace08986e64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81ae17e857c97bf8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "92a6c95872e3344c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,21 +147,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a06e7a5a000c50b2",
+  "active": "46a16ace08986e64",
   "lastOpenFiles": [
     "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/JavaScript 완벽 가이드/11.0 DOM & Browser API.md",
     "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+    "Transcendence/JavaScript 완벽 가이드/11.0 DOM & Browser API.md",
     "첨부파일/Pasted image 20240203195730.png",
     "첨부파일/Pasted image 20240203195318.png",
     "첨부파일/Pasted image 20240203164149.png",
