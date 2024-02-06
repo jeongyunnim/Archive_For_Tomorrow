@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/15.1 프로미스.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/15.1 프로미스.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/15.1 프로미스.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/15.1 프로미스.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/15.1 프로미스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/15.1 프로미스.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/15.1 프로미스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/15.1 프로미스.md"
+                "file": "Transcendence/JavaScript 완벽 가이드/15.1 프로미스.md"
               }
             }
           },
@@ -177,12 +176,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81be0f570e732eb2",
+  "active": "ab560edb4933dbd1",
   "lastOpenFiles": [
-    "Transcendence/15.0 비동기 javaScript 프로미스, 콜백.md",
-    "Transcendence/15.1 프로미스.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Day Planners/2024-02-06.md",
+    "Transcendence/JavaScript 완벽 가이드/15.1 프로미스.md",
+    "Transcendence/JavaScript 완벽 가이드/15.0 비동기 javaScript 프로미스, 콜백.md",
     "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
     "Transcendence/JavaScript 완벽 가이드/14.0 숫자와 문자열 심화.md",
     "Transcendence/JavaScript 완벽 가이드/14.2 문자열 심화.md",
     "Transcendence/JavaScript 완벽 가이드/14.1 숫자 심화.md",
@@ -207,7 +207,6 @@
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/2. HTML.md",
     "C++ Unmanaged Programming/5. 문자열(string).md",
-    "Transcendence/JavaScript 완벽 가이드/5.0 함수에 대한 심화 개념.md",
     "Transcendence/트센 캔버스.canvas",
     "첨부파일/Pasted image 20240203195730.png",
     "첨부파일/Pasted image 20240203195318.png",
