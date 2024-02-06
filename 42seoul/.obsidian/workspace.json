@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6106800b97cd24a6",
+            "id": "ab560edb4933dbd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 298.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md"
+                "file": "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md"
               }
             }
           },
@@ -147,19 +147,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6106800b97cd24a6",
+  "active": "ab560edb4933dbd1",
   "lastOpenFiles": [
-    "Transcendence/JavaScript 완벽 가이드/6.4 DOM traversing.md",
+    "Transcendence/JavaScript 완벽 가이드/14.0 숫자와 문자열 심화.md",
+    "Transcendence/JavaScript 완벽 가이드/14.2 문자열 심화.md",
+    "Transcendence/JavaScript 완벽 가이드/14.1 숫자 심화.md",
+    "첨부파일/Pasted image 20240206171915.png",
+    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
+    "Transcendence/JavaScript 완벽 가이드/13.3 클로저.md",
+    "Transcendence/JavaScript 완벽 가이드/13.2 팩토리 함수.md",
+    "Transcendence/Django REST Framework.md",
+    "Transcendence/JavaScript 완벽 가이드/13.0 고급 함수 개념.md",
+    "Transcendence/JavaScript 완벽 가이드/13.1 순수 함수와 비순수 함수.md",
     "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+    "Transcendence/JavaScript 완벽 가이드/11.0 DOM & Browser API.md",
+    "Transcendence/JavaScript 완벽 가이드/6.4 DOM traversing.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
     "Transcendence/무제 파일.md",
     "첨부파일/Pasted image 20240206002957.png",
@@ -177,25 +188,14 @@
     "Transcendence/트센 캔버스.canvas",
     "Transcendence/<번역>ft_transcendence.md",
     "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
-    "Transcendence/JavaScript 완벽 가이드/11.0 DOM & Browser API.md",
     "첨부파일/Pasted image 20240203195730.png",
     "첨부파일/Pasted image 20240203195318.png",
     "첨부파일/Pasted image 20240203164149.png",
-    "Transcendence/작성 해야 함/fallback.md",
-    "Transcendence/작성 해야 함/프로젝트 구성 참고하기.md",
-    "Transcendence/작성 해야 함/Two Scoops of Django.md",
-    "Transcendence/작성 해야 함/Swagger.md",
-    "Transcendence/작성 해야 함/single-page application.md",
-    "Transcendence/작성 해야 함/scheme.md",
-    "Transcendence/작성 해야 함/Microservices.md",
-    "Transcendence/작성 해야 함/REST.md",
-    "Transcendence/작성 해야 함/OAuth 2.0.md",
     "Untitled.canvas",
     "첨부파일/Pasted image 20240203120714.png",
     "첨부파일/Pasted Image 20240202141152_243.png",
     "첨부파일/Pasted Image 20240201235815_579.png",
     "첨부파일/Pasted image 20240201151037.png",
-    "첨부파일/Pasted image 20240201144927.png",
     "template",
     "Transcendence/작성 해야 함",
     "Transcendence/Python 100일 부트캠프",
