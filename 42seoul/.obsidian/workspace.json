@@ -11,9 +11,11 @@
             "id": "6106800b97cd24a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -36,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "closest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+                "file": "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md"
               }
             }
           },
@@ -145,18 +147,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "6106800b97cd24a6",
   "lastOpenFiles": [
+    "Transcendence/JavaScript 완벽 가이드/6.4 DOM traversing.md",
     "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/무제 파일.md",
+    "첨부파일/Pasted image 20240206002957.png",
+    "첨부파일/Pasted image 20240206002730.png",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.1 워드프레스 구축.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/0. 그림과 실습으로 배우는 도커 & 쿠버네티스.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.0 여러 개의 컨테이너를 연동해 실행해보자.md",
@@ -170,7 +177,6 @@
     "Transcendence/트센 캔버스.canvas",
     "Transcendence/<번역>ft_transcendence.md",
     "Transcendence/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
     "Transcendence/JavaScript 완벽 가이드/11.0 DOM & Browser API.md",
     "첨부파일/Pasted image 20240203195730.png",
     "첨부파일/Pasted image 20240203195318.png",
@@ -184,16 +190,12 @@
     "Transcendence/작성 해야 함/Microservices.md",
     "Transcendence/작성 해야 함/REST.md",
     "Transcendence/작성 해야 함/OAuth 2.0.md",
-    "Transcendence/작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
-    "Transcendence/작성 해야 함/Blockchain.md",
     "Untitled.canvas",
     "첨부파일/Pasted image 20240203120714.png",
     "첨부파일/Pasted Image 20240202141152_243.png",
     "첨부파일/Pasted Image 20240201235815_579.png",
     "첨부파일/Pasted image 20240201151037.png",
     "첨부파일/Pasted image 20240201144927.png",
-    "첨부파일/Pasted image 20240201004555.png",
-    "첨부파일/Pasted image 20240201004413.png",
     "template",
     "Transcendence/작성 해야 함",
     "Transcendence/Python 100일 부트캠프",
