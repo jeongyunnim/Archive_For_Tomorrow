@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab560edb4933dbd1",
+            "id": "6106800b97cd24a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,26 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "81be0f570e732eb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/15.1 프로미스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31a5f2d7c8641d59",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -90,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -167,34 +147,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab560edb4933dbd1",
+  "active": "6106800b97cd24a6",
   "lastOpenFiles": [
-    "Day Planners/2024-02-06.md",
+    "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+    "첨부파일/Pasted image 20240206171915.png",
     "Transcendence/JavaScript 완벽 가이드/15.1 프로미스.md",
     "Transcendence/JavaScript 완벽 가이드/15.0 비동기 javaScript 프로미스, 콜백.md",
-    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/JavaScript 완벽 가이드/14.0 숫자와 문자열 심화.md",
     "Transcendence/JavaScript 완벽 가이드/14.2 문자열 심화.md",
     "Transcendence/JavaScript 완벽 가이드/14.1 숫자 심화.md",
-    "첨부파일/Pasted image 20240206171915.png",
+    "Transcendence/JavaScript 완벽 가이드/14.0 숫자와 문자열 심화.md",
     "Transcendence/JavaScript 완벽 가이드/13.3 클로저.md",
     "Transcendence/JavaScript 완벽 가이드/13.2 팩토리 함수.md",
-    "Transcendence/Django REST Framework.md",
-    "Transcendence/JavaScript 완벽 가이드/13.0 고급 함수 개념.md",
     "Transcendence/JavaScript 완벽 가이드/13.1 순수 함수와 비순수 함수.md",
-    "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
-    "Transcendence/JavaScript 완벽 가이드/11.0 DOM & Browser API.md",
+    "Transcendence/JavaScript 완벽 가이드/13.0 고급 함수 개념.md",
+    "Day Planners/2024-02-06.md",
     "Transcendence/JavaScript 완벽 가이드/6.4 DOM traversing.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
     "Transcendence/무제 파일.md",
     "첨부파일/Pasted image 20240206002957.png",
     "첨부파일/Pasted image 20240206002730.png",
@@ -207,7 +184,9 @@
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/2. HTML.md",
     "C++ Unmanaged Programming/5. 문자열(string).md",
+    "Transcendence/JavaScript 완벽 가이드/5.0 함수에 대한 심화 개념.md",
     "Transcendence/트센 캔버스.canvas",
+    "Transcendence/<번역>ft_transcendence.md",
     "첨부파일/Pasted image 20240203195730.png",
     "첨부파일/Pasted image 20240203195318.png",
     "첨부파일/Pasted image 20240203164149.png",
