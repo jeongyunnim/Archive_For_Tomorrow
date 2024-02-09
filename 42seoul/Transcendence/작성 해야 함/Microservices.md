@@ -64,6 +64,7 @@ Microservices 아키텍처로 SPA(Single Page Application)를 구현하는 것�
 
 이러한 가이드라인은 Microservices 기반의 SPA를 구현하는데 시작점을 제공합니다. 프로젝트의 복잡성과 요구사항에 따라 세부 사항은 조정될 수 있습니다.
 ```
+
 ---
 ### 생각(파생된 질문/생각)
 

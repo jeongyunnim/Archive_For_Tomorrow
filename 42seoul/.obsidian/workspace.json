@@ -4,18 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "78e594edf61c5b79",
+        "id": "fc0125a6785e8382",
         "type": "tabs",
         "children": [
           {
-            "id": "1f0fbb7018d6d873",
+            "id": "33635258d39468a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/16.0 HTTP로 작업하기.md",
+                "file": "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a014ef3593786d0e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d552e83515ff39f6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           }
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/16.0 HTTP로 작업하기.md",
+                "file": "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/16.0 HTTP로 작업하기.md",
+                "file": "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/JavaScript 완벽 가이드/16.0 HTTP로 작업하기.md"
+                "file": "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md"
               }
             }
           },
@@ -147,39 +167,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f0fbb7018d6d873",
+  "active": "33635258d39468a4",
   "lastOpenFiles": [
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.9 Django CBV.md",
-    "Transcendence/JavaScript 완벽 가이드/14.2 문자열 심화.md",
-    "Day Planners/2024-01-03.md",
-    "template/JS 강의 템플릿.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
+    "template/MSA 강의 템플릿.md",
+    "Transcendence/MSA 패턴과 핵심기술/0. MSA 패턴과 핵심기술.md",
+    "Day Planners/2024-02-09.md",
+    "C++ Unmanaged Programming/5. 문자열(string).md",
     "Transcendence/JavaScript 완벽 가이드/16.0 HTTP로 작업하기.md",
     "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
-    "Transcendence/JavaScript 완벽 가이드/15.2 async, await.md",
+    "Transcendence/js 비동기.md",
+    "template/Python 강의 템플릿.md",
+    "template/pope 강의 템플릿.md",
+    "Transcendence/작성 해야 함/Microservices.md",
+    "Transcendence/MSA 패턴과 핵심기술",
+    "Transcendence/JavaScript 완벽 가이드/18.0 브라우저 스토리지.md",
+    "첨부파일/Pasted image 20230808152329.png",
+    "첨부파일/Pasted image 20231025163918.png",
+    "첨부파일/Pasted image 20231027113931.png",
+    "첨부파일/Pasted image 20231101173603.png",
+    "첨부파일/Pasted image 20231102164644.png",
+    "첨부파일/Pasted image 20240206002730.png",
     "첨부파일/Pasted image 20240206171915.png",
     "첨부파일/Pasted image 20240206002957.png",
-    "첨부파일/Pasted image 20240206002730.png",
     "첨부파일/Pasted image 20240204163223.png",
     "첨부파일/Pasted image 20240203195730.png",
-    "첨부파일/Pasted image 20240203195318.png",
-    "첨부파일/Pasted image 20240203164149.png",
-    "첨부파일/Pasted image 20240201151037.png",
-    "첨부파일/Pasted image 20240201144927.png",
-    "첨부파일/Pasted image 20240201004413.png",
-    "template/pope 강의 템플릿.md",
     "template/inception 템플릿.md",
     "template/Zettelkasten.md",
-    "template/Python 강의 템플릿.md",
+    "template/JS 강의 템플릿.md",
     "template/Daily Note Template.md",
     "template",
     "Transcendence/작성 해야 함/프로젝트 구성 참고하기.md",
@@ -191,10 +216,6 @@
     "Transcendence/작성 해야 함/Swagger.md",
     "Transcendence/작성 해야 함/REST.md",
     "Transcendence/작성 해야 함/OAuth 2.0.md",
-    "Transcendence/작성 해야 함/Microservices.md",
-    "Transcendence/작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
-    "Transcendence/작성 해야 함/Hoisting.md",
-    "Transcendence/작성 해야 함/DTO.md",
     "Transcendence/트센 캔버스.canvas",
     "Transcendence/작성 해야 함",
     "Transcendence/Python 100일 부트캠프",
@@ -205,7 +226,6 @@
     "C++ Unmanaged Programming",
     "Untitled.canvas",
     "Day Planners/2023",
-    "첨부파일",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

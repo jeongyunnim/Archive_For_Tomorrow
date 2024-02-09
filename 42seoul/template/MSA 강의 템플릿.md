@@ -2,7 +2,8 @@
 날짜: '"{{date}}"'
 넘버: 
 태그: 프로그래밍
-출처: https://www.udemy.com/course/cpp-unmanaged-programming-by-pocu/
+출처: "마이크로서비스 아키텍처: MSA"
+강사: 코드프레소
 aliases:
 ---
 ### 날짜 {{date: YYYY-MM-DD}} {{time}}
@@ -15,10 +16,13 @@ aliases:
 ### 원문
 ---
 
+
+
+
 ---
 ### 생각(파생된 질문/생각)
 
 ### 출처
-- https://www.udemy.com/course/cpp-unmanaged-programming-by-pocu/
+- https://www.udemy.com/course/codepressomsa/
 
 ### 연결 문서 (연결 이유)
