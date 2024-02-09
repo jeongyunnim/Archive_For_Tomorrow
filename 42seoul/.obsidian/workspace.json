@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33635258d39468a4",
+            "id": "a014ef3593786d0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
+                "file": "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a014ef3593786d0e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           },
@@ -106,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
+                "file": "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
+                "file": "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md"
+                "file": "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md"
               }
             }
           },
@@ -176,12 +166,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33635258d39468a4",
+  "active": "a014ef3593786d0e",
   "lastOpenFiles": [
-    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/MSA 패턴과 핵심기술/2.0 MSA 도입 조건.md",
     "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
-    "template/MSA 강의 템플릿.md",
+    "Transcendence/거버넌스.md",
+    "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
     "Transcendence/MSA 패턴과 핵심기술/0. MSA 패턴과 핵심기술.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "template/MSA 강의 템플릿.md",
     "Day Planners/2024-02-09.md",
     "C++ Unmanaged Programming/5. 문자열(string).md",
     "Transcendence/JavaScript 완벽 가이드/16.0 HTTP로 작업하기.md",
@@ -213,9 +206,6 @@
     "Transcendence/작성 해야 함/gRPC.md",
     "Transcendence/작성 해야 함/fallback.md",
     "Transcendence/작성 해야 함/Two Scoops of Django.md",
-    "Transcendence/작성 해야 함/Swagger.md",
-    "Transcendence/작성 해야 함/REST.md",
-    "Transcendence/작성 해야 함/OAuth 2.0.md",
     "Transcendence/트센 캔버스.canvas",
     "Transcendence/작성 해야 함",
     "Transcendence/Python 100일 부트캠프",
