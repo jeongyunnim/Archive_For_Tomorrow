@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
+                "file": "Transcendence/5.1 MSA를 위한 컨테이너 오케스트레이션.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
+                "file": "Transcendence/5.1 MSA를 위한 컨테이너 오케스트레이션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
+                "file": "Transcendence/5.1 MSA를 위한 컨테이너 오케스트레이션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md"
+                "file": "Transcendence/5.1 MSA를 위한 컨테이너 오케스트레이션.md"
               }
             }
           },
@@ -204,9 +205,11 @@
   },
   "active": "a014ef3593786d0e",
   "lastOpenFiles": [
-    "Transcendence/MSA 패턴과 핵심기술/4.3 도메인 주도 설계의 세부 개념.md",
-    "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
     "Transcendence/MSA 패턴과 핵심기술/0. MSA 패턴과 핵심기술.md",
+    "Transcendence/5.1 MSA를 위한 컨테이너 오케스트레이션.md",
+    "Transcendence/5.0 MSA를 위한 컨테이너와 도커.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.3 도메인 주도 설계의 세부 개념.md",
     "Transcendence/MSA 패턴과 핵심기술/4.3.1 전술적 설계.md",
     "Transcendence/MSA 패턴과 핵심기술/4.3.0 전략적 설계.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
@@ -229,8 +232,6 @@
     "Transcendence/트센 캔버스.canvas",
     "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
     "Transcendence/MSA 패턴과 핵심기술/2.1.2 지원 역량.md",
-    "Transcendence/MSA 패턴과 핵심기술/2.1.1 인프라스트럭쳐 역량.md",
-    "Transcendence/MSA 패턴과 핵심기술/2.1.0 핵심 역량.md",
     "Transcendence/MSA 패턴과 핵심기술",
     "첨부파일/Pasted image 20230808152329.png",
     "첨부파일/Pasted image 20231025163918.png",
