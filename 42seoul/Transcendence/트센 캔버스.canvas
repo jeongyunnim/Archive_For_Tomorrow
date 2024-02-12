@@ -77,18 +77,11 @@
 		{"id":"ae6aa8c2af33e36b","type":"text","text":"뒤로가기 기능을 구현해야 함","x":195,"y":-1,"width":250,"height":60,"color":"2"},
 		{"id":"46ab532642a9597a","type":"text","text":"강력한 hash 알고리즘을 사용하라.","x":1640,"y":-461,"width":250,"height":60,"color":"2"},
 		{"id":"d7067652d95c80ca","type":"text","text":"Game","x":695,"y":-980,"width":250,"height":60},
-		{"id":"b83dbf3e9864d30d","type":"text","text":"login","x":3440,"y":1250,"width":250,"height":60},
-		{"id":"f65ad0b9ce73b0cc","type":"text","text":"game","x":3440,"y":1370,"width":250,"height":60},
-		{"id":"c222de70afa7adc4","type":"text","text":"django","x":3510,"y":600,"width":250,"height":60},
-		{"id":"eecd97bc08284041","type":"text","text":"microservice","x":3510,"y":720,"width":250,"height":60},
-		{"id":"ec0f2df07744c094","type":"text","text":"JavaScript","x":3900,"y":470,"width":250,"height":60},
-		{"id":"e4925e13605eca71","type":"text","text":"RESTful API","x":3120,"y":1310,"width":250,"height":60},
-		{"id":"50cd132240c80777","type":"text","text":"postgreSQL","x":3080,"y":600,"width":250,"height":60}
+		{"id":"e4925e13605eca71","type":"text","text":"RESTful API","x":3120,"y":1310,"width":160,"height":50},
+		{"id":"b83dbf3e9864d30d","type":"text","text":"login","x":3315,"y":1305,"width":105,"height":55},
+		{"id":"f65ad0b9ce73b0cc","type":"text","text":"game","x":3480,"y":1303,"width":120,"height":57}
 	],
 	"edges":[
-		{"id":"54b64222b7678ed6","fromNode":"50cd132240c80777","fromSide":"right","toNode":"c222de70afa7adc4","toSide":"left"},
-		{"id":"22725c82403ef02b","fromNode":"c222de70afa7adc4","fromSide":"left","toNode":"50cd132240c80777","toSide":"right"},
-		{"id":"702d52d5beed8d97","fromNode":"ec0f2df07744c094","fromSide":"left","toNode":"c222de70afa7adc4","toSide":"right"},
 		{"id":"6fbb387917360ca2","fromNode":"86d348ec78f026ab","fromSide":"bottom","toNode":"232ef40af235c1ca","toSide":"right"},
 		{"id":"c088d9179a21f763","fromNode":"86d348ec78f026ab","fromSide":"bottom","toNode":"b1e1551ee91f8944","toSide":"right"},
 		{"id":"36c56d348d760a23","fromNode":"86d348ec78f026ab","fromSide":"right","toNode":"d7067652d95c80ca","toSide":"left"},

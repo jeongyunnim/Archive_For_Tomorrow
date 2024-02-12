@@ -13,19 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
+                "file": "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d552e83515ff39f6",
+            "id": "d0e3e1b24ee2f7ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6553a42371aed7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/Use Case Diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "411fa504651ed58f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/ft_transcendence.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "7c55d8718fd7b1a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/계층형 아키텍처.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -48,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "urlpattern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
+                "file": "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
+                "file": "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md"
+                "file": "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md"
               }
             }
           },
@@ -157,34 +193,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a014ef3593786d0e",
   "lastOpenFiles": [
-    "Transcendence/MSA 패턴과 핵심기술/2.0 MSA 도입 조건.md",
-    "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
-    "Transcendence/거버넌스.md",
-    "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.3 도메인 주도 설계의 세부 개념.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
     "Transcendence/MSA 패턴과 핵심기술/0. MSA 패턴과 핵심기술.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.3.1 전술적 설계.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.3.0 전략적 설계.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.5 Template.md",
+    "archive(non_fixed)/inception/도커/Docker docs/1-3. Update the application.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.1 Django 프레임워크에 대한 소개.md",
+    "Transcendence/개중요.md",
+    "Transcendence/이미지에 PostgreSQL 적용시키기.md",
+    "Transcendence/Django REST Framework.md",
+    "Transcendence/계층형 아키텍처.md",
+    "Transcendence/Use Case Diagram.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.1 응집도와 결합도 그리고 SRP.md",
+    "Transcendence/무제 파일.md",
+    "Transcendence/MSA 패턴과 핵심기술/3.0 MSA 성숙도 모델.md",
+    "Transcendence/MSA 패턴과 핵심기술/2.0 MSA 도입 조건.md",
+    "Transcendence/MSA 패턴과 핵심기술/2.1.3 프로세스 및 통제 역량.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.0 서비스 분리 전략.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
-    "template/MSA 강의 템플릿.md",
-    "Day Planners/2024-02-09.md",
-    "C++ Unmanaged Programming/5. 문자열(string).md",
-    "Transcendence/JavaScript 완벽 가이드/16.0 HTTP로 작업하기.md",
-    "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
-    "Transcendence/js 비동기.md",
-    "template/Python 강의 템플릿.md",
-    "template/pope 강의 템플릿.md",
-    "Transcendence/작성 해야 함/Microservices.md",
+    "Transcendence/트센 캔버스.canvas",
+    "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
+    "Transcendence/MSA 패턴과 핵심기술/2.1.2 지원 역량.md",
+    "Transcendence/MSA 패턴과 핵심기술/2.1.1 인프라스트럭쳐 역량.md",
+    "Transcendence/MSA 패턴과 핵심기술/2.1.0 핵심 역량.md",
     "Transcendence/MSA 패턴과 핵심기술",
-    "Transcendence/JavaScript 완벽 가이드/18.0 브라우저 스토리지.md",
     "첨부파일/Pasted image 20230808152329.png",
     "첨부파일/Pasted image 20231025163918.png",
     "첨부파일/Pasted image 20231027113931.png",
@@ -195,18 +242,7 @@
     "첨부파일/Pasted image 20240206002957.png",
     "첨부파일/Pasted image 20240204163223.png",
     "첨부파일/Pasted image 20240203195730.png",
-    "template/inception 템플릿.md",
-    "template/Zettelkasten.md",
-    "template/JS 강의 템플릿.md",
-    "template/Daily Note Template.md",
     "template",
-    "Transcendence/작성 해야 함/프로젝트 구성 참고하기.md",
-    "Transcendence/작성 해야 함/single-page application.md",
-    "Transcendence/작성 해야 함/scheme.md",
-    "Transcendence/작성 해야 함/gRPC.md",
-    "Transcendence/작성 해야 함/fallback.md",
-    "Transcendence/작성 해야 함/Two Scoops of Django.md",
-    "Transcendence/트센 캔버스.canvas",
     "Transcendence/작성 해야 함",
     "Transcendence/Python 100일 부트캠프",
     "Transcendence/JavaScript 완벽 가이드",
