@@ -779,6 +779,35 @@ JSON 데이터 형식으로 정보 교환 ^OeXcGoWv
 User Stat을 조회해야 함
 현재 로그인된 유저 정보와 대조해야 함 ^0ieNYAS1
 
+DB ^rZiLOfaC
+
+DB ^jJaxUbwW
+
+DB ^4jcp0uB0
+
+DB ^S6USuH1f
+
+Client-Side Service discovery ^mIhhX9rY
+
+service registry ^xBn1UOT4
+
+Client ^N33fkj1y
+
+microservice #1 ^ZYLMEDr0
+
+microservice #2 ^acXUxhT5
+
+microservice #3 ^1Fbf8hQu
+
+microservice #1
+query ^78L3649Q
+
+123.12.12.1 ^VRDH2p8o
+
+API call ^dd8QP0au
+
+registration ^XebSLF7C
+
 
 # Embedded files
 3250f37bdcd718fd30733da1e17818e463171b58: [[Pasted Image 20240126154758_076.png]]
@@ -864,7 +893,7 @@ User Stat을 조회해야 함
 			"containerId": "C9cNPAzPmzEdD4g0bYTPV",
 			"originalText": "개발 영역",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -936,7 +965,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -1006,7 +1035,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -1076,7 +1105,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -1173,7 +1202,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -1212,7 +1241,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -1285,7 +1314,7 @@ User Stat을 조회해야 함
 			"containerId": "IJuE28G_8iB75z14fXF-0",
 			"originalText": "FE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1446,7 +1475,7 @@ User Stat을 조회해야 함
 			"containerId": "I-pfeJbRZycdodm8NqNQB",
 			"originalText": "BE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1602,7 +1631,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "SPA 전환",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
@@ -1719,7 +1748,7 @@ User Stat을 조회해야 함
 			"containerId": "AGkp07icIHablqN1Pxgih",
 			"originalText": "개발 영역",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1791,7 +1820,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -1861,7 +1890,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -1931,7 +1960,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -2028,7 +2057,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -2067,7 +2096,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2140,7 +2169,7 @@ User Stat을 조회해야 함
 			"containerId": "dqe_oJoLE1Qc-QxAik6CW",
 			"originalText": "FE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2215,7 +2244,7 @@ User Stat을 조회해야 함
 			"containerId": "KghutSZDmCXo8DkXsQRp-",
 			"originalText": "페이지 개발 (JS)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2317,7 +2346,7 @@ User Stat을 조회해야 함
 			"containerId": "urh6tAoORoHyglOtlTCJx",
 			"originalText": "BE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -2356,7 +2385,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "SSR 전환",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
@@ -2475,7 +2504,7 @@ User Stat을 조회해야 함
 			"containerId": "mzoEcpvVktNYH2qfomtm7",
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2550,7 +2579,7 @@ User Stat을 조회해야 함
 			"containerId": "dEsShZFMou07WNKK-4v2V",
 			"originalText": "Node.js",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2625,7 +2654,7 @@ User Stat을 조회해야 함
 			"containerId": "4t6jRiOJQLlnU2C7oiftR",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2700,7 +2729,7 @@ User Stat을 조회해야 함
 			"containerId": "_FqBxSTaRZ8W8HneD1bZ8",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -2739,7 +2768,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "API 개발\n(JAVA)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -2890,7 +2919,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "{{JINJA}}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2962,7 +2991,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Pyton file\nwith\nURL routing",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -3034,7 +3063,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Python file\nusing Django",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -3108,7 +3137,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Python file\nusing Django\nModels",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -3182,7 +3211,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Application \nlogic \nin Python",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "line",
@@ -4095,7 +4124,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "User\n(Browser)",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "line",
@@ -4572,7 +4601,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "SQL",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -4612,7 +4641,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Database",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5112,7 +5141,7 @@ User Stat을 조회해야 함
 			"containerId": "z5RThGOyj3UUsQtTFT9pY",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5187,7 +5216,7 @@ User Stat을 조회해야 함
 			"containerId": "tlwX4WVnq_Px11QhUH_mt",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5262,7 +5291,7 @@ User Stat을 조회해야 함
 			"containerId": "b66l67TojYQHhqAJHjF_w",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5337,7 +5366,7 @@ User Stat을 조회해야 함
 			"containerId": "iRywGQeNshpwfQJHsqRiL",
 			"originalText": "app\n1",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -5412,7 +5441,7 @@ User Stat을 조회해야 함
 			"containerId": "4WvREpvm6zGhh_1CZTBe9",
 			"originalText": "app\n2",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -5487,7 +5516,7 @@ User Stat을 조회해야 함
 			"containerId": "owXjRN_QZlXRNKjp3xJC0",
 			"originalText": "app\n3",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -5562,7 +5591,7 @@ User Stat을 조회해야 함
 			"containerId": "NfDUjIzRtHf1MUHzBWDej",
 			"originalText": "app\nN",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "line",
@@ -5838,7 +5867,7 @@ User Stat을 조회해야 함
 			"containerId": "M6cBo-06QzSZuvkU6WEkp",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5917,7 +5946,7 @@ User Stat을 조회해야 함
 			"containerId": "0--KxwnQghmY_lg4IGGc_",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6000,7 +6029,7 @@ User Stat을 조회해야 함
 			"containerId": "4rZsAjVennqt93L939FFe",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6157,7 +6186,7 @@ User Stat을 조회해야 함
 			"containerId": "V9T8CrdmVf8_jwYDXJrzX",
 			"originalText": "view.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
@@ -6286,12 +6315,12 @@ User Stat을 조회해야 함
 			"containerId": "sXVRurNNDuV6D1Y2s4hHT",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 557,
-			"versionNonce": 396037098,
+			"version": 571,
+			"versionNonce": 1068036403,
 			"isDeleted": false,
 			"id": "GeGtbAcF3nyDucN5uJizp",
 			"fillStyle": "solid",
@@ -6315,7 +6344,7 @@ User Stat을 조회해야 함
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707553128286,
+			"updated": 1707737918042,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6340,8 +6369,8 @@ User Stat을 조회해야 함
 		},
 		{
 			"type": "arrow",
-			"version": 1039,
-			"versionNonce": 207323062,
+			"version": 1095,
+			"versionNonce": 1249530579,
 			"isDeleted": false,
 			"id": "iHHaSktUluC1UNoQ0j_NW",
 			"fillStyle": "solid",
@@ -6365,7 +6394,7 @@ User Stat을 조회해야 함
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707553128286,
+			"updated": 1707737918043,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7904,7 +7933,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -7979,7 +8008,7 @@ User Stat을 조회해야 함
 			"containerId": "Cuo01-ayZ7vI4d5MAEaxO",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -8054,7 +8083,7 @@ User Stat을 조회해야 함
 			"containerId": "-WYBBqZbM1bBxFkxcaaCX",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -8304,7 +8333,7 @@ User Stat을 조회해야 함
 			"containerId": "SlkEgCbfVlMd3a45lI6IQ",
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -9665,7 +9694,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -9740,7 +9769,7 @@ User Stat을 조회해야 함
 			"containerId": "gKff4QHG4L8qwpqYj1Cya",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -9819,7 +9848,7 @@ User Stat을 조회해야 함
 			"containerId": "CpA4CG2rxltdhCOYMCmP6",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -10025,7 +10054,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -10069,12 +10098,12 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "reverse(url_name)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 2761,
-			"versionNonce": 735439606,
+			"version": 2775,
+			"versionNonce": 1864841181,
 			"isDeleted": false,
 			"id": "ypINFAzaOkRT9B0SsgAUi",
 			"fillStyle": "solid",
@@ -10098,7 +10127,7 @@ User Stat을 조회해야 함
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707553128288,
+			"updated": 1707737918045,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10224,7 +10253,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "base.html",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10379,7 +10408,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -10418,7 +10447,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -10486,7 +10515,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -10525,7 +10554,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "{% extends \"base.html\" %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -10564,7 +10593,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -10603,7 +10632,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -10700,7 +10729,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10944,7 +10973,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "JS",
 			"lineHeight": 1.2,
-			"baseline": 55
+			"baseline": 56
 		},
 		{
 			"type": "text",
@@ -10983,7 +11012,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Dynamic\nweakly-typed",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "text",
@@ -11022,7 +11051,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Interpreted\n전송 중에 컴파일 됨",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "text",
@@ -11061,7 +11090,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Hosted language\n여러 환경에서 실행 됨",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "text",
@@ -11100,7 +11129,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "브라우저에서 코드 실행",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -11168,7 +11197,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "브라우저 built-in JS엔진\nV8(chrome)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -11207,7 +11236,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "{code}",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
@@ -11417,7 +11446,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Effect",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -11456,7 +11485,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Single Thread",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -11560,7 +11589,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "<code>",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -11657,7 +11686,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "browser",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -11730,7 +11759,7 @@ User Stat을 조회해야 함
 			"containerId": "K8mgdfrt5mwZhfFOTMNno",
 			"originalText": "JS 파싱 및 실행",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -11845,7 +11874,7 @@ User Stat을 조회해야 함
 			"containerId": "pTuu9HtEb1x_juUmcj_po",
 			"originalText": "interpreter",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -11926,12 +11955,12 @@ User Stat을 조회해야 함
 			"containerId": "SUGRFK1cJOYkLW9hUjYUE",
 			"originalText": "compiler(JIT)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 415,
-			"versionNonce": 117842806,
+			"version": 429,
+			"versionNonce": 1676574835,
 			"isDeleted": false,
 			"id": "RNzrlE8PzV-MStjIANndi",
 			"fillStyle": "solid",
@@ -11953,7 +11982,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128290,
+			"updated": 1707737918046,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11986,8 +12015,8 @@ User Stat을 조회해야 함
 		},
 		{
 			"type": "arrow",
-			"version": 580,
-			"versionNonce": 1853388522,
+			"version": 608,
+			"versionNonce": 1170995731,
 			"isDeleted": false,
 			"id": "Ey98i2quu_ZaJrVufSyP3",
 			"fillStyle": "solid",
@@ -12009,7 +12038,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128290,
+			"updated": 1707737918047,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12119,7 +12148,7 @@ User Stat을 조회해야 함
 			"containerId": "CzJy2z7DWHCO81eVUd2cK",
 			"originalText": "byte code",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -12216,8 +12245,8 @@ User Stat을 조회해야 함
 		},
 		{
 			"type": "arrow",
-			"version": 599,
-			"versionNonce": 590554922,
+			"version": 613,
+			"versionNonce": 1217832093,
 			"isDeleted": false,
 			"id": "cpKGZUiWy8LjnBOVjFOuT",
 			"fillStyle": "solid",
@@ -12239,7 +12268,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128290,
+			"updated": 1707737918047,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12303,7 +12332,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "client\ncomputer",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -12376,7 +12405,7 @@ User Stat을 조회해야 함
 			"containerId": "Y1MsRQFhoG3xJLahODbPi",
 			"originalText": "script 로드 및 실행",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -12449,7 +12478,7 @@ User Stat을 조회해야 함
 			"containerId": "M92TKW3HVZsUw3Mg4Wah_",
 			"originalText": "compiled\nmachine code",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -12522,7 +12551,7 @@ User Stat을 조회해야 함
 			"containerId": "BujRFqj7xHcHN9bYhRphG",
 			"originalText": "브라우저 API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -12724,7 +12753,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "머신 코드에 포함된다.",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -12797,7 +12826,7 @@ User Stat을 조회해야 함
 			"containerId": "OaR8u-h0O8kszaiFmQW1r",
 			"originalText": "Document",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -12870,7 +12899,7 @@ User Stat을 조회해야 함
 			"containerId": "g4TZq2XxQpbIUP5WhKUBZ",
 			"originalText": "Root DOM Node",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -12943,7 +12972,7 @@ User Stat을 조회해야 함
 			"containerId": "SY0_IzceiFHQ8xVPk74xZ",
 			"originalText": "HTML 요소에 쿼리 & 엑세스\nDOM 컨텐츠, HTML 요소와 상호작용",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -13016,7 +13045,7 @@ User Stat을 조회해야 함
 			"containerId": "_ldtDoNspjUwLGAg6e0IO",
 			"originalText": "Window",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -13089,7 +13118,7 @@ User Stat을 조회해야 함
 			"containerId": "pH7q87Wp34511nUP7rv3P",
 			"originalText": "활성화된 창 또는 탭",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -13162,7 +13191,7 @@ User Stat을 조회해야 함
 			"containerId": "JXth2j4lV-x70ulAeb8MC",
 			"originalText": "스크립트의 global storage\n브라우저가 제공하는 모든 기능에 대한 엑세스를 허용한다.",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -13235,7 +13264,7 @@ User Stat을 조회해야 함
 			"containerId": "hULijffl96PftAIW7Qj36",
 			"originalText": "Root Entry Point",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -13425,7 +13454,7 @@ User Stat을 조회해야 함
 			"containerId": "ybQwChY23cNwVDS4oljms",
 			"originalText": "<html lang=\"en\">\n  <head>\n    <title>DOM Interaction</title>\n  </script>\n  </head>\n  <body>\n      <header>\n          <h1>Dive into the DOM</h1>\n      </header>\n      <p>There's a log to it!<p>\n  </body>\n</html>",
 			"lineHeight": 1.2,
-			"baseline": 227
+			"baseline": 226
 		},
 		{
 			"type": "rectangle",
@@ -13502,7 +13531,7 @@ User Stat을 조회해야 함
 			"containerId": "xmCD5DrqA27kTlzCRVQE2",
 			"originalText": "HTML",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -13575,7 +13604,7 @@ User Stat을 조회해야 함
 			"containerId": "zvsQpyzIfgq239Ek1e61p",
 			"originalText": "TITLE",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -13648,7 +13677,7 @@ User Stat을 조회해야 함
 			"containerId": "zXWgFVS5Kb1hhRhMeNjqT",
 			"originalText": "H1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -13721,7 +13750,7 @@ User Stat을 조회해야 함
 			"containerId": "zgBXXcT1tAUCczkoSr27z",
 			"originalText": "P",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -13852,7 +13881,7 @@ User Stat을 조회해야 함
 			"containerId": "8ou3rZueV4MD2Wi6lJDi4",
 			"originalText": "BODY",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -14013,7 +14042,7 @@ User Stat을 조회해야 함
 			"containerId": "Oj-4ohao_tF-Lo0RUWp1G",
 			"originalText": "HEAD",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -14203,12 +14232,12 @@ User Stat을 조회해야 함
 			"containerId": "IdpCclJi1snOOGuRKSlqO",
 			"originalText": "HEADER",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 604,
-			"versionNonce": 627052790,
+			"version": 632,
+			"versionNonce": 1928464637,
 			"isDeleted": false,
 			"id": "5Fc0zoKSfbSkhhfzzXQ5p",
 			"fillStyle": "solid",
@@ -14230,7 +14259,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128292,
+			"updated": 1707737918054,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -14484,7 +14513,7 @@ User Stat을 조회해야 함
 			"containerId": "5I6AO6QU9swfDYvI2QYF9",
 			"originalText": "<html lang=\"en\">\n  <head>\n    <title>The DOM</title>\n  </script>\n  </head>\n  <body>\n      <header>\n          <h1>Dive into the DOM</h1>\n      </header>\n      <p>There's a lot to it!<p>\n  </body>\n</html>",
 			"lineHeight": 1.2,
-			"baseline": 227
+			"baseline": 226
 		},
 		{
 			"type": "rectangle",
@@ -14561,7 +14590,7 @@ User Stat을 조회해야 함
 			"containerId": "4mYx5KbyA6lK8YZcvdRcJ",
 			"originalText": "HTML",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -14634,7 +14663,7 @@ User Stat을 조회해야 함
 			"containerId": "q4ZYJ-8OXzb7xp2ZB410x",
 			"originalText": "TITLE",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -14707,7 +14736,7 @@ User Stat을 조회해야 함
 			"containerId": "y3meWec_dLs-d7bv_-Aei",
 			"originalText": "H1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -14780,7 +14809,7 @@ User Stat을 조회해야 함
 			"containerId": "1FG5S14T1b4whbm8Ux8aW",
 			"originalText": "P",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -14911,7 +14940,7 @@ User Stat을 조회해야 함
 			"containerId": "EqNB8JyTlP8udZmZKXmiT",
 			"originalText": "BODY",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -15076,7 +15105,7 @@ User Stat을 조회해야 함
 			"containerId": "YrpqWBeb6KQshm8p5B9QT",
 			"originalText": "HEAD",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -15266,7 +15295,7 @@ User Stat을 조회해야 함
 			"containerId": "3BnmCYgMw1DRhntiZ49oK",
 			"originalText": "HEADER",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
@@ -15425,7 +15454,7 @@ User Stat을 조회해야 함
 			"containerId": "Bmkozz3pA3ynjNaBhqBc0",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15498,7 +15527,7 @@ User Stat을 조회해야 함
 			"containerId": "pKGtDuQ-KA2ZHS4dr20Yr",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15571,7 +15600,7 @@ User Stat을 조회해야 함
 			"containerId": "WQl5rqsqEoJ6GIk7nDifD",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15644,7 +15673,7 @@ User Stat을 조회해야 함
 			"containerId": "dxx9RDAh8ZA3wacA8GI7-",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15717,7 +15746,7 @@ User Stat을 조회해야 함
 			"containerId": "tM9tCfx65sF5s9vYDkZwS",
 			"originalText": "The DOM",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15790,7 +15819,7 @@ User Stat을 조회해야 함
 			"containerId": "Ru9yWIc60gmwiwHdZUiH_",
 			"originalText": "Dive into the DOM",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15863,7 +15892,7 @@ User Stat을 조회해야 함
 			"containerId": "Ld8-4grFjrJCpBf-Zf5ew",
 			"originalText": "There's a lot to it!",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -15940,12 +15969,12 @@ User Stat을 조회해야 함
 			"containerId": "QOC8L1vys5n7Jf6h1S8FZ",
 			"originalText": "<p id=\"welcome-text\" class=\"text-default\">Welcome!</p>",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 1035,
-			"versionNonce": 640398774,
+			"version": 1063,
+			"versionNonce": 421650781,
 			"isDeleted": false,
 			"id": "y9ZZjQRBXPBqBj37safu0",
 			"fillStyle": "solid",
@@ -15967,7 +15996,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128293,
+			"updated": 1707737918064,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16081,7 +16110,7 @@ User Stat을 조회해야 함
 			"containerId": "BDxZ2MHbhnuENu0iVlU7w",
 			"originalText": "const p",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -16158,7 +16187,7 @@ User Stat을 조회해야 함
 			"containerId": "q7La-5-CTf8Hc8lIO38Ux",
 			"originalText": "p.textContent",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -16235,7 +16264,7 @@ User Stat을 조회해야 함
 			"containerId": "qRvrca5b_Y4MsALCjCyEn",
 			"originalText": "p.id",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -16312,7 +16341,7 @@ User Stat을 조회해야 함
 			"containerId": "5CT_XPPIqKeIW0JL9x8j4",
 			"originalText": "p.className",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -16385,7 +16414,7 @@ User Stat을 조회해야 함
 			"containerId": "8d9m97jdyLVfKYrCK7rSn",
 			"originalText": "\"Welcome\"",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -16462,7 +16491,7 @@ User Stat을 조회해야 함
 			"containerId": "AGpwZds1ld-3g2ebPyuNe",
 			"originalText": "\"welcome-text\"",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -16539,12 +16568,12 @@ User Stat을 조회해야 함
 			"containerId": "24mfIlNIiRHZW8HS090_N",
 			"originalText": "\"text-default\"",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 252,
-			"versionNonce": 631925738,
+			"version": 266,
+			"versionNonce": 1987106963,
 			"isDeleted": false,
 			"id": "sps6-OWWSrVVIjbzLe7Hc",
 			"fillStyle": "solid",
@@ -16566,7 +16595,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128293,
+			"updated": 1707737918065,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16591,8 +16620,8 @@ User Stat을 조회해야 함
 		},
 		{
 			"type": "arrow",
-			"version": 614,
-			"versionNonce": 829562806,
+			"version": 670,
+			"versionNonce": 148938099,
 			"isDeleted": false,
 			"id": "ZKhGYTAVytSfuqAO-aQ69",
 			"fillStyle": "solid",
@@ -16614,7 +16643,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128293,
+			"updated": 1707737918066,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16643,8 +16672,8 @@ User Stat을 조회해야 함
 		},
 		{
 			"type": "arrow",
-			"version": 614,
-			"versionNonce": 1846107818,
+			"version": 670,
+			"versionNonce": 544372499,
 			"isDeleted": false,
 			"id": "BajE-CHs_82sRPJmBTeeK",
 			"fillStyle": "solid",
@@ -16666,7 +16695,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128294,
+			"updated": 1707737918067,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16811,12 +16840,12 @@ User Stat을 조회해야 함
 			"containerId": "c699tcMueD3OExfGGfvCF",
 			"originalText": "p.className = \"new-class\"",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 922,
-			"versionNonce": 491600938,
+			"version": 978,
+			"versionNonce": 1790447187,
 			"isDeleted": false,
 			"id": "utk2acYCoO2DHj5b329KH",
 			"fillStyle": "solid",
@@ -16838,7 +16867,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128294,
+			"updated": 1707737918068,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16867,8 +16896,8 @@ User Stat을 조회해야 함
 		},
 		{
 			"type": "arrow",
-			"version": 1058,
-			"versionNonce": 374567798,
+			"version": 1114,
+			"versionNonce": 1005112307,
 			"isDeleted": false,
 			"id": "fkq-cirz18fJ-nkjwMSDk",
 			"fillStyle": "solid",
@@ -16890,7 +16919,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128294,
+			"updated": 1707737918070,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16992,7 +17021,7 @@ User Stat을 조회해야 함
 			"containerId": "PBGz2QZgprVjUo4VTFrpy",
 			"originalText": "<p ... class=\"new-class\">",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -17065,7 +17094,7 @@ User Stat을 조회해야 함
 			"containerId": "2eZiQWWXB2uvnYJiqaicv",
 			"originalText": "<input id=\"input-1\" class=\"input-default\" value=\"Enter text...\">",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -17289,7 +17318,7 @@ User Stat을 조회해야 함
 			"containerId": "nI44yj5KwhO5o-OB4Xdq5",
 			"originalText": "속성(Attribute)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17328,7 +17357,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "> const input = document.querySelector(\"input\");",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -17401,7 +17430,7 @@ User Stat을 조회해야 함
 			"containerId": "7u2vfVXwXz8O32g4pN0He",
 			"originalText": "input.id",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -17474,7 +17503,7 @@ User Stat을 조회해야 함
 			"containerId": "7cmhsbuhFQ6FbSECgn2yQ",
 			"originalText": "input.className",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -17547,7 +17576,7 @@ User Stat을 조회해야 함
 			"containerId": "A2A48_nbZ_nRQi0lJ6adF",
 			"originalText": "input.value",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17625,7 +17654,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "실시간 동기화",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17664,7 +17693,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "단방향 실시간 동기화",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17701,7 +17730,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "value를 변경하더라도 속성값에 바로 반영되지 않는다.\n속성값을 변경해야 프로퍼티값이 변경된다.",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -17738,7 +17767,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "사용자의 입력 값을 받기 위한 input을 다시 속성값에 반영하려고 한다는 것.\nvalue의 속성을 저장하려고 input의 초깃값을 다시 리셋하는 것.",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -17775,7 +17804,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "불가능",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17812,7 +17841,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "사용자 input을 value 속성에 반영하려고 하는 경우 할당하려는 값을 잃어버려서 리셋할 수 없게 된다.",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -17849,7 +17878,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "traversing the DOM",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -17946,12 +17975,12 @@ User Stat을 조회해야 함
 			"containerId": "091jO7WQ7K-l0UaTviu6-",
 			"originalText": "현재 노드",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 1171,
-			"versionNonce": 649399542,
+			"version": 1199,
+			"versionNonce": 1332794771,
 			"isDeleted": false,
 			"id": "rMfibXvXXvC_CuVFQTJgy",
 			"fillStyle": "solid",
@@ -17973,7 +18002,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128295,
+			"updated": 1707737918073,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18042,12 +18071,12 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "childNodes()\nchildren()\nquerySelector()",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "arrow",
-			"version": 349,
-			"versionNonce": 431226422,
+			"version": 363,
+			"versionNonce": 1021264157,
 			"isDeleted": false,
 			"id": "ZUvNEymhGiLyNVVQr3XOZ",
 			"fillStyle": "solid",
@@ -18069,7 +18098,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128295,
+			"updated": 1707737918073,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18094,8 +18123,8 @@ User Stat을 조회해야 함
 		},
 		{
 			"type": "arrow",
-			"version": 570,
-			"versionNonce": 171616298,
+			"version": 598,
+			"versionNonce": 2129349277,
 			"isDeleted": false,
 			"id": "s7okwzkmruzDNA0XAs-C3",
 			"fillStyle": "solid",
@@ -18117,7 +18146,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128295,
+			"updated": 1707737918073,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18186,7 +18215,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "firstChild()\nfirstElementChild()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -18225,12 +18254,12 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "lastChild()\nlastElementChild()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "arrow",
-			"version": 548,
-			"versionNonce": 681994422,
+			"version": 576,
+			"versionNonce": 1213029853,
 			"isDeleted": false,
 			"id": "_ku2qWWkD_0431WL0Jq_t",
 			"fillStyle": "solid",
@@ -18252,7 +18281,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128295,
+			"updated": 1707737918073,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18281,8 +18310,8 @@ User Stat을 조회해야 함
 		},
 		{
 			"type": "arrow",
-			"version": 645,
-			"versionNonce": 1775904170,
+			"version": 673,
+			"versionNonce": 2096305533,
 			"isDeleted": false,
 			"id": "g4Pwpkl1cD2NpMBylOq2G",
 			"fillStyle": "solid",
@@ -18304,7 +18333,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128295,
+			"updated": 1707737918073,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18373,7 +18402,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "previousSibling()\npreviousElementSibling()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -18417,7 +18446,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "nextSibling()\nnextElementSibling()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -18461,12 +18490,12 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "parentNode()\nparentElement()\nclosest()",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "arrow",
-			"version": 604,
-			"versionNonce": 1926775594,
+			"version": 632,
+			"versionNonce": 1442814525,
 			"isDeleted": false,
 			"id": "pPVlmXCTZKKlZ9VD9jBbW",
 			"fillStyle": "solid",
@@ -18488,7 +18517,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128295,
+			"updated": 1707737918073,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18932,7 +18961,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Creation & Inserting Elements",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -19005,7 +19034,7 @@ User Stat을 조회해야 함
 			"containerId": "MHFokJVJHmnUD4LZ7_j-N",
 			"originalText": "HTML 코드",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -19078,7 +19107,7 @@ User Stat을 조회해야 함
 			"containerId": "q9L6x9bhfrV7nrIv4vO7z",
 			"originalText": "createElement()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -19151,7 +19180,7 @@ User Stat을 조회해야 함
 			"containerId": "kkQsMEPCxvIftyjRzyeZI",
 			"originalText": "innerHTML",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -19224,7 +19253,7 @@ User Stat을 조회해야 함
 			"containerId": "0gqBuDtjjgWQ-qFDF4L3F",
 			"originalText": "insertAdacentHTML()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -19263,7 +19292,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": ": HTML 문자열 추가",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -19302,7 +19331,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": ":특정 부분에 HTML 문자열 추가",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -19375,7 +19404,7 @@ User Stat을 조회해야 함
 			"containerId": "lDPQllJKhNDTjrlSTs_dz",
 			"originalText": "appendChild()\nappend()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -19521,7 +19550,7 @@ User Stat을 조회해야 함
 			"containerId": "12E5FSczBGZ0ejO41D2Jy",
 			"originalText": "replaceChild()\nreplaceWith()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -19560,7 +19589,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": ": 새로운 DOM 요소/노드 추가",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -19599,7 +19628,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": ": 새로운 DOM 요소/노드 특정 위치에 삽입",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -19638,7 +19667,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": ": 기존 DOM 요소/노드 대체",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "image",
@@ -19803,7 +19832,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "{name: 'Max', age: 30},\n{name : 'Manuel', age: 31}",
 			"lineHeight": 1.2,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "text",
@@ -19843,7 +19872,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "map()은 객체의 내용으로 새로운 배열을 만들어 반환",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -20048,7 +20077,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "전개연산을 통해 다시 요소 해체",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -20178,7 +20207,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "해체된 요소를 다시 배열로 묶음",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -20215,7 +20244,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Object VS Map VS Set",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -20288,7 +20317,7 @@ User Stat을 조회해야 함
 			"containerId": "iEcizWLCH0iRU9cyBT8ZS",
 			"originalText": "key: 어떤 값이라도 키가 될 수 있음",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -20361,7 +20390,7 @@ User Stat을 조회해야 함
 			"containerId": "q9Pa-2afdtm5-BfcdxiAo",
 			"originalText": "Map",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -20434,7 +20463,7 @@ User Stat을 조회해야 함
 			"containerId": "ydyUaAkyCn_rvFL2Q5N66",
 			"originalText": "요소가 많을 경우 object 보다 성능적으로 유리하다.",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -20507,7 +20536,7 @@ User Stat을 조회해야 함
 			"containerId": "o-jOBDNo73zEViLPKc50b",
 			"originalText": "데이터를 자주\n(초당 여러 번) \n추가/제거 할 때 유리",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -20580,7 +20609,7 @@ User Stat을 조회해야 함
 			"containerId": "1oRBLo7dM5lAB5S0gXtVK",
 			"originalText": "object",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -20653,7 +20682,7 @@ User Stat을 조회해야 함
 			"containerId": "2nVKc4Xh_u9m9zkn_1KoJ",
 			"originalText": "key: string, number, symbol",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -20799,7 +20828,7 @@ User Stat을 조회해야 함
 			"containerId": "aylcEI4oWRMgoUd77MGtK",
 			"originalText": "쉽고 빠르게 \n생성할 수 있다.\n성능 측면에서도 좋음.",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "image",
@@ -22011,7 +22040,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "offsetTop",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -22050,7 +22079,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "offsetLeft",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -22089,7 +22118,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "clientLeft",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -22128,7 +22157,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "clientTop",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -22167,7 +22196,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "clientWidth",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -22206,7 +22235,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "offsetWidth",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -22245,7 +22274,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "clientHeight",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -22284,7 +22313,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "offsetHeight",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -22323,7 +22352,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "scrollHeight",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -22400,7 +22429,7 @@ User Stat을 조회해야 함
 			"containerId": "08WFJXOpcr9-U1GPpAbXr",
 			"originalText": "Person",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -22477,7 +22506,7 @@ User Stat을 조회해야 함
 			"containerId": "mltzqzAxiQdZ5o5dgPDoW",
 			"originalText": "function Person() {...}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -22550,7 +22579,7 @@ User Stat을 조회해야 함
 			"containerId": "q75E3OXbhcI1ZVHI-YheF",
 			"originalText": "class Person {...}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -22589,7 +22618,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "생성자 함수 또는 클래스를 기반으로하여 생성된다.",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
@@ -22710,7 +22739,7 @@ User Stat을 조회해야 함
 			"containerId": "tAezjKO1srCcZyowd9R0l",
 			"originalText": "\n\n{...}",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -22783,7 +22812,7 @@ User Stat을 조회해야 함
 			"containerId": "xHQV75Mp6IJLkHV-A01C2",
 			"originalText": "Person.prototype",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -22822,12 +22851,12 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "기본 프로토타입 또는\n수동으로 할당된 프로토타입",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "arrow",
-			"version": 251,
-			"versionNonce": 12884278,
+			"version": 265,
+			"versionNonce": 63041277,
 			"isDeleted": false,
 			"id": "kuhuptwYrG8HsvamSFF_a",
 			"fillStyle": "solid",
@@ -22849,7 +22878,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128298,
+			"updated": 1707737918081,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22874,8 +22903,8 @@ User Stat을 조회해야 함
 		},
 		{
 			"type": "arrow",
-			"version": 734,
-			"versionNonce": 1314209066,
+			"version": 762,
+			"versionNonce": 81152851,
 			"isDeleted": false,
 			"id": "LYRi6KRgY9xItC3fZ_huL",
 			"fillStyle": "solid",
@@ -22897,7 +22926,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128298,
+			"updated": 1707737918082,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22965,7 +22994,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "객체의 인스턴스가 생성될 때\n생성자 프로토타입이 할당된다.",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -23097,7 +23126,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "<button>",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
@@ -23186,7 +23215,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "<section>",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
@@ -23280,7 +23309,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "capturing",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -23324,7 +23353,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "bubbling",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -23363,7 +23392,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "<div>",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -23436,7 +23465,7 @@ User Stat을 조회해야 함
 			"containerId": "K-4cJSiwFx1OHaJcWnMVH",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -23509,7 +23538,7 @@ User Stat을 조회해야 함
 			"containerId": "o9pIUxBr2G65XDx4WJ3E5",
 			"originalText": "moreCode()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -23582,7 +23611,7 @@ User Stat을 조회해야 함
 			"containerId": "W5SdjYOG6BJtjvI3vdO26",
 			"originalText": "setTimeOut()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -23655,7 +23684,7 @@ User Stat을 조회해야 함
 			"containerId": "5dAZlmlLHX2G8ofCh47Ey",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -23728,7 +23757,7 @@ User Stat을 조회해야 함
 			"containerId": "OgCQajnmZbHVK4DTFvn7j",
 			"originalText": "moreCode()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -23805,7 +23834,7 @@ User Stat을 조회해야 함
 			"containerId": "HcE2wDE_zXeU78SZ4kTZk",
 			"originalText": "setTimeOut()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -23844,7 +23873,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "자바스크립트",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -23883,7 +23912,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "브라우저 태스크",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -23985,12 +24014,12 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "콜백",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 251,
-			"versionNonce": 1450400758,
+			"version": 265,
+			"versionNonce": 319096669,
 			"isDeleted": false,
 			"id": "6fOW-tipod8pkntMUGb-k",
 			"fillStyle": "solid",
@@ -24012,7 +24041,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128299,
+			"updated": 1707737918085,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -24150,7 +24179,7 @@ User Stat을 조회해야 함
 			"containerId": "Saj6zrhhMdYqA7hEys2K1",
 			"originalText": "const greet = () => {\n  console.log('hi');\n}\n\nconst showAlert = () {\n  alert('Danger');\n}\n\nsetTimeout(showAlert, 2000);\n\ngreet();",
 			"lineHeight": 1.2,
-			"baseline": 227
+			"baseline": 226
 		},
 		{
 			"type": "rectangle",
@@ -24330,7 +24359,7 @@ User Stat을 조회해야 함
 			"containerId": "oMEHkA00W1BFPoCjk2xzs",
 			"originalText": "Code",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -24405,7 +24434,7 @@ User Stat을 조회해야 함
 			"containerId": "LrynFrNR75yj-Oq5HL8tX",
 			"originalText": "Stack",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -24480,7 +24509,7 @@ User Stat을 조회해야 함
 			"containerId": "98tI4As1rU8foQ-CCsCmF",
 			"originalText": "Browser API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -24520,7 +24549,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "JavaScript Engine",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -24595,7 +24624,7 @@ User Stat을 조회해야 함
 			"containerId": "5njDgdSxxUrHVH-ckYolj",
 			"originalText": "Message\nQueue",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -24777,7 +24806,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Event Loop",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -24852,7 +24881,7 @@ User Stat을 조회해야 함
 			"containerId": "J2znp5keoxit31asu5FxM",
 			"originalText": "greet()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -24927,7 +24956,7 @@ User Stat을 조회해야 함
 			"containerId": "XDGEpnnJsJMuNPqQ23cy1",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -25002,7 +25031,7 @@ User Stat을 조회해야 함
 			"containerId": "dbVdzUDELSTGkB45HQsZZ",
 			"originalText": "setTimeout()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -25107,7 +25136,7 @@ User Stat을 조회해야 함
 			"containerId": "XnxwTr2kHGOT4eFtZrpV6",
 			"originalText": "const greet = () => {\n  console.log('hi');\n}\n\nconst showAlert = () {\n  alert('Danger');\n}\n\nsetTimeout(showAlert, 2000);\n\ngreet();",
 			"lineHeight": 1.2,
-			"baseline": 227
+			"baseline": 226
 		},
 		{
 			"type": "rectangle",
@@ -25287,7 +25316,7 @@ User Stat을 조회해야 함
 			"containerId": "aZOaQqywoJORIQAzUTJGB",
 			"originalText": "Code",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -25362,7 +25391,7 @@ User Stat을 조회해야 함
 			"containerId": "07PwZNW9_x0JLzy5Bxye2",
 			"originalText": "Stack",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -25437,7 +25466,7 @@ User Stat을 조회해야 함
 			"containerId": "Y1CZypBFnWGwMSwKwDKnY",
 			"originalText": "Browser API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -25477,7 +25506,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "JavaScript Engine",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -25552,7 +25581,7 @@ User Stat을 조회해야 함
 			"containerId": "DUbhAlcYrVs4I85osafiL",
 			"originalText": "Message\nQueue",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -25734,7 +25763,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Event Loop",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -25809,7 +25838,7 @@ User Stat을 조회해야 함
 			"containerId": "l5L7SfRZ7XXx2jigfBTBW",
 			"originalText": "greet()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -25884,7 +25913,7 @@ User Stat을 조회해야 함
 			"containerId": "AvnEK2fvWwxYwgBbo3GF7",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -25959,7 +25988,7 @@ User Stat을 조회해야 함
 			"containerId": "wdBfxoMKMp6ot3hOd1j4O",
 			"originalText": "showArlert()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -26061,7 +26090,7 @@ User Stat을 조회해야 함
 			"containerId": "h5zas_1_r5awvfGQ4HhEB",
 			"originalText": "const greet = () => {\n  console.log('hi');\n}\n\nconst showAlert = () {\n  alert('Danger');\n}\n\nsetTimeout(showAlert, 2000);\n\ngreet();",
 			"lineHeight": 1.2,
-			"baseline": 227
+			"baseline": 226
 		},
 		{
 			"type": "rectangle",
@@ -26236,7 +26265,7 @@ User Stat을 조회해야 함
 			"containerId": "Dkqcw58G2yFJWg-o__1SM",
 			"originalText": "Code",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -26309,7 +26338,7 @@ User Stat을 조회해야 함
 			"containerId": "w0jVDWLHMX9cZEyd3yvPI",
 			"originalText": "Stack",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -26382,7 +26411,7 @@ User Stat을 조회해야 함
 			"containerId": "acDri5KfNq51hmOO11mWJ",
 			"originalText": "Browser API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -26421,7 +26450,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "JavaScript Engine",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -26494,7 +26523,7 @@ User Stat을 조회해야 함
 			"containerId": "P41KNdinsrG_dDQzzWsDc",
 			"originalText": "Message\nQueue",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -26677,7 +26706,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "Event Loop",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -26754,7 +26783,7 @@ User Stat을 조회해야 함
 			"containerId": "GsNL-qktTitCe9RFFRNqP",
 			"originalText": "showAlert()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -26827,12 +26856,12 @@ User Stat을 조회해야 함
 			"containerId": "rB4zmZMw348zwUnRPw-gV",
 			"originalText": "alert()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 444,
-			"versionNonce": 1666763318,
+			"version": 458,
+			"versionNonce": 1362585843,
 			"isDeleted": false,
 			"id": "5IIBLzBlyC8kMy77ElKcP",
 			"fillStyle": "solid",
@@ -26856,7 +26885,7 @@ User Stat을 조회해야 함
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707553128300,
+			"updated": 1707737918096,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -27493,7 +27522,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "상품 전시",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 62
 		},
 		{
 			"type": "rectangle",
@@ -27907,7 +27936,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "결제",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 62
 		},
 		{
 			"type": "rectangle",
@@ -28315,8 +28344,8 @@ User Stat을 조회해야 함
 		},
 		{
 			"type": "arrow",
-			"version": 245,
-			"versionNonce": 289329974,
+			"version": 273,
+			"versionNonce": 1524880019,
 			"isDeleted": false,
 			"id": "JuG90COifgQIwcHke1aW0",
 			"fillStyle": "solid",
@@ -28338,7 +28367,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128301,
+			"updated": 1707737918117,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -28444,7 +28473,7 @@ User Stat을 조회해야 함
 			"containerId": "ErNI0T6Hw_A-swiixU9lS",
 			"originalText": "서비스 리스너",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -28525,7 +28554,7 @@ User Stat을 조회해야 함
 			"containerId": "ADaE61LPp4yxXGhJDUVO6",
 			"originalText": "application",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -28749,12 +28778,12 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 124,
-			"versionNonce": 385247466,
+			"version": 180,
+			"versionNonce": 237537747,
 			"isDeleted": false,
 			"id": "GXbcKj4uUHtb-AW5j1B6F",
 			"fillStyle": "solid",
@@ -28776,7 +28805,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128302,
+			"updated": 1707737918118,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -28805,8 +28834,8 @@ User Stat을 조회해야 함
 		},
 		{
 			"type": "arrow",
-			"version": 223,
-			"versionNonce": 1219523254,
+			"version": 251,
+			"versionNonce": 582866803,
 			"isDeleted": false,
 			"id": "_WU6v2KrXjwcK89EtC2fN",
 			"fillStyle": "solid",
@@ -28828,7 +28857,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553128302,
+			"updated": 1707737918118,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -28892,7 +28921,7 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "end point",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -28936,23 +28965,27 @@ User Stat을 조회해야 함
 			"containerId": null,
 			"originalText": "request",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
-			"id": "hTYCfqFCtl0Tl-PGz19Hu",
 			"type": "diamond",
-			"x": 7320.493281958207,
-			"y": 2808.8345497320697,
-			"width": 524.1887348904968,
-			"height": 275.5143165448962,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#69db7c",
+			"version": 231,
+			"versionNonce": 1571599978,
+			"isDeleted": false,
+			"id": "hTYCfqFCtl0Tl-PGz19Hu",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7320.493281958207,
+			"y": 2808.8345497320697,
+			"strokeColor": "transparent",
+			"backgroundColor": "#69db7c",
+			"width": 524.1887348904968,
+			"height": 275.5143165448962,
+			"seed": 1026194666,
 			"groupIds": [
 				"rF6_t8brAwp58ZQyaj2-G",
 				"-IdZDpyg2mBLK3MvtDblR",
@@ -28960,11 +28993,7 @@ User Stat을 조회해야 함
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1026194666,
-			"version": 231,
-			"versionNonce": 1571599978,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128302,
 			"link": null,
 			"locked": false
@@ -29001,20 +29030,24 @@ User Stat을 조회해야 함
 			"locked": false
 		},
 		{
-			"id": "Xdt4RQpPqAffogXCVoTMi",
 			"type": "rectangle",
-			"x": 7323.166162523858,
-			"y": 2942.667540567196,
-			"width": 517.6791027381505,
-			"height": 283.19055569159855,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#69db7c",
+			"version": 212,
+			"versionNonce": 878598442,
+			"isDeleted": false,
+			"id": "Xdt4RQpPqAffogXCVoTMi",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7323.166162523858,
+			"y": 2942.667540567196,
+			"strokeColor": "transparent",
+			"backgroundColor": "#69db7c",
+			"width": 517.6791027381505,
+			"height": 283.19055569159855,
+			"seed": 110198582,
 			"groupIds": [
 				"rF6_t8brAwp58ZQyaj2-G",
 				"-IdZDpyg2mBLK3MvtDblR",
@@ -29022,11 +29055,7 @@ User Stat을 조회해야 함
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 110198582,
-			"version": 212,
-			"versionNonce": 878598442,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128302,
 			"link": null,
 			"locked": false
@@ -29125,73 +29154,78 @@ User Stat을 조회해야 함
 			"locked": false
 		},
 		{
-			"id": "rFFMh6ox",
 			"type": "text",
-			"x": 7519.511782704237,
-			"y": 3095.1180473759186,
-			"width": 128.90625,
-			"height": 24,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
+			"version": 109,
+			"versionNonce": 830838442,
+			"isDeleted": false,
+			"id": "rFFMh6ox",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7519.511782704237,
+			"y": 3095.1180473759186,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#b2f2bb",
+			"width": 128.90625,
+			"height": 24,
+			"seed": 589941622,
 			"groupIds": [
 				"-IdZDpyg2mBLK3MvtDblR",
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 589941622,
-			"version": 109,
-			"versionNonce": 830838442,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128302,
 			"link": null,
 			"locked": false,
-			"text": "application",
-			"rawText": "application",
 			"fontSize": 20,
 			"fontFamily": 3,
+			"text": "application",
+			"rawText": "application",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 19,
 			"containerId": null,
 			"originalText": "application",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 20
 		},
 		{
-			"id": "lZVkN5nshuigcVcce11iL",
 			"type": "line",
-			"x": 7584.15824226818,
-			"y": 3086.157209299404,
-			"width": 106.17469787597656,
-			"height": 166.00162506103516,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
+			"version": 298,
+			"versionNonce": 1145307382,
+			"isDeleted": false,
+			"id": "lZVkN5nshuigcVcce11iL",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7584.15824226818,
+			"y": 3086.157209299404,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#b2f2bb",
+			"width": 106.17469787597656,
+			"height": 166.00162506103516,
+			"seed": 494099510,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 494099510,
-			"version": 298,
-			"versionNonce": 1145307382,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128302,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -29209,44 +29243,41 @@ User Stat을 조회해야 함
 					-106.17469787597656,
 					-54.001121520996094
 				]
-			],
-			"lastCommittedPoint": [
-				-106.17469787597656,
-				-54.001121520996094
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "rY-Jk5qz9n8qZK4iur5SX",
 			"type": "line",
-			"x": 7584.938271565055,
-			"y": 3199.887220285732,
-			"width": 104.96681213378906,
-			"height": 167.89608001708984,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
+			"version": 124,
+			"versionNonce": 313602410,
+			"isDeleted": false,
+			"id": "rY-Jk5qz9n8qZK4iur5SX",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7584.938271565055,
+			"y": 3199.887220285732,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#b2f2bb",
+			"width": 104.96681213378906,
+			"height": 167.89608001708984,
+			"seed": 1390726826,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1390726826,
-			"version": 124,
-			"versionNonce": 313602410,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128302,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -29260,41 +29291,33 @@ User Stat을 조회해야 함
 					104.96681213378906,
 					-167.89608001708984
 				]
-			],
-			"lastCommittedPoint": [
-				100.75904846191406,
-				-165.04779815673828
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "x6aeew4G1vk5695BBP_vu",
 			"type": "ellipse",
-			"x": 7286.303581111057,
-			"y": 2965.120808358019,
-			"width": 72.20630992542647,
-			"height": 74.39769398082399,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#f8f9fa",
+			"version": 136,
+			"versionNonce": 289698358,
+			"isDeleted": false,
+			"id": "x6aeew4G1vk5695BBP_vu",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7286.303581111057,
+			"y": 2965.120808358019,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f8f9fa",
+			"width": 72.20630992542647,
+			"height": 74.39769398082399,
+			"seed": 70833206,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 70833206,
-			"version": 136,
-			"versionNonce": 289698358,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128302,
 			"link": null,
 			"locked": false
@@ -29503,316 +29526,316 @@ User Stat을 조회해야 함
 			"locked": false
 		},
 		{
-			"id": "C4iSp1zW",
 			"type": "text",
-			"x": 7303.65673607377,
-			"y": 2992.7196553484314,
-			"width": 37.5,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#f8f9fa",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [
-				"s_KqV0WexW8F2H0bc2QZX"
-			],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1568866806,
 			"version": 80,
 			"versionNonce": 848734006,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128302,
-			"link": null,
-			"locked": false,
-			"text": "REST",
-			"rawText": "REST",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "REST",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "l4s5kpZT",
-			"type": "text",
-			"x": 7303.060375637795,
-			"y": 3083.6843298645886,
-			"width": 37.5,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#f8f9fa",
+			"id": "C4iSp1zW",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7303.65673607377,
+			"y": 2992.7196553484314,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f8f9fa",
+			"width": 37.5,
+			"height": 19.2,
+			"seed": 1568866806,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 365171562,
+			"boundElements": [],
+			"updated": 1707553128302,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "REST",
+			"rawText": "REST",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "REST",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
 			"version": 78,
 			"versionNonce": 1693650730,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128302,
-			"link": null,
-			"locked": false,
-			"text": "SOAP",
-			"rawText": "SOAP",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "SOAP",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "A4hxd2r3",
-			"type": "text",
-			"x": 7304.069583419295,
-			"y": 3174.6490043807457,
-			"width": 37.5,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#f8f9fa",
+			"id": "l4s5kpZT",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7303.060375637795,
+			"y": 3083.6843298645886,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f8f9fa",
+			"width": 37.5,
+			"height": 19.2,
+			"seed": 365171562,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 764442230,
+			"boundElements": [],
+			"updated": 1707553128302,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "SOAP",
+			"rawText": "SOAP",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "SOAP",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
 			"version": 75,
 			"versionNonce": 1659392118,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128302,
-			"link": null,
-			"locked": false,
-			"text": "TEST",
-			"rawText": "TEST",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "TEST",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "PQ774zmP",
-			"type": "text",
-			"x": 7427.619831998841,
-			"y": 3281.072541063432,
-			"width": 18.75,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#f8f9fa",
+			"id": "A4hxd2r3",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7304.069583419295,
+			"y": 3174.6490043807457,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f8f9fa",
+			"width": 37.5,
+			"height": 19.2,
+			"seed": 764442230,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 530575466,
+			"boundElements": [],
+			"updated": 1707553128302,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "TEST",
+			"rawText": "TEST",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "TEST",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
 			"version": 69,
 			"versionNonce": 1524341226,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128302,
-			"link": null,
-			"locked": false,
-			"text": "EI",
-			"rawText": "EI",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "EI",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "uV0SwWmH",
-			"type": "text",
-			"x": 7707.332300926395,
-			"y": 3287.468651042677,
-			"width": 18.75,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#f8f9fa",
+			"id": "PQ774zmP",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7427.619831998841,
+			"y": 3281.072541063432,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f8f9fa",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 530575466,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1590610794,
+			"boundElements": [],
+			"updated": 1707553128302,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "EI",
+			"rawText": "EI",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "EI",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
 			"version": 45,
 			"versionNonce": 95605174,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128302,
-			"link": null,
-			"locked": false,
-			"text": "MQ",
-			"rawText": "MQ",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "MQ",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "5d5dZi8I",
-			"type": "text",
-			"x": 7821.951219605374,
-			"y": 3128.592252782734,
-			"width": 28.125,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#f8f9fa",
+			"id": "uV0SwWmH",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7707.332300926395,
+			"y": 3287.468651042677,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f8f9fa",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 1590610794,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2082772086,
+			"boundElements": [],
+			"updated": 1707553128302,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "MQ",
+			"rawText": "MQ",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "MQ",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
 			"version": 54,
 			"versionNonce": 14994602,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128302,
-			"link": null,
-			"locked": false,
-			"text": "SQL",
-			"rawText": "SQL",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "SQL",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "yYM5OXbj",
-			"type": "text",
-			"x": 7813.642337325543,
-			"y": 3025.201472420518,
-			"width": 46.875,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#f8f9fa",
+			"id": "5d5dZi8I",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7821.951219605374,
+			"y": 3128.592252782734,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f8f9fa",
+			"width": 28.125,
+			"height": 19.2,
+			"seed": 2082772086,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1220864682,
+			"boundElements": [],
+			"updated": 1707553128302,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "SQL",
+			"rawText": "SQL",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "SQL",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
 			"version": 67,
 			"versionNonce": 102443766,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128302,
-			"link": null,
-			"locked": false,
-			"text": "NoSQL",
-			"rawText": "NoSQL",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "NoSQL",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "efQg2oBA",
-			"type": "text",
-			"x": 7733.940410834067,
-			"y": 2881.7040447749223,
-			"width": 56.25,
-			"height": 38.4,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#f8f9fa",
+			"id": "yYM5OXbj",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7813.642337325543,
+			"y": 3025.201472420518,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f8f9fa",
+			"width": 46.875,
+			"height": 19.2,
+			"seed": 1220864682,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1335180534,
-			"version": 70,
-			"versionNonce": 1555670890,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128302,
 			"link": null,
 			"locked": false,
-			"text": "File\nSource",
-			"rawText": "File\nSource",
 			"fontSize": 16,
 			"fontFamily": 3,
+			"text": "NoSQL",
+			"rawText": "NoSQL",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "NoSQL",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
+			"version": 70,
+			"versionNonce": 1555670890,
+			"isDeleted": false,
+			"id": "efQg2oBA",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7733.940410834067,
+			"y": 2881.7040447749223,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f8f9fa",
+			"width": 56.25,
+			"height": 38.4,
+			"seed": 1335180534,
+			"groupIds": [
+				"s_KqV0WexW8F2H0bc2QZX"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707553128302,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "File\nSource",
+			"rawText": "File\nSource",
 			"textAlign": "center",
 			"verticalAlign": "top",
-			"baseline": 35,
 			"containerId": null,
 			"originalText": "File\nSource",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 34
 		},
 		{
 			"type": "ellipse",
@@ -29845,73 +29868,78 @@ User Stat을 조회해야 함
 			"locked": false
 		},
 		{
-			"id": "xy3WXNf0",
 			"type": "text",
-			"x": 7629.931066906511,
-			"y": 2830.9705708757742,
-			"width": 28.125,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#f8f9fa",
+			"version": 77,
+			"versionNonce": 111487530,
+			"isDeleted": false,
+			"id": "xy3WXNf0",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7629.931066906511,
+			"y": 2830.9705708757742,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f8f9fa",
+			"width": 28.125,
+			"height": 19.2,
+			"seed": 311751542,
 			"groupIds": [
 				"Cb5zaeGHbUHEvgeAOgKx3",
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 311751542,
-			"version": 77,
-			"versionNonce": 111487530,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128302,
 			"link": null,
 			"locked": false,
-			"text": "ENV",
-			"rawText": "ENV",
 			"fontSize": 16,
 			"fontFamily": 3,
+			"text": "ENV",
+			"rawText": "ENV",
 			"textAlign": "center",
 			"verticalAlign": "top",
-			"baseline": 16,
 			"containerId": null,
 			"originalText": "ENV",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 15
 		},
 		{
-			"id": "qoZYjXwh081J09WEaIaYb",
 			"type": "line",
-			"x": 7360.190000639877,
-			"y": 3006.3331299038528,
-			"width": 74.5910074871872,
-			"height": 67.31199733263338,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"version": 54,
+			"versionNonce": 20538742,
+			"isDeleted": false,
+			"id": "qoZYjXwh081J09WEaIaYb",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7360.190000639877,
+			"y": 3006.3331299038528,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 74.5910074871872,
+			"height": 67.31199733263338,
+			"seed": 1310501482,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1310501482,
-			"version": 54,
-			"versionNonce": 20538742,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128302,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -29921,44 +29949,41 @@ User Stat을 조회해야 함
 					74.5910074871872,
 					67.31199733263338
 				]
-			],
-			"lastCommittedPoint": [
-				74.5910074871872,
-				67.31199733263338
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "8776Ay1y1YXz2I1GyIR4c",
 			"type": "line",
-			"x": 7359.890657027274,
-			"y": 3095.7815813832626,
-			"width": 72.3549183077339,
-			"height": 1.0104898732279253,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"version": 39,
+			"versionNonce": 1435653354,
+			"isDeleted": false,
+			"id": "8776Ay1y1YXz2I1GyIR4c",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7359.890657027274,
+			"y": 3095.7815813832626,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 72.3549183077339,
+			"height": 1.0104898732279253,
+			"seed": 1796305590,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1796305590,
-			"version": 39,
-			"versionNonce": 1435653354,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128302,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -29968,44 +29993,41 @@ User Stat을 조회해야 함
 					72.3549183077339,
 					-1.0104898732279253
 				]
-			],
-			"lastCommittedPoint": [
-				72.3549183077339,
-				-1.0104898732279253
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "V6xiW5EYcnCgVNxM_sy44",
 			"type": "line",
-			"x": 7362.926690666194,
-			"y": 3184.6077648714054,
-			"width": 82.71203915575461,
-			"height": 69.38434231313659,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"version": 76,
+			"versionNonce": 1125729974,
+			"isDeleted": false,
+			"id": "V6xiW5EYcnCgVNxM_sy44",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7362.926690666194,
+			"y": 3184.6077648714054,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 82.71203915575461,
+			"height": 69.38434231313659,
+			"seed": 1027286954,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1027286954,
-			"version": 76,
-			"versionNonce": 1125729974,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128302,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -30015,44 +30037,41 @@ User Stat을 조회해야 함
 					82.71203915575461,
 					-69.38434231313659
 				]
-			],
-			"lastCommittedPoint": [
-				82.71203915575461,
-				-69.38434231313659
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "tXofCPb6pAIVXu7MzW_hq",
 			"type": "line",
-			"x": 7701.114670998339,
-			"y": 3263.750540807355,
-			"width": 36.75052381493606,
-			"height": 70.75971351380485,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"version": 45,
+			"versionNonce": 185345962,
+			"isDeleted": false,
+			"id": "tXofCPb6pAIVXu7MzW_hq",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7701.114670998339,
+			"y": 3263.750540807355,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 36.75052381493606,
+			"height": 70.75971351380485,
+			"seed": 1531175862,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1531175862,
-			"version": 45,
-			"versionNonce": 185345962,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128303,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -30062,44 +30081,41 @@ User Stat을 조회해야 함
 					-36.75052381493606,
 					-70.75971351380485
 				]
-			],
-			"lastCommittedPoint": [
-				-36.75052381493606,
-				-70.75971351380485
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "9518In3W1CkWCLiM7IYvs",
 			"type": "line",
-			"x": 7801.547075336274,
-			"y": 3129.266909751261,
-			"width": 93.61187794044235,
-			"height": 35.0804530914138,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"version": 35,
+			"versionNonce": 418054134,
+			"isDeleted": false,
+			"id": "9518In3W1CkWCLiM7IYvs",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7801.547075336274,
+			"y": 3129.266909751261,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 93.61187794044235,
+			"height": 35.0804530914138,
+			"seed": 1332620470,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1332620470,
-			"version": 35,
-			"versionNonce": 418054134,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128303,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -30109,44 +30125,41 @@ User Stat을 조회해야 함
 					-93.61187794044235,
 					-35.0804530914138
 				]
-			],
-			"lastCommittedPoint": [
-				-93.61187794044235,
-				-35.0804530914138
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "hz6E4GXbrFzWrHr4AR51r",
 			"type": "line",
-			"x": 7802.094357292178,
-			"y": 3036.632772844257,
-			"width": 86.4450866097659,
-			"height": 49.362470342436154,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"version": 51,
+			"versionNonce": 2134745706,
+			"isDeleted": false,
+			"id": "hz6E4GXbrFzWrHr4AR51r",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7802.094357292178,
+			"y": 3036.632772844257,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 86.4450866097659,
+			"height": 49.362470342436154,
+			"seed": 1208848426,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1208848426,
-			"version": 51,
-			"versionNonce": 2134745706,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128303,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -30156,44 +30169,41 @@ User Stat을 조회해야 함
 					-86.4450866097659,
 					49.362470342436154
 				]
-			],
-			"lastCommittedPoint": [
-				-86.4450866097659,
-				49.362470342436154
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "Dif6W89ASfYAFxvnABSp5",
 			"type": "line",
-			"x": 7732.097195308301,
-			"y": 2917.0579510144335,
-			"width": 78.97899170174242,
-			"height": 62.78837366916741,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"version": 47,
+			"versionNonce": 1454608694,
+			"isDeleted": false,
+			"id": "Dif6W89ASfYAFxvnABSp5",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7732.097195308301,
+			"y": 2917.0579510144335,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 78.97899170174242,
+			"height": 62.78837366916741,
+			"seed": 1550197494,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1550197494,
-			"version": 47,
-			"versionNonce": 1454608694,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707553128303,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -30203,15 +30213,7 @@ User Stat을 조회해야 함
 					-78.97899170174242,
 					62.78837366916741
 				]
-			],
-			"lastCommittedPoint": [
-				-78.97899170174242,
-				62.78837366916741
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
 			"type": "ellipse",
@@ -30364,259 +30366,259 @@ User Stat을 조회해야 함
 			"locked": false
 		},
 		{
-			"id": "fnoEETQJ",
 			"type": "text",
-			"x": 7163.552166196495,
-			"y": 2987.250765296665,
-			"width": 84.375,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [
-				"s_KqV0WexW8F2H0bc2QZX"
-			],
-			"frameId": null,
-			"roundness": null,
-			"seed": 359447978,
 			"version": 66,
 			"versionNonce": 2124961014,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128303,
-			"link": null,
-			"locked": false,
-			"text": "HTML5 App",
-			"rawText": "HTML5 App",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "HTML5 App",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "A7plKn26",
-			"type": "text",
-			"x": 7167.848497677182,
-			"y": 3177.8103788521526,
-			"width": 93.75,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"id": "fnoEETQJ",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7163.552166196495,
+			"y": 2987.250765296665,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 84.375,
+			"height": 19.2,
+			"seed": 359447978,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1176485354,
+			"boundElements": [],
+			"updated": 1707553128303,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "HTML5 App",
+			"rawText": "HTML5 App",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "HTML5 App",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
 			"version": 50,
 			"versionNonce": 1584143722,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128303,
-			"link": null,
-			"locked": false,
-			"text": "Test Agent",
-			"rawText": "Test Agent",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "Test Agent",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "659AfQwt",
-			"type": "text",
-			"x": 7687.932381994831,
-			"y": 3355.9821632458425,
-			"width": 93.75,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"id": "A7plKn26",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7167.848497677182,
+			"y": 3177.8103788521526,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 93.75,
+			"height": 19.2,
+			"seed": 1176485354,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1291152182,
+			"boundElements": [],
+			"updated": 1707553128303,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "Test Agent",
+			"rawText": "Test Agent",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Test Agent",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
 			"version": 39,
 			"versionNonce": 603866678,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128303,
-			"link": null,
-			"locked": false,
-			"text": "MQ Service",
-			"rawText": "MQ Service",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "MQ Service",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "akzzsR1V",
-			"type": "text",
-			"x": 7893.997930626793,
-			"y": 3174.6878690592625,
-			"width": 93.75,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"id": "659AfQwt",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7687.932381994831,
+			"y": 3355.9821632458425,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 93.75,
+			"height": 19.2,
+			"seed": 1291152182,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 935334442,
+			"boundElements": [],
+			"updated": 1707553128303,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "MQ Service",
+			"rawText": "MQ Service",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "MQ Service",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
 			"version": 43,
 			"versionNonce": 1452859434,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128303,
-			"link": null,
-			"locked": false,
-			"text": "SQL server",
-			"rawText": "SQL server",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "SQL server",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "XzqErwki",
-			"type": "text",
-			"x": 7896.222942072018,
-			"y": 3129.3545869629256,
-			"width": 84.375,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"id": "akzzsR1V",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7893.997930626793,
+			"y": 3174.6878690592625,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 93.75,
+			"height": 19.2,
+			"seed": 935334442,
 			"groupIds": [
 				"s_KqV0WexW8F2H0bc2QZX"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1503886250,
+			"boundElements": [],
+			"updated": 1707553128303,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "SQL server",
+			"rawText": "SQL server",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "SQL server",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
 			"version": 69,
 			"versionNonce": 604245878,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "XzqErwki",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7896.222942072018,
+			"y": 3129.3545869629256,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 84.375,
+			"height": 19.2,
+			"seed": 1503886250,
+			"groupIds": [
+				"s_KqV0WexW8F2H0bc2QZX"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1707553128303,
 			"link": null,
 			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
 			"text": "In-Memory",
 			"rawText": "In-Memory",
-			"fontSize": 16,
-			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "top",
-			"baseline": 16,
 			"containerId": null,
 			"originalText": "In-Memory",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 15
 		},
 		{
-			"id": "nxB3wUih",
 			"type": "text",
-			"x": 6573.890707190558,
-			"y": 4075.7603436555855,
+			"version": 81,
+			"versionNonce": 797921917,
+			"isDeleted": false,
+			"id": "nxB3wUih",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6509.007894690558,
+			"y": 3941.9947186555855,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
 			"width": 92.41497802734375,
 			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
+			"seed": 988416438,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 988416438,
-			"version": 71,
-			"versionNonce": 429869802,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128303,
+			"boundElements": [],
+			"updated": 1707731753298,
 			"link": null,
 			"locked": false,
-			"text": "아키텍쳐 설계",
-			"rawText": "아키텍쳐 설계",
 			"fontSize": 16,
 			"fontFamily": 3,
+			"text": "아키텍쳐 설계",
+			"rawText": "아키텍쳐 설계",
 			"textAlign": "center",
 			"verticalAlign": "top",
-			"baseline": 16,
 			"containerId": null,
 			"originalText": "아키텍쳐 설계",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 15
 		},
 		{
-			"id": "uGK3oYbvSCjcb-yDAf9Xh",
 			"type": "rectangle",
-			"x": 6524.291752678383,
-			"y": 4153.517495791688,
-			"width": 179,
-			"height": 80,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"version": 103,
+			"versionNonce": 1973563219,
+			"isDeleted": false,
+			"id": "uGK3oYbvSCjcb-yDAf9Xh",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6524.291752678383,
+			"y": 4153.107339541688,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 179,
+			"height": 80,
+			"seed": 1230391850,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1230391850,
-			"version": 102,
-			"versionNonce": 937301494,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -30627,51 +30629,51 @@ User Stat을 조회해야 함
 					"type": "arrow"
 				}
 			],
-			"updated": 1707553149014,
+			"updated": 1707732258584,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "HJOwgFDO",
 			"type": "text",
-			"x": 6552.854252678383,
-			"y": 4174.317495791688,
-			"width": 121.875,
-			"height": 38.4,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
+			"version": 90,
+			"versionNonce": 1348035421,
+			"isDeleted": false,
+			"id": "HJOwgFDO",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6552.854252678383,
+			"y": 4173.907339541688,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 121.875,
+			"height": 38.4,
+			"seed": 201885686,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 201885686,
-			"version": 89,
-			"versionNonce": 1846173098,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553128303,
+			"boundElements": [],
+			"updated": 1707732258584,
 			"link": null,
 			"locked": false,
-			"text": "정적 파일\nHTML, CSS, JS",
-			"rawText": "정적 파일\nHTML, CSS, JS",
 			"fontSize": 16,
 			"fontFamily": 3,
+			"text": "정적 파일\nHTML, CSS, JS",
+			"rawText": "정적 파일\nHTML, CSS, JS",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 35,
 			"containerId": "uGK3oYbvSCjcb-yDAf9Xh",
 			"originalText": "정적 파일\nHTML, CSS, JS",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 300,
-			"versionNonce": 1962466934,
+			"version": 339,
+			"versionNonce": 438744157,
 			"isDeleted": false,
 			"id": "GkrDTJo4EJNKx7LwgvP3P",
 			"fillStyle": "solid",
@@ -30680,8 +30682,8 @@ User Stat을 조회해야 함
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7183.352513593294,
-			"y": 4154.598246181994,
+			"x": 7187.813451093294,
+			"y": 4158.180277431994,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 179,
@@ -30700,14 +30702,14 @@ User Stat을 조회해야 함
 					"type": "arrow"
 				}
 			],
-			"updated": 1707553309065,
+			"updated": 1707731861215,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 293,
-			"versionNonce": 442690538,
+			"version": 330,
+			"versionNonce": 135465971,
 			"isDeleted": false,
 			"id": "Jw3Tv0qS",
 			"fillStyle": "solid",
@@ -30716,8 +30718,8 @@ User Stat을 조회해야 함
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7254.102513593294,
-			"y": 4184.998246181994,
+			"x": 7258.563451093294,
+			"y": 4188.580277431994,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 37.5,
@@ -30727,7 +30729,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553309065,
+			"updated": 1707731861215,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30739,12 +30741,12 @@ User Stat을 조회해야 함
 			"containerId": "GkrDTJo4EJNKx7LwgvP3P",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 248,
-			"versionNonce": 1939246570,
+			"version": 434,
+			"versionNonce": 1536769299,
 			"isDeleted": false,
 			"id": "MUQvEnvdPHoGTI8tVcx3S",
 			"fillStyle": "solid",
@@ -30753,8 +30755,8 @@ User Stat을 조회해야 함
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6731.771158332023,
-			"y": 4154.028857078993,
+			"x": 6738.681314582023,
+			"y": 4153.349169578993,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 179,
@@ -30773,14 +30775,14 @@ User Stat을 조회해야 함
 					"type": "arrow"
 				}
 			],
-			"updated": 1707553208297,
+			"updated": 1707732320109,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 247,
-			"versionNonce": 558964150,
+			"version": 433,
+			"versionNonce": 863179165,
 			"isDeleted": false,
 			"id": "1wcQMh4o",
 			"fillStyle": "solid",
@@ -30789,8 +30791,8 @@ User Stat을 조회해야 함
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6797.833658332023,
-			"y": 4184.428857078992,
+			"x": 6804.743814582023,
+			"y": 4183.749169578992,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 46.875,
@@ -30800,7 +30802,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553208297,
+			"updated": 1707732320109,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30812,7 +30814,7 @@ User Stat을 조회해야 함
 			"containerId": "MUQvEnvdPHoGTI8tVcx3S",
 			"originalText": "Login",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -30885,104 +30887,109 @@ User Stat을 조회해야 함
 			"containerId": "SibYaYYkD3KZg6uFhvva2",
 			"originalText": "User Stat",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
-			"id": "YppdK7W7",
 			"type": "text",
-			"x": 6863.734862953081,
-			"y": 4496.3641473840435,
-			"width": 37.5,
-			"height": 19.2,
+			"version": 188,
+			"versionNonce": 80308125,
+			"isDeleted": false,
+			"id": "YppdK7W7",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
 			"angle": 0,
+			"x": 6895.289550453081,
+			"y": 4520.4774286340435,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
+			"width": 37.5,
+			"height": 19.2,
+			"seed": 77318646,
 			"groupIds": [
 				"DO_S4rpiuAaiBHFEZ5npG"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 77318646,
-			"version": 129,
-			"versionNonce": 1893394550,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553142950,
+			"boundElements": [],
+			"updated": 1707731912779,
 			"link": null,
 			"locked": false,
-			"text": "User",
-			"rawText": "User",
 			"fontSize": 16,
 			"fontFamily": 3,
+			"text": "User",
+			"rawText": "User",
 			"textAlign": "center",
 			"verticalAlign": "top",
-			"baseline": 16,
 			"containerId": null,
 			"originalText": "User",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 15
 		},
 		{
-			"id": "_yRjL6gk6550QMrnAhuN5",
 			"type": "ellipse",
-			"x": 6850.494550837301,
-			"y": 4475.081436422296,
-			"width": 67.46618997763744,
-			"height": 67.46618997763744,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 218,
+			"versionNonce": 345517235,
+			"isDeleted": false,
+			"id": "_yRjL6gk6550QMrnAhuN5",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6882.049238337301,
+			"y": 4499.194717672296,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 67.46618997763744,
+			"height": 67.46618997763744,
+			"seed": 2097911926,
 			"groupIds": [
 				"DO_S4rpiuAaiBHFEZ5npG"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2097911926,
-			"version": 159,
-			"versionNonce": 2078274282,
-			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1707553321228,
+			"updated": 1707731912779,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "eFzm9hcsWgmTUyd4EJqk0",
 			"type": "line",
-			"x": 6885.246628725633,
-			"y": 4543.865814733102,
-			"width": 0.8629535981690424,
-			"height": 63.65096715782329,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 217,
+			"versionNonce": 1104440317,
+			"isDeleted": false,
+			"id": "eFzm9hcsWgmTUyd4EJqk0",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6916.801316225633,
+			"y": 4567.979095983102,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.8629535981690424,
+			"height": 63.65096715782329,
+			"seed": 2121934954,
 			"groupIds": [
 				"DO_S4rpiuAaiBHFEZ5npG"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2121934954,
-			"version": 158,
-			"versionNonce": 1771202998,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553142950,
+			"boundElements": [],
+			"updated": 1707731912779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -30992,44 +30999,41 @@ User Stat을 조회해야 함
 					0.8629535981690424,
 					63.65096715782329
 				]
-			],
-			"lastCommittedPoint": [
-				0.8629535981690424,
-				63.65096715782329
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "_iasRuXWY4ODIZSYMzIBp",
 			"type": "line",
-			"x": 6838.263047793887,
-			"y": 4526.508191331854,
-			"width": 96.20719582115635,
-			"height": 33.073937970552834,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 276,
+			"versionNonce": 1156980307,
+			"isDeleted": false,
+			"id": "_iasRuXWY4ODIZSYMzIBp",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6869.817735293887,
+			"y": 4550.621472581854,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 96.20719582115635,
+			"height": 33.073937970552834,
+			"seed": 886280310,
 			"groupIds": [
 				"DO_S4rpiuAaiBHFEZ5npG"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 886280310,
-			"version": 217,
-			"versionNonce": 2120922282,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553142950,
+			"boundElements": [],
+			"updated": 1707731912779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -31043,20 +31047,12 @@ User Stat을 조회해야 함
 					96.20719582115635,
 					0.5691219833524883
 				]
-			],
-			"lastCommittedPoint": [
-				98.80699280838598,
-				-4.758940829756284
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
 			"type": "line",
-			"version": 397,
-			"versionNonce": 2051523318,
+			"version": 456,
+			"versionNonce": 1136649309,
 			"isDeleted": false,
 			"id": "kamKsaS3FX7WxVvW7uf26",
 			"fillStyle": "solid",
@@ -31065,8 +31061,8 @@ User Stat을 조회해야 함
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 3.168410758649909,
-			"x": 6852.695619800937,
-			"y": 4606.336325314897,
+			"x": 6884.250307300937,
+			"y": 4630.449606564897,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 67.37953387992184,
@@ -31078,7 +31074,7 @@ User Stat을 조회해야 함
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553142950,
+			"updated": 1707731912779,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -31102,309 +31098,309 @@ User Stat을 조회해야 함
 			]
 		},
 		{
-			"id": "XC_STcmUvy2Dywv9aQc3I",
 			"type": "arrow",
-			"x": 6765.020725359927,
-			"y": 4425.810054254327,
-			"width": 149.6388565448442,
-			"height": 186.7006394806849,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 215,
+			"versionNonce": 1380175165,
+			"isDeleted": false,
+			"id": "XC_STcmUvy2Dywv9aQc3I",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6765.020725359927,
+			"y": 4425.810054254327,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 149.6895204057946,
+			"height": 187.1107957306849,
+			"seed": 2043744810,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2043744810,
-			"version": 200,
-			"versionNonce": 262090550,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "HS2ZKQrc"
 				}
 			],
-			"updated": 1707553315426,
+			"updated": 1707737918119,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "uGK3oYbvSCjcb-yDAf9Xh",
+				"gap": 5.5919189819542225,
+				"focus": 0.2875246414729074
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					-149.6388565448442,
-					-186.7006394806849
+					-149.6895204057946,
+					-187.1107957306849
 				]
-			],
-			"lastCommittedPoint": [
-				-183.50969099545273,
-				-257.7618199833096
-			],
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "uGK3oYbvSCjcb-yDAf9Xh",
-				"focus": 0.2875246414729074,
-				"gap": 5.5919189819542225
-			},
-			"startArrowhead": "arrow",
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "HS2ZKQrc",
 			"type": "text",
-			"x": 6688.406119707632,
-			"y": 4342.340390848727,
-			"width": 134.82498168945312,
-			"height": 38.4,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1604364074,
 			"version": 118,
 			"versionNonce": 345694006,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553186784,
-			"link": null,
-			"locked": false,
-			"text": "load할 페이지 및 \n소스코드 제공",
-			"rawText": "load할 페이지 및 \n소스코드 제공",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 35,
-			"containerId": "XC_STcmUvy2Dywv9aQc3I",
-			"originalText": "load할 페이지 및 \n소스코드 제공",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "EZdBL6hE7vxXahet9IjpC",
-			"type": "arrow",
-			"x": 6850.169919366716,
-			"y": 4416.634624344328,
-			"width": 29.151667444243685,
-			"height": 172.92421501858553,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"id": "HS2ZKQrc",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6688.406119707632,
+			"y": 4342.340390848727,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 134.82498168945312,
+			"height": 38.4,
+			"seed": 1604364074,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1523716522,
-			"version": 480,
-			"versionNonce": 234660406,
+			"boundElements": [],
+			"updated": 1707553186784,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "load할 페이지 및 \n소스코드 제공",
+			"rawText": "load할 페이지 및 \n소스코드 제공",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "XC_STcmUvy2Dywv9aQc3I",
+			"originalText": "load할 페이지 및 \n소스코드 제공",
+			"lineHeight": 1.2,
+			"baseline": 34
+		},
+		{
+			"type": "arrow",
+			"version": 681,
+			"versionNonce": 1781603741,
 			"isDeleted": false,
+			"id": "EZdBL6hE7vxXahet9IjpC",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6850.169919366716,
+			"y": 4416.634624344328,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 23.715384155692846,
+			"height": 173.60390251858553,
+			"seed": 1523716522,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "fzZVp4Tk"
 				}
 			],
-			"updated": 1707553317536,
+			"updated": 1707737918121,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "MUQvEnvdPHoGTI8tVcx3S",
+				"gap": 9.681552246749561,
+				"focus": 0.08965048977151265
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					-29.151667444243685,
-					-172.92421501858553
+					-23.715384155692846,
+					-173.60390251858553
 				]
-			],
-			"lastCommittedPoint": [
-				180.63812333389797,
-				-213.8223345810702
-			],
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "MUQvEnvdPHoGTI8tVcx3S",
-				"focus": 0.08965048977151265,
-				"gap": 9.681552246749561
-			},
-			"startArrowhead": "arrow",
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "fzZVp4Tk",
 			"type": "text",
-			"x": 6800.731384660603,
-			"y": 4342.564320476647,
-			"width": 78.57498168945312,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1459988906,
 			"version": 47,
 			"versionNonce": 1941654762,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553316086,
-			"link": null,
-			"locked": false,
-			"text": "로그인 시도",
-			"rawText": "로그인 시도",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 16,
-			"containerId": "EZdBL6hE7vxXahet9IjpC",
-			"originalText": "로그인 시도",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "3tzKd1x_txJOKJJ0q3wLg",
-			"type": "arrow",
-			"x": 7079.21103160074,
-			"y": 4433.001931465975,
-			"width": 158.3883120916662,
-			"height": 185.36602604379732,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"id": "fzZVp4Tk",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6800.731384660603,
+			"y": 4342.564320476647,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 78.57498168945312,
+			"height": 19.2,
+			"seed": 1459988906,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 266583670,
-			"version": 366,
-			"versionNonce": 1695949418,
+			"boundElements": [],
+			"updated": 1707553316086,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "로그인 시도",
+			"rawText": "로그인 시도",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "EZdBL6hE7vxXahet9IjpC",
+			"originalText": "로그인 시도",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "arrow",
+			"version": 433,
+			"versionNonce": 1050177811,
 			"isDeleted": false,
+			"id": "3tzKd1x_txJOKJJ0q3wLg",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7079.21103160074,
+			"y": 4433.001931465975,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 148.36626108773362,
+			"height": 182.80743229379732,
+			"seed": 266583670,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "HZSJCYBi"
 				}
 			],
-			"updated": 1707553323582,
+			"updated": 1707737918120,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "GkrDTJo4EJNKx7LwgvP3P",
+				"gap": 12.01422174018353,
+				"focus": 0.06166976184098765
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					158.3883120916662,
-					-185.36602604379732
+					148.36626108773362,
+					-182.80743229379732
 				]
-			],
-			"lastCommittedPoint": [
-				142.99989619371445,
-				-216.11001011393
-			],
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "GkrDTJo4EJNKx7LwgvP3P",
-				"focus": -0.0813845527980474,
-				"gap": 13.03765924018353
-			},
-			"startArrowhead": "arrow",
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "HZSJCYBi",
 			"type": "text",
-			"x": 7119.117696801846,
-			"y": 4330.718918444076,
-			"width": 78.57498168945312,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1099923562,
 			"version": 42,
 			"versionNonce": 482858230,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553327187,
-			"link": null,
-			"locked": false,
-			"text": "실시간 게임",
-			"rawText": "실시간 게임",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 16,
-			"containerId": "3tzKd1x_txJOKJJ0q3wLg",
-			"originalText": "실시간 게임",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "nHHqSLc-zcCprkjMKoXUX",
-			"type": "arrow",
-			"x": 6962.205056876401,
-			"y": 4418.642196996526,
-			"width": 57.3276479552751,
-			"height": 164.1286833854765,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"id": "HZSJCYBi",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 7119.117696801846,
+			"y": 4330.718918444076,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 78.57498168945312,
+			"height": 19.2,
+			"seed": 1099923562,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1367219254,
-			"version": 532,
-			"versionNonce": 679250102,
+			"boundElements": [],
+			"updated": 1707553327187,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "실시간 게임",
+			"rawText": "실시간 게임",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "3tzKd1x_txJOKJJ0q3wLg",
+			"originalText": "실시간 게임",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "arrow",
+			"version": 546,
+			"versionNonce": 1664014003,
 			"isDeleted": false,
+			"id": "nHHqSLc-zcCprkjMKoXUX",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6962.205056876401,
+			"y": 4418.642196996526,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 57.3276479552751,
+			"height": 164.1286833854765,
+			"seed": 1367219254,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "OeXcGoWv"
 				}
 			],
-			"updated": 1707553321229,
+			"updated": 1707737918121,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "SibYaYYkD3KZg6uFhvva2",
+				"gap": 19.033191206541233,
+				"focus": -0.06233228317418193
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -31414,257 +31410,1299 @@ User Stat을 조회해야 함
 					57.3276479552751,
 					-164.1286833854765
 				]
-			],
-			"lastCommittedPoint": [
-				332.0837143385352,
-				-228.3892175842193
-			],
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "SibYaYYkD3KZg6uFhvva2",
-				"focus": -0.06233228317418193,
-				"gap": 19.033191206541233
-			},
-			"startArrowhead": "arrow",
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "OeXcGoWv",
 			"type": "text",
-			"x": 6980.858925088925,
-			"y": 4367.1278399371995,
-			"width": 199.55996704101562,
-			"height": 38.4,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 91544874,
 			"version": 153,
 			"versionNonce": 968283958,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553318624,
-			"link": null,
-			"locked": false,
-			"text": "JSON 데이터 형식으로 정보 \n교환",
-			"rawText": "JSON 데이터 형식으로 정보 교환",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 35,
-			"containerId": "nHHqSLc-zcCprkjMKoXUX",
-			"originalText": "JSON 데이터 형식으로 정보 교환",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "0ieNYAS1",
-			"type": "text",
-			"x": 6984.054403045273,
-			"y": 4545.583236952323,
-			"width": 268.31494140625,
-			"height": 76.8,
+			"id": "OeXcGoWv",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
 			"angle": 0,
+			"x": 6980.858925088925,
+			"y": 4367.1278399371995,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1122046826,
-			"version": 292,
-			"versionNonce": 953991798,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707553412248,
-			"link": null,
-			"locked": false,
-			"text": "매칭 시스템\n\nUser Stat을 조회해야 함\n현재 로그인된 유저 정보와 대조해야 함",
-			"rawText": "매칭 시스템\n\nUser Stat을 조회해야 함\n현재 로그인된 유저 정보와 대조해야 함",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 73,
-			"containerId": null,
-			"originalText": "매칭 시스템\n\nUser Stat을 조회해야 함\n현재 로그인된 유저 정보와 대조해야 함",
-			"lineHeight": 1.2
-		},
-		{
-			"type": "line",
-			"version": 487,
-			"versionNonce": 1099068266,
-			"isDeleted": true,
-			"id": "OJDi2pxnW3lVEOQFah9Ey",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 3.168410758649909,
-			"x": 6806.531926033455,
-			"y": 4465.415743208784,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 67.37953387992184,
-			"height": 36.85381799359675,
-			"seed": 1763321066,
+			"width": 199.55996704101562,
+			"height": 38.4,
+			"seed": 91544874,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707553127856,
+			"updated": 1707553318624,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "JSON 데이터 형식으로 정보 \n교환",
+			"rawText": "JSON 데이터 형식으로 정보 교환",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "nHHqSLc-zcCprkjMKoXUX",
+			"originalText": "JSON 데이터 형식으로 정보 교환",
+			"lineHeight": 1.2,
+			"baseline": 34
+		},
+		{
+			"type": "text",
+			"version": 351,
+			"versionNonce": 1139071987,
+			"isDeleted": false,
+			"id": "0ieNYAS1",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7015.609090545273,
+			"y": 4569.696518202323,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 268.31494140625,
+			"height": 76.8,
+			"seed": 1122046826,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707731912779,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "매칭 시스템\n\nUser Stat을 조회해야 함\n현재 로그인된 유저 정보와 대조해야 함",
+			"rawText": "매칭 시스템\n\nUser Stat을 조회해야 함\n현재 로그인된 유저 정보와 대조해야 함",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "매칭 시스템\n\nUser Stat을 조회해야 함\n현재 로그인된 유저 정보와 대조해야 함",
+			"lineHeight": 1.2,
+			"baseline": 73
+		},
+		{
+			"type": "rectangle",
+			"version": 116,
+			"versionNonce": 251148243,
+			"isDeleted": false,
+			"id": "JxH9LifBBAlGY7Y52vgjs",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6735.661366236365,
+			"y": 4987.0186055364,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 250.859375,
+			"height": 95.84375,
+			"seed": 207205299,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707731911094,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 277,
+			"versionNonce": 1077499325,
+			"isDeleted": false,
+			"id": "qA7RfEclZ-_eDzf7uyVNB",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6737.141834986365,
+			"y": 4081.3857930364,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 1887268211,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "rZiLOfaC"
+				}
+			],
+			"updated": 1707732315244,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 270,
+			"versionNonce": 2107051325,
+			"isDeleted": false,
+			"id": "rZiLOfaC",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6813.766834986365,
+			"y": 4096.2857930364,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 308757885,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707737832818,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "qA7RfEclZ-_eDzf7uyVNB",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 195,
+			"versionNonce": 1474713469,
+			"isDeleted": false,
+			"id": "sa1XGw5iuGy5IyHvH5HiX",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6946.774647486365,
+			"y": 4081.8506367864,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 1419710461,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "jJaxUbwW"
+				}
+			],
+			"updated": 1707731829076,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 189,
+			"versionNonce": 271905427,
+			"isDeleted": false,
+			"id": "jJaxUbwW",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7023.399647486365,
+			"y": 4096.7506367864,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 1838549085,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707731970111,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "sa1XGw5iuGy5IyHvH5HiX",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 158,
+			"versionNonce": 728197597,
+			"isDeleted": false,
+			"id": "Z10ID7qpbGgbeyuV0Sc2a",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7189.298084986365,
+			"y": 4083.3311055364,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 240607379,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "4jcp0uB0"
+				}
+			],
+			"updated": 1707731907511,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 149,
+			"versionNonce": 813854323,
+			"isDeleted": false,
+			"id": "4jcp0uB0",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7265.923084986365,
+			"y": 4098.2311055364,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 1281611315,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707731907511,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "Z10ID7qpbGgbeyuV0Sc2a",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 262,
+			"versionNonce": 994689405,
+			"isDeleted": false,
+			"id": "0xrmnbCMFXqvpkRZd9_3I",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6528.778553736365,
+			"y": 4082.4131367864,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 625616829,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "S6USuH1f"
+				}
+			],
+			"updated": 1707731971545,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 253,
+			"versionNonce": 1212866771,
+			"isDeleted": false,
+			"id": "S6USuH1f",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6605.403553736365,
+			"y": 4097.3131367864,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 1887971357,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707731971545,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "0xrmnbCMFXqvpkRZd9_3I",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
+			"version": 114,
+			"versionNonce": 1648378835,
+			"isDeleted": false,
+			"id": "mIhhX9rY",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8554.485643521579,
+			"y": 919.1551639897341,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 271.875,
+			"height": 19.2,
+			"seed": 731354803,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707738129030,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "Client-Side Service discovery",
+			"rawText": "Client-Side Service discovery",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Client-Side Service discovery",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"id": "RG8U4gNNCa3aqGklUg7qe",
+			"type": "rectangle",
+			"x": 8792.456997688245,
+			"y": 1021.8009973230676,
+			"width": 226,
+			"height": 66,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1944679197,
+			"version": 47,
+			"versionNonce": 173873341,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "xBn1UOT4"
+				},
+				{
+					"id": "asNQ79xSbGRTlDGyAPq_t",
+					"type": "arrow"
+				}
+			],
+			"updated": 1707738187149,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "xBn1UOT4",
+			"type": "text",
+			"x": 8830.456997688245,
+			"y": 1045.2009973230677,
+			"width": 150,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1270329629,
+			"version": 27,
+			"versionNonce": 673947027,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
+			"text": "service registry",
+			"rawText": "service registry",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 15,
+			"containerId": "RG8U4gNNCa3aqGklUg7qe",
+			"originalText": "service registry",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "bet27PCad_-nT-cFUNiLS",
+			"type": "rectangle",
+			"x": 8639.818976854913,
+			"y": 1178.1030806564008,
+			"width": 90,
+			"height": 93,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1271109107,
+			"version": 166,
+			"versionNonce": 2014640413,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "N33fkj1y"
+				},
+				{
+					"id": "asNQ79xSbGRTlDGyAPq_t",
+					"type": "arrow"
+				},
+				{
+					"id": "LJK2uj9uAh5kv_oyXcqYP",
+					"type": "arrow"
+				},
+				{
+					"id": "RFuIIeENgx2MSuetVHG5W",
+					"type": "arrow"
+				}
+			],
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "N33fkj1y",
+			"type": "text",
+			"x": 8656.693976854913,
+			"y": 1215.003080656401,
+			"width": 56.25,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 325418909,
+			"version": 99,
+			"versionNonce": 2057859891,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
+			"text": "Client",
+			"rawText": "Client",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 15,
+			"containerId": "bet27PCad_-nT-cFUNiLS",
+			"originalText": "Client",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "rectangle",
+			"version": 241,
+			"versionNonce": 951176573,
+			"isDeleted": false,
+			"id": "keIkph9NDcsDM05lsHQHB",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 9041.105435188245,
+			"y": 1218.118705656401,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 171,
+			"height": 56,
+			"seed": 1081295251,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "ZYLMEDr0"
+				}
+			],
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 232,
+			"versionNonce": 1043961043,
+			"isDeleted": false,
+			"id": "ZYLMEDr0",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 9056.292935188245,
+			"y": 1236.5187056564012,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 140.625,
+			"height": 19.2,
+			"seed": 1918605107,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "microservice #1",
+			"rawText": "microservice #1",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "keIkph9NDcsDM05lsHQHB",
+			"originalText": "microservice #1",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 287,
+			"versionNonce": 192222685,
+			"isDeleted": false,
+			"id": "18kmjJKrKvt4t1aK_3J95",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 9255.430956021577,
+			"y": 1218.092663989734,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 171,
+			"height": 56,
+			"seed": 1286896093,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "acXUxhT5"
+				}
+			],
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 283,
+			"versionNonce": 1651868275,
+			"isDeleted": false,
+			"id": "acXUxhT5",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 9270.618456021577,
+			"y": 1236.4926639897342,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 140.625,
+			"height": 19.2,
+			"seed": 1998796349,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "microservice #2",
+			"rawText": "microservice #2",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "18kmjJKrKvt4t1aK_3J95",
+			"originalText": "microservice #2",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 265,
+			"versionNonce": 1265652285,
+			"isDeleted": false,
+			"id": "SlvFrhLO67Zpsk6wudP3D",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 9469.75647685491,
+			"y": 1219.3634973230676,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 171,
+			"height": 56,
+			"seed": 394776989,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "1Fbf8hQu"
+				}
+			],
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 260,
+			"versionNonce": 539147283,
+			"isDeleted": false,
+			"id": "1Fbf8hQu",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 9484.94397685491,
+			"y": 1237.7634973230677,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 140.625,
+			"height": 19.2,
+			"seed": 87397885,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "microservice #3",
+			"rawText": "microservice #3",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "SlvFrhLO67Zpsk6wudP3D",
+			"originalText": "microservice #3",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"id": "asNQ79xSbGRTlDGyAPq_t",
+			"type": "arrow",
+			"x": 8693.379993176966,
+			"y": 1163.5666223230673,
+			"width": 87.78794201127857,
+			"height": 114.76041666666652,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 865910163,
+			"version": 329,
+			"versionNonce": 1971651229,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					33.69447504162781,
-					36.54141840743159
+					30.147317011278574,
+					-64.91145833333326
 				],
 				[
-					67.37953387992184,
-					-0.3123995861651565
+					87.78794201127857,
+					-114.76041666666652
 				]
-			]
+			],
+			"lastCommittedPoint": [
+				64.84895833333394,
+				-132.53645833333326
+			],
+			"startBinding": {
+				"elementId": "bet27PCad_-nT-cFUNiLS",
+				"focus": -0.2971124814293442,
+				"gap": 14.536458333333485
+			},
+			"endBinding": {
+				"elementId": "RG8U4gNNCa3aqGklUg7qe",
+				"focus": 0.8681035881941673,
+				"gap": 11.2890625
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
-			"id": "rXkxDwnr",
-			"type": "text",
-			"x": 6709.62631076791,
-			"y": 4390.930513154262,
-			"width": 9.375,
-			"height": 19.2,
+			"id": "LJK2uj9uAh5kv_oyXcqYP",
+			"type": "arrow",
+			"x": 8854.730435188245,
+			"y": 1105.7072473230676,
+			"width": 111.86979166666606,
+			"height": 105.38578849608416,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ebfbee",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
 			"frameId": null,
-			"roundness": null,
-			"seed": 1494651894,
-			"version": 5,
-			"versionNonce": 737539818,
-			"isDeleted": true,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1756871965,
+			"version": 166,
+			"versionNonce": 1396162995,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1707553157767,
+			"updated": 1707738187150,
 			"link": null,
 			"locked": false,
-			"text": "1",
-			"rawText": "1",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-38.28645833333394,
+					63.42187499999977
+				],
+				[
+					-111.86979166666606,
+					105.38578849608416
+				]
+			],
+			"lastCommittedPoint": [
+				-39.78125,
+				95.81770833333326
+			],
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "bet27PCad_-nT-cFUNiLS",
+				"focus": 0.2714766564874631,
+				"gap": 13.04166666666606
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "78L3649Q",
+			"type": "text",
+			"x": 8575.605435188243,
+			"y": 1071.8166223230673,
+			"width": 140.625,
+			"height": 38.4,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 681591123,
+			"version": 34,
+			"versionNonce": 1852090109,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
+			"text": "microservice #1\nquery",
+			"rawText": "microservice #1\nquery",
 			"fontSize": 16,
 			"fontFamily": 3,
-			"textAlign": "center",
+			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 16,
+			"baseline": 34,
 			"containerId": null,
-			"originalText": "1",
+			"originalText": "microservice #1\nquery",
 			"lineHeight": 1.2
 		},
 		{
-			"id": "Pvp8Wrw2",
+			"id": "VRDH2p8o",
 			"type": "text",
-			"x": 6981.231465187571,
-			"y": 4351.216967985294,
-			"width": 9.375,
+			"x": 8845.277310188245,
+			"y": 1167.686413989734,
+			"width": 103.125,
 			"height": 19.2,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ebfbee",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 605371766,
-			"version": 3,
-			"versionNonce": 277300022,
-			"isDeleted": true,
+			"seed": 280707731,
+			"version": 57,
+			"versionNonce": 349901651,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1707553219556,
+			"updated": 1707738187150,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
+			"text": "123.12.12.1",
+			"rawText": "123.12.12.1",
 			"fontSize": 16,
 			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 16,
-			"containerId": "EZdBL6hE7vxXahet9IjpC",
-			"originalText": "",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "123.12.12.1",
 			"lineHeight": 1.2
 		},
 		{
-			"id": "Zl0qcEzV",
-			"type": "text",
-			"x": 7261.162959073451,
-			"y": 4320.953209913137,
-			"width": 9.375,
-			"height": 19.2,
+			"id": "RFuIIeENgx2MSuetVHG5W",
+			"type": "arrow",
+			"x": 8748.647101854911,
+			"y": 1240.983288989734,
+			"width": 361.36458333333394,
+			"height": 125.45833333333326,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#ebfbee",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
 			"frameId": null,
-			"roundness": null,
-			"seed": 1662503658,
-			"version": 2,
-			"versionNonce": 1397633206,
-			"isDeleted": true,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 205477907,
+			"version": 160,
+			"versionNonce": 143703901,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1707553328712,
+			"updated": 1707738187150,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					181.73958333333394,
+					125.45833333333326
+				],
+				[
+					361.36458333333394,
+					49.46875
+				]
+			],
+			"lastCommittedPoint": [
+				394.75520833333394,
+				47.5
+			],
+			"startBinding": {
+				"elementId": "bet27PCad_-nT-cFUNiLS",
+				"focus": -0.3568852104101601,
+				"gap": 18.82812499999818
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "dd8QP0au",
+			"type": "text",
+			"x": 8898.970018521579,
+			"y": 1384.155163989734,
+			"width": 75,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 453619229,
+			"version": 25,
+			"versionNonce": 358822131,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
+			"text": "API call",
+			"rawText": "API call",
 			"fontSize": 16,
 			"fontFamily": 3,
-			"textAlign": "center",
+			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 16,
+			"baseline": 15,
 			"containerId": null,
-			"originalText": "",
+			"originalText": "API call",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "UYM2hAWvYao4__OO3sxUE",
+			"type": "arrow",
+			"x": 9148.751268521579,
+			"y": 1196.3478723230673,
+			"width": 110.34375,
+			"height": 140.00520833333303,
+			"angle": 0,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 773477245,
+			"version": 119,
+			"versionNonce": 1247464381,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-11.55208333333394,
+					-88.09375
+				],
+				[
+					-110.34375,
+					-140.00520833333303
+				]
+			],
+			"lastCommittedPoint": [
+				-110.34375,
+				-140.00520833333303
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "_1gN_QbzUiB1NNJmQG-S1",
+			"type": "arrow",
+			"x": 9355.001268521579,
+			"y": 1190.9572473230673,
+			"width": 314.20833333333394,
+			"height": 142.86979166666652,
+			"angle": 0,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1308066067,
+			"version": 67,
+			"versionNonce": 911645331,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-90.70833333333394,
+					-102.5625
+				],
+				[
+					-314.20833333333394,
+					-142.86979166666652
+				]
+			],
+			"lastCommittedPoint": [
+				-314.20833333333394,
+				-142.86979166666652
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "c3TKqL2w2RxedfeJsjsac",
+			"type": "arrow",
+			"x": 9560.709601854913,
+			"y": 1195.8166223230673,
+			"width": 521.4322916666679,
+			"height": 162.13020833333348,
+			"angle": 0,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2059688349,
+			"version": 111,
+			"versionNonce": 1944341533,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-165.84375,
+					-125.61979166666652
+				],
+				[
+					-521.4322916666679,
+					-162.13020833333348
+				]
+			],
+			"lastCommittedPoint": [
+				-517.6041666666679,
+				-145.77604166666652
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "XebSLF7C",
+			"type": "text",
+			"x": 9084.839810188245,
+			"y": 998.4207889897342,
+			"width": 112.5,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"dGRsuwyXB39mvKlOh3LUf"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1240872787,
+			"version": 52,
+			"versionNonce": 1684787251,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707738187150,
+			"link": null,
+			"locked": false,
+			"text": "registration",
+			"rawText": "registration",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "registration",
 			"lineHeight": 1.2
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
+		"currentItemStrokeColor": "#1971c2",
+		"currentItemBackgroundColor": "#ebfbee",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
 		"currentItemStrokeStyle": "solid",
@@ -31673,14 +32711,14 @@ User Stat을 조회해야 함
 		"currentItemFontFamily": 3,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": "arrow",
+		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -6292.716887607223,
-		"scrollY": -3933.063989661604,
+		"scrollX": -7582.839423809066,
+		"scrollY": 108.46859311253888,
 		"zoom": {
-			"value": 0.9710982109473629
+			"value": 0.39999999999999997
 		},
-		"currentItemRoundness": "sharp",
+		"currentItemRoundness": "round",
 		"gridSize": null,
 		"currentStrokeOptions": null,
 		"previousGridSize": null
