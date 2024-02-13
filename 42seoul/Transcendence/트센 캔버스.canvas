@@ -23,8 +23,7 @@
 		{"id":"6adfda52395b4f8b","type":"text","text":"bast practice와 보안 표준을 준수하는 사용자 친화적 로그인, 인증 흐름을 구현하라.","x":1200,"y":1831,"width":250,"height":100},
 		{"id":"932e9d3e4242f8bf","type":"text","text":"웹 앱과 인증 공급자 간에 인증 토큰과 사용자 정보를 안전하게 교환해야 한다.","x":1200,"y":1961,"width":250,"height":100},
 		{"id":"d89740f2346f56db","type":"text","text":"Implementing a remote authentication.","x":695,"y":1611,"width":245,"height":60},
-		{"id":"e12835183258e554","type":"text","text":"상태메시지?","x":1640,"y":980,"width":250,"height":60,"color":"4"},
-		{"id":"b100fb1ebfe930b0","type":"text","text":"심심한/따사로운/건강한\n곰돌이/여우/인간\n이런 식의 조합으로 유니크 하게 선택하게 하기","x":1640,"y":775,"width":250,"height":140,"color":"4"},
+		{"id":"e12835183258e554","type":"text","text":"프로필 변경, 상태메시지,\n온라인 상태, 게임 중 여부","x":1640,"y":980,"width":250,"height":60,"color":"4"},
 		{"id":"b46ddabd293ea691","type":"text","text":"사용자가 일회용 코드와 같은 2차인증 방법을 제공하도록 해야한다.","x":1540,"y":2460,"width":250,"height":90},
 		{"id":"3d8f4e29e9e257d4","type":"text","text":"유저 계정의 추가적인 보안 계층으로 [[2FA]]를 구현하라.\n\n","x":1200,"y":2475,"width":250,"height":60},
 		{"id":"17d41c7cd6e3f28f","type":"text","text":"사용자 세션과 리소스에 대한 접근을 안전하게 관리할 수 있도록 [[JWT]]를 사용하라.","x":1200,"y":2575,"width":250,"height":100},
@@ -41,7 +40,6 @@
 		{"id":"2661f3f8b4fca2d1","type":"text","text":"Designing the Backend as Microservices.","x":763,"y":2927,"width":250,"height":60},
 		{"id":"c0630151b66c6254","type":"text","text":"두 명의 분리된 로컬 환경의 원격 플레이어가 있어야 한다.","x":1200,"y":2240,"width":250,"height":90},
 		{"id":"0d4cca436d4403f0","type":"text","text":"같은 웹 사이트를 사용하고, 같은 Pong 게임을 진행해야 한다.","x":1540,"y":2240,"width":250,"height":90},
-		{"id":"b84144a88b1ef69c","type":"text","text":"[[OAuth 2.0]]\n","x":1205,"y":2120,"width":157,"height":60,"color":"2"},
 		{"id":"6445d7776552e84f","type":"text","text":"보류\n","x":-1160,"y":-1060,"width":380,"height":346,"color":"1"},
 		{"id":"09b9566112dd0755","type":"text","text":"Game Customization options","x":-1118,"y":-900,"width":296,"height":52},
 		{"id":"bc076e32bdc3a8a7","type":"text","text":"Multiple language supports.","x":-1118,"y":-848,"width":296,"height":53},
@@ -53,7 +51,7 @@
 		{"id":"e9a8cc4e5f9f40d7","type":"text","text":"Bootstrap toolkit","x":1200,"y":500,"width":250,"height":60,"color":"6"},
 		{"id":"df20e47c1f010418","type":"text","text":"PostgreSQL","x":1200,"y":590,"width":250,"height":60,"color":"6"},
 		{"id":"b30f1eed97a76cb2","type":"text","text":"SQL injection 또는 XSS를 막아야한다.","x":1199,"y":-361,"width":250,"height":60},
-		{"id":"0d7f125794479c92","type":"text","text":"HTTPS 연결을 지원해야한다.","x":1199,"y":-281,"width":250,"height":60},
+		{"id":"0d7f125794479c92","type":"text","text":"HTTPS 연결을 지원해야한다.","x":1199,"y":-281,"width":250,"height":60,"color":"5"},
 		{"id":"f1559eb24ca863c1","type":"text","text":"모든 form 과 user input에 대한 유효성 검사를 해야한다.","x":1199,"y":-201,"width":250,"height":86},
 		{"id":"5bc031f64149e165","type":"text","text":"**FrontEnd module**, **Graphics module** 에서 지정하는 요구사항으로 덮어씌워진다.","x":1199,"y":-781,"width":288,"height":111,"color":"#fb80af"},
 		{"id":"898f36369badbae5","type":"text","text":"Pong game의 틀을 너무 벗어나진 마라.","x":1199,"y":-621,"width":356,"height":56},
@@ -79,7 +77,11 @@
 		{"id":"d7067652d95c80ca","type":"text","text":"Game","x":695,"y":-980,"width":250,"height":60},
 		{"id":"e4925e13605eca71","type":"text","text":"RESTful API","x":3120,"y":1310,"width":160,"height":50},
 		{"id":"b83dbf3e9864d30d","type":"text","text":"login","x":3315,"y":1305,"width":105,"height":55},
-		{"id":"f65ad0b9ce73b0cc","type":"text","text":"game","x":3480,"y":1303,"width":120,"height":57}
+		{"id":"f65ad0b9ce73b0cc","type":"text","text":"game","x":3480,"y":1303,"width":120,"height":57},
+		{"id":"b84144a88b1ef69c","type":"text","text":"[[OAuth 2.0]]\n","x":1200,"y":2100,"width":157,"height":60,"color":"2"},
+		{"id":"e59b3fa96ce7d832","x":1640,"y":680,"width":250,"height":60,"color":"4","type":"text","text":"알림창 허용"},
+		{"id":"b100fb1ebfe930b0","type":"text","text":"심심한/따사로운/건강한\n곰돌이/여우/인간\n이런 식의 조합으로 유니크 하게 선택하게 하기","x":1640,"y":800,"width":250,"height":140,"color":"4"},
+		{"id":"e07d776fb8c33a8a","x":1920,"y":1611,"width":250,"height":60,"type":"text","text":"42에 맡길 거임"}
 	],
 	"edges":[
 		{"id":"6fbb387917360ca2","fromNode":"86d348ec78f026ab","fromSide":"bottom","toNode":"232ef40af235c1ca","toSide":"right"},
@@ -152,6 +154,9 @@
 		{"id":"00786c8ce6eea5ef","fromNode":"2661f3f8b4fca2d1","fromSide":"right","toNode":"c1b4eb4ae7c3cf02","toSide":"left"},
 		{"id":"fd1dd7df840c1d17","fromNode":"2661f3f8b4fca2d1","fromSide":"right","toNode":"ef7a9f3aad8b7544","toSide":"left"},
 		{"id":"4dcf37df8f903aa9","fromNode":"b84144a88b1ef69c","fromSide":"left","toNode":"d89740f2346f56db","toSide":"right","color":"2"},
-		{"id":"d18bcf44830d448d","fromNode":"07f526e0268324c2","fromSide":"left","toNode":"d7d8b87e3acffd52","toSide":"bottom","color":"2"}
+		{"id":"d18bcf44830d448d","fromNode":"07f526e0268324c2","fromSide":"left","toNode":"d7d8b87e3acffd52","toSide":"bottom","color":"2"},
+		{"id":"bc3506fcd047a9d7","fromNode":"e59b3fa96ce7d832","fromSide":"left","toNode":"b0e02d702b8909c0","toSide":"right","color":"4"},
+		{"id":"d81047e4ce710b64","fromNode":"d4321a1a8da57a8b","fromSide":"right","toNode":"e07d776fb8c33a8a","toSide":"left"},
+		{"id":"eda94622c02fcf9c","fromNode":"e12835183258e554","fromSide":"left","toNode":"feebede1df36e5a1","toSide":"right"}
 	]
 }

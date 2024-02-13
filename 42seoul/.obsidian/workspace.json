@@ -4,40 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fc0125a6785e8382",
+        "id": "00d249f8791d1be8",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
-          {
-            "id": "a014ef3593786d0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcendence/6.0 서비스 디스커버리 패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "d0e3e1b24ee2f7ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "411fa504651ed58f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+                "file": "Transcendence/트센 캔버스.canvas",
+                "viewState": {
+                  "x": 1383.8201629180214,
+                  "y": 1995.894212400273,
+                  "zoom": -0.06540527343749897
+                }
               }
             }
           }
@@ -60,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,11 +69,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -107,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/6.0 서비스 디스커버리 패턴.md",
+                "file": "Transcendence/트센 캔버스.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/6.0 서비스 디스커버리 패턴.md",
+                "file": "Transcendence/트센 캔버스.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/6.0 서비스 디스커버리 패턴.md"
+                "file": "Transcendence/트센 캔버스.canvas"
               }
             }
           },
@@ -177,18 +160,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a014ef3593786d0e",
+  "active": "d0e3e1b24ee2f7ac",
   "lastOpenFiles": [
+    "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.3 도메인 주도 설계의 세부 개념.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.3.0 전략적 설계.md",
+    "Transcendence/MSA 패턴과 핵심기술/5.0 MSA를 위한 컨테이너와 도커.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.3.1 전술적 설계.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/6.0 서비스 디스커버리 패턴.md",
-    "Transcendence/MSA 패턴과 핵심기술/0. MSA 패턴과 핵심기술.md",
+    "Transcendence/트센 캔버스.canvas",
+    "Excalidraw/inception.excalidraw.md",
     "Transcendence/MSA 패턴과 핵심기술/5.1 MSA를 위한 컨테이너 오케스트레이션.md",
+    "Transcendence/MSA 패턴과 핵심기술/6.0 서비스 디스커버리 패턴.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.1 응집도와 결합도 그리고 SRP.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
+    "Transcendence/MSA 패턴과 핵심기술/0. MSA 패턴과 핵심기술.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.0 서비스 분리 전략.md",
+    "Transcendence/MSA 패턴과 핵심기술/2.0 MSA 도입 조건.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Day Planners/2024-02-13.md",
+    "Day Planners/2024-02-12.md",
     "Transcendence/Use Case Diagram.md",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Day Planners/2024-02-12.md",
-    "Untitled.canvas",
     "Transcendence/개중요.md",
     "Transcendence/작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
     "Transcendence/작성 해야 함/프로젝트 구성 참고하기.md",
@@ -196,19 +192,6 @@
     "Transcendence/작성 해야 함/Swagger.md",
     "Transcendence/작성 해야 함/single-page application.md",
     "Transcendence/작성 해야 함/scheme.md",
-    "Transcendence/작성 해야 함/REST.md",
-    "Transcendence/작성 해야 함/OAuth 2.0.md",
-    "Transcendence/작성 해야 함/Microservices.md",
-    "Transcendence/작성 해야 함/Hoisting.md",
-    "Transcendence/작성 해야 함/gRPC.md",
-    "Transcendence/작성 해야 함/fallback.md",
-    "Transcendence/작성 해야 함/DTO.md",
-    "Transcendence/작성 해야 함/Blockchain.md",
-    "Transcendence/작성 해야 함/API 문서 작성.md",
-    "Transcendence/계층형 아키텍처.md",
-    "Transcendence/Python 100일 부트캠프/0. Python All-in-one 코스.md",
-    "Transcendence/MSA 패턴과 핵심기술/5.0 MSA를 위한 컨테이너와 도커.md",
-    "Transcendence/트센 캔버스.canvas",
     "Transcendence/MSA 패턴과 핵심기술",
     "첨부파일/Pasted image 20230808152329.png",
     "첨부파일/Pasted image 20231025163918.png",
