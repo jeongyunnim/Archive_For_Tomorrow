@@ -6,20 +6,16 @@
       {
         "id": "00d249f8791d1be8",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "d0e3e1b24ee2f7ac",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Transcendence/트센 캔버스.canvas",
-                "viewState": {
-                  "x": 1383.8201629180214,
-                  "y": 1995.894212400273,
-                  "zoom": -0.06540527343749897
-                }
+                "file": "Transcendence/개중요.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -74,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -90,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/트센 캔버스.canvas",
+                "file": "Transcendence/개중요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/트센 캔버스.canvas",
+                "file": "Transcendence/개중요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/트센 캔버스.canvas"
+                "file": "Transcendence/개중요.md"
               }
             }
           },
@@ -162,36 +158,38 @@
   },
   "active": "d0e3e1b24ee2f7ac",
   "lastOpenFiles": [
-    "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
-    "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
-    "Transcendence/MSA 패턴과 핵심기술/4.3 도메인 주도 설계의 세부 개념.md",
-    "Transcendence/MSA 패턴과 핵심기술/4.3.0 전략적 설계.md",
-    "Transcendence/MSA 패턴과 핵심기술/5.0 MSA를 위한 컨테이너와 도커.md",
-    "Transcendence/MSA 패턴과 핵심기술/4.3.1 전술적 설계.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/4. Bootstrap.md",
     "Transcendence/트센 캔버스.canvas",
-    "Excalidraw/inception.excalidraw.md",
-    "Transcendence/MSA 패턴과 핵심기술/5.1 MSA를 위한 컨테이너 오케스트레이션.md",
-    "Transcendence/MSA 패턴과 핵심기술/6.0 서비스 디스커버리 패턴.md",
-    "Transcendence/MSA 패턴과 핵심기술/4.1 응집도와 결합도 그리고 SRP.md",
+    "Transcendence/ft_transcendence.md",
+    "Transcendence/Server-Side Rendering.md",
+    "Transcendence/Rendering on the Web.md",
+    "Transcendence/SEO.md",
+    "Transcendence/핸즈 온 장고/2.0 ER 모델링.md",
+    "Transcendence/핸즈 온 장고/0. 핸즈온 장고.md",
+    "Transcendence/핸즈 온 장고/1.1 장고 라이브러리.md",
+    "Transcendence/핸즈 온 장고/1.0 장고란?.md",
+    "Transcendence/계층화 아키텍처.md",
+    "Transcendence/계층형 아키텍처.md",
+    "Transcendence/JavaScript 완벽 가이드/13.3 클로저.md",
+    "첨부파일/Pasted image 20240214152643.png",
+    "Day Planners/2024-02-14.md",
+    "Transcendence/개중요.md",
+    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.1 Django 프레임워크에 대한 소개.md",
     "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
-    "Transcendence/MSA 패턴과 핵심기술/0. MSA 패턴과 핵심기술.md",
-    "Transcendence/MSA 패턴과 핵심기술/4.0 서비스 분리 전략.md",
-    "Transcendence/MSA 패턴과 핵심기술/2.0 MSA 도입 조건.md",
+    "template/핸즈온 장고 템플릿.md",
+    "Transcendence/핸즈 온 장고",
+    "Transcendence/Git-flow.md",
+    "Transcendence/거버넌스.md",
+    "Transcendence/SparseArray.md",
+    "Transcendence/Use Case Diagram.md",
+    "Transcendence/Node.js.md",
+    "Transcendence/<번역>ft_transcendence.md",
+    "Transcendence/Pasted image 20240119142803.png.md",
+    "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Day Planners/2024-02-13.md",
-    "Day Planners/2024-02-12.md",
-    "Transcendence/Use Case Diagram.md",
     "Untitled 2.canvas",
-    "Transcendence/개중요.md",
-    "Transcendence/작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
-    "Transcendence/작성 해야 함/프로젝트 구성 참고하기.md",
-    "Transcendence/작성 해야 함/Two Scoops of Django.md",
-    "Transcendence/작성 해야 함/Swagger.md",
-    "Transcendence/작성 해야 함/single-page application.md",
-    "Transcendence/작성 해야 함/scheme.md",
     "Transcendence/MSA 패턴과 핵심기술",
     "첨부파일/Pasted image 20230808152329.png",
     "첨부파일/Pasted image 20231025163918.png",
@@ -202,7 +200,6 @@
     "첨부파일/Pasted image 20240206171915.png",
     "첨부파일/Pasted image 20240206002957.png",
     "첨부파일/Pasted image 20240204163223.png",
-    "첨부파일/Pasted image 20240203195730.png",
     "template",
     "Transcendence/작성 해야 함",
     "Transcendence/Python 100일 부트캠프",
@@ -211,7 +208,6 @@
     "Transcendence",
     "Excalidraw",
     "C++ Unmanaged Programming",
-    "Day Planners/2023",
     "Untitled 1/Untitled.canvas"
   ]
 }

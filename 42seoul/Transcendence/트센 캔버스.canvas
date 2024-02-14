@@ -45,7 +45,6 @@
 		{"id":"bc076e32bdc3a8a7","type":"text","text":"Multiple language supports.","x":-1118,"y":-848,"width":296,"height":53},
 		{"id":"f8f278782dcb2f53","type":"text","text":"blockchain","x":-1118,"y":-950,"width":296,"height":50},
 		{"id":"04ba8300369e2fcb","type":"text","text":"ELK(logging tool)","x":-1118,"y":-1000,"width":296,"height":50},
-		{"id":"bc78fd20bbb034c9","type":"text","text":"add accessibility for Visually impaired Users.","x":-1118,"y":-795,"width":296,"height":60},
 		{"id":"d7d8b87e3acffd52","type":"text","text":"Security concerns","x":695,"y":-331,"width":250,"height":60},
 		{"id":"894a448af3839f29","type":"text","text":"Django","x":1200,"y":410,"width":250,"height":60,"color":"6"},
 		{"id":"e9a8cc4e5f9f40d7","type":"text","text":"Bootstrap toolkit","x":1200,"y":500,"width":250,"height":60,"color":"6"},
@@ -75,13 +74,11 @@
 		{"id":"ae6aa8c2af33e36b","type":"text","text":"뒤로가기 기능을 구현해야 함","x":195,"y":-1,"width":250,"height":60,"color":"2"},
 		{"id":"46ab532642a9597a","type":"text","text":"강력한 hash 알고리즘을 사용하라.","x":1640,"y":-461,"width":250,"height":60,"color":"2"},
 		{"id":"d7067652d95c80ca","type":"text","text":"Game","x":695,"y":-980,"width":250,"height":60},
-		{"id":"e4925e13605eca71","type":"text","text":"RESTful API","x":3120,"y":1310,"width":160,"height":50},
-		{"id":"b83dbf3e9864d30d","type":"text","text":"login","x":3315,"y":1305,"width":105,"height":55},
-		{"id":"f65ad0b9ce73b0cc","type":"text","text":"game","x":3480,"y":1303,"width":120,"height":57},
 		{"id":"b84144a88b1ef69c","type":"text","text":"[[OAuth 2.0]]\n","x":1200,"y":2100,"width":157,"height":60,"color":"2"},
-		{"id":"e59b3fa96ce7d832","x":1640,"y":680,"width":250,"height":60,"color":"4","type":"text","text":"알림창 허용"},
+		{"id":"e59b3fa96ce7d832","type":"text","text":"알림창 허용","x":1640,"y":680,"width":250,"height":60,"color":"4"},
 		{"id":"b100fb1ebfe930b0","type":"text","text":"심심한/따사로운/건강한\n곰돌이/여우/인간\n이런 식의 조합으로 유니크 하게 선택하게 하기","x":1640,"y":800,"width":250,"height":140,"color":"4"},
-		{"id":"e07d776fb8c33a8a","x":1920,"y":1611,"width":250,"height":60,"type":"text","text":"42에 맡길 거임"}
+		{"id":"e07d776fb8c33a8a","type":"text","text":"42에 맡길 거임","x":1920,"y":1611,"width":250,"height":60},
+		{"id":"bc78fd20bbb034c9","type":"text","text":"add accessibility for Visually impaired Users.","x":-1118,"y":-795,"width":296,"height":60}
 	],
 	"edges":[
 		{"id":"6fbb387917360ca2","fromNode":"86d348ec78f026ab","fromSide":"bottom","toNode":"232ef40af235c1ca","toSide":"right"},
