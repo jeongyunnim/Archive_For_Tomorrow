@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "fc0125a6785e8382",
+        "id": "5fac830f47dc7627",
         "type": "tabs",
         "children": [
           {
-            "id": "7c55d8718fd7b1a6",
+            "id": "ee41cff3596817ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/핸즈 온 장고/0. 핸즈온 장고.md",
+                "file": "Transcendence/핸즈 온 장고/2.1 장고의 모델.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4a1733a4b816235",
+            "id": "a93e9cff606b0ae5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+                "file": "Transcendence/핸즈 온 장고/4.0 직렬화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "035e3ad5e4562ecc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "첨부파일/정리 다 하면 지울 녀석.png"
               }
             }
           }
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/핸즈 온 장고/0. 핸즈온 장고.md",
+                "file": "Transcendence/핸즈 온 장고/2.1 장고의 모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/핸즈 온 장고/0. 핸즈온 장고.md",
+                "file": "Transcendence/핸즈 온 장고/2.1 장고의 모델.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/핸즈 온 장고/0. 핸즈온 장고.md"
+                "file": "Transcendence/핸즈 온 장고/2.1 장고의 모델.md"
               }
             }
           },
@@ -166,13 +178,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c55d8718fd7b1a6",
+  "active": "ee41cff3596817ca",
   "lastOpenFiles": [
-    "Transcendence/핸즈 온 장고/3.0 ORM.md",
-    "Transcendence/핸즈 온 장고/0. 핸즈온 장고.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/핸즈 온 장고/2.3 마이그레이션.md",
     "Transcendence/핸즈 온 장고/2.2 장고의 필드.md",
+    "Transcendence/핸즈 온 장고/4.1 DRF Serializer.md",
+    "Transcendence/핸즈 온 장고/4.0 직렬화.md",
+    "Transcendence/핸즈 온 장고/2.3 마이그레이션.md",
+    "Transcendence/Django REST Framework.md",
+    "Transcendence/이미지에 PostgreSQL 적용시키기.md",
+    "Transcendence/Git-flow.md",
+    "Transcendence/왜 WeakMap을 사용해야 하는가?.md",
+    "Transcendence/<번역>ft_transcendence.md",
+    "Transcendence/핸즈 온 장고/0. 핸즈온 장고.md",
+    "Transcendence/핸즈 온 장고/3.0 ORM.md",
+    "Transcendence/핸즈 온 장고/3.1 쿼리셋.md",
+    "첨부파일/Pasted image 20240215194346.png",
+    "Transcendence/핸즈 온 장고/3.2 쿼리셋 활용하기.md",
+    "첨부파일/정리 다 하면 지울 녀석.png",
+    "Transcendence/핸즈 온 장고/3.3 트랜잭션 관리.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
     "첨부파일/Pasted image 20240215150150.png",
     "Transcendence/핸즈 온 장고/1.1 장고 라이브러리.md",
     "Day Planners/2024-02-15.md",
@@ -190,23 +214,11 @@
     "Transcendence/핸즈 온 장고/1.0 장고란?.md",
     "Transcendence/핸즈 온 장고",
     "Transcendence/SEO.md",
-    "Transcendence/Git-flow.md",
     "Day Planners/2024-02-14.md",
-    "Excalidraw/FJsort.excalidraw.md",
-    "Excalidraw/inception.excalidraw.md",
-    "Transcendence/계층형 아키텍처.md",
-    "Transcendence/Use Case Diagram.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
-    "Transcendence/MSA 패턴과 핵심기술/6.0 서비스 디스커버리 패턴.md",
-    "Transcendence/MSA 패턴과 핵심기술/5.1 MSA를 위한 컨테이너 오케스트레이션.md",
-    "Transcendence/MSA 패턴과 핵심기술/5.0 MSA를 위한 컨테이너와 도커.md",
-    "Day Planners/2024-02-13.md",
     "Transcendence/MSA 패턴과 핵심기술",
     "첨부파일/Pasted image 20230808152329.png",
     "첨부파일/Pasted image 20231025163918.png",
     "첨부파일/Pasted image 20231027113931.png",
-    "첨부파일/Pasted image 20231101173603.png",
-    "첨부파일/Pasted image 20231102164644.png",
     "template",
     "Transcendence/작성 해야 함",
     "Transcendence/Python 100일 부트캠프",
