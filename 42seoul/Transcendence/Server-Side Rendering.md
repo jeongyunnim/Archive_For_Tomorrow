@@ -41,7 +41,7 @@ SSR 환경을 구축하면 페이지의 소유권이 온전히 FE에 존재하�
 
 백엔드에서도 API 개발과 데이터 활용에 더 집중할 수 있어 서비스 품질을 더 높일 수 있다는 장점이 있다.
 
-![[Excalidraw/ft_transcendence.excalidraw.md#^group=AGkp07icIHablqN1Pxgih]]
+![[ft_transcendence.excalidraw#^group=AGkp07icIHablqN1Pxgih]]
 
 
 
