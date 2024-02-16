@@ -40,7 +40,7 @@ This project is about creating a website for the mighty **Pong** contest!
 > [!caution]
 > The use of libraries or frameworks or tools to replace your job is strictly prohibited. Each part of the subject will explicitly present the authorized [[third party]] software you can use. Nevertheless, it is allowed and even recommended to use anything possible to simplify certain actions. it is important to note that any tools or resources utilized must be justified. Please be aware that simplifying does not equate to completing your work.
 
-## 1 Overview
+## 1. Overview
 Thanks to your website, user will play Pong with others. You have to provide a nice user interface and real-time multiplayer online games!
 - Your project needs to adhere to the following guidelines as a minimum requirement, contributing only a small portion to the final grade.
 - The second part of this subject will offer additional modules that can replace or complete the following rules.

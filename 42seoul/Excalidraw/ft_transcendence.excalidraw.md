@@ -760,7 +760,7 @@ HTML, CSS, JS
 
 Game ^Jw3Tv0qS
 
-User Stat ^IiOQLFIE
+management ^IiOQLFIE
 
 User ^YppdK7W7
 
@@ -940,6 +940,21 @@ Product API ^XvcczkRo
 복호
 화 ^IkcFXQP7
 
+domain logic ^PQqQlopV
+
+User ^96jngZTX
+
+load할 페이지 및 
+소스코드 제공 ^O9FQIYJi
+
+DB ^pBqEZbWA
+
+JSON 데이터 형식으로 정보 교환 ^8JGRRgMx
+
+nginx ^zZ8yzAZ2
+
+JSON 데이터 형식으로 정보 교환 ^1onaBPaK
+
 
 # Embedded files
 3250f37bdcd718fd30733da1e17818e463171b58: [[Pasted Image 20240126154758_076.png]]
@@ -1025,7 +1040,7 @@ Product API ^XvcczkRo
 			"containerId": "C9cNPAzPmzEdD4g0bYTPV",
 			"originalText": "개발 영역",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -1097,7 +1112,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -1167,7 +1182,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -1237,7 +1252,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -1334,7 +1349,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -1373,7 +1388,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -1446,7 +1461,7 @@ Product API ^XvcczkRo
 			"containerId": "IJuE28G_8iB75z14fXF-0",
 			"originalText": "FE",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -1607,7 +1622,7 @@ Product API ^XvcczkRo
 			"containerId": "I-pfeJbRZycdodm8NqNQB",
 			"originalText": "BE",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -1763,7 +1778,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "SPA 전환",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -1880,7 +1895,7 @@ Product API ^XvcczkRo
 			"containerId": "AGkp07icIHablqN1Pxgih",
 			"originalText": "개발 영역",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -1952,7 +1967,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -2022,7 +2037,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -2092,7 +2107,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -2189,7 +2204,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -2228,7 +2243,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -2301,7 +2316,7 @@ Product API ^XvcczkRo
 			"containerId": "dqe_oJoLE1Qc-QxAik6CW",
 			"originalText": "FE",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -2376,7 +2391,7 @@ Product API ^XvcczkRo
 			"containerId": "KghutSZDmCXo8DkXsQRp-",
 			"originalText": "페이지 개발 (JS)",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -2478,7 +2493,7 @@ Product API ^XvcczkRo
 			"containerId": "urh6tAoORoHyglOtlTCJx",
 			"originalText": "BE",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -2517,7 +2532,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "SSR 전환",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -2636,7 +2651,7 @@ Product API ^XvcczkRo
 			"containerId": "mzoEcpvVktNYH2qfomtm7",
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -2711,7 +2726,7 @@ Product API ^XvcczkRo
 			"containerId": "dEsShZFMou07WNKK-4v2V",
 			"originalText": "Node.js",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -2786,7 +2801,7 @@ Product API ^XvcczkRo
 			"containerId": "4t6jRiOJQLlnU2C7oiftR",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -2861,7 +2876,7 @@ Product API ^XvcczkRo
 			"containerId": "_FqBxSTaRZ8W8HneD1bZ8",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -2900,7 +2915,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "API 개발\n(JAVA)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -3051,7 +3066,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "{{JINJA}}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -3123,7 +3138,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Pyton file\nwith\nURL routing",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -3195,7 +3210,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Python file\nusing Django",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -3269,7 +3284,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Python file\nusing Django\nModels",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -3343,7 +3358,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Application \nlogic \nin Python",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "line",
@@ -4256,7 +4271,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "User\n(Browser)",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "line",
@@ -4733,7 +4748,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "SQL",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -4773,7 +4788,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Database",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -5273,7 +5288,7 @@ Product API ^XvcczkRo
 			"containerId": "z5RThGOyj3UUsQtTFT9pY",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -5348,7 +5363,7 @@ Product API ^XvcczkRo
 			"containerId": "tlwX4WVnq_Px11QhUH_mt",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -5423,7 +5438,7 @@ Product API ^XvcczkRo
 			"containerId": "b66l67TojYQHhqAJHjF_w",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -5498,7 +5513,7 @@ Product API ^XvcczkRo
 			"containerId": "iRywGQeNshpwfQJHsqRiL",
 			"originalText": "app\n1",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -5573,7 +5588,7 @@ Product API ^XvcczkRo
 			"containerId": "4WvREpvm6zGhh_1CZTBe9",
 			"originalText": "app\n2",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -5648,7 +5663,7 @@ Product API ^XvcczkRo
 			"containerId": "owXjRN_QZlXRNKjp3xJC0",
 			"originalText": "app\n3",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -5723,7 +5738,7 @@ Product API ^XvcczkRo
 			"containerId": "NfDUjIzRtHf1MUHzBWDej",
 			"originalText": "app\nN",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "line",
@@ -5999,7 +6014,7 @@ Product API ^XvcczkRo
 			"containerId": "M6cBo-06QzSZuvkU6WEkp",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -6078,7 +6093,7 @@ Product API ^XvcczkRo
 			"containerId": "0--KxwnQghmY_lg4IGGc_",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -6161,7 +6176,7 @@ Product API ^XvcczkRo
 			"containerId": "4rZsAjVennqt93L939FFe",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -6318,7 +6333,7 @@ Product API ^XvcczkRo
 			"containerId": "V9T8CrdmVf8_jwYDXJrzX",
 			"originalText": "view.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
@@ -6447,12 +6462,12 @@ Product API ^XvcczkRo
 			"containerId": "sXVRurNNDuV6D1Y2s4hHT",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 664,
-			"versionNonce": 697967730,
+			"version": 674,
+			"versionNonce": 1900388598,
 			"isDeleted": false,
 			"id": "GeGtbAcF3nyDucN5uJizp",
 			"fillStyle": "solid",
@@ -6476,7 +6491,7 @@ Product API ^XvcczkRo
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708067309685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6501,8 +6516,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 1314,
-			"versionNonce": 1876825006,
+			"version": 1354,
+			"versionNonce": 1829900854,
 			"isDeleted": false,
 			"id": "iHHaSktUluC1UNoQ0j_NW",
 			"fillStyle": "solid",
@@ -6526,7 +6541,7 @@ Product API ^XvcczkRo
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708067309685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8065,7 +8080,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -8140,7 +8155,7 @@ Product API ^XvcczkRo
 			"containerId": "Cuo01-ayZ7vI4d5MAEaxO",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -8215,7 +8230,7 @@ Product API ^XvcczkRo
 			"containerId": "-WYBBqZbM1bBxFkxcaaCX",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -8465,7 +8480,7 @@ Product API ^XvcczkRo
 			"containerId": "SlkEgCbfVlMd3a45lI6IQ",
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -9826,7 +9841,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -9901,7 +9916,7 @@ Product API ^XvcczkRo
 			"containerId": "gKff4QHG4L8qwpqYj1Cya",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -9980,7 +9995,7 @@ Product API ^XvcczkRo
 			"containerId": "CpA4CG2rxltdhCOYMCmP6",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -10186,7 +10201,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -10230,12 +10245,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "reverse(url_name)",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 2868,
-			"versionNonce": 288024558,
+			"version": 2878,
+			"versionNonce": 846713898,
 			"isDeleted": false,
 			"id": "ypINFAzaOkRT9B0SsgAUi",
 			"fillStyle": "solid",
@@ -10259,7 +10274,7 @@ Product API ^XvcczkRo
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708067309688,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10385,7 +10400,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "base.html",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -10540,7 +10555,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -10579,7 +10594,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10647,7 +10662,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -10686,7 +10701,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "{% extends \"base.html\" %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -10725,7 +10740,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -10764,7 +10779,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10861,7 +10876,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -11105,7 +11120,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "JS",
 			"lineHeight": 1.2,
-			"baseline": 56
+			"baseline": 55
 		},
 		{
 			"type": "text",
@@ -11144,7 +11159,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Dynamic\nweakly-typed",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "text",
@@ -11183,7 +11198,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Interpreted\n전송 중에 컴파일 됨",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "text",
@@ -11222,7 +11237,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Hosted language\n여러 환경에서 실행 됨",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "text",
@@ -11261,7 +11276,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "브라우저에서 코드 실행",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -11329,7 +11344,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "브라우저 built-in JS엔진\nV8(chrome)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -11368,7 +11383,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "{code}",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
@@ -11578,7 +11593,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Effect",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -11617,7 +11632,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Single Thread",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -11721,7 +11736,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "<code>",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -11818,7 +11833,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "browser",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -11891,7 +11906,7 @@ Product API ^XvcczkRo
 			"containerId": "K8mgdfrt5mwZhfFOTMNno",
 			"originalText": "JS 파싱 및 실행",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -12006,7 +12021,7 @@ Product API ^XvcczkRo
 			"containerId": "pTuu9HtEb1x_juUmcj_po",
 			"originalText": "interpreter",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -12087,12 +12102,12 @@ Product API ^XvcczkRo
 			"containerId": "SUGRFK1cJOYkLW9hUjYUE",
 			"originalText": "compiler(JIT)",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 522,
-			"versionNonce": 991484526,
+			"version": 532,
+			"versionNonce": 817781622,
 			"isDeleted": false,
 			"id": "RNzrlE8PzV-MStjIANndi",
 			"fillStyle": "solid",
@@ -12114,7 +12129,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708067309689,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12147,8 +12162,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 743,
-			"versionNonce": 1128975218,
+			"version": 763,
+			"versionNonce": 1653570742,
 			"isDeleted": false,
 			"id": "Ey98i2quu_ZaJrVufSyP3",
 			"fillStyle": "solid",
@@ -12170,7 +12185,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708067309690,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12280,7 +12295,7 @@ Product API ^XvcczkRo
 			"containerId": "CzJy2z7DWHCO81eVUd2cK",
 			"originalText": "byte code",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -12377,8 +12392,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 706,
-			"versionNonce": 572811442,
+			"version": 716,
+			"versionNonce": 1841058218,
 			"isDeleted": false,
 			"id": "cpKGZUiWy8LjnBOVjFOuT",
 			"fillStyle": "solid",
@@ -12400,7 +12415,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708067309690,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12464,7 +12479,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "client\ncomputer",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -12537,7 +12552,7 @@ Product API ^XvcczkRo
 			"containerId": "Y1MsRQFhoG3xJLahODbPi",
 			"originalText": "script 로드 및 실행",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -12610,7 +12625,7 @@ Product API ^XvcczkRo
 			"containerId": "M92TKW3HVZsUw3Mg4Wah_",
 			"originalText": "compiled\nmachine code",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -12683,7 +12698,7 @@ Product API ^XvcczkRo
 			"containerId": "BujRFqj7xHcHN9bYhRphG",
 			"originalText": "브라우저 API",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -12885,7 +12900,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "머신 코드에 포함된다.",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -12958,7 +12973,7 @@ Product API ^XvcczkRo
 			"containerId": "OaR8u-h0O8kszaiFmQW1r",
 			"originalText": "Document",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -13031,7 +13046,7 @@ Product API ^XvcczkRo
 			"containerId": "g4TZq2XxQpbIUP5WhKUBZ",
 			"originalText": "Root DOM Node",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -13104,7 +13119,7 @@ Product API ^XvcczkRo
 			"containerId": "SY0_IzceiFHQ8xVPk74xZ",
 			"originalText": "HTML 요소에 쿼리 & 엑세스\nDOM 컨텐츠, HTML 요소와 상호작용",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -13177,7 +13192,7 @@ Product API ^XvcczkRo
 			"containerId": "_ldtDoNspjUwLGAg6e0IO",
 			"originalText": "Window",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -13250,7 +13265,7 @@ Product API ^XvcczkRo
 			"containerId": "pH7q87Wp34511nUP7rv3P",
 			"originalText": "활성화된 창 또는 탭",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -13323,7 +13338,7 @@ Product API ^XvcczkRo
 			"containerId": "JXth2j4lV-x70ulAeb8MC",
 			"originalText": "스크립트의 global storage\n브라우저가 제공하는 모든 기능에 대한 엑세스를 허용한다.",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -13396,7 +13411,7 @@ Product API ^XvcczkRo
 			"containerId": "hULijffl96PftAIW7Qj36",
 			"originalText": "Root Entry Point",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -13586,7 +13601,7 @@ Product API ^XvcczkRo
 			"containerId": "ybQwChY23cNwVDS4oljms",
 			"originalText": "<html lang=\"en\">\n  <head>\n    <title>DOM Interaction</title>\n  </script>\n  </head>\n  <body>\n      <header>\n          <h1>Dive into the DOM</h1>\n      </header>\n      <p>There's a log to it!<p>\n  </body>\n</html>",
 			"lineHeight": 1.2,
-			"baseline": 226
+			"baseline": 227
 		},
 		{
 			"type": "rectangle",
@@ -13663,7 +13678,7 @@ Product API ^XvcczkRo
 			"containerId": "xmCD5DrqA27kTlzCRVQE2",
 			"originalText": "HTML",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -13736,7 +13751,7 @@ Product API ^XvcczkRo
 			"containerId": "zvsQpyzIfgq239Ek1e61p",
 			"originalText": "TITLE",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -13809,7 +13824,7 @@ Product API ^XvcczkRo
 			"containerId": "zXWgFVS5Kb1hhRhMeNjqT",
 			"originalText": "H1",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -13882,7 +13897,7 @@ Product API ^XvcczkRo
 			"containerId": "zgBXXcT1tAUCczkoSr27z",
 			"originalText": "P",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -14013,7 +14028,7 @@ Product API ^XvcczkRo
 			"containerId": "8ou3rZueV4MD2Wi6lJDi4",
 			"originalText": "BODY",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -14174,7 +14189,7 @@ Product API ^XvcczkRo
 			"containerId": "Oj-4ohao_tF-Lo0RUWp1G",
 			"originalText": "HEAD",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -14364,12 +14379,12 @@ Product API ^XvcczkRo
 			"containerId": "IdpCclJi1snOOGuRKSlqO",
 			"originalText": "HEADER",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 767,
-			"versionNonce": 1944045038,
+			"version": 787,
+			"versionNonce": 777555050,
 			"isDeleted": false,
 			"id": "5Fc0zoKSfbSkhhfzzXQ5p",
 			"fillStyle": "solid",
@@ -14391,7 +14406,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708067309699,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -14645,7 +14660,7 @@ Product API ^XvcczkRo
 			"containerId": "5I6AO6QU9swfDYvI2QYF9",
 			"originalText": "<html lang=\"en\">\n  <head>\n    <title>The DOM</title>\n  </script>\n  </head>\n  <body>\n      <header>\n          <h1>Dive into the DOM</h1>\n      </header>\n      <p>There's a lot to it!<p>\n  </body>\n</html>",
 			"lineHeight": 1.2,
-			"baseline": 226
+			"baseline": 227
 		},
 		{
 			"type": "rectangle",
@@ -14722,7 +14737,7 @@ Product API ^XvcczkRo
 			"containerId": "4mYx5KbyA6lK8YZcvdRcJ",
 			"originalText": "HTML",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -14795,7 +14810,7 @@ Product API ^XvcczkRo
 			"containerId": "q4ZYJ-8OXzb7xp2ZB410x",
 			"originalText": "TITLE",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -14868,7 +14883,7 @@ Product API ^XvcczkRo
 			"containerId": "y3meWec_dLs-d7bv_-Aei",
 			"originalText": "H1",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -14941,7 +14956,7 @@ Product API ^XvcczkRo
 			"containerId": "1FG5S14T1b4whbm8Ux8aW",
 			"originalText": "P",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15072,7 +15087,7 @@ Product API ^XvcczkRo
 			"containerId": "EqNB8JyTlP8udZmZKXmiT",
 			"originalText": "BODY",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -15237,7 +15252,7 @@ Product API ^XvcczkRo
 			"containerId": "YrpqWBeb6KQshm8p5B9QT",
 			"originalText": "HEAD",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -15427,7 +15442,7 @@ Product API ^XvcczkRo
 			"containerId": "3BnmCYgMw1DRhntiZ49oK",
 			"originalText": "HEADER",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -15586,7 +15601,7 @@ Product API ^XvcczkRo
 			"containerId": "Bmkozz3pA3ynjNaBhqBc0",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15659,7 +15674,7 @@ Product API ^XvcczkRo
 			"containerId": "pKGtDuQ-KA2ZHS4dr20Yr",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15732,7 +15747,7 @@ Product API ^XvcczkRo
 			"containerId": "WQl5rqsqEoJ6GIk7nDifD",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15805,7 +15820,7 @@ Product API ^XvcczkRo
 			"containerId": "dxx9RDAh8ZA3wacA8GI7-",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15878,7 +15893,7 @@ Product API ^XvcczkRo
 			"containerId": "tM9tCfx65sF5s9vYDkZwS",
 			"originalText": "The DOM",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15951,7 +15966,7 @@ Product API ^XvcczkRo
 			"containerId": "Ru9yWIc60gmwiwHdZUiH_",
 			"originalText": "Dive into the DOM",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16024,7 +16039,7 @@ Product API ^XvcczkRo
 			"containerId": "Ld8-4grFjrJCpBf-Zf5ew",
 			"originalText": "There's a lot to it!",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16101,12 +16116,12 @@ Product API ^XvcczkRo
 			"containerId": "QOC8L1vys5n7Jf6h1S8FZ",
 			"originalText": "<p id=\"welcome-text\" class=\"text-default\">Welcome!</p>",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 1198,
-			"versionNonce": 1390166446,
+			"version": 1218,
+			"versionNonce": 1830776618,
 			"isDeleted": false,
 			"id": "y9ZZjQRBXPBqBj37safu0",
 			"fillStyle": "solid",
@@ -16128,7 +16143,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708067309715,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16242,7 +16257,7 @@ Product API ^XvcczkRo
 			"containerId": "BDxZ2MHbhnuENu0iVlU7w",
 			"originalText": "const p",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16319,7 +16334,7 @@ Product API ^XvcczkRo
 			"containerId": "q7La-5-CTf8Hc8lIO38Ux",
 			"originalText": "p.textContent",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16396,7 +16411,7 @@ Product API ^XvcczkRo
 			"containerId": "qRvrca5b_Y4MsALCjCyEn",
 			"originalText": "p.id",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16473,7 +16488,7 @@ Product API ^XvcczkRo
 			"containerId": "5CT_XPPIqKeIW0JL9x8j4",
 			"originalText": "p.className",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16546,7 +16561,7 @@ Product API ^XvcczkRo
 			"containerId": "8d9m97jdyLVfKYrCK7rSn",
 			"originalText": "\"Welcome\"",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16623,7 +16638,7 @@ Product API ^XvcczkRo
 			"containerId": "AGpwZds1ld-3g2ebPyuNe",
 			"originalText": "\"welcome-text\"",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16700,12 +16715,12 @@ Product API ^XvcczkRo
 			"containerId": "24mfIlNIiRHZW8HS090_N",
 			"originalText": "\"text-default\"",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 359,
-			"versionNonce": 1459160178,
+			"version": 369,
+			"versionNonce": 1388868022,
 			"isDeleted": false,
 			"id": "sps6-OWWSrVVIjbzLe7Hc",
 			"fillStyle": "solid",
@@ -16727,7 +16742,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708067309716,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16752,8 +16767,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 889,
-			"versionNonce": 1952265134,
+			"version": 929,
+			"versionNonce": 1723008374,
 			"isDeleted": false,
 			"id": "ZKhGYTAVytSfuqAO-aQ69",
 			"fillStyle": "solid",
@@ -16775,7 +16790,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708067309720,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16804,8 +16819,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 889,
-			"versionNonce": 1912841778,
+			"version": 929,
+			"versionNonce": 140437174,
 			"isDeleted": false,
 			"id": "BajE-CHs_82sRPJmBTeeK",
 			"fillStyle": "solid",
@@ -16827,7 +16842,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708067309721,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16972,12 +16987,12 @@ Product API ^XvcczkRo
 			"containerId": "c699tcMueD3OExfGGfvCF",
 			"originalText": "p.className = \"new-class\"",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 1197,
-			"versionNonce": 829505970,
+			"version": 1237,
+			"versionNonce": 2131833142,
 			"isDeleted": false,
 			"id": "utk2acYCoO2DHj5b329KH",
 			"fillStyle": "solid",
@@ -16999,7 +17014,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708067309722,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17028,8 +17043,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 1333,
-			"versionNonce": 1250060910,
+			"version": 1373,
+			"versionNonce": 327260790,
 			"isDeleted": false,
 			"id": "fkq-cirz18fJ-nkjwMSDk",
 			"fillStyle": "solid",
@@ -17051,7 +17066,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708067309722,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17153,7 +17168,7 @@ Product API ^XvcczkRo
 			"containerId": "PBGz2QZgprVjUo4VTFrpy",
 			"originalText": "<p ... class=\"new-class\">",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -17226,7 +17241,7 @@ Product API ^XvcczkRo
 			"containerId": "2eZiQWWXB2uvnYJiqaicv",
 			"originalText": "<input id=\"input-1\" class=\"input-default\" value=\"Enter text...\">",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -17450,7 +17465,7 @@ Product API ^XvcczkRo
 			"containerId": "nI44yj5KwhO5o-OB4Xdq5",
 			"originalText": "속성(Attribute)",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -17489,7 +17504,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "> const input = document.querySelector(\"input\");",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17562,7 +17577,7 @@ Product API ^XvcczkRo
 			"containerId": "7u2vfVXwXz8O32g4pN0He",
 			"originalText": "input.id",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17635,7 +17650,7 @@ Product API ^XvcczkRo
 			"containerId": "7cmhsbuhFQ6FbSECgn2yQ",
 			"originalText": "input.className",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17708,7 +17723,7 @@ Product API ^XvcczkRo
 			"containerId": "A2A48_nbZ_nRQi0lJ6adF",
 			"originalText": "input.value",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -17786,7 +17801,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "실시간 동기화",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -17825,7 +17840,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "단방향 실시간 동기화",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -17862,7 +17877,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "value를 변경하더라도 속성값에 바로 반영되지 않는다.\n속성값을 변경해야 프로퍼티값이 변경된다.",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -17899,7 +17914,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "사용자의 입력 값을 받기 위한 input을 다시 속성값에 반영하려고 한다는 것.\nvalue의 속성을 저장하려고 input의 초깃값을 다시 리셋하는 것.",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -17936,7 +17951,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "불가능",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -17973,7 +17988,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "사용자 input을 value 속성에 반영하려고 하는 경우 할당하려는 값을 잃어버려서 리셋할 수 없게 된다.",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -18010,7 +18025,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "traversing the DOM",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -18107,12 +18122,12 @@ Product API ^XvcczkRo
 			"containerId": "091jO7WQ7K-l0UaTviu6-",
 			"originalText": "현재 노드",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 1334,
-			"versionNonce": 2001072622,
+			"version": 1354,
+			"versionNonce": 680713142,
 			"isDeleted": false,
 			"id": "rMfibXvXXvC_CuVFQTJgy",
 			"fillStyle": "solid",
@@ -18134,7 +18149,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708067309728,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18203,12 +18218,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "childNodes()\nchildren()\nquerySelector()",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "arrow",
-			"version": 456,
-			"versionNonce": 2043511854,
+			"version": 466,
+			"versionNonce": 56779434,
 			"isDeleted": false,
 			"id": "ZUvNEymhGiLyNVVQr3XOZ",
 			"fillStyle": "solid",
@@ -18230,7 +18245,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708067309728,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18255,8 +18270,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 733,
-			"versionNonce": 1994300850,
+			"version": 753,
+			"versionNonce": 1326366122,
 			"isDeleted": false,
 			"id": "s7okwzkmruzDNA0XAs-C3",
 			"fillStyle": "solid",
@@ -18278,7 +18293,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708067309728,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18347,7 +18362,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "firstChild()\nfirstElementChild()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -18386,12 +18401,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "lastChild()\nlastElementChild()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 711,
-			"versionNonce": 757125294,
+			"version": 731,
+			"versionNonce": 724910122,
 			"isDeleted": false,
 			"id": "_ku2qWWkD_0431WL0Jq_t",
 			"fillStyle": "solid",
@@ -18413,7 +18428,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708067309728,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18442,8 +18457,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 808,
-			"versionNonce": 1318345010,
+			"version": 828,
+			"versionNonce": 655654250,
 			"isDeleted": false,
 			"id": "g4Pwpkl1cD2NpMBylOq2G",
 			"fillStyle": "solid",
@@ -18465,7 +18480,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708067309728,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18534,7 +18549,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "previousSibling()\npreviousElementSibling()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -18578,7 +18593,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "nextSibling()\nnextElementSibling()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -18622,12 +18637,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "parentNode()\nparentElement()\nclosest()",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "arrow",
-			"version": 767,
-			"versionNonce": 296826034,
+			"version": 787,
+			"versionNonce": 1538239210,
 			"isDeleted": false,
 			"id": "pPVlmXCTZKKlZ9VD9jBbW",
 			"fillStyle": "solid",
@@ -18649,7 +18664,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708067309728,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -19093,7 +19108,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Creation & Inserting Elements",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19166,7 +19181,7 @@ Product API ^XvcczkRo
 			"containerId": "MHFokJVJHmnUD4LZ7_j-N",
 			"originalText": "HTML 코드",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19239,7 +19254,7 @@ Product API ^XvcczkRo
 			"containerId": "q9L6x9bhfrV7nrIv4vO7z",
 			"originalText": "createElement()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19312,7 +19327,7 @@ Product API ^XvcczkRo
 			"containerId": "kkQsMEPCxvIftyjRzyeZI",
 			"originalText": "innerHTML",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19385,7 +19400,7 @@ Product API ^XvcczkRo
 			"containerId": "0gqBuDtjjgWQ-qFDF4L3F",
 			"originalText": "insertAdacentHTML()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -19424,7 +19439,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": ": HTML 문자열 추가",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -19463,7 +19478,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": ":특정 부분에 HTML 문자열 추가",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19536,7 +19551,7 @@ Product API ^XvcczkRo
 			"containerId": "lDPQllJKhNDTjrlSTs_dz",
 			"originalText": "appendChild()\nappend()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -19682,7 +19697,7 @@ Product API ^XvcczkRo
 			"containerId": "12E5FSczBGZ0ejO41D2Jy",
 			"originalText": "replaceChild()\nreplaceWith()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -19721,7 +19736,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": ": 새로운 DOM 요소/노드 추가",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -19760,7 +19775,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": ": 새로운 DOM 요소/노드 특정 위치에 삽입",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -19799,7 +19814,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": ": 기존 DOM 요소/노드 대체",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "image",
@@ -19964,7 +19979,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "{name: 'Max', age: 30},\n{name : 'Manuel', age: 31}",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "text",
@@ -20004,7 +20019,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "map()은 객체의 내용으로 새로운 배열을 만들어 반환",
 			"lineHeight": 1.2,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -20209,7 +20224,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "전개연산을 통해 다시 요소 해체",
 			"lineHeight": 1.2,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -20339,7 +20354,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "해체된 요소를 다시 배열로 묶음",
 			"lineHeight": 1.2,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -20376,7 +20391,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Object VS Map VS Set",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20449,7 +20464,7 @@ Product API ^XvcczkRo
 			"containerId": "iEcizWLCH0iRU9cyBT8ZS",
 			"originalText": "key: 어떤 값이라도 키가 될 수 있음",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -20522,7 +20537,7 @@ Product API ^XvcczkRo
 			"containerId": "q9Pa-2afdtm5-BfcdxiAo",
 			"originalText": "Map",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20595,7 +20610,7 @@ Product API ^XvcczkRo
 			"containerId": "ydyUaAkyCn_rvFL2Q5N66",
 			"originalText": "요소가 많을 경우 object 보다 성능적으로 유리하다.",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -20668,7 +20683,7 @@ Product API ^XvcczkRo
 			"containerId": "o-jOBDNo73zEViLPKc50b",
 			"originalText": "데이터를 자주\n(초당 여러 번) \n추가/제거 할 때 유리",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -20741,7 +20756,7 @@ Product API ^XvcczkRo
 			"containerId": "1oRBLo7dM5lAB5S0gXtVK",
 			"originalText": "object",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20814,7 +20829,7 @@ Product API ^XvcczkRo
 			"containerId": "2nVKc4Xh_u9m9zkn_1KoJ",
 			"originalText": "key: string, number, symbol",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -20960,7 +20975,7 @@ Product API ^XvcczkRo
 			"containerId": "aylcEI4oWRMgoUd77MGtK",
 			"originalText": "쉽고 빠르게 \n생성할 수 있다.\n성능 측면에서도 좋음.",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "image",
@@ -22172,7 +22187,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "offsetTop",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -22211,7 +22226,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "offsetLeft",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -22250,7 +22265,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "clientLeft",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -22289,7 +22304,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "clientTop",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -22328,7 +22343,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "clientWidth",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -22367,7 +22382,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "offsetWidth",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -22406,7 +22421,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "clientHeight",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -22445,7 +22460,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "offsetHeight",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -22484,7 +22499,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "scrollHeight",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -22561,7 +22576,7 @@ Product API ^XvcczkRo
 			"containerId": "08WFJXOpcr9-U1GPpAbXr",
 			"originalText": "Person",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -22638,7 +22653,7 @@ Product API ^XvcczkRo
 			"containerId": "mltzqzAxiQdZ5o5dgPDoW",
 			"originalText": "function Person() {...}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -22711,7 +22726,7 @@ Product API ^XvcczkRo
 			"containerId": "q75E3OXbhcI1ZVHI-YheF",
 			"originalText": "class Person {...}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -22750,7 +22765,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "생성자 함수 또는 클래스를 기반으로하여 생성된다.",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -22871,7 +22886,7 @@ Product API ^XvcczkRo
 			"containerId": "tAezjKO1srCcZyowd9R0l",
 			"originalText": "\n\n{...}",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -22944,7 +22959,7 @@ Product API ^XvcczkRo
 			"containerId": "xHQV75Mp6IJLkHV-A01C2",
 			"originalText": "Person.prototype",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -22983,12 +22998,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "기본 프로토타입 또는\n수동으로 할당된 프로토타입",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 358,
-			"versionNonce": 2146376494,
+			"version": 368,
+			"versionNonce": 310212714,
 			"isDeleted": false,
 			"id": "kuhuptwYrG8HsvamSFF_a",
 			"fillStyle": "solid",
@@ -23010,7 +23025,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708067309745,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -23035,8 +23050,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 897,
-			"versionNonce": 243660466,
+			"version": 917,
+			"versionNonce": 2021923638,
 			"isDeleted": false,
 			"id": "LYRi6KRgY9xItC3fZ_huL",
 			"fillStyle": "solid",
@@ -23058,7 +23073,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708067309746,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -23126,7 +23141,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "객체의 인스턴스가 생성될 때\n생성자 프로토타입이 할당된다.",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -23258,7 +23273,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "<button>",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -23347,7 +23362,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "<section>",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -23441,7 +23456,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "capturing",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -23485,7 +23500,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "bubbling",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -23524,7 +23539,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "<div>",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23597,7 +23612,7 @@ Product API ^XvcczkRo
 			"containerId": "K-4cJSiwFx1OHaJcWnMVH",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23670,7 +23685,7 @@ Product API ^XvcczkRo
 			"containerId": "o9pIUxBr2G65XDx4WJ3E5",
 			"originalText": "moreCode()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23743,7 +23758,7 @@ Product API ^XvcczkRo
 			"containerId": "W5SdjYOG6BJtjvI3vdO26",
 			"originalText": "setTimeOut()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23816,7 +23831,7 @@ Product API ^XvcczkRo
 			"containerId": "5dAZlmlLHX2G8ofCh47Ey",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23889,7 +23904,7 @@ Product API ^XvcczkRo
 			"containerId": "OgCQajnmZbHVK4DTFvn7j",
 			"originalText": "moreCode()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23966,7 +23981,7 @@ Product API ^XvcczkRo
 			"containerId": "HcE2wDE_zXeU78SZ4kTZk",
 			"originalText": "setTimeOut()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -24005,7 +24020,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "자바스크립트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -24044,7 +24059,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "브라우저 태스크",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -24146,12 +24161,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "콜백",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 358,
-			"versionNonce": 1344785646,
+			"version": 368,
+			"versionNonce": 1439095594,
 			"isDeleted": false,
 			"id": "6fOW-tipod8pkntMUGb-k",
 			"fillStyle": "solid",
@@ -24173,7 +24188,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708067309750,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -24311,7 +24326,7 @@ Product API ^XvcczkRo
 			"containerId": "Saj6zrhhMdYqA7hEys2K1",
 			"originalText": "const greet = () => {\n  console.log('hi');\n}\n\nconst showAlert = () => {\n  alert('Danger');\n}\n\nsetTimeout(showAlert, 2000);\n\ngreet();",
 			"lineHeight": 1.2,
-			"baseline": 245
+			"baseline": 246
 		},
 		{
 			"type": "rectangle",
@@ -24491,7 +24506,7 @@ Product API ^XvcczkRo
 			"containerId": "oMEHkA00W1BFPoCjk2xzs",
 			"originalText": "Code",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -24566,7 +24581,7 @@ Product API ^XvcczkRo
 			"containerId": "LrynFrNR75yj-Oq5HL8tX",
 			"originalText": "Stack",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -24641,7 +24656,7 @@ Product API ^XvcczkRo
 			"containerId": "98tI4As1rU8foQ-CCsCmF",
 			"originalText": "Browser API",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -24681,7 +24696,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "JavaScript Engine",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -24756,7 +24771,7 @@ Product API ^XvcczkRo
 			"containerId": "5njDgdSxxUrHVH-ckYolj",
 			"originalText": "Message\nQueue",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -24938,7 +24953,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Event Loop",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25013,7 +25028,7 @@ Product API ^XvcczkRo
 			"containerId": "J2znp5keoxit31asu5FxM",
 			"originalText": "greet()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25088,7 +25103,7 @@ Product API ^XvcczkRo
 			"containerId": "XDGEpnnJsJMuNPqQ23cy1",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25163,7 +25178,7 @@ Product API ^XvcczkRo
 			"containerId": "dbVdzUDELSTGkB45HQsZZ",
 			"originalText": "setTimeout()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25268,7 +25283,7 @@ Product API ^XvcczkRo
 			"containerId": "XnxwTr2kHGOT4eFtZrpV6",
 			"originalText": "const greet = () => {\n  console.log('hi');\n}\n\nconst showAlert = () => {\n  alert('Danger');\n}\n\nsetTimeout(showAlert, 2000);\n\ngreet();",
 			"lineHeight": 1.2,
-			"baseline": 245
+			"baseline": 246
 		},
 		{
 			"type": "rectangle",
@@ -25448,7 +25463,7 @@ Product API ^XvcczkRo
 			"containerId": "aZOaQqywoJORIQAzUTJGB",
 			"originalText": "Code",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25523,7 +25538,7 @@ Product API ^XvcczkRo
 			"containerId": "07PwZNW9_x0JLzy5Bxye2",
 			"originalText": "Stack",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25598,7 +25613,7 @@ Product API ^XvcczkRo
 			"containerId": "Y1CZypBFnWGwMSwKwDKnY",
 			"originalText": "Browser API",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -25638,7 +25653,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "JavaScript Engine",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25713,7 +25728,7 @@ Product API ^XvcczkRo
 			"containerId": "DUbhAlcYrVs4I85osafiL",
 			"originalText": "Message\nQueue",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -25895,7 +25910,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Event Loop",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25970,7 +25985,7 @@ Product API ^XvcczkRo
 			"containerId": "l5L7SfRZ7XXx2jigfBTBW",
 			"originalText": "greet()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26045,7 +26060,7 @@ Product API ^XvcczkRo
 			"containerId": "AvnEK2fvWwxYwgBbo3GF7",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26120,7 +26135,7 @@ Product API ^XvcczkRo
 			"containerId": "wdBfxoMKMp6ot3hOd1j4O",
 			"originalText": "showArlert()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26222,7 +26237,7 @@ Product API ^XvcczkRo
 			"containerId": "h5zas_1_r5awvfGQ4HhEB",
 			"originalText": "const greet = () => {\n  console.log('hi');\n}\n\nconst showAlert = () {\n  alert('Danger');\n}\n\nsetTimeout(showAlert, 2000);\n\ngreet();",
 			"lineHeight": 1.2,
-			"baseline": 226
+			"baseline": 227
 		},
 		{
 			"type": "rectangle",
@@ -26397,7 +26412,7 @@ Product API ^XvcczkRo
 			"containerId": "Dkqcw58G2yFJWg-o__1SM",
 			"originalText": "Code",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26470,7 +26485,7 @@ Product API ^XvcczkRo
 			"containerId": "w0jVDWLHMX9cZEyd3yvPI",
 			"originalText": "Stack",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26543,7 +26558,7 @@ Product API ^XvcczkRo
 			"containerId": "acDri5KfNq51hmOO11mWJ",
 			"originalText": "Browser API",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -26582,7 +26597,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "JavaScript Engine",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26655,7 +26670,7 @@ Product API ^XvcczkRo
 			"containerId": "P41KNdinsrG_dDQzzWsDc",
 			"originalText": "Message\nQueue",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -26838,7 +26853,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Event Loop",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26915,7 +26930,7 @@ Product API ^XvcczkRo
 			"containerId": "GsNL-qktTitCe9RFFRNqP",
 			"originalText": "showAlert()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26988,12 +27003,12 @@ Product API ^XvcczkRo
 			"containerId": "rB4zmZMw348zwUnRPw-gV",
 			"originalText": "alert()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 551,
-			"versionNonce": 1768013870,
+			"version": 561,
+			"versionNonce": 1929856118,
 			"isDeleted": false,
 			"id": "5IIBLzBlyC8kMy77ElKcP",
 			"fillStyle": "solid",
@@ -27017,7 +27032,7 @@ Product API ^XvcczkRo
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708067309767,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -27654,7 +27669,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "상품 전시",
 			"lineHeight": 1.2,
-			"baseline": 62
+			"baseline": 61
 		},
 		{
 			"type": "rectangle",
@@ -28068,7 +28083,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "결제",
 			"lineHeight": 1.2,
-			"baseline": 62
+			"baseline": 61
 		},
 		{
 			"type": "rectangle",
@@ -28476,8 +28491,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 408,
-			"versionNonce": 1255284014,
+			"version": 428,
+			"versionNonce": 500385206,
 			"isDeleted": false,
 			"id": "JuG90COifgQIwcHke1aW0",
 			"fillStyle": "solid",
@@ -28499,7 +28514,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708067309776,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -28605,7 +28620,7 @@ Product API ^XvcczkRo
 			"containerId": "ErNI0T6Hw_A-swiixU9lS",
 			"originalText": "서비스 리스너",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -28686,7 +28701,7 @@ Product API ^XvcczkRo
 			"containerId": "ADaE61LPp4yxXGhJDUVO6",
 			"originalText": "application",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "ellipse",
@@ -28910,12 +28925,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 399,
-			"versionNonce": 175039858,
+			"version": 439,
+			"versionNonce": 1547292726,
 			"isDeleted": false,
 			"id": "GXbcKj4uUHtb-AW5j1B6F",
 			"fillStyle": "solid",
@@ -28937,7 +28952,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708067309777,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -28966,8 +28981,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 386,
-			"versionNonce": 1148314286,
+			"version": 406,
+			"versionNonce": 540957046,
 			"isDeleted": false,
 			"id": "_WU6v2KrXjwcK89EtC2fN",
 			"fillStyle": "solid",
@@ -28989,7 +29004,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708067309777,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -29053,7 +29068,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "end point",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -29097,7 +29112,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "request",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "diamond",
@@ -29323,7 +29338,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "application",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "line",
@@ -29694,7 +29709,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "REST",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -29733,7 +29748,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "SOAP",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -29772,7 +29787,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "TEST",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -29811,7 +29826,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "EI",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -29850,7 +29865,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "MQ",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -29889,7 +29904,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "SQL",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -29928,7 +29943,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "NoSQL",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -29967,7 +29982,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "File\nSource",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "ellipse",
@@ -30037,7 +30052,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "ENV",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -30534,7 +30549,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "HTML5 App",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -30573,7 +30588,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Test Agent",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -30612,7 +30627,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "MQ Service",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -30651,7 +30666,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "SQL server",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -30690,7 +30705,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "In-Memory",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -30731,8 +30746,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "rectangle",
-			"version": 269,
-			"versionNonce": 1139521710,
+			"version": 275,
+			"versionNonce": 1830307446,
 			"isDeleted": false,
 			"id": "uGK3oYbvSCjcb-yDAf9Xh",
 			"fillStyle": "solid",
@@ -30741,7 +30756,7 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6863.809426333036,
+			"x": 6863.483550347476,
 			"y": 4495.502618167734,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
@@ -30769,14 +30784,14 @@ Product API ^XvcczkRo
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708066815812,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 292,
-			"versionNonce": 206303538,
+			"version": 296,
+			"versionNonce": 42924982,
 			"isDeleted": false,
 			"id": "HJOwgFDO",
 			"fillStyle": "solid",
@@ -30785,7 +30800,7 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6886.119439150419,
+			"x": 6885.793563164859,
 			"y": 4506.702618167734,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
@@ -30796,7 +30811,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708063864157,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30808,7 +30823,7 @@ Product API ^XvcczkRo
 			"containerId": "uGK3oYbvSCjcb-yDAf9Xh",
 			"originalText": "API Gateway\nHTML, CSS, JS\n인증, 인가, 라우트",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -30881,12 +30896,12 @@ Product API ^XvcczkRo
 			"containerId": "GkrDTJo4EJNKx7LwgvP3P",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 433,
-			"versionNonce": 1000072494,
+			"version": 437,
+			"versionNonce": 892882806,
 			"isDeleted": false,
 			"id": "SibYaYYkD3KZg6uFhvva2",
 			"fillStyle": "solid",
@@ -30895,8 +30910,8 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6861.807742642074,
-			"y": 4129.736570566507,
+			"x": 6861.811761959854,
+			"y": 4129.611841460335,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 179,
@@ -30915,14 +30930,14 @@ Product API ^XvcczkRo
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708067340589,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 455,
-			"versionNonce": 1214434482,
+			"version": 475,
+			"versionNonce": 349113066,
 			"isDeleted": false,
 			"id": "IiOQLFIE",
 			"fillStyle": "solid",
@@ -30931,30 +30946,30 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6909.120242642074,
-			"y": 4160.136570566507,
+			"x": 6904.436761959854,
+			"y": 4160.011841460335,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 84.375,
+			"width": 93.75,
 			"height": 19.2,
 			"seed": 521407594,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708067340589,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "User Stat",
-			"rawText": "User Stat",
+			"text": "management",
+			"rawText": "management",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "SibYaYYkD3KZg6uFhvva2",
-			"originalText": "User Stat",
+			"originalText": "management",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -30993,7 +31008,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -31166,8 +31181,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 634,
-			"versionNonce": 1408561650,
+			"version": 648,
+			"versionNonce": 1283891434,
 			"isDeleted": false,
 			"id": "XC_STcmUvy2Dywv9aQc3I",
 			"fillStyle": "solid",
@@ -31180,7 +31195,7 @@ Product API ^XvcczkRo
 			"y": 4717.424331215112,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1.3354734182275934,
+			"width": 1.100139982584551,
 			"height": 130.81515201068487,
 			"seed": 2043744810,
 			"groupIds": [],
@@ -31192,7 +31207,7 @@ Product API ^XvcczkRo
 					"id": "HS2ZKQrc"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708067309778,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -31210,7 +31225,7 @@ Product API ^XvcczkRo
 					0
 				],
 				[
-					1.3354734182275934,
+					1.100139982584551,
 					-130.81515201068487
 				]
 			]
@@ -31250,12 +31265,12 @@ Product API ^XvcczkRo
 			"containerId": "XC_STcmUvy2Dywv9aQc3I",
 			"originalText": "load할 페이지 및 \n소스코드 제공",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 1159,
-			"versionNonce": 338027442,
+			"version": 1211,
+			"versionNonce": 695706678,
 			"isDeleted": false,
 			"id": "EZdBL6hE7vxXahet9IjpC",
 			"fillStyle": "solid",
@@ -31264,12 +31279,12 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6862.979453966696,
-			"y": 4479.524159359979,
+			"x": 6862.699785844796,
+			"y": 4479.521826159691,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 129.4174710571915,
-			"height": 102.4042223722081,
+			"width": 129.46259024861138,
+			"height": 102.40188917191972,
 			"seed": 1523716522,
 			"groupIds": [],
 			"frameId": null,
@@ -31280,7 +31295,7 @@ Product API ^XvcczkRo
 					"id": "fzZVp4Tk"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708067319343,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -31302,8 +31317,8 @@ Product API ^XvcczkRo
 					0
 				],
 				[
-					-129.4174710571915,
-					-102.4042223722081
+					-129.46259024861138,
+					-102.40188917191972
 				]
 			]
 		},
@@ -31342,12 +31357,12 @@ Product API ^XvcczkRo
 			"containerId": "EZdBL6hE7vxXahet9IjpC",
 			"originalText": "회원 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 1007,
-			"versionNonce": 215129458,
+			"version": 1055,
+			"versionNonce": 339317034,
 			"isDeleted": false,
 			"id": "3tzKd1x_txJOKJJ0q3wLg",
 			"fillStyle": "solid",
@@ -31356,12 +31371,12 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7056.397159420101,
-			"y": 4486.468534471396,
+			"x": 7056.098542125463,
+			"y": 4486.50966773069,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 210.34446181823478,
-			"height": 213.2060113354919,
+			"width": 210.60435882351885,
+			"height": 213.24714459478582,
 			"seed": 266583670,
 			"groupIds": [],
 			"frameId": null,
@@ -31372,7 +31387,7 @@ Product API ^XvcczkRo
 					"id": "HZSJCYBi"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708067309781,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -31394,8 +31409,8 @@ Product API ^XvcczkRo
 					0
 				],
 				[
-					210.34446181823478,
-					-213.2060113354919
+					210.60435882351885,
+					-213.24714459478582
 				]
 			]
 		},
@@ -31434,12 +31449,12 @@ Product API ^XvcczkRo
 			"containerId": "3tzKd1x_txJOKJJ0q3wLg",
 			"originalText": "실시간 게임",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 871,
-			"versionNonce": 1262624562,
+			"version": 890,
+			"versionNonce": 1937700726,
 			"isDeleted": false,
 			"id": "nHHqSLc-zcCprkjMKoXUX",
 			"fillStyle": "solid",
@@ -31452,8 +31467,8 @@ Product API ^XvcczkRo
 			"y": 4459.90521782986,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0.1414799192261853,
-			"height": 230.90914871245786,
+			"width": 0.1447171184427134,
+			"height": 231.03387781862966,
 			"seed": 1367219254,
 			"groupIds": [],
 			"frameId": null,
@@ -31464,7 +31479,7 @@ Product API ^XvcczkRo
 					"id": "OeXcGoWv"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708067363239,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -31482,8 +31497,8 @@ Product API ^XvcczkRo
 					0
 				],
 				[
-					0.1414799192261853,
-					-230.90914871245786
+					0.1447171184427134,
+					-231.03387781862966
 				]
 			]
 		},
@@ -31522,7 +31537,7 @@ Product API ^XvcczkRo
 			"containerId": "nHHqSLc-zcCprkjMKoXUX",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -31563,8 +31578,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "rectangle",
-			"version": 646,
-			"versionNonce": 815879982,
+			"version": 648,
+			"versionNonce": 1922696362,
 			"isDeleted": false,
 			"id": "qA7RfEclZ-_eDzf7uyVNB",
 			"fillStyle": "solid",
@@ -31573,7 +31588,7 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6605.099030075179,
+			"x": 6604.7584771876855,
 			"y": 4319.038376253985,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
@@ -31593,14 +31608,14 @@ Product API ^XvcczkRo
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708067319343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 638,
-			"versionNonce": 639990450,
+			"version": 640,
+			"versionNonce": 527790838,
 			"isDeleted": false,
 			"id": "rZiLOfaC",
 			"fillStyle": "solid",
@@ -31609,7 +31624,7 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6681.724030075179,
+			"x": 6681.3834771876855,
 			"y": 4333.938376253985,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
@@ -31620,7 +31635,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708067319343,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31632,7 +31647,7 @@ Product API ^XvcczkRo
 			"containerId": "qA7RfEclZ-_eDzf7uyVNB",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -31701,7 +31716,7 @@ Product API ^XvcczkRo
 			"containerId": "sa1XGw5iuGy5IyHvH5HiX",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -31770,7 +31785,7 @@ Product API ^XvcczkRo
 			"containerId": "Z10ID7qpbGgbeyuV0Sc2a",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -31807,7 +31822,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Client-Side Service discovery",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -31884,7 +31899,7 @@ Product API ^XvcczkRo
 			"containerId": "RG8U4gNNCa3aqGklUg7qe",
 			"originalText": "service registry",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -31969,7 +31984,7 @@ Product API ^XvcczkRo
 			"containerId": "bet27PCad_-nT-cFUNiLS",
 			"originalText": "Client",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -32042,7 +32057,7 @@ Product API ^XvcczkRo
 			"containerId": "keIkph9NDcsDM05lsHQHB",
 			"originalText": "microservice #1",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -32115,7 +32130,7 @@ Product API ^XvcczkRo
 			"containerId": "18kmjJKrKvt4t1aK_3J95",
 			"originalText": "microservice #2",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -32188,12 +32203,12 @@ Product API ^XvcczkRo
 			"containerId": "SlvFrhLO67Zpsk6wudP3D",
 			"originalText": "microservice #3",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 474,
-			"versionNonce": 869935282,
+			"version": 494,
+			"versionNonce": 1516652790,
 			"isDeleted": false,
 			"id": "asNQ79xSbGRTlDGyAPq_t",
 			"fillStyle": "solid",
@@ -32217,7 +32232,7 @@ Product API ^XvcczkRo
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708067309786,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -32250,8 +32265,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 265,
-			"versionNonce": 750744430,
+			"version": 275,
+			"versionNonce": 481782122,
 			"isDeleted": false,
 			"id": "LJK2uj9uAh5kv_oyXcqYP",
 			"fillStyle": "solid",
@@ -32275,7 +32290,7 @@ Product API ^XvcczkRo
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708067309786,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -32339,7 +32354,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "microservice #1\nquery",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -32378,12 +32393,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "123.12.12.1",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 375,
-			"versionNonce": 1684612146,
+			"version": 385,
+			"versionNonce": 1004386870,
 			"isDeleted": false,
 			"id": "RFuIIeENgx2MSuetVHG5W",
 			"fillStyle": "solid",
@@ -32407,7 +32422,7 @@ Product API ^XvcczkRo
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708067309786,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -32471,7 +32486,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "API call",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -32660,7 +32675,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "registration",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -32825,7 +32840,7 @@ Product API ^XvcczkRo
 			"containerId": "ZRU1GZT8stGaM2IZbiepF",
 			"originalText": "API Gateway\nHTML, CSS, JS\n인증, 인가, 라우트",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -32898,7 +32913,7 @@ Product API ^XvcczkRo
 			"containerId": "71jfYyrI8Pu7OnMpQhNsZ",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -32971,7 +32986,7 @@ Product API ^XvcczkRo
 			"containerId": "L43hBZoMKnng5DIq8AL97",
 			"originalText": "User Stat",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -33010,7 +33025,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -33183,8 +33198,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "arrow",
-			"version": 637,
-			"versionNonce": 1870672942,
+			"version": 647,
+			"versionNonce": 1167764522,
 			"isDeleted": false,
 			"id": "7u64WXDwMisA9BKzTYKuH",
 			"fillStyle": "solid",
@@ -33209,7 +33224,7 @@ Product API ^XvcczkRo
 					"id": "Kltz9woC"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708067309789,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -33267,12 +33282,12 @@ Product API ^XvcczkRo
 			"containerId": "7u64WXDwMisA9BKzTYKuH",
 			"originalText": "load할 페이지 및 \n소스코드 제공",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 1383,
-			"versionNonce": 1845853806,
+			"version": 1423,
+			"versionNonce": 424305770,
 			"isDeleted": false,
 			"id": "T-2WlzLlGiBL1-Bl6sV1G",
 			"fillStyle": "solid",
@@ -33297,7 +33312,7 @@ Product API ^XvcczkRo
 					"id": "TcIAJ8RJ"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708067309791,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -33359,12 +33374,12 @@ Product API ^XvcczkRo
 			"containerId": "T-2WlzLlGiBL1-Bl6sV1G",
 			"originalText": "회원 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 1025,
-			"versionNonce": 2045214894,
+			"version": 1035,
+			"versionNonce": 1620124854,
 			"isDeleted": false,
 			"id": "PZIoDppPTVDqWS_vgbk-Q",
 			"fillStyle": "solid",
@@ -33389,7 +33404,7 @@ Product API ^XvcczkRo
 					"id": "HnzNJaWz"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708067309790,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -33447,12 +33462,12 @@ Product API ^XvcczkRo
 			"containerId": "PZIoDppPTVDqWS_vgbk-Q",
 			"originalText": "실시간 게임",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 837,
-			"versionNonce": 919550702,
+			"version": 847,
+			"versionNonce": 134818218,
 			"isDeleted": false,
 			"id": "aafqKH_cwgNrkf8ZDV7vi",
 			"fillStyle": "solid",
@@ -33477,7 +33492,7 @@ Product API ^XvcczkRo
 					"id": "1WUkGuSn"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708067309790,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -33535,7 +33550,7 @@ Product API ^XvcczkRo
 			"containerId": "aafqKH_cwgNrkf8ZDV7vi",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -33608,7 +33623,7 @@ Product API ^XvcczkRo
 			"containerId": "GJtAGiUfQU8yjDy-Vwm3j",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -33677,7 +33692,7 @@ Product API ^XvcczkRo
 			"containerId": "r-wEsENA58VBKBIClJ_sg",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -33746,7 +33761,7 @@ Product API ^XvcczkRo
 			"containerId": "cuk5276mODBrFoeShvR34",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -33903,7 +33918,7 @@ Product API ^XvcczkRo
 			"containerId": "Mf7m9M_ApzStlrgJxPM_6",
 			"originalText": "User Stat",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -33972,7 +33987,7 @@ Product API ^XvcczkRo
 			"containerId": "OxEeFZeRva1reYCPxRpvW",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -34041,7 +34056,7 @@ Product API ^XvcczkRo
 			"containerId": "8Pw-uSFEK5D0W8mi21c6C",
 			"originalText": "- game helper\n- 토너먼트\n- 매칭 알고리즘",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "text",
@@ -34078,7 +34093,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "user id\nuser name\nuser wins\nuser loses\nuser rate\nuser state(on/off/playing)\nuser avatar\nuser rank\nuser status message\n\n업데이트\n로드",
 			"lineHeight": 1.2,
-			"baseline": 226
+			"baseline": 227
 		},
 		{
 			"type": "rectangle",
@@ -34325,7 +34340,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Template\n+\nHTML, CSS, JS",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -34434,7 +34449,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "프론트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -34543,7 +34558,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "백",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -34621,7 +34636,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "장고\n뷰",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -34660,7 +34675,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "장고\n쿼리셋",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -34699,7 +34714,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "장고\nSerializer",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -34738,7 +34753,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "장고\n모델",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -35321,7 +35336,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -35404,7 +35419,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "migrate\nmakemigrations",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -35441,12 +35456,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "User Management",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 115,
-			"versionNonce": 1708058738,
+			"version": 124,
+			"versionNonce": 1437466922,
 			"isDeleted": false,
 			"id": "Kb8BgK4L",
 			"fillStyle": "solid",
@@ -35455,8 +35470,8 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8119.423868447285,
-			"y": 4456.322517542909,
+			"x": 8126.704606385789,
+			"y": 4456.066342415298,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 65.625,
@@ -35466,7 +35481,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708068088661,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35478,7 +35493,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "Manager",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -35515,7 +35530,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "토너먼트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -35552,7 +35567,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "매칭 알고리즘",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -35589,7 +35604,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "토너먼트별 이름 설정",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -35626,7 +35641,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "게임 매칭",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -35663,7 +35678,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "게임",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -35694,8 +35709,8 @@ Product API ^XvcczkRo
 		},
 		{
 			"type": "text",
-			"version": 52,
-			"versionNonce": 1018840686,
+			"version": 53,
+			"versionNonce": 1910895082,
 			"isDeleted": false,
 			"id": "9xm7ZH0N",
 			"fillStyle": "solid",
@@ -35704,7 +35719,7 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8049.657943580404,
+			"x": 8049.782014759412,
 			"y": 4751.102052669345,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -35715,7 +35730,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708068111465,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35727,12 +35742,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "유저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
-			"version": 133,
-			"versionNonce": 935731058,
+			"version": 134,
+			"versionNonce": 2098854326,
 			"isDeleted": false,
 			"id": "BhEepihCI7GG7GuQEYa0R",
 			"fillStyle": "solid",
@@ -35741,7 +35756,7 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8036.265060889414,
+			"x": 8036.3891320684215,
 			"y": 4757.406674212575,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -35752,14 +35767,14 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708068111465,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 650332334,
+			"version": 154,
+			"versionNonce": 1961108650,
 			"isDeleted": false,
 			"id": "W66FDsy2",
 			"fillStyle": "solid",
@@ -35768,7 +35783,7 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8105.4434464309315,
+			"x": 8105.567517609939,
 			"y": 4793.266428283877,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -35779,7 +35794,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708068111465,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35791,12 +35806,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "유저 정보 업데이트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 159,
-			"versionNonce": 276128050,
+			"version": 160,
+			"versionNonce": 1448956662,
 			"isDeleted": false,
 			"id": "ULOplWk2",
 			"fillStyle": "solid",
@@ -35805,7 +35820,7 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8104.208389837386,
+			"x": 8104.332461016394,
 			"y": 4864.58524044747,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -35816,7 +35831,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708068111465,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35828,12 +35843,12 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "유저 정보 불러오기",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 229,
-			"versionNonce": 1693582062,
+			"version": 230,
+			"versionNonce": 1192099690,
 			"isDeleted": false,
 			"id": "dYaNXgPK",
 			"fillStyle": "solid",
@@ -35842,7 +35857,7 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8105.420621976431,
+			"x": 8105.544693155439,
 			"y": 4829.762731030704,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -35853,7 +35868,7 @@ Product API ^XvcczkRo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708068111465,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35865,7 +35880,7 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "유저 상태 업데이트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -36127,91 +36142,95 @@ Product API ^XvcczkRo
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
-			"id": "Q6X-Bp4xwncHm0gQGjCaf",
 			"type": "rectangle",
-			"x": 2240.420966716232,
-			"y": -1593.3197464443742,
-			"width": 344.0577845061443,
-			"height": 322.55439072598665,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ebfbee",
+			"version": 132,
+			"versionNonce": 437821038,
+			"isDeleted": false,
+			"id": "Q6X-Bp4xwncHm0gQGjCaf",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2240.420966716232,
+			"y": -1593.3197464443742,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 344.0577845061443,
+			"height": 322.55439072598665,
+			"seed": 141301230,
 			"groupIds": [
 				"3VsZS1XRzHfADpeF66aAi"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 141301230,
-			"version": 132,
-			"versionNonce": 437821038,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707977401507,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "hqkRSLEw",
 			"type": "text",
-			"x": 2248.124142939163,
-			"y": -1585.8534838275762,
-			"width": 120.094970703125,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 147,
+			"versionNonce": 672745330,
+			"isDeleted": false,
+			"id": "hqkRSLEw",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2248.124142939163,
+			"y": -1585.8534838275762,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 120.094970703125,
+			"height": 19.2,
+			"seed": 627896366,
 			"groupIds": [
 				"3VsZS1XRzHfADpeF66aAi"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 627896366,
-			"version": 147,
-			"versionNonce": 672745330,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707977401507,
 			"link": null,
 			"locked": false,
-			"text": "장고 애플리케이션",
-			"rawText": "장고 애플리케이션",
 			"fontSize": 16,
 			"fontFamily": 3,
+			"text": "장고 애플리케이션",
+			"rawText": "장고 애플리케이션",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 15,
 			"containerId": null,
 			"originalText": "장고 애플리케이션",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 16
 		},
 		{
-			"id": "TLrkHGhSOwsYK-XfqYHNG",
 			"type": "rectangle",
-			"x": 2192.776294514844,
-			"y": -1522.042551081381,
-			"width": 97,
-			"height": 180,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffffff",
+			"version": 147,
+			"versionNonce": 1989583022,
+			"isDeleted": false,
+			"id": "TLrkHGhSOwsYK-XfqYHNG",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2192.776294514844,
+			"y": -1522.042551081381,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 97,
+			"height": 180,
+			"seed": 1921171246,
 			"groupIds": [
 				"3VsZS1XRzHfADpeF66aAi"
 			],
@@ -36219,10 +36238,6 @@ Product API ^XvcczkRo
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1921171246,
-			"version": 147,
-			"versionNonce": 1989583022,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -36234,43 +36249,43 @@ Product API ^XvcczkRo
 			"locked": false
 		},
 		{
-			"id": "cqbEgRBT",
 			"type": "text",
-			"x": 2234.3562963458985,
-			"y": -1441.6425510813808,
-			"width": 13.839996337890625,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 107,
+			"versionNonce": 1545832754,
+			"isDeleted": false,
+			"id": "cqbEgRBT",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2234.3562963458985,
+			"y": -1441.6425510813808,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 13.839996337890625,
+			"height": 19.2,
+			"seed": 781884594,
 			"groupIds": [
 				"3VsZS1XRzHfADpeF66aAi"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 781884594,
-			"version": 107,
-			"versionNonce": 1545832754,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707977401507,
 			"link": null,
 			"locked": false,
-			"text": "뷰",
-			"rawText": "뷰",
 			"fontSize": 16,
 			"fontFamily": 3,
+			"text": "뷰",
+			"rawText": "뷰",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 15,
 			"containerId": "TLrkHGhSOwsYK-XfqYHNG",
 			"originalText": "뷰",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -36345,7 +36360,7 @@ Product API ^XvcczkRo
 			"containerId": "-eq4p9FtIZENnLyp1FO7_",
 			"originalText": "Serializer",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -36420,23 +36435,27 @@ Product API ^XvcczkRo
 			"containerId": "tM2Gk16oNvaEML1mrDxxf",
 			"originalText": "모델",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
-			"id": "rJ214bXlX6tmAL4-WvKYS",
 			"type": "rectangle",
-			"x": 2096.602198644184,
-			"y": -1514.4740912491734,
-			"width": 123,
-			"height": 47,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffffff",
+			"version": 155,
+			"versionNonce": 506918766,
+			"isDeleted": false,
+			"id": "rJ214bXlX6tmAL4-WvKYS",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2096.602198644184,
+			"y": -1514.4740912491734,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 123,
+			"height": 47,
+			"seed": 373634034,
 			"groupIds": [
 				"3VsZS1XRzHfADpeF66aAi"
 			],
@@ -36444,10 +36463,6 @@ Product API ^XvcczkRo
 			"roundness": {
 				"type": 3
 			},
-			"seed": 373634034,
-			"version": 155,
-			"versionNonce": 506918766,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -36459,43 +36474,43 @@ Product API ^XvcczkRo
 			"locked": false
 		},
 		{
-			"id": "VrsBCGf3",
 			"type": "text",
-			"x": 2120.602198644184,
-			"y": -1500.5740912491733,
-			"width": 75,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffffff",
+			"version": 145,
+			"versionNonce": 1047068274,
+			"isDeleted": false,
+			"id": "VrsBCGf3",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2120.602198644184,
+			"y": -1500.5740912491733,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 75,
+			"height": 19.2,
+			"seed": 1824735666,
 			"groupIds": [
 				"3VsZS1XRzHfADpeF66aAi"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1824735666,
-			"version": 145,
-			"versionNonce": 1047068274,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707977401507,
 			"link": null,
 			"locked": false,
-			"text": "User API",
-			"rawText": "User API",
 			"fontSize": 16,
 			"fontFamily": 3,
+			"text": "User API",
+			"rawText": "User API",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 15,
 			"containerId": "rJ214bXlX6tmAL4-WvKYS",
 			"originalText": "User API",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -36570,7 +36585,7 @@ Product API ^XvcczkRo
 			"containerId": "CnSIwaM4WXbQfr2cR9zaS",
 			"originalText": "Store API",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -36645,85 +36660,85 @@ Product API ^XvcczkRo
 			"containerId": "Kl77zixbskZpkFBidxo0X",
 			"originalText": "Product API",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
-			"id": "N5_8FcfiaGklBLAfkO20g",
 			"type": "rectangle",
-			"x": 2550.92517496215,
-			"y": -1496.487616952131,
-			"width": 19.70688130925018,
-			"height": 134.66368894654286,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e9ecef",
+			"version": 376,
+			"versionNonce": 2080476918,
+			"isDeleted": false,
+			"id": "N5_8FcfiaGklBLAfkO20g",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2550.778615616775,
+			"y": -1496.6557724788595,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 20,
+			"height": 135,
+			"seed": 1335144946,
 			"groupIds": [
 				"3VsZS1XRzHfADpeF66aAi"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1335144946,
-			"version": 375,
-			"versionNonce": 1188939310,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "DBe6yBQc"
 				}
 			],
-			"updated": 1707977401507,
+			"updated": 1708063596971,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "DBe6yBQc",
 			"type": "text",
-			"x": 2555.9821907510523,
-			"y": -1449.124214029317,
-			"width": 9.592849731445312,
-			"height": 39.936883100915,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffffff",
+			"version": 421,
+			"versionNonce": 1936423858,
+			"isDeleted": false,
+			"id": "DBe6yBQc",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2555.9821907510523,
+			"y": -1449.124214029317,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 9.592849731445312,
+			"height": 39.936883100915,
+			"seed": 1964145454,
 			"groupIds": [
 				"3VsZS1XRzHfADpeF66aAi"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1964145454,
-			"version": 421,
-			"versionNonce": 1936423858,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1707977401507,
 			"link": null,
 			"locked": false,
-			"text": "암\n호\n화",
-			"rawText": "암\n호\n화",
 			"fontSize": 11.093578639143056,
 			"fontFamily": 3,
+			"text": "암\n호\n화",
+			"rawText": "암\n호\n화",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 37,
 			"containerId": "N5_8FcfiaGklBLAfkO20g",
 			"originalText": "암\n호\n화",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 37
 		},
 		{
 			"type": "rectangle",
-			"version": 410,
-			"versionNonce": 1742786670,
+			"version": 411,
+			"versionNonce": 1775993706,
 			"isDeleted": false,
 			"id": "WQHjTC1hss4xe8_DBn0rE",
 			"fillStyle": "solid",
@@ -36732,12 +36747,12 @@ Product API ^XvcczkRo
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2574.241863145985,
-			"y": -1496.2675369066067,
+			"x": 2574.09530380061,
+			"y": -1496.4356924333351,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e9ecef",
-			"width": 19.70688130925018,
-			"height": 134.66368894654286,
+			"width": 20,
+			"height": 135,
 			"seed": 1999273330,
 			"groupIds": [
 				"3VsZS1XRzHfADpeF66aAi"
@@ -36750,7 +36765,7 @@ Product API ^XvcczkRo
 					"id": "IkcFXQP7"
 				}
 			],
-			"updated": 1707977401507,
+			"updated": 1708063596973,
 			"link": null,
 			"locked": false
 		},
@@ -36792,6 +36807,726 @@ Product API ^XvcczkRo
 			"originalText": "복호\n화",
 			"lineHeight": 1.2,
 			"baseline": 37
+		},
+		{
+			"type": "rectangle",
+			"version": 305,
+			"versionNonce": 551512618,
+			"isDeleted": false,
+			"id": "S0IaDVQQaTGUItahIG7Fo",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5826.9848596381225,
+			"y": 4501.407872130874,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 179,
+			"height": 80,
+			"seed": 1410466806,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "PQqQlopV"
+				},
+				{
+					"id": "xxzDh2V5iWDFD3HxOZgaG",
+					"type": "arrow"
+				}
+			],
+			"updated": 1708063859020,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 338,
+			"versionNonce": 1858282870,
+			"isDeleted": false,
+			"id": "PQqQlopV",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5860.2348596381225,
+			"y": 4531.807872130874,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 112.5,
+			"height": 19.2,
+			"seed": 509220150,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708063859020,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "domain logic",
+			"rawText": "domain logic",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "S0IaDVQQaTGUItahIG7Fo",
+			"originalText": "domain logic",
+			"lineHeight": 1.2,
+			"baseline": 16
+		},
+		{
+			"type": "text",
+			"version": 492,
+			"versionNonce": 1603383798,
+			"isDeleted": false,
+			"id": "96jngZTX",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5893.234486943785,
+			"y": 5080.273105819288,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 37.5,
+			"height": 19.2,
+			"seed": 537788022,
+			"groupIds": [
+				"Xchc8KyYTbm6g8HV4sVR8"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708063826386,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "User",
+			"rawText": "User",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "User",
+			"lineHeight": 1.2,
+			"baseline": 16
+		},
+		{
+			"type": "ellipse",
+			"version": 510,
+			"versionNonce": 1628639338,
+			"isDeleted": false,
+			"id": "ONGIIh6tR8wHDUZzzl0CB",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5877.131984858142,
+			"y": 5055.4596238329395,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 67.46618997763744,
+			"height": 67.46618997763744,
+			"seed": 770883510,
+			"groupIds": [
+				"Xchc8KyYTbm6g8HV4sVR8"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708063826386,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "line",
+			"version": 509,
+			"versionNonce": 968098614,
+			"isDeleted": false,
+			"id": "R9gcawk9azmqsakDa2OKC",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5911.8840627464715,
+			"y": 5124.244002143747,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.8629535981690424,
+			"height": 63.65096715782329,
+			"seed": 1009604854,
+			"groupIds": [
+				"Xchc8KyYTbm6g8HV4sVR8"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708063826386,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8629535981690424,
+					63.65096715782329
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 568,
+			"versionNonce": 1844015914,
+			"isDeleted": false,
+			"id": "mp5h6jgPreWjI_bxdBntJ",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5864.900481814727,
+			"y": 5106.886378742498,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 96.20719582115635,
+			"height": 33.073937970552834,
+			"seed": 1916979766,
+			"groupIds": [
+				"Xchc8KyYTbm6g8HV4sVR8"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708063826386,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					47.38388329640202,
+					33.073937970552834
+				],
+				[
+					96.20719582115635,
+					0.5691219833524883
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 748,
+			"versionNonce": 1442458742,
+			"isDeleted": false,
+			"id": "9v5eFYcTyUrP0Ap1mWPzz",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 3.168410758649909,
+			"x": 5879.333053821775,
+			"y": 5186.714512725543,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 67.37953387992184,
+			"height": 36.85381799359675,
+			"seed": 1058542454,
+			"groupIds": [
+				"Xchc8KyYTbm6g8HV4sVR8"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708063826386,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					33.69447504162781,
+					36.54141840743159
+				],
+				[
+					67.37953387992184,
+					-0.3123995861651565
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 698,
+			"versionNonce": 43135146,
+			"isDeleted": false,
+			"id": "7QJtvtvD6WslZC6U2mLAj",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5908.561949234214,
+			"y": 5037.744623889803,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.8578160028828279,
+			"height": 131.151554636308,
+			"seed": 1827812534,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "O9FQIYJi"
+				}
+			],
+			"updated": 1708063826456,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8578160028828279,
+					-131.151554636308
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 308,
+			"versionNonce": 1915301302,
+			"isDeleted": false,
+			"id": "O9FQIYJi",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5841.69952838078,
+			"y": 4953.13704788446,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 134.82498168945312,
+			"height": 38.4,
+			"seed": 896937462,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708063826386,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "load할 페이지 및 \n소스코드 제공",
+			"rawText": "load할 페이지 및 \n소스코드 제공",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "7QJtvtvD6WslZC6U2mLAj",
+			"originalText": "load할 페이지 및 \n소스코드 제공",
+			"lineHeight": 1.2,
+			"baseline": 35
+		},
+		{
+			"type": "rectangle",
+			"version": 729,
+			"versionNonce": 2131017718,
+			"isDeleted": false,
+			"id": "LjQykrtjG0e5yuHP9kR3q",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5823.720399621537,
+			"y": 4310.028630904398,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 1402624182,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "pBqEZbWA"
+				},
+				{
+					"id": "xxzDh2V5iWDFD3HxOZgaG",
+					"type": "arrow"
+				}
+			],
+			"updated": 1708063859876,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 721,
+			"versionNonce": 1889526378,
+			"isDeleted": false,
+			"id": "pBqEZbWA",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5900.345399621537,
+			"y": 4324.928630904397,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 1534710262,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708063859876,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "LjQykrtjG0e5yuHP9kR3q",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 16
+		},
+		{
+			"type": "arrow",
+			"version": 1053,
+			"versionNonce": 1758974442,
+			"isDeleted": false,
+			"id": "xxzDh2V5iWDFD3HxOZgaG",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5910.95571556061,
+			"y": 4485.407872130874,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.930738163051501,
+			"height": 117.16660214813692,
+			"seed": 1051449654,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "8JGRRgMx"
+				}
+			],
+			"updated": 1708067309802,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "S0IaDVQQaTGUItahIG7Fo",
+				"gap": 16,
+				"focus": -0.0665123791412984
+			},
+			"endBinding": {
+				"elementId": "LjQykrtjG0e5yuHP9kR3q",
+				"gap": 9.212639078339635,
+				"focus": -0.02823677033803361
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.930738163051501,
+					-117.16660214813692
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 258,
+			"versionNonce": 1338550006,
+			"isDeleted": false,
+			"id": "8JGRRgMx",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5814.114625655895,
+			"y": 4410.179483518173,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 199.55996704101562,
+			"height": 38.4,
+			"seed": 1502036598,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708063833406,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "JSON 데이터 형식으로 정보 \n교환",
+			"rawText": "JSON 데이터 형식으로 정보 교환",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "xxzDh2V5iWDFD3HxOZgaG",
+			"originalText": "JSON 데이터 형식으로 정보 교환",
+			"lineHeight": 1.2,
+			"baseline": 35
+		},
+		{
+			"type": "rectangle",
+			"version": 327,
+			"versionNonce": 1859302326,
+			"isDeleted": false,
+			"id": "k2TdOOokQvR7aNxlmYF5l",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5817.3998898834625,
+			"y": 4802.94694685001,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 179,
+			"height": 80,
+			"seed": 251229162,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "zZ8yzAZ2"
+				}
+			],
+			"updated": 1708063835341,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 357,
+			"versionNonce": 598477482,
+			"isDeleted": false,
+			"id": "zZ8yzAZ2",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5883.4623898834625,
+			"y": 4833.34694685001,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 46.875,
+			"height": 19.2,
+			"seed": 1748461226,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708063835341,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "nginx",
+			"rawText": "nginx",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "k2TdOOokQvR7aNxlmYF5l",
+			"originalText": "nginx",
+			"lineHeight": 1.2,
+			"baseline": 16
+		},
+		{
+			"type": "arrow",
+			"version": 1008,
+			"versionNonce": 861016182,
+			"isDeleted": false,
+			"id": "tT3EIx6wmZtPBB-qOe_yv",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5911.3976397998,
+			"y": 4748.164230370778,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 2.759951806366189,
+			"height": 136.93148940764786,
+			"seed": 1963755382,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "1onaBPaK"
+				}
+			],
+			"updated": 1708063842653,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.759951806366189,
+					-136.93148940764786
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 289,
+			"versionNonce": 585404854,
+			"isDeleted": false,
+			"id": "1onaBPaK",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5812.997632182476,
+			"y": 4660.4984856669535,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 199.55996704101562,
+			"height": 38.4,
+			"seed": 1412966582,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708063842761,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "JSON 데이터 형식으로 정보 \n교환",
+			"rawText": "JSON 데이터 형식으로 정보 교환",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "tT3EIx6wmZtPBB-qOe_yv",
+			"originalText": "JSON 데이터 형식으로 정보 교환",
+			"lineHeight": 1.2,
+			"baseline": 35
+		},
+		{
+			"id": "QEA105cb",
+			"type": "text",
+			"x": 6712.2461367807055,
+			"y": 4131.994424219503,
+			"width": 9.375,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1500460278,
+			"version": 2,
+			"versionNonce": 537083242,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1708067395784,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 16,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
@@ -36809,10 +37544,10 @@ Product API ^XvcczkRo
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "dot",
 		"currentItemEndArrowhead": null,
-		"scrollX": -1889.6494686951232,
-		"scrollY": 1972.1337150766738,
+		"scrollX": -7343.934662237333,
+		"scrollY": -4152.647876021388,
 		"zoom": {
-			"value": 1.1211892990699386
+			"value": 0.8908972160435957
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
