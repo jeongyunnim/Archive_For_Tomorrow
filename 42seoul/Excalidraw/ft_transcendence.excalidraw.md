@@ -805,26 +805,23 @@ API call ^dd8QP0au
 
 registration ^XebSLF7C
 
-API Gateway
-HTML, CSS, JS
-인증, 인가, 라우트 ^hhGsz5cg
+FE
+HTML, CSS, JS ^hhGsz5cg
 
 Game ^MqHw1uZL
 
-User Stat ^wZUSnEIX
+manager
+인증, 인가 ^wZUSnEIX
 
 User ^WP19WQUq
 
 load할 페이지 및 
 소스코드 제공 ^Kltz9woC
 
-회원 정보 ^TcIAJ8RJ
-
-실시간 게임 ^HnzNJaWz
+실시간 게임
+웹 소켓 ^HnzNJaWz
 
 JSON 데이터 형식으로 정보 교환 ^1WUkGuSn
-
-DB ^8zm9PImE
 
 DB ^OnxHv8tW
 
@@ -955,6 +952,58 @@ nginx ^zZ8yzAZ2
 
 JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 
+FE
+HTML, CSS, JS ^xT0OAsXX
+
+Game ^171isWIY
+
+manager
+인증, 인가 ^MIqPnyp3
+
+User ^BsgJ6t9J
+
+load할 페이지 및 
+소스코드 제공 ^peNE7Xfd
+
+회원? ^aOiqIaMK
+
+실시간 게임 ^u6TV54Mk
+
+JSON 데이터 형식으로 정보 교환 ^hpdqobC1
+
+DB ^2xNOFTa1
+
+DB ^0cxzrHzQ
+
+DB ^qSmoHLlK
+
+API Gateway
+HTML, CSS, JS
+인증, 인가, 라우트 ^53A7fn2d
+
+Game ^7OC37iwu
+
+management ^t9fM7rws
+
+User ^d4HwYCvN
+
+load할 페이지 및 
+소스코드 제공 ^hcYAMWL2
+
+회원 정보 ^7a4aGmti
+
+실시간 게임 ^g05IKzT2
+
+JSON 데이터 형식으로 정보 교환 ^eg2ARawu
+
+DB ^OsgyTX6U
+
+DB ^DpI1UURW
+
+DB ^isi0Ex8r
+
+<NGINX> ^TwJx52G9
+
 
 # Embedded files
 3250f37bdcd718fd30733da1e17818e463171b58: [[Pasted Image 20240126154758_076.png]]
@@ -971,8 +1020,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 361,
-			"versionNonce": 1769700910,
+			"version": 371,
+			"versionNonce": 1478730022,
 			"isDeleted": false,
 			"id": "C9cNPAzPmzEdD4g0bYTPV",
 			"fillStyle": "solid",
@@ -999,14 +1048,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "uLnEnZgL"
 				}
 			],
-			"updated": 1707977372378,
+			"updated": 1708083968256,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 307,
-			"versionNonce": 480592818,
+			"version": 317,
+			"versionNonce": 1715399738,
 			"isDeleted": false,
 			"id": "uLnEnZgL",
 			"fillStyle": "hachure",
@@ -1028,7 +1077,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372378,
+			"updated": 1708083968256,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1040,12 +1089,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "C9cNPAzPmzEdD4g0bYTPV",
 			"originalText": "개발 영역",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 559,
-			"versionNonce": 1577551982,
+			"version": 569,
+			"versionNonce": 1386253414,
 			"isDeleted": false,
 			"id": "aP8sisF7J33AW729kF_gC",
 			"fillStyle": "solid",
@@ -1069,14 +1118,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372378,
+			"updated": 1708083968256,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 346,
-			"versionNonce": 241565042,
+			"version": 356,
+			"versionNonce": 248075514,
 			"isDeleted": false,
 			"id": "8Z7vpN1w",
 			"fillStyle": "solid",
@@ -1100,7 +1149,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372378,
+			"updated": 1708083968256,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1112,12 +1161,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 610,
-			"versionNonce": 1897417390,
+			"version": 620,
+			"versionNonce": 484315046,
 			"isDeleted": false,
 			"id": "L2qNAupgM0DCKb3gmlu9x",
 			"fillStyle": "solid",
@@ -1140,14 +1189,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372378,
+			"updated": 1708083968256,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 327,
-			"versionNonce": 57245490,
+			"version": 337,
+			"versionNonce": 864593338,
 			"isDeleted": false,
 			"id": "hFIVFTfw",
 			"fillStyle": "solid",
@@ -1170,7 +1219,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372378,
+			"updated": 1708083968256,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1182,12 +1231,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 623,
-			"versionNonce": 1633076462,
+			"version": 633,
+			"versionNonce": 587803366,
 			"isDeleted": false,
 			"id": "pf-q9xCmM31XwRVLjijIR",
 			"fillStyle": "solid",
@@ -1210,14 +1259,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372378,
+			"updated": 1708083968256,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 352,
-			"versionNonce": 404146418,
+			"version": 362,
+			"versionNonce": 1302322810,
 			"isDeleted": false,
 			"id": "tcfgbkGe",
 			"fillStyle": "solid",
@@ -1240,7 +1289,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968256,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1252,12 +1301,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 732,
-			"versionNonce": 810284846,
+			"version": 742,
+			"versionNonce": 1135533606,
 			"isDeleted": false,
 			"id": "C4CGF2UgqDXtBBwnuQ9FE",
 			"fillStyle": "solid",
@@ -1279,14 +1328,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968256,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 820,
-			"versionNonce": 1140120242,
+			"version": 830,
+			"versionNonce": 970063674,
 			"isDeleted": false,
 			"id": "CzvI5h6aVX7Hqj0Tt3csn",
 			"fillStyle": "solid",
@@ -1308,14 +1357,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 293,
-			"versionNonce": 1180754286,
+			"version": 303,
+			"versionNonce": 62663014,
 			"isDeleted": false,
 			"id": "vrBb9Xbt",
 			"fillStyle": "solid",
@@ -1337,7 +1386,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1349,12 +1398,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 274,
-			"versionNonce": 1974121586,
+			"version": 284,
+			"versionNonce": 1149372410,
 			"isDeleted": false,
 			"id": "z4dNUjYX",
 			"fillStyle": "solid",
@@ -1376,7 +1425,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1388,12 +1437,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 503,
-			"versionNonce": 383681454,
+			"version": 513,
+			"versionNonce": 1115557030,
 			"isDeleted": false,
 			"id": "IJuE28G_8iB75z14fXF-0",
 			"fillStyle": "solid",
@@ -1420,14 +1469,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "PQyymEhS"
 				}
 			],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 451,
-			"versionNonce": 788485682,
+			"version": 461,
+			"versionNonce": 900921530,
 			"isDeleted": false,
 			"id": "PQyymEhS",
 			"fillStyle": "hachure",
@@ -1449,7 +1498,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1461,12 +1510,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "IJuE28G_8iB75z14fXF-0",
 			"originalText": "FE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 647,
-			"versionNonce": 1139662318,
+			"version": 657,
+			"versionNonce": 1839302630,
 			"isDeleted": false,
 			"id": "1tsA4dfuU9X23r3dL40B7",
 			"fillStyle": "solid",
@@ -1489,14 +1538,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 696,
-			"versionNonce": 551141362,
+			"version": 706,
+			"versionNonce": 1560793466,
 			"isDeleted": false,
 			"id": "8-M2loUuxgLcCl8RG7Ajh",
 			"fillStyle": "solid",
@@ -1518,14 +1567,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 709,
-			"versionNonce": 1117253678,
+			"version": 719,
+			"versionNonce": 892574502,
 			"isDeleted": false,
 			"id": "ejJ6AN0ELw_81QjnOn-6r",
 			"fillStyle": "solid",
@@ -1547,14 +1596,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 588,
-			"versionNonce": 1195438514,
+			"version": 598,
+			"versionNonce": 499356218,
 			"isDeleted": false,
 			"id": "I-pfeJbRZycdodm8NqNQB",
 			"fillStyle": "solid",
@@ -1581,14 +1630,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "2MmHjaTf"
 				}
 			],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 536,
-			"versionNonce": 2126887534,
+			"version": 546,
+			"versionNonce": 1067533926,
 			"isDeleted": false,
 			"id": "2MmHjaTf",
 			"fillStyle": "hachure",
@@ -1610,7 +1659,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1622,12 +1671,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "I-pfeJbRZycdodm8NqNQB",
 			"originalText": "BE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
-			"version": 355,
-			"versionNonce": 89910130,
+			"version": 365,
+			"versionNonce": 2060008186,
 			"isDeleted": false,
 			"id": "2vlLDAWq",
 			"fillStyle": "solid",
@@ -1649,7 +1698,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.46710575118583,
@@ -1665,8 +1714,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 482,
-			"versionNonce": 2134916270,
+			"version": 492,
+			"versionNonce": 1572309414,
 			"isDeleted": false,
 			"id": "myLaLbb9",
 			"fillStyle": "solid",
@@ -1688,7 +1737,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.46710575118583,
@@ -1704,8 +1753,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 559,
-			"versionNonce": 1097968946,
+			"version": 569,
+			"versionNonce": 580635578,
 			"isDeleted": false,
 			"id": "U7m1m2EK",
 			"fillStyle": "solid",
@@ -1727,7 +1776,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.46710575118583,
@@ -1743,8 +1792,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 294,
-			"versionNonce": 162559726,
+			"version": 304,
+			"versionNonce": 1050895590,
 			"isDeleted": false,
 			"id": "X2Grwt13",
 			"fillStyle": "solid",
@@ -1766,7 +1815,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1778,12 +1827,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "SPA 전환",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 324,
-			"versionNonce": 15283954,
+			"version": 334,
+			"versionNonce": 2069775482,
 			"isDeleted": false,
 			"id": "nUven8wOi_2gAvSVqg1Za",
 			"fillStyle": "solid",
@@ -1805,7 +1854,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1826,8 +1875,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 429,
-			"versionNonce": 1184852270,
+			"version": 439,
+			"versionNonce": 603052070,
 			"isDeleted": false,
 			"id": "AGkp07icIHablqN1Pxgih",
 			"fillStyle": "solid",
@@ -1854,14 +1903,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "ETy4DCbv"
 				}
 			],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 375,
-			"versionNonce": 71927986,
+			"version": 385,
+			"versionNonce": 785622330,
 			"isDeleted": false,
 			"id": "ETy4DCbv",
 			"fillStyle": "hachure",
@@ -1883,7 +1932,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1895,12 +1944,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "AGkp07icIHablqN1Pxgih",
 			"originalText": "개발 영역",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 627,
-			"versionNonce": 1702237038,
+			"version": 637,
+			"versionNonce": 361751398,
 			"isDeleted": false,
 			"id": "Aq13doZx05l4727AmbN5o",
 			"fillStyle": "solid",
@@ -1924,14 +1973,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 414,
-			"versionNonce": 1664721522,
+			"version": 424,
+			"versionNonce": 912190970,
 			"isDeleted": false,
 			"id": "VcGp3GzZ",
 			"fillStyle": "solid",
@@ -1955,7 +2004,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1967,12 +2016,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 678,
-			"versionNonce": 1081963950,
+			"version": 688,
+			"versionNonce": 365594278,
 			"isDeleted": false,
 			"id": "F-EwWw01VT12a0VFteXt8",
 			"fillStyle": "solid",
@@ -1995,14 +2044,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 395,
-			"versionNonce": 679511090,
+			"version": 405,
+			"versionNonce": 1728257722,
 			"isDeleted": false,
 			"id": "KOCAsQB9",
 			"fillStyle": "solid",
@@ -2025,7 +2074,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2037,12 +2086,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 691,
-			"versionNonce": 14585838,
+			"version": 701,
+			"versionNonce": 1431224806,
 			"isDeleted": false,
 			"id": "AlZf2cUvnfMEWD1p2vzqn",
 			"fillStyle": "solid",
@@ -2065,14 +2114,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 420,
-			"versionNonce": 1845833202,
+			"version": 430,
+			"versionNonce": 2103654266,
 			"isDeleted": false,
 			"id": "Yz3l69Vp",
 			"fillStyle": "solid",
@@ -2095,7 +2144,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2107,12 +2156,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 800,
-			"versionNonce": 1117938222,
+			"version": 810,
+			"versionNonce": 1730778406,
 			"isDeleted": false,
 			"id": "7tj3ALGcVvA74tPKQfcdQ",
 			"fillStyle": "solid",
@@ -2134,14 +2183,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 888,
-			"versionNonce": 2026807218,
+			"version": 898,
+			"versionNonce": 700594234,
 			"isDeleted": false,
 			"id": "AyHPLKALyZGwPR5n_S7Nw",
 			"fillStyle": "solid",
@@ -2163,14 +2212,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 361,
-			"versionNonce": 951184494,
+			"version": 371,
+			"versionNonce": 1959264358,
 			"isDeleted": false,
 			"id": "qRdKGgcZ",
 			"fillStyle": "solid",
@@ -2192,7 +2241,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2204,12 +2253,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 342,
-			"versionNonce": 1426315634,
+			"version": 352,
+			"versionNonce": 469967098,
 			"isDeleted": false,
 			"id": "otGMvwBo",
 			"fillStyle": "solid",
@@ -2231,7 +2280,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2243,12 +2292,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 623,
-			"versionNonce": 1356213934,
+			"version": 633,
+			"versionNonce": 1912013734,
 			"isDeleted": false,
 			"id": "dqe_oJoLE1Qc-QxAik6CW",
 			"fillStyle": "solid",
@@ -2275,14 +2324,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "z0Qw9zxX"
 				}
 			],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 571,
-			"versionNonce": 1911282482,
+			"version": 581,
+			"versionNonce": 262730170,
 			"isDeleted": false,
 			"id": "z0Qw9zxX",
 			"fillStyle": "hachure",
@@ -2304,7 +2353,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2316,12 +2365,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "dqe_oJoLE1Qc-QxAik6CW",
 			"originalText": "FE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 795,
-			"versionNonce": 1471686894,
+			"version": 805,
+			"versionNonce": 1357094630,
 			"isDeleted": false,
 			"id": "KghutSZDmCXo8DkXsQRp-",
 			"fillStyle": "solid",
@@ -2349,14 +2398,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "kS62BISQ"
 				}
 			],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 260,
-			"versionNonce": 1038984434,
+			"version": 270,
+			"versionNonce": 1473686138,
 			"isDeleted": false,
 			"id": "kS62BISQ",
 			"fillStyle": "solid",
@@ -2379,7 +2428,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2391,12 +2440,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "KghutSZDmCXo8DkXsQRp-",
 			"originalText": "페이지 개발 (JS)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 797,
-			"versionNonce": 484498222,
+			"version": 807,
+			"versionNonce": 907727398,
 			"isDeleted": false,
 			"id": "vbZNNebSfJT5E9M9wUtPJ",
 			"fillStyle": "solid",
@@ -2418,14 +2467,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 699,
-			"versionNonce": 1116747442,
+			"version": 709,
+			"versionNonce": 1800358714,
 			"isDeleted": false,
 			"id": "urh6tAoORoHyglOtlTCJx",
 			"fillStyle": "solid",
@@ -2452,14 +2501,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "lQTT9U2m"
 				}
 			],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 648,
-			"versionNonce": 381240686,
+			"version": 658,
+			"versionNonce": 747216230,
 			"isDeleted": false,
 			"id": "lQTT9U2m",
 			"fillStyle": "hachure",
@@ -2481,7 +2530,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2493,12 +2542,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "urh6tAoORoHyglOtlTCJx",
 			"originalText": "BE",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
-			"version": 365,
-			"versionNonce": 1081774194,
+			"version": 375,
+			"versionNonce": 1886770170,
 			"isDeleted": false,
 			"id": "yxFmYABN",
 			"fillStyle": "solid",
@@ -2520,7 +2569,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2532,12 +2581,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "SSR 전환",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 392,
-			"versionNonce": 109733806,
+			"version": 402,
+			"versionNonce": 1501364390,
 			"isDeleted": false,
 			"id": "8yzF2Jm99b15EX-6ZapNh",
 			"fillStyle": "solid",
@@ -2559,7 +2608,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2580,8 +2629,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 945,
-			"versionNonce": 1265873458,
+			"version": 955,
+			"versionNonce": 1229800634,
 			"isDeleted": false,
 			"id": "mzoEcpvVktNYH2qfomtm7",
 			"fillStyle": "solid",
@@ -2609,14 +2658,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "CdYW7d0s"
 				}
 			],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 438,
-			"versionNonce": 477970926,
+			"version": 448,
+			"versionNonce": 815922150,
 			"isDeleted": false,
 			"id": "CdYW7d0s",
 			"fillStyle": "solid",
@@ -2639,7 +2688,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2651,12 +2700,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "mzoEcpvVktNYH2qfomtm7",
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 1099,
-			"versionNonce": 1717738482,
+			"version": 1109,
+			"versionNonce": 527998330,
 			"isDeleted": false,
 			"id": "dEsShZFMou07WNKK-4v2V",
 			"fillStyle": "solid",
@@ -2684,14 +2733,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "NY6yFc07"
 				}
 			],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 602,
-			"versionNonce": 463131694,
+			"version": 612,
+			"versionNonce": 671452966,
 			"isDeleted": false,
 			"id": "NY6yFc07",
 			"fillStyle": "solid",
@@ -2714,7 +2763,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2726,12 +2775,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "dEsShZFMou07WNKK-4v2V",
 			"originalText": "Node.js",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 1133,
-			"versionNonce": 525225394,
+			"version": 1143,
+			"versionNonce": 1882906170,
 			"isDeleted": false,
 			"id": "4t6jRiOJQLlnU2C7oiftR",
 			"fillStyle": "solid",
@@ -2759,14 +2808,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "ofw3OxaB"
 				}
 			],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 661,
-			"versionNonce": 2110529134,
+			"version": 671,
+			"versionNonce": 1813297766,
 			"isDeleted": false,
 			"id": "ofw3OxaB",
 			"fillStyle": "solid",
@@ -2789,7 +2838,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2801,12 +2850,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "4t6jRiOJQLlnU2C7oiftR",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 1195,
-			"versionNonce": 727566194,
+			"version": 1205,
+			"versionNonce": 410453754,
 			"isDeleted": false,
 			"id": "_FqBxSTaRZ8W8HneD1bZ8",
 			"fillStyle": "solid",
@@ -2834,14 +2883,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "cItCyTVv"
 				}
 			],
-			"updated": 1707977372379,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 723,
-			"versionNonce": 400171182,
+			"version": 733,
+			"versionNonce": 329022886,
 			"isDeleted": false,
 			"id": "cItCyTVv",
 			"fillStyle": "solid",
@@ -2864,7 +2913,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2876,12 +2925,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "_FqBxSTaRZ8W8HneD1bZ8",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 258,
-			"versionNonce": 47712562,
+			"version": 268,
+			"versionNonce": 1622153146,
 			"isDeleted": false,
 			"id": "smjQWj7E",
 			"fillStyle": "solid",
@@ -2903,7 +2952,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2915,12 +2964,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "API 개발\n(JAVA)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 396,
-			"versionNonce": 1030609646,
+			"version": 406,
+			"versionNonce": 1405737190,
 			"isDeleted": false,
 			"id": "cw4rCP54",
 			"fillStyle": "solid",
@@ -2942,7 +2991,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2958,8 +3007,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 495,
-			"versionNonce": 2099516146,
+			"version": 505,
+			"versionNonce": 151588986,
 			"isDeleted": false,
 			"id": "vAQK-o0Bajzsu29Kk62BS",
 			"fillStyle": "solid",
@@ -2984,14 +3033,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 440,
-			"versionNonce": 1695567150,
+			"version": 450,
+			"versionNonce": 875154470,
 			"isDeleted": false,
 			"id": "93PcAHmf",
 			"fillStyle": "hachure",
@@ -3014,7 +3063,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3030,8 +3079,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 401,
-			"versionNonce": 1825105074,
+			"version": 411,
+			"versionNonce": 1430581562,
 			"isDeleted": false,
 			"id": "eBxAMCxW",
 			"fillStyle": "solid",
@@ -3054,7 +3103,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3066,12 +3115,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "{{JINJA}}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 337,
-			"versionNonce": 1277851502,
+			"version": 347,
+			"versionNonce": 1118394214,
 			"isDeleted": false,
 			"id": "PMFEDvVzfjsMuT0jnfmwc",
 			"fillStyle": "solid",
@@ -3096,14 +3145,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 341,
-			"versionNonce": 997031538,
+			"version": 351,
+			"versionNonce": 415676922,
 			"isDeleted": false,
 			"id": "9es7oLrl",
 			"fillStyle": "solid",
@@ -3126,7 +3175,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3138,12 +3187,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Pyton file\nwith\nURL routing",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
-			"version": 525,
-			"versionNonce": 453335470,
+			"version": 535,
+			"versionNonce": 1200978598,
 			"isDeleted": false,
 			"id": "xYnhf-OH1dLXHWn2PXn86",
 			"fillStyle": "solid",
@@ -3168,14 +3217,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 593,
-			"versionNonce": 98099250,
+			"version": 603,
+			"versionNonce": 1116826298,
 			"isDeleted": false,
 			"id": "mv8aTowV",
 			"fillStyle": "solid",
@@ -3198,7 +3247,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3210,12 +3259,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Python file\nusing Django",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 770,
-			"versionNonce": 147452910,
+			"version": 780,
+			"versionNonce": 2040215014,
 			"isDeleted": false,
 			"id": "I1v2SJwxjKd_uoKY-cQbC",
 			"fillStyle": "solid",
@@ -3241,14 +3290,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 686,
-			"versionNonce": 938609138,
+			"version": 696,
+			"versionNonce": 1766327162,
 			"isDeleted": false,
 			"id": "syvznL0W",
 			"fillStyle": "solid",
@@ -3272,7 +3321,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3284,12 +3333,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Python file\nusing Django\nModels",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
-			"version": 495,
-			"versionNonce": 2139178542,
+			"version": 505,
+			"versionNonce": 835160358,
 			"isDeleted": false,
 			"id": "LHx5Y0ZDnqHMDL2RaqGMI",
 			"fillStyle": "solid",
@@ -3315,14 +3364,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 498,
-			"versionNonce": 683670450,
+			"version": 508,
+			"versionNonce": 1462600762,
 			"isDeleted": false,
 			"id": "Jcm3KDlD",
 			"fillStyle": "solid",
@@ -3346,7 +3395,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968257,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3358,12 +3407,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Application \nlogic \nin Python",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "line",
-			"version": 948,
-			"versionNonce": 1075073134,
+			"version": 958,
+			"versionNonce": 528970854,
 			"isDeleted": false,
 			"id": "Aaa4AUfW2d47SHQmQO7m9",
 			"fillStyle": "solid",
@@ -3385,7 +3434,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3442,8 +3491,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 1391,
-			"versionNonce": 912897394,
+			"version": 1401,
+			"versionNonce": 371518714,
 			"isDeleted": false,
 			"id": "QmF56M6JniVJDg5MsJZZz",
 			"fillStyle": "solid",
@@ -3465,7 +3514,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3522,8 +3571,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 1236,
-			"versionNonce": 105648814,
+			"version": 1246,
+			"versionNonce": 2091382694,
 			"isDeleted": false,
 			"id": "qqLaMe85qOjtv1aaXkwnv",
 			"fillStyle": "solid",
@@ -3545,7 +3594,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3602,8 +3651,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 1285,
-			"versionNonce": 1647720242,
+			"version": 1295,
+			"versionNonce": 2075213242,
 			"isDeleted": false,
 			"id": "eakcpK7sRn_-cwfQHA5-W",
 			"fillStyle": "solid",
@@ -3625,7 +3674,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3682,8 +3731,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 1145,
-			"versionNonce": 751930606,
+			"version": 1155,
+			"versionNonce": 1096159974,
 			"isDeleted": false,
 			"id": "gqWFIHqMHl5JMEC7TiVOF",
 			"fillStyle": "solid",
@@ -3705,7 +3754,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3762,8 +3811,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 404,
-			"versionNonce": 1821147378,
+			"version": 414,
+			"versionNonce": 888501882,
 			"isDeleted": false,
 			"id": "DQB4DZSM",
 			"fillStyle": "solid",
@@ -3785,7 +3834,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -3801,8 +3850,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 255,
-			"versionNonce": 1361952558,
+			"version": 265,
+			"versionNonce": 1478411814,
 			"isDeleted": false,
 			"id": "id7skgSt",
 			"fillStyle": "solid",
@@ -3824,7 +3873,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -3840,8 +3889,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 325,
-			"versionNonce": 1895010994,
+			"version": 335,
+			"versionNonce": 1387566906,
 			"isDeleted": false,
 			"id": "dLwVjPMQWnQKzS528S-eu",
 			"fillStyle": "solid",
@@ -3863,14 +3912,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 477,
-			"versionNonce": 2009704814,
+			"version": 487,
+			"versionNonce": 1374622054,
 			"isDeleted": false,
 			"id": "ntleZQzoTLqtKxSR1XGnS",
 			"fillStyle": "solid",
@@ -3892,14 +3941,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 581,
-			"versionNonce": 34761842,
+			"version": 591,
+			"versionNonce": 1431412730,
 			"isDeleted": false,
 			"id": "2p5FaZFOOHx-h9OyC39-C",
 			"fillStyle": "solid",
@@ -3921,14 +3970,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1105,
-			"versionNonce": 804146094,
+			"version": 1115,
+			"versionNonce": 437515430,
 			"isDeleted": false,
 			"id": "NZ7-speHxiP0m8-Pqe1BX",
 			"fillStyle": "solid",
@@ -3950,7 +3999,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3995,8 +4044,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 1363,
-			"versionNonce": 1169165874,
+			"version": 1373,
+			"versionNonce": 953127098,
 			"isDeleted": false,
 			"id": "Cbt8_jnkOtlAN8pQyrSdB",
 			"fillStyle": "solid",
@@ -4023,7 +4072,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4064,8 +4113,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 1499,
-			"versionNonce": 935634414,
+			"version": 1509,
+			"versionNonce": 708472806,
 			"isDeleted": false,
 			"id": "Yc3GDiXUwH_z-GmekjqYz",
 			"fillStyle": "solid",
@@ -4092,7 +4141,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4133,8 +4182,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 1564,
-			"versionNonce": 280197106,
+			"version": 1574,
+			"versionNonce": 13724026,
 			"isDeleted": false,
 			"id": "AE7ek0tcPU80O69AUtm4E",
 			"fillStyle": "solid",
@@ -4161,7 +4210,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4202,8 +4251,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "ellipse",
-			"version": 1198,
-			"versionNonce": 542488622,
+			"version": 1208,
+			"versionNonce": 1047495462,
 			"isDeleted": false,
 			"id": "LdvAAmiDwTY9EV1u4fJh6",
 			"fillStyle": "solid",
@@ -4229,14 +4278,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 306,
-			"versionNonce": 52668850,
+			"version": 316,
+			"versionNonce": 1150954042,
 			"isDeleted": false,
 			"id": "ZcgJYsRS",
 			"fillStyle": "solid",
@@ -4259,7 +4308,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4271,12 +4320,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "User\n(Browser)",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "line",
-			"version": 1062,
-			"versionNonce": 1904902766,
+			"version": 1072,
+			"versionNonce": 153103974,
 			"isDeleted": false,
 			"id": "OXVswG2m34oxpwWTIkNFJ",
 			"fillStyle": "solid",
@@ -4298,7 +4347,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4343,8 +4392,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "ellipse",
-			"version": 2265,
-			"versionNonce": 606577522,
+			"version": 2275,
+			"versionNonce": 990696186,
 			"isDeleted": false,
 			"id": "c26wm0lGHqEKw14VWgDzq",
 			"fillStyle": "solid",
@@ -4372,14 +4421,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 2009,
-			"versionNonce": 1311507630,
+			"version": 2019,
+			"versionNonce": 1729720742,
 			"isDeleted": false,
 			"id": "PvUfhT1PQxGWrF1buJ4uw",
 			"fillStyle": "solid",
@@ -4407,14 +4456,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 2278,
-			"versionNonce": 2114348338,
+			"version": 2288,
+			"versionNonce": 1185702842,
 			"isDeleted": false,
 			"id": "hJq09bRsHjE6C0gWqOKfr",
 			"fillStyle": "solid",
@@ -4442,14 +4491,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 2366,
-			"versionNonce": 400768750,
+			"version": 2376,
+			"versionNonce": 327699686,
 			"isDeleted": false,
 			"id": "9ok2JdS--D2bsht-dvEJN",
 			"fillStyle": "solid",
@@ -4477,14 +4526,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 923,
-			"versionNonce": 975630066,
+			"version": 933,
+			"versionNonce": 26991738,
 			"isDeleted": false,
 			"id": "vwfFwXdIL17Z44N2ib0DB",
 			"fillStyle": "solid",
@@ -4509,14 +4558,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 2201,
-			"versionNonce": 322515246,
+			"version": 2211,
+			"versionNonce": 1543094310,
 			"isDeleted": false,
 			"id": "jGQtdjfSxsbmVi07xC1tx",
 			"fillStyle": "solid",
@@ -4543,14 +4592,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 2073,
-			"versionNonce": 1024475314,
+			"version": 2083,
+			"versionNonce": 1235107130,
 			"isDeleted": false,
 			"id": "_ZEF5HkN_pjjDSY0ygZSy",
 			"fillStyle": "solid",
@@ -4577,14 +4626,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 1688,
-			"versionNonce": 194435950,
+			"version": 1698,
+			"versionNonce": 1415236454,
 			"isDeleted": false,
 			"id": "FjKoGqRRIaPRZKQzJGu04",
 			"fillStyle": "solid",
@@ -4611,14 +4660,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1438,
-			"versionNonce": 1114200690,
+			"version": 1448,
+			"versionNonce": 1276544506,
 			"isDeleted": false,
 			"id": "u4KRL12y6yygQ9Nz3PRbd",
 			"fillStyle": "solid",
@@ -4643,7 +4692,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4664,8 +4713,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 1627,
-			"versionNonce": 2001026478,
+			"version": 1637,
+			"versionNonce": 184053414,
 			"isDeleted": false,
 			"id": "N3095QrvYmKSz5-SvLJf6",
 			"fillStyle": "solid",
@@ -4690,7 +4739,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4711,8 +4760,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 680,
-			"versionNonce": 2029599794,
+			"version": 690,
+			"versionNonce": 302495418,
 			"isDeleted": false,
 			"id": "MjC0F1jR",
 			"fillStyle": "solid",
@@ -4736,7 +4785,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4748,12 +4797,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "SQL",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 524,
-			"versionNonce": 460150766,
+			"version": 534,
+			"versionNonce": 1014999526,
 			"isDeleted": false,
 			"id": "PXNOTX9L",
 			"fillStyle": "solid",
@@ -4776,7 +4825,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4788,12 +4837,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Database",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 368,
-			"versionNonce": 514254322,
+			"version": 378,
+			"versionNonce": 202690426,
 			"isDeleted": false,
 			"id": "hrxEldlIf2mAHyOUWC8ce",
 			"fillStyle": "solid",
@@ -4815,14 +4864,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 329,
-			"versionNonce": 806890030,
+			"version": 339,
+			"versionNonce": 134053158,
 			"isDeleted": false,
 			"id": "WCaKcfRU",
 			"fillStyle": "solid",
@@ -4844,7 +4893,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4860,8 +4909,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 469,
-			"versionNonce": 477714354,
+			"version": 479,
+			"versionNonce": 511758394,
 			"isDeleted": false,
 			"id": "GYv7MKqDlxPF6z3WJ3uHN",
 			"fillStyle": "solid",
@@ -4888,14 +4937,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "LXktbsW1"
 				}
 			],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 459,
-			"versionNonce": 70169710,
+			"version": 469,
+			"versionNonce": 585033830,
 			"isDeleted": false,
 			"id": "LXktbsW1",
 			"fillStyle": "solid",
@@ -4917,7 +4966,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4933,8 +4982,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 502,
-			"versionNonce": 580358514,
+			"version": 512,
+			"versionNonce": 758036730,
 			"isDeleted": false,
 			"id": "GrOfzzqpfgjixuJs2yRDr",
 			"fillStyle": "solid",
@@ -4961,14 +5010,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "IWkurSrx"
 				}
 			],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 490,
-			"versionNonce": 561641134,
+			"version": 500,
+			"versionNonce": 217115558,
 			"isDeleted": false,
 			"id": "IWkurSrx",
 			"fillStyle": "solid",
@@ -4990,7 +5039,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5006,8 +5055,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 527,
-			"versionNonce": 1145606962,
+			"version": 537,
+			"versionNonce": 664897978,
 			"isDeleted": false,
 			"id": "CBBPidEzr-fGOcCzP8GW4",
 			"fillStyle": "solid",
@@ -5034,14 +5083,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "eftDxgWm"
 				}
 			],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 517,
-			"versionNonce": 1889726702,
+			"version": 527,
+			"versionNonce": 1147176678,
 			"isDeleted": false,
 			"id": "eftDxgWm",
 			"fillStyle": "solid",
@@ -5063,7 +5112,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5079,8 +5128,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 466,
-			"versionNonce": 334716146,
+			"version": 476,
+			"versionNonce": 352076410,
 			"isDeleted": false,
 			"id": "HS7GSsqd7y6qT14JAB3fN",
 			"fillStyle": "solid",
@@ -5102,14 +5151,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 430,
-			"versionNonce": 1563599662,
+			"version": 440,
+			"versionNonce": 2042280486,
 			"isDeleted": false,
 			"id": "XaPvM3AH",
 			"fillStyle": "solid",
@@ -5131,7 +5180,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5147,8 +5196,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 400,
-			"versionNonce": 1058991794,
+			"version": 410,
+			"versionNonce": 536994618,
 			"isDeleted": false,
 			"id": "GuyzdlN6YrXSsBDK6ADbH",
 			"fillStyle": "solid",
@@ -5172,14 +5221,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 356,
-			"versionNonce": 2039614830,
+			"version": 366,
+			"versionNonce": 1139574118,
 			"isDeleted": false,
 			"id": "mJA2OOSV",
 			"fillStyle": "solid",
@@ -5201,7 +5250,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372380,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5217,8 +5266,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 794,
-			"versionNonce": 712132722,
+			"version": 804,
+			"versionNonce": 588606458,
 			"isDeleted": false,
 			"id": "z5RThGOyj3UUsQtTFT9pY",
 			"fillStyle": "solid",
@@ -5247,14 +5296,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "IgJcIfba"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 239,
-			"versionNonce": 587870126,
+			"version": 249,
+			"versionNonce": 1413671078,
 			"isDeleted": false,
 			"id": "IgJcIfba",
 			"fillStyle": "solid",
@@ -5276,7 +5325,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5288,12 +5337,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "z5RThGOyj3UUsQtTFT9pY",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 827,
-			"versionNonce": 229927474,
+			"version": 837,
+			"versionNonce": 876207290,
 			"isDeleted": false,
 			"id": "tlwX4WVnq_Px11QhUH_mt",
 			"fillStyle": "solid",
@@ -5322,14 +5371,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "T0cd8Scg"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 222,
-			"versionNonce": 633604590,
+			"version": 232,
+			"versionNonce": 711648230,
 			"isDeleted": false,
 			"id": "T0cd8Scg",
 			"fillStyle": "solid",
@@ -5351,7 +5400,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5363,12 +5412,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "tlwX4WVnq_Px11QhUH_mt",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 825,
-			"versionNonce": 265049074,
+			"version": 835,
+			"versionNonce": 823276922,
 			"isDeleted": false,
 			"id": "b66l67TojYQHhqAJHjF_w",
 			"fillStyle": "solid",
@@ -5397,14 +5446,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "sLQhlCFM"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 242,
-			"versionNonce": 1623759918,
+			"version": 252,
+			"versionNonce": 1215395622,
 			"isDeleted": false,
 			"id": "sLQhlCFM",
 			"fillStyle": "solid",
@@ -5426,7 +5475,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5438,12 +5487,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "b66l67TojYQHhqAJHjF_w",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 346,
-			"versionNonce": 1656817074,
+			"version": 356,
+			"versionNonce": 1256289850,
 			"isDeleted": false,
 			"id": "iRywGQeNshpwfQJHsqRiL",
 			"fillStyle": "solid",
@@ -5472,14 +5521,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "BqZgZ4rU"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 302,
-			"versionNonce": 1778443886,
+			"version": 312,
+			"versionNonce": 1724097126,
 			"isDeleted": false,
 			"id": "BqZgZ4rU",
 			"fillStyle": "solid",
@@ -5501,7 +5550,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5513,12 +5562,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "iRywGQeNshpwfQJHsqRiL",
 			"originalText": "app\n1",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
-			"version": 382,
-			"versionNonce": 1605992306,
+			"version": 392,
+			"versionNonce": 311074554,
 			"isDeleted": false,
 			"id": "4WvREpvm6zGhh_1CZTBe9",
 			"fillStyle": "solid",
@@ -5547,14 +5596,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "9uDJNg7g"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 339,
-			"versionNonce": 842393774,
+			"version": 349,
+			"versionNonce": 674129318,
 			"isDeleted": false,
 			"id": "9uDJNg7g",
 			"fillStyle": "solid",
@@ -5576,7 +5625,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5588,12 +5637,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "4WvREpvm6zGhh_1CZTBe9",
 			"originalText": "app\n2",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
-			"version": 368,
-			"versionNonce": 586989874,
+			"version": 378,
+			"versionNonce": 76591034,
 			"isDeleted": false,
 			"id": "owXjRN_QZlXRNKjp3xJC0",
 			"fillStyle": "solid",
@@ -5622,14 +5671,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "YCjyK6Hk"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 325,
-			"versionNonce": 688956142,
+			"version": 335,
+			"versionNonce": 1306444006,
 			"isDeleted": false,
 			"id": "YCjyK6Hk",
 			"fillStyle": "solid",
@@ -5651,7 +5700,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5663,12 +5712,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "owXjRN_QZlXRNKjp3xJC0",
 			"originalText": "app\n3",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
-			"version": 377,
-			"versionNonce": 670157554,
+			"version": 387,
+			"versionNonce": 353806458,
 			"isDeleted": false,
 			"id": "NfDUjIzRtHf1MUHzBWDej",
 			"fillStyle": "solid",
@@ -5697,14 +5746,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "ROF1ayKj"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 336,
-			"versionNonce": 1629099310,
+			"version": 346,
+			"versionNonce": 1801565222,
 			"isDeleted": false,
 			"id": "ROF1ayKj",
 			"fillStyle": "solid",
@@ -5726,7 +5775,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5738,12 +5787,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "NfDUjIzRtHf1MUHzBWDej",
 			"originalText": "app\nN",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "line",
-			"version": 254,
-			"versionNonce": 1696570546,
+			"version": 264,
+			"versionNonce": 1004505402,
 			"isDeleted": false,
 			"id": "P7pWL99NG8HR4rDXCY4ae",
 			"fillStyle": "solid",
@@ -5767,7 +5816,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5788,8 +5837,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 539,
-			"versionNonce": 867909486,
+			"version": 549,
+			"versionNonce": 446971750,
 			"isDeleted": false,
 			"id": "qWhDMnEyTgI3YQ32LdN8G",
 			"fillStyle": "solid",
@@ -5813,14 +5862,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 503,
-			"versionNonce": 1747793522,
+			"version": 513,
+			"versionNonce": 5132794,
 			"isDeleted": false,
 			"id": "XbRItT3j",
 			"fillStyle": "solid",
@@ -5844,7 +5893,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5860,8 +5909,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 476,
-			"versionNonce": 1698505134,
+			"version": 486,
+			"versionNonce": 804479654,
 			"isDeleted": false,
 			"id": "_QmI2ctQ8FDqsVUjzoJfZ",
 			"fillStyle": "solid",
@@ -5892,14 +5941,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 429,
-			"versionNonce": 1910609970,
+			"version": 439,
+			"versionNonce": 90571450,
 			"isDeleted": false,
 			"id": "HNMaebG5",
 			"fillStyle": "solid",
@@ -5923,7 +5972,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5939,8 +5988,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 867,
-			"versionNonce": 1221114862,
+			"version": 877,
+			"versionNonce": 1845239270,
 			"isDeleted": false,
 			"id": "M6cBo-06QzSZuvkU6WEkp",
 			"fillStyle": "solid",
@@ -5971,14 +6020,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "pEcRlh6c"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968258,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 312,
-			"versionNonce": 304333298,
+			"version": 322,
+			"versionNonce": 365534074,
 			"isDeleted": false,
 			"id": "pEcRlh6c",
 			"fillStyle": "solid",
@@ -6002,7 +6051,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6014,12 +6063,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "M6cBo-06QzSZuvkU6WEkp",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 900,
-			"versionNonce": 1684475438,
+			"version": 910,
+			"versionNonce": 969634086,
 			"isDeleted": false,
 			"id": "0--KxwnQghmY_lg4IGGc_",
 			"fillStyle": "solid",
@@ -6050,14 +6099,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "KIRYmW5Y"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 295,
-			"versionNonce": 1140503474,
+			"version": 305,
+			"versionNonce": 800857146,
 			"isDeleted": false,
 			"id": "KIRYmW5Y",
 			"fillStyle": "solid",
@@ -6081,7 +6130,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6093,12 +6142,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "0--KxwnQghmY_lg4IGGc_",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 901,
-			"versionNonce": 352393326,
+			"version": 911,
+			"versionNonce": 1322146918,
 			"isDeleted": false,
 			"id": "4rZsAjVennqt93L939FFe",
 			"fillStyle": "solid",
@@ -6133,14 +6182,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 317,
-			"versionNonce": 160263538,
+			"version": 327,
+			"versionNonce": 287343866,
 			"isDeleted": false,
 			"id": "bvjIUe99",
 			"fillStyle": "solid",
@@ -6164,7 +6213,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6176,12 +6225,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "4rZsAjVennqt93L939FFe",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 515,
-			"versionNonce": 845142702,
+			"version": 525,
+			"versionNonce": 1926356902,
 			"isDeleted": false,
 			"id": "EtsOGTUQbH_mvSetIOHeP",
 			"fillStyle": "solid",
@@ -6207,14 +6256,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 532,
-			"versionNonce": 136507186,
+			"version": 542,
+			"versionNonce": 1132058042,
 			"isDeleted": false,
 			"id": "RhpUg3Dw",
 			"fillStyle": "solid",
@@ -6238,7 +6287,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -6254,8 +6303,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 922,
-			"versionNonce": 858543342,
+			"version": 932,
+			"versionNonce": 704838374,
 			"isDeleted": false,
 			"id": "V9T8CrdmVf8_jwYDXJrzX",
 			"fillStyle": "solid",
@@ -6290,14 +6339,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 376,
-			"versionNonce": 606222578,
+			"version": 386,
+			"versionNonce": 669716090,
 			"isDeleted": false,
 			"id": "pIkLz06S",
 			"fillStyle": "solid",
@@ -6321,7 +6370,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6333,12 +6382,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "V9T8CrdmVf8_jwYDXJrzX",
 			"originalText": "view.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 521,
-			"versionNonce": 1357874990,
+			"version": 531,
+			"versionNonce": 1794027046,
 			"isDeleted": false,
 			"id": "NecjlQVe7IaZ4xCaD9gE4",
 			"fillStyle": "solid",
@@ -6362,7 +6411,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6383,8 +6432,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 1008,
-			"versionNonce": 487738034,
+			"version": 1018,
+			"versionNonce": 53948218,
 			"isDeleted": false,
 			"id": "sXVRurNNDuV6D1Y2s4hHT",
 			"fillStyle": "solid",
@@ -6419,14 +6468,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 467,
-			"versionNonce": 739406190,
+			"version": 477,
+			"versionNonce": 1384249702,
 			"isDeleted": false,
 			"id": "nHDa6V7P",
 			"fillStyle": "solid",
@@ -6450,7 +6499,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6462,12 +6511,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "sXVRurNNDuV6D1Y2s4hHT",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 674,
-			"versionNonce": 1900388598,
+			"version": 689,
+			"versionNonce": 163657722,
 			"isDeleted": false,
 			"id": "GeGtbAcF3nyDucN5uJizp",
 			"fillStyle": "solid",
@@ -6491,7 +6540,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708067309685,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6516,8 +6565,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 1354,
-			"versionNonce": 1829900854,
+			"version": 1384,
+			"versionNonce": 1477041318,
 			"isDeleted": false,
 			"id": "iHHaSktUluC1UNoQ0j_NW",
 			"fillStyle": "solid",
@@ -6541,7 +6590,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708067309685,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6570,8 +6619,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 437,
-			"versionNonce": 327206450,
+			"version": 447,
+			"versionNonce": 1804347578,
 			"isDeleted": false,
 			"id": "2Y6eCQSVmAUSZ5E6xxVeE",
 			"fillStyle": "solid",
@@ -6595,7 +6644,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6620,8 +6669,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 390,
-			"versionNonce": 1987800558,
+			"version": 400,
+			"versionNonce": 20142054,
 			"isDeleted": false,
 			"id": "NCPo6cnf",
 			"fillStyle": "solid",
@@ -6648,7 +6697,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.736116904425073,
@@ -6664,8 +6713,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 1088,
-			"versionNonce": 1403858930,
+			"version": 1098,
+			"versionNonce": 1614479738,
 			"isDeleted": false,
 			"id": "NKB7ICNE",
 			"fillStyle": "solid",
@@ -6692,7 +6741,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.736116904425073,
@@ -6708,8 +6757,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 466,
-			"versionNonce": 1827897390,
+			"version": 476,
+			"versionNonce": 369847078,
 			"isDeleted": false,
 			"id": "ydMRygzQMJASmGT5vZpUC",
 			"fillStyle": "solid",
@@ -6733,7 +6782,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6762,8 +6811,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 737,
-			"versionNonce": 774267314,
+			"version": 747,
+			"versionNonce": 856736314,
 			"isDeleted": false,
 			"id": "__lP39u76BhNGjuz4MwjG",
 			"fillStyle": "hachure",
@@ -6787,14 +6836,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 757,
-			"versionNonce": 1999587950,
+			"version": 767,
+			"versionNonce": 1426003558,
 			"isDeleted": false,
 			"id": "p-1dXGkriAR3zglPJ4u8O",
 			"fillStyle": "hachure",
@@ -6818,14 +6867,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 744,
-			"versionNonce": 1309891442,
+			"version": 754,
+			"versionNonce": 1324378874,
 			"isDeleted": false,
 			"id": "_iGtSW0LwgbYT9mI13j2_",
 			"fillStyle": "hachure",
@@ -6850,7 +6899,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6871,8 +6920,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 775,
-			"versionNonce": 1408748718,
+			"version": 785,
+			"versionNonce": 651909542,
 			"isDeleted": false,
 			"id": "7Cnsz0r-VAzk7skNRzVIs",
 			"fillStyle": "hachure",
@@ -6897,7 +6946,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6918,8 +6967,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 766,
-			"versionNonce": 1639652658,
+			"version": 776,
+			"versionNonce": 1247607738,
 			"isDeleted": false,
 			"id": "1TVR7Tbl8YSvdIjqofba-",
 			"fillStyle": "hachure",
@@ -6944,7 +6993,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6965,8 +7014,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 797,
-			"versionNonce": 16123630,
+			"version": 807,
+			"versionNonce": 1389180134,
 			"isDeleted": false,
 			"id": "0p8QlCszDaGK0nr1p1XEI",
 			"fillStyle": "hachure",
@@ -6991,7 +7040,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7012,8 +7061,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 768,
-			"versionNonce": 914663154,
+			"version": 778,
+			"versionNonce": 1937339514,
 			"isDeleted": false,
 			"id": "TaGW9Bx0HFfE8pkgb3WKr",
 			"fillStyle": "hachure",
@@ -7038,7 +7087,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7059,8 +7108,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 800,
-			"versionNonce": 1588787502,
+			"version": 810,
+			"versionNonce": 845260838,
 			"isDeleted": false,
 			"id": "KTrqSSaar5uvx0L1sunlT",
 			"fillStyle": "hachure",
@@ -7085,7 +7134,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7106,8 +7155,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 789,
-			"versionNonce": 1425471666,
+			"version": 799,
+			"versionNonce": 1544082746,
 			"isDeleted": false,
 			"id": "e4o-P1mFxShKilA8Wa4jq",
 			"fillStyle": "hachure",
@@ -7132,7 +7181,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7153,8 +7202,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 821,
-			"versionNonce": 1419223918,
+			"version": 831,
+			"versionNonce": 1703261030,
 			"isDeleted": false,
 			"id": "xLr7bARltdg70S2C1lISr",
 			"fillStyle": "hachure",
@@ -7179,7 +7228,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7200,8 +7249,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 841,
-			"versionNonce": 481890930,
+			"version": 851,
+			"versionNonce": 1701715450,
 			"isDeleted": false,
 			"id": "M_r2KwbULCus8ZC-hmk_B",
 			"fillStyle": "hachure",
@@ -7226,7 +7275,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7247,8 +7296,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 744,
-			"versionNonce": 1961690542,
+			"version": 754,
+			"versionNonce": 109467302,
 			"isDeleted": false,
 			"id": "8uIQbm6o1EuiabvMwkhLY",
 			"fillStyle": "hachure",
@@ -7273,7 +7322,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7294,8 +7343,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 767,
-			"versionNonce": 1620177970,
+			"version": 777,
+			"versionNonce": 1286360762,
 			"isDeleted": false,
 			"id": "EMgH6m1dwT9b2pCwQSEb2",
 			"fillStyle": "hachure",
@@ -7320,7 +7369,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7341,8 +7390,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 775,
-			"versionNonce": 551297006,
+			"version": 785,
+			"versionNonce": 1578144230,
 			"isDeleted": false,
 			"id": "F8hJRJ2LnKdiqt33bJ9tn",
 			"fillStyle": "hachure",
@@ -7367,7 +7416,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7388,8 +7437,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 766,
-			"versionNonce": 40410610,
+			"version": 776,
+			"versionNonce": 912680826,
 			"isDeleted": false,
 			"id": "b9inAy0dp_Tfgz_v4aUtv",
 			"fillStyle": "hachure",
@@ -7414,7 +7463,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7435,8 +7484,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 797,
-			"versionNonce": 745402926,
+			"version": 807,
+			"versionNonce": 389113126,
 			"isDeleted": false,
 			"id": "SrL7iuxFP98iUAdZ_inFl",
 			"fillStyle": "hachure",
@@ -7461,7 +7510,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7482,8 +7531,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 768,
-			"versionNonce": 256118706,
+			"version": 778,
+			"versionNonce": 987719738,
 			"isDeleted": false,
 			"id": "6iJe3QvcGp4OtoogYR9qh",
 			"fillStyle": "hachure",
@@ -7508,7 +7557,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7529,8 +7578,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 800,
-			"versionNonce": 42695790,
+			"version": 810,
+			"versionNonce": 1935003750,
 			"isDeleted": false,
 			"id": "RzIs6XbceW8SZpD4VEEEF",
 			"fillStyle": "hachure",
@@ -7555,7 +7604,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7576,8 +7625,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 790,
-			"versionNonce": 1531660658,
+			"version": 800,
+			"versionNonce": 1912230138,
 			"isDeleted": false,
 			"id": "P1_MIVbh0niYDcGUFuU7g",
 			"fillStyle": "hachure",
@@ -7602,7 +7651,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7623,8 +7672,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 820,
-			"versionNonce": 1224588974,
+			"version": 830,
+			"versionNonce": 2118833062,
 			"isDeleted": false,
 			"id": "QIy4nqbp8rrlIZ7TGynfK",
 			"fillStyle": "hachure",
@@ -7649,7 +7698,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372381,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7670,8 +7719,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 841,
-			"versionNonce": 499469106,
+			"version": 851,
+			"versionNonce": 2134516154,
 			"isDeleted": false,
 			"id": "PAbUwWs5o-XimAod0NrK4",
 			"fillStyle": "hachure",
@@ -7696,7 +7745,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7717,8 +7766,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 744,
-			"versionNonce": 74299630,
+			"version": 754,
+			"versionNonce": 1111322342,
 			"isDeleted": false,
 			"id": "9kwc6y0TTtpNOSZEy_l4L",
 			"fillStyle": "hachure",
@@ -7743,7 +7792,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7764,8 +7813,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 767,
-			"versionNonce": 219747570,
+			"version": 777,
+			"versionNonce": 499243642,
 			"isDeleted": false,
 			"id": "zIWwnjrJ8w81wYsgZKfwU",
 			"fillStyle": "hachure",
@@ -7790,7 +7839,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7811,8 +7860,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 797,
-			"versionNonce": 1013213998,
+			"version": 807,
+			"versionNonce": 2075828774,
 			"isDeleted": false,
 			"id": "ja8KQVzVYa5PDVSOUJXsE",
 			"fillStyle": "hachure",
@@ -7837,7 +7886,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7858,8 +7907,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 814,
-			"versionNonce": 2060297906,
+			"version": 824,
+			"versionNonce": 743734074,
 			"isDeleted": false,
 			"id": "7yj1VPXkgjVJu8aAXd_On",
 			"fillStyle": "hachure",
@@ -7884,7 +7933,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7905,8 +7954,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 820,
-			"versionNonce": 524997998,
+			"version": 830,
+			"versionNonce": 1303342438,
 			"isDeleted": false,
 			"id": "tMKDRPTzGjmb30hr056C-",
 			"fillStyle": "hachure",
@@ -7931,7 +7980,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7952,8 +8001,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 824,
-			"versionNonce": 1871315058,
+			"version": 834,
+			"versionNonce": 961872890,
 			"isDeleted": false,
 			"id": "Huf9P4K3XLzyge3WswZBJ",
 			"fillStyle": "hachure",
@@ -7979,7 +8028,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8012,8 +8061,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 737,
-			"versionNonce": 644478894,
+			"version": 747,
+			"versionNonce": 1969803430,
 			"isDeleted": false,
 			"id": "I55HQIdMUqjdWTp384YOF",
 			"fillStyle": "hachure",
@@ -8039,14 +8088,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 420,
-			"versionNonce": 1192567346,
+			"version": 430,
+			"versionNonce": 247887034,
 			"isDeleted": false,
 			"id": "khMVaBKF",
 			"fillStyle": "solid",
@@ -8068,7 +8117,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -8080,12 +8129,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 859,
-			"versionNonce": 971690478,
+			"version": 869,
+			"versionNonce": 2123615206,
 			"isDeleted": false,
 			"id": "Cuo01-ayZ7vI4d5MAEaxO",
 			"fillStyle": "solid",
@@ -8114,14 +8163,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "uIPymwaS"
 				}
 			],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 853,
-			"versionNonce": 1280707570,
+			"version": 863,
+			"versionNonce": 1045155194,
 			"isDeleted": false,
 			"id": "uIPymwaS",
 			"fillStyle": "solid",
@@ -8143,7 +8192,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -8155,12 +8204,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Cuo01-ayZ7vI4d5MAEaxO",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 739,
-			"versionNonce": 1423336494,
+			"version": 749,
+			"versionNonce": 2000510758,
 			"isDeleted": false,
 			"id": "-WYBBqZbM1bBxFkxcaaCX",
 			"fillStyle": "solid",
@@ -8189,14 +8238,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "fHXuYw3z"
 				}
 			],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 743,
-			"versionNonce": 1431551410,
+			"version": 753,
+			"versionNonce": 757599802,
 			"isDeleted": false,
 			"id": "fHXuYw3z",
 			"fillStyle": "solid",
@@ -8218,7 +8267,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -8230,12 +8279,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "-WYBBqZbM1bBxFkxcaaCX",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
-			"version": 1547,
-			"versionNonce": 689286766,
+			"version": 1557,
+			"versionNonce": 601000550,
 			"isDeleted": false,
 			"id": "bUCRFWG-M9d3A-4ZINUhz",
 			"fillStyle": "solid",
@@ -8257,7 +8306,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8302,8 +8351,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 577,
-			"versionNonce": 1597323122,
+			"version": 587,
+			"versionNonce": 540948218,
 			"isDeleted": false,
 			"id": "qvuJbt2C",
 			"fillStyle": "solid",
@@ -8325,7 +8374,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 8.474694633079924,
@@ -8341,8 +8390,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 1584,
-			"versionNonce": 1131524270,
+			"version": 1594,
+			"versionNonce": 857755046,
 			"isDeleted": false,
 			"id": "t5wgmN0mJooPhhl2SsCZ3",
 			"fillStyle": "solid",
@@ -8364,7 +8413,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8409,8 +8458,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 818,
-			"versionNonce": 708933938,
+			"version": 828,
+			"versionNonce": 1209092026,
 			"isDeleted": false,
 			"id": "SlkEgCbfVlMd3a45lI6IQ",
 			"fillStyle": "solid",
@@ -8439,14 +8488,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "JbXC65mO"
 				}
 			],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 849,
-			"versionNonce": 798190318,
+			"version": 859,
+			"versionNonce": 1918085350,
 			"isDeleted": false,
 			"id": "JbXC65mO",
 			"fillStyle": "solid",
@@ -8468,7 +8517,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -8480,12 +8529,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "SlkEgCbfVlMd3a45lI6IQ",
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 692,
-			"versionNonce": 1440711410,
+			"version": 702,
+			"versionNonce": 1287929978,
 			"isDeleted": false,
 			"id": "D4gRNUIC",
 			"fillStyle": "solid",
@@ -8507,7 +8556,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false,
 			"fontSize": 8.474694633079924,
@@ -8523,8 +8572,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 762,
-			"versionNonce": 470015278,
+			"version": 772,
+			"versionNonce": 16358438,
 			"isDeleted": false,
 			"id": "dR-4jDY8dxNA1dmpbA9ku",
 			"fillStyle": "hachure",
@@ -8548,14 +8597,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 782,
-			"versionNonce": 2090226866,
+			"version": 792,
+			"versionNonce": 1511661882,
 			"isDeleted": false,
 			"id": "CnbK14qFqsERWPcFfPC-k",
 			"fillStyle": "hachure",
@@ -8579,14 +8628,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968259,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 769,
-			"versionNonce": 2116814702,
+			"version": 779,
+			"versionNonce": 83830630,
 			"isDeleted": false,
 			"id": "bM_mCGI3IwnmnD3WaQStw",
 			"fillStyle": "hachure",
@@ -8611,7 +8660,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8632,8 +8681,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 800,
-			"versionNonce": 1343024754,
+			"version": 810,
+			"versionNonce": 729147898,
 			"isDeleted": false,
 			"id": "UTXIjPlBKkV8Wa3QAyshg",
 			"fillStyle": "hachure",
@@ -8658,7 +8707,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8679,8 +8728,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 791,
-			"versionNonce": 911534510,
+			"version": 801,
+			"versionNonce": 1588677286,
 			"isDeleted": false,
 			"id": "_X1fKCIiNJhzCkjYom78O",
 			"fillStyle": "hachure",
@@ -8705,7 +8754,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8726,8 +8775,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 822,
-			"versionNonce": 889868338,
+			"version": 832,
+			"versionNonce": 400202426,
 			"isDeleted": false,
 			"id": "J2niLIdVwSvenE7D8wIfx",
 			"fillStyle": "hachure",
@@ -8752,7 +8801,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8773,8 +8822,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 793,
-			"versionNonce": 866616302,
+			"version": 803,
+			"versionNonce": 1555891686,
 			"isDeleted": false,
 			"id": "otQ0W6QKWj-djIQwmJQ-U",
 			"fillStyle": "hachure",
@@ -8799,7 +8848,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8820,8 +8869,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 825,
-			"versionNonce": 1601534450,
+			"version": 835,
+			"versionNonce": 501953402,
 			"isDeleted": false,
 			"id": "0RzxpIxanbRp1VPa0dX83",
 			"fillStyle": "hachure",
@@ -8846,7 +8895,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8867,8 +8916,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 814,
-			"versionNonce": 405591598,
+			"version": 824,
+			"versionNonce": 1882151206,
 			"isDeleted": false,
 			"id": "KIKGohCibeRLUWZBL8AJ3",
 			"fillStyle": "hachure",
@@ -8893,7 +8942,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8914,8 +8963,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 846,
-			"versionNonce": 1851091890,
+			"version": 856,
+			"versionNonce": 1877652538,
 			"isDeleted": false,
 			"id": "UkpnM6fPo3miqbll1m-rw",
 			"fillStyle": "hachure",
@@ -8940,7 +8989,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8961,8 +9010,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 866,
-			"versionNonce": 1556996206,
+			"version": 876,
+			"versionNonce": 1618297958,
 			"isDeleted": false,
 			"id": "wkgxU1liwm_vnX7A16y0d",
 			"fillStyle": "hachure",
@@ -8987,7 +9036,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9008,8 +9057,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 769,
-			"versionNonce": 131147122,
+			"version": 779,
+			"versionNonce": 2143034618,
 			"isDeleted": false,
 			"id": "NhsAy6R228VQiWuH_P0HA",
 			"fillStyle": "hachure",
@@ -9034,7 +9083,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9055,8 +9104,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 792,
-			"versionNonce": 1968415406,
+			"version": 802,
+			"versionNonce": 2136721318,
 			"isDeleted": false,
 			"id": "2YtUUL_STlGOMFL_HJDm3",
 			"fillStyle": "hachure",
@@ -9081,7 +9130,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9102,8 +9151,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 800,
-			"versionNonce": 1966057266,
+			"version": 810,
+			"versionNonce": 182611386,
 			"isDeleted": false,
 			"id": "lTn3cN_DVNZlTbRStuwqs",
 			"fillStyle": "hachure",
@@ -9128,7 +9177,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9149,8 +9198,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 791,
-			"versionNonce": 1952914670,
+			"version": 801,
+			"versionNonce": 1561322214,
 			"isDeleted": false,
 			"id": "akSBkfY6axD2RX8cEIO_u",
 			"fillStyle": "hachure",
@@ -9175,7 +9224,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9196,8 +9245,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 822,
-			"versionNonce": 1054339314,
+			"version": 832,
+			"versionNonce": 645965434,
 			"isDeleted": false,
 			"id": "jeluQftIc4BfVCp5SleVl",
 			"fillStyle": "hachure",
@@ -9222,7 +9271,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9243,8 +9292,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 793,
-			"versionNonce": 798052142,
+			"version": 803,
+			"versionNonce": 2082379302,
 			"isDeleted": false,
 			"id": "7AunCOyN5qr3YV8ABz6t-",
 			"fillStyle": "hachure",
@@ -9269,7 +9318,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9290,8 +9339,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 825,
-			"versionNonce": 1213268658,
+			"version": 835,
+			"versionNonce": 1264174906,
 			"isDeleted": false,
 			"id": "ivXMkVsMTOLl9l6D0dIFj",
 			"fillStyle": "hachure",
@@ -9316,7 +9365,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9337,8 +9386,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 815,
-			"versionNonce": 1664825710,
+			"version": 825,
+			"versionNonce": 91545958,
 			"isDeleted": false,
 			"id": "JOTE2p6W4GQ55n8lZtP1q",
 			"fillStyle": "hachure",
@@ -9363,7 +9412,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9384,8 +9433,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 845,
-			"versionNonce": 1816255602,
+			"version": 855,
+			"versionNonce": 1641074682,
 			"isDeleted": false,
 			"id": "NCelJc7Dbmg0SwqonCQlh",
 			"fillStyle": "hachure",
@@ -9410,7 +9459,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9431,8 +9480,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 866,
-			"versionNonce": 1454234542,
+			"version": 876,
+			"versionNonce": 2086651046,
 			"isDeleted": false,
 			"id": "UvDcakKsoVPtYLpN3YmMV",
 			"fillStyle": "hachure",
@@ -9457,7 +9506,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9478,8 +9527,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 769,
-			"versionNonce": 410091058,
+			"version": 779,
+			"versionNonce": 1307099322,
 			"isDeleted": false,
 			"id": "0veK_0mypgG1h485a0vFb",
 			"fillStyle": "hachure",
@@ -9504,7 +9553,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9525,8 +9574,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 792,
-			"versionNonce": 1193454,
+			"version": 802,
+			"versionNonce": 1921794022,
 			"isDeleted": false,
 			"id": "rH7EJpE75rx_0BKszOFHq",
 			"fillStyle": "hachure",
@@ -9551,7 +9600,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9572,8 +9621,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 822,
-			"versionNonce": 1774643186,
+			"version": 832,
+			"versionNonce": 2068093306,
 			"isDeleted": false,
 			"id": "9rJNrSwUpJv-BFsN6_No7",
 			"fillStyle": "hachure",
@@ -9598,7 +9647,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9619,8 +9668,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 839,
-			"versionNonce": 678512686,
+			"version": 849,
+			"versionNonce": 1007112998,
 			"isDeleted": false,
 			"id": "VvDUSS9TcwO0kc_upCaek",
 			"fillStyle": "hachure",
@@ -9645,7 +9694,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9666,8 +9715,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 845,
-			"versionNonce": 1212750258,
+			"version": 855,
+			"versionNonce": 1764186682,
 			"isDeleted": false,
 			"id": "0kcRD5E-hGgePuQiHHJyE",
 			"fillStyle": "hachure",
@@ -9692,7 +9741,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9713,8 +9762,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 849,
-			"versionNonce": 263459438,
+			"version": 859,
+			"versionNonce": 591265382,
 			"isDeleted": false,
 			"id": "XzIvF6wZ9aPOWj-1VpKs7",
 			"fillStyle": "hachure",
@@ -9740,7 +9789,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9773,8 +9822,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 762,
-			"versionNonce": 52368242,
+			"version": 772,
+			"versionNonce": 913572602,
 			"isDeleted": false,
 			"id": "RZp6qWqkmHz-mOMdjp4R_",
 			"fillStyle": "hachure",
@@ -9800,14 +9849,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 445,
-			"versionNonce": 279155886,
+			"version": 455,
+			"versionNonce": 486359462,
 			"isDeleted": false,
 			"id": "639Nad0X",
 			"fillStyle": "solid",
@@ -9829,7 +9878,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -9841,12 +9890,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 884,
-			"versionNonce": 1821365554,
+			"version": 894,
+			"versionNonce": 766350266,
 			"isDeleted": false,
 			"id": "gKff4QHG4L8qwpqYj1Cya",
 			"fillStyle": "solid",
@@ -9875,14 +9924,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "bt3HcXbY"
 				}
 			],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 879,
-			"versionNonce": 1156108014,
+			"version": 889,
+			"versionNonce": 2087853286,
 			"isDeleted": false,
 			"id": "bt3HcXbY",
 			"fillStyle": "solid",
@@ -9904,7 +9953,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -9916,12 +9965,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "gKff4QHG4L8qwpqYj1Cya",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 766,
-			"versionNonce": 1979866866,
+			"version": 776,
+			"versionNonce": 1358367866,
 			"isDeleted": false,
 			"id": "CpA4CG2rxltdhCOYMCmP6",
 			"fillStyle": "solid",
@@ -9954,14 +10003,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 770,
-			"versionNonce": 688701742,
+			"version": 780,
+			"versionNonce": 657035302,
 			"isDeleted": false,
 			"id": "dBj2sW3I",
 			"fillStyle": "solid",
@@ -9983,7 +10032,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -9995,12 +10044,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "CpA4CG2rxltdhCOYMCmP6",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
-			"version": 1572,
-			"versionNonce": 1274917042,
+			"version": 1582,
+			"versionNonce": 1712549178,
 			"isDeleted": false,
 			"id": "xryKqU713daE--jpgSfuj",
 			"fillStyle": "solid",
@@ -10022,7 +10071,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -10067,8 +10116,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 1609,
-			"versionNonce": 1081633646,
+			"version": 1619,
+			"versionNonce": 1225825126,
 			"isDeleted": false,
 			"id": "fhkxqJOI90onmJ0ooD6o4",
 			"fillStyle": "solid",
@@ -10090,7 +10139,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -10135,8 +10184,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 1090,
-			"versionNonce": 1915275890,
+			"version": 1100,
+			"versionNonce": 40220154,
 			"isDeleted": false,
 			"id": "y3WzibqblLXiVGPnHL9lv",
 			"fillStyle": "solid",
@@ -10160,14 +10209,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 299,
-			"versionNonce": 963956142,
+			"version": 309,
+			"versionNonce": 141835942,
 			"isDeleted": false,
 			"id": "71xIQTAf",
 			"fillStyle": "solid",
@@ -10189,7 +10238,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10201,12 +10250,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 400,
-			"versionNonce": 1598729266,
+			"version": 410,
+			"versionNonce": 384886458,
 			"isDeleted": false,
 			"id": "npVTigin",
 			"fillStyle": "solid",
@@ -10233,7 +10282,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10245,12 +10294,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "reverse(url_name)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 2878,
-			"versionNonce": 846713898,
+			"version": 2893,
+			"versionNonce": 973175270,
 			"isDeleted": false,
 			"id": "ypINFAzaOkRT9B0SsgAUi",
 			"fillStyle": "solid",
@@ -10274,7 +10323,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708067309688,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10307,8 +10356,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 404,
-			"versionNonce": 424302066,
+			"version": 414,
+			"versionNonce": 2086141818,
 			"isDeleted": false,
 			"id": "5Yf5QqZuOvN2GLPD9Tubq",
 			"fillStyle": "solid",
@@ -10330,14 +10379,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 352,
-			"versionNonce": 933476910,
+			"version": 362,
+			"versionNonce": 348474662,
 			"isDeleted": false,
 			"id": "3Ygr6zO79dcvekU5Biz2U",
 			"fillStyle": "solid",
@@ -10359,14 +10408,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 303,
-			"versionNonce": 1362020274,
+			"version": 313,
+			"versionNonce": 2128478266,
 			"isDeleted": false,
 			"id": "CxHYWMsr",
 			"fillStyle": "solid",
@@ -10388,7 +10437,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10400,12 +10449,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "base.html",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 428,
-			"versionNonce": 868762734,
+			"version": 438,
+			"versionNonce": 1714206822,
 			"isDeleted": false,
 			"id": "O8NPPi_VA7GbdarNAzBOK",
 			"fillStyle": "solid",
@@ -10427,14 +10476,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372382,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 477,
-			"versionNonce": 2132738418,
+			"version": 487,
+			"versionNonce": 1785063674,
 			"isDeleted": false,
 			"id": "C6dDvFV5z-NPpL_zBZwNr",
 			"fillStyle": "solid",
@@ -10456,14 +10505,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 558,
-			"versionNonce": 1197573806,
+			"version": 568,
+			"versionNonce": 1174715302,
 			"isDeleted": false,
 			"id": "jatkiwN4HOaPh9SfW9dgc",
 			"fillStyle": "solid",
@@ -10485,14 +10534,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 488,
-			"versionNonce": 2120352562,
+			"version": 498,
+			"versionNonce": 376617402,
 			"isDeleted": false,
 			"id": "p1Qvr-n7ncTLOK1H9AmyW",
 			"fillStyle": "solid",
@@ -10514,14 +10563,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 249,
-			"versionNonce": 320372974,
+			"version": 259,
+			"versionNonce": 1249531622,
 			"isDeleted": false,
 			"id": "MWA4kEUP",
 			"fillStyle": "solid",
@@ -10543,7 +10592,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10555,12 +10604,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 320,
-			"versionNonce": 694078706,
+			"version": 330,
+			"versionNonce": 1915187834,
 			"isDeleted": false,
 			"id": "vcDBueuR",
 			"fillStyle": "solid",
@@ -10582,7 +10631,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10594,12 +10643,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 316,
-			"versionNonce": 980824878,
+			"version": 326,
+			"versionNonce": 1008372262,
 			"isDeleted": false,
 			"id": "q6a1_MKQF4Sdv-6tpKsR1",
 			"fillStyle": "solid",
@@ -10621,14 +10670,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 369,
-			"versionNonce": 1973182130,
+			"version": 379,
+			"versionNonce": 273093434,
 			"isDeleted": false,
 			"id": "ug3l2k0D",
 			"fillStyle": "solid",
@@ -10650,7 +10699,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10662,12 +10711,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
-			"version": 373,
-			"versionNonce": 132357486,
+			"version": 383,
+			"versionNonce": 1238521190,
 			"isDeleted": false,
 			"id": "6p0pggBk",
 			"fillStyle": "solid",
@@ -10689,7 +10738,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10701,12 +10750,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "{% extends \"base.html\" %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 302,
-			"versionNonce": 264353906,
+			"version": 312,
+			"versionNonce": 859085818,
 			"isDeleted": false,
 			"id": "Cb0Ly1IR",
 			"fillStyle": "solid",
@@ -10728,7 +10777,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10740,12 +10789,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 373,
-			"versionNonce": 279560110,
+			"version": 383,
+			"versionNonce": 1022277798,
 			"isDeleted": false,
 			"id": "PISHaLf6",
 			"fillStyle": "solid",
@@ -10767,7 +10816,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -10779,12 +10828,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 369,
-			"versionNonce": 2006309426,
+			"version": 379,
+			"versionNonce": 1492323514,
 			"isDeleted": false,
 			"id": "PlxAOLmQInpOD27SntWPo",
 			"fillStyle": "solid",
@@ -10806,14 +10855,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 391,
-			"versionNonce": 1492228590,
+			"version": 401,
+			"versionNonce": 756855782,
 			"isDeleted": false,
 			"id": "p5SNwzisuZDuZEYzLglrN",
 			"fillStyle": "solid",
@@ -10835,14 +10884,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 353,
-			"versionNonce": 469746674,
+			"version": 363,
+			"versionNonce": 1193633146,
 			"isDeleted": false,
 			"id": "uNm43nri",
 			"fillStyle": "solid",
@@ -10864,7 +10913,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10876,12 +10925,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 514,
-			"versionNonce": 2009345070,
+			"version": 524,
+			"versionNonce": 879314726,
 			"isDeleted": false,
 			"id": "K8jd4hWV_32JQB7DzL85r",
 			"fillStyle": "solid",
@@ -10903,14 +10952,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 596,
-			"versionNonce": 1996912050,
+			"version": 606,
+			"versionNonce": 386836026,
 			"isDeleted": false,
 			"id": "f247bMdfJdKTk0leQvFsO",
 			"fillStyle": "solid",
@@ -10932,14 +10981,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 525,
-			"versionNonce": 990541422,
+			"version": 535,
+			"versionNonce": 591491686,
 			"isDeleted": false,
 			"id": "rOGa9FmxB6W1E5UiIH6_D",
 			"fillStyle": "solid",
@@ -10961,14 +11010,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 304,
-			"versionNonce": 701558642,
+			"version": 314,
+			"versionNonce": 1100074746,
 			"isDeleted": false,
 			"id": "gSPVP9a9Y3ewpyPumsZqY",
 			"fillStyle": "solid",
@@ -10990,14 +11039,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 332,
-			"versionNonce": 1267562670,
+			"version": 342,
+			"versionNonce": 879900070,
 			"isDeleted": false,
 			"id": "MbsuFxCbVAvnYE3yXnWzs",
 			"fillStyle": "solid",
@@ -11019,14 +11068,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 470,
-			"versionNonce": 413544754,
+			"version": 480,
+			"versionNonce": 724688826,
 			"isDeleted": false,
 			"id": "kiGHn1lYV6JWzcNbTXIvv",
 			"fillStyle": "solid",
@@ -11048,14 +11097,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 305,
-			"versionNonce": 1358312174,
+			"version": 315,
+			"versionNonce": 1093177574,
 			"isDeleted": false,
 			"id": "0DqtXTg9pROpBls4GfS3y",
 			"fillStyle": "solid",
@@ -11078,14 +11127,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968260,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 381,
-			"versionNonce": 116210418,
+			"version": 391,
+			"versionNonce": 806475898,
 			"isDeleted": false,
 			"id": "X8L0Nfo1",
 			"fillStyle": "solid",
@@ -11108,7 +11157,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 57.78320312499999,
@@ -11120,12 +11169,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "JS",
 			"lineHeight": 1.2,
-			"baseline": 55
+			"baseline": 56
 		},
 		{
 			"type": "text",
-			"version": 243,
-			"versionNonce": 365798702,
+			"version": 253,
+			"versionNonce": 1961985062,
 			"isDeleted": false,
 			"id": "PhD2iYff",
 			"fillStyle": "solid",
@@ -11147,7 +11196,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11159,12 +11208,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Dynamic\nweakly-typed",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "text",
-			"version": 249,
-			"versionNonce": 858590386,
+			"version": 259,
+			"versionNonce": 804567354,
 			"isDeleted": false,
 			"id": "q9TY0UzV",
 			"fillStyle": "solid",
@@ -11186,7 +11235,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11198,12 +11247,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Interpreted\n전송 중에 컴파일 됨",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "text",
-			"version": 350,
-			"versionNonce": 729599854,
+			"version": 360,
+			"versionNonce": 28970854,
 			"isDeleted": false,
 			"id": "LlVHntwl",
 			"fillStyle": "solid",
@@ -11225,7 +11274,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11237,12 +11286,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Hosted language\n여러 환경에서 실행 됨",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "text",
-			"version": 260,
-			"versionNonce": 1930208882,
+			"version": 270,
+			"versionNonce": 440238586,
 			"isDeleted": false,
 			"id": "UZMAYo4L",
 			"fillStyle": "solid",
@@ -11264,7 +11313,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11276,12 +11325,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "브라우저에서 코드 실행",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 286,
-			"versionNonce": 239907246,
+			"version": 296,
+			"versionNonce": 1406087846,
 			"isDeleted": false,
 			"id": "6b3yvdd4kg8W3-te48JIh",
 			"fillStyle": "solid",
@@ -11303,14 +11352,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 575,
-			"versionNonce": 1330841650,
+			"version": 585,
+			"versionNonce": 2045719226,
 			"isDeleted": false,
 			"id": "7SjhUGR9",
 			"fillStyle": "solid",
@@ -11332,7 +11381,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11344,12 +11393,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "브라우저 built-in JS엔진\nV8(chrome)",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 341,
-			"versionNonce": 1231440878,
+			"version": 351,
+			"versionNonce": 1172172262,
 			"isDeleted": false,
 			"id": "AuxI8odq",
 			"fillStyle": "solid",
@@ -11371,7 +11420,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11383,12 +11432,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "{code}",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 569,
-			"versionNonce": 535245298,
+			"version": 579,
+			"versionNonce": 28101498,
 			"isDeleted": false,
 			"id": "_9CXkCa65FvB18rNGgkF2",
 			"fillStyle": "solid",
@@ -11410,7 +11459,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11431,8 +11480,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 354,
-			"versionNonce": 450010670,
+			"version": 364,
+			"versionNonce": 1425228070,
 			"isDeleted": false,
 			"id": "Q1Mwi3sQ",
 			"fillStyle": "solid",
@@ -11454,7 +11503,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11470,8 +11519,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 288,
-			"versionNonce": 667952050,
+			"version": 298,
+			"versionNonce": 398019642,
 			"isDeleted": false,
 			"id": "1hkxzJrwa3e2Vb1fw8nOB",
 			"fillStyle": "solid",
@@ -11493,7 +11542,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11514,8 +11563,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 310,
-			"versionNonce": 393914478,
+			"version": 320,
+			"versionNonce": 1417423974,
 			"isDeleted": false,
 			"id": "EIZxt9RoDi_M_uv-GoFF6",
 			"fillStyle": "solid",
@@ -11537,7 +11586,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11558,8 +11607,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 296,
-			"versionNonce": 825548146,
+			"version": 306,
+			"versionNonce": 1643623674,
 			"isDeleted": false,
 			"id": "pJQDh24C",
 			"fillStyle": "solid",
@@ -11581,7 +11630,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11593,12 +11642,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Effect",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 256,
-			"versionNonce": 1327983278,
+			"version": 266,
+			"versionNonce": 574992294,
 			"isDeleted": false,
 			"id": "auhQIrw8",
 			"fillStyle": "solid",
@@ -11620,7 +11669,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11632,12 +11681,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Single Thread",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 399,
-			"versionNonce": 693919538,
+			"version": 409,
+			"versionNonce": 1374356922,
 			"isDeleted": false,
 			"id": "DLKr_Iw6MZLBsA3jHXG7G",
 			"fillStyle": "solid",
@@ -11659,14 +11708,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 751,
-			"versionNonce": 1887560942,
+			"version": 761,
+			"versionNonce": 1518127846,
 			"isDeleted": false,
 			"id": "Du6_1G2nsZ8addcnXAjAb",
 			"fillStyle": "solid",
@@ -11694,14 +11743,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 668,
-			"versionNonce": 1018013938,
+			"version": 678,
+			"versionNonce": 817249914,
 			"isDeleted": false,
 			"id": "5pOdeRoG",
 			"fillStyle": "solid",
@@ -11724,7 +11773,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11736,12 +11785,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "<code>",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 360,
-			"versionNonce": 1829967662,
+			"version": 370,
+			"versionNonce": 195984934,
 			"isDeleted": false,
 			"id": "_0weq-jmETzMazabZ5U0P",
 			"fillStyle": "solid",
@@ -11763,14 +11812,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 353,
-			"versionNonce": 1924119218,
+			"version": 363,
+			"versionNonce": 723279674,
 			"isDeleted": false,
 			"id": "Bo6LyU-0KEvyH-7_LUJOR",
 			"fillStyle": "solid",
@@ -11792,14 +11841,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 254,
-			"versionNonce": 490996078,
+			"version": 264,
+			"versionNonce": 1791478118,
 			"isDeleted": false,
 			"id": "C81iR5F5",
 			"fillStyle": "solid",
@@ -11821,7 +11870,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11833,12 +11882,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "browser",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 376,
-			"versionNonce": 1242141810,
+			"version": 386,
+			"versionNonce": 1568696314,
 			"isDeleted": false,
 			"id": "K8mgdfrt5mwZhfFOTMNno",
 			"fillStyle": "solid",
@@ -11865,14 +11914,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "tB6vlZa7"
 				}
 			],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 378,
-			"versionNonce": 1683858350,
+			"version": 388,
+			"versionNonce": 118860966,
 			"isDeleted": false,
 			"id": "tB6vlZa7",
 			"fillStyle": "solid",
@@ -11894,7 +11943,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -11906,12 +11955,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "K8mgdfrt5mwZhfFOTMNno",
 			"originalText": "JS 파싱 및 실행",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 452,
-			"versionNonce": 1417819698,
+			"version": 462,
+			"versionNonce": 1608865978,
 			"isDeleted": false,
 			"id": "BAoYMBK7gcohntNzzJDVC",
 			"fillStyle": "solid",
@@ -11938,14 +11987,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 287,
-			"versionNonce": 1418264046,
+			"version": 297,
+			"versionNonce": 2118461414,
 			"isDeleted": false,
 			"id": "pTuu9HtEb1x_juUmcj_po",
 			"fillStyle": "solid",
@@ -11980,14 +12029,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 277,
-			"versionNonce": 1392549874,
+			"version": 287,
+			"versionNonce": 1374564730,
 			"isDeleted": false,
 			"id": "n67LJNH9",
 			"fillStyle": "solid",
@@ -12009,7 +12058,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12021,12 +12070,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "pTuu9HtEb1x_juUmcj_po",
 			"originalText": "interpreter",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 410,
-			"versionNonce": 1389301806,
+			"version": 420,
+			"versionNonce": 811809574,
 			"isDeleted": false,
 			"id": "SUGRFK1cJOYkLW9hUjYUE",
 			"fillStyle": "solid",
@@ -12061,14 +12110,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 443,
-			"versionNonce": 1368117682,
+			"version": 453,
+			"versionNonce": 1725821498,
 			"isDeleted": false,
 			"id": "Ackwd1Mz",
 			"fillStyle": "solid",
@@ -12090,7 +12139,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12102,12 +12151,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "SUGRFK1cJOYkLW9hUjYUE",
 			"originalText": "compiler(JIT)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 532,
-			"versionNonce": 817781622,
+			"version": 547,
+			"versionNonce": 1943856742,
 			"isDeleted": false,
 			"id": "RNzrlE8PzV-MStjIANndi",
 			"fillStyle": "solid",
@@ -12129,7 +12178,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309689,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12162,8 +12211,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 763,
-			"versionNonce": 1653570742,
+			"version": 783,
+			"versionNonce": 1905761018,
 			"isDeleted": false,
 			"id": "Ey98i2quu_ZaJrVufSyP3",
 			"fillStyle": "solid",
@@ -12185,7 +12234,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309690,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12222,8 +12271,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 758,
-			"versionNonce": 70212782,
+			"version": 768,
+			"versionNonce": 1233070502,
 			"isDeleted": false,
 			"id": "CzJy2z7DWHCO81eVUd2cK",
 			"fillStyle": "solid",
@@ -12254,14 +12303,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 774,
-			"versionNonce": 512003378,
+			"version": 784,
+			"versionNonce": 1889414074,
 			"isDeleted": false,
 			"id": "2s1D8ZCe",
 			"fillStyle": "solid",
@@ -12283,7 +12332,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12295,12 +12344,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "CzJy2z7DWHCO81eVUd2cK",
 			"originalText": "byte code",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 835,
-			"versionNonce": 1673238254,
+			"version": 845,
+			"versionNonce": 276235494,
 			"isDeleted": false,
 			"id": "2ExWHXOWc6xiH2xiJnTOG",
 			"fillStyle": "solid",
@@ -12324,14 +12373,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 729,
-			"versionNonce": 2023757554,
+			"version": 739,
+			"versionNonce": 437560442,
 			"isDeleted": false,
 			"id": "SLvNie4hv2sil2J89jhW-",
 			"fillStyle": "solid",
@@ -12355,14 +12404,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 720,
-			"versionNonce": 1917225262,
+			"version": 730,
+			"versionNonce": 978417702,
 			"isDeleted": false,
 			"id": "cS9tUeJt4QL2RxU30E-xR",
 			"fillStyle": "solid",
@@ -12386,14 +12435,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 716,
-			"versionNonce": 1841058218,
+			"version": 731,
+			"versionNonce": 1740506426,
 			"isDeleted": false,
 			"id": "cpKGZUiWy8LjnBOVjFOuT",
 			"fillStyle": "solid",
@@ -12415,7 +12464,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309690,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12444,8 +12493,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 230,
-			"versionNonce": 1329148782,
+			"version": 240,
+			"versionNonce": 2130412390,
 			"isDeleted": false,
 			"id": "nQamyKTe",
 			"fillStyle": "solid",
@@ -12467,7 +12516,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12479,12 +12528,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "client\ncomputer",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 837,
-			"versionNonce": 1119388274,
+			"version": 847,
+			"versionNonce": 587025914,
 			"isDeleted": false,
 			"id": "Y1MsRQFhoG3xJLahODbPi",
 			"fillStyle": "solid",
@@ -12511,14 +12560,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "LSDCAnC7"
 				}
 			],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 869,
-			"versionNonce": 1155306926,
+			"version": 879,
+			"versionNonce": 281159334,
 			"isDeleted": false,
 			"id": "LSDCAnC7",
 			"fillStyle": "solid",
@@ -12540,7 +12589,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12552,12 +12601,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Y1MsRQFhoG3xJLahODbPi",
 			"originalText": "script 로드 및 실행",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 839,
-			"versionNonce": 1965253682,
+			"version": 849,
+			"versionNonce": 1893039802,
 			"isDeleted": false,
 			"id": "M92TKW3HVZsUw3Mg4Wah_",
 			"fillStyle": "solid",
@@ -12584,14 +12633,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "HEAhM30H"
 				}
 			],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 880,
-			"versionNonce": 1817817070,
+			"version": 890,
+			"versionNonce": 1347576294,
 			"isDeleted": false,
 			"id": "HEAhM30H",
 			"fillStyle": "solid",
@@ -12613,7 +12662,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12625,12 +12674,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "M92TKW3HVZsUw3Mg4Wah_",
 			"originalText": "compiled\nmachine code",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
-			"version": 529,
-			"versionNonce": 1665928690,
+			"version": 539,
+			"versionNonce": 1575589754,
 			"isDeleted": false,
 			"id": "BujRFqj7xHcHN9bYhRphG",
 			"fillStyle": "solid",
@@ -12657,14 +12706,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "jeGLOYh6"
 				}
 			],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 555,
-			"versionNonce": 1371111982,
+			"version": 565,
+			"versionNonce": 12137766,
 			"isDeleted": false,
 			"id": "jeGLOYh6",
 			"fillStyle": "solid",
@@ -12686,7 +12735,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372383,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12698,12 +12747,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "BujRFqj7xHcHN9bYhRphG",
 			"originalText": "브라우저 API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 610,
-			"versionNonce": 1647935410,
+			"version": 620,
+			"versionNonce": 1786550330,
 			"isDeleted": false,
 			"id": "L1JkMuAn_S3x4mdxP-z58",
 			"fillStyle": "solid",
@@ -12730,14 +12779,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 446,
-			"versionNonce": 400886894,
+			"version": 456,
+			"versionNonce": 2070126694,
 			"isDeleted": false,
 			"id": "q88IpGLXTQ_RdMEvoSTuO",
 			"fillStyle": "solid",
@@ -12757,7 +12806,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12794,8 +12843,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 487,
-			"versionNonce": 236108146,
+			"version": 497,
+			"versionNonce": 376537338,
 			"isDeleted": false,
 			"id": "1RHAA2E151ZbfAYPIC2FD",
 			"fillStyle": "solid",
@@ -12822,14 +12871,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "uEzkjzRL"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 648,
-			"versionNonce": 480595630,
+			"version": 658,
+			"versionNonce": 1679729574,
 			"isDeleted": false,
 			"id": "uEzkjzRL",
 			"fillStyle": "solid",
@@ -12851,7 +12900,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12867,8 +12916,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 313,
-			"versionNonce": 1713290034,
+			"version": 323,
+			"versionNonce": 1833652666,
 			"isDeleted": false,
 			"id": "qAOdAS0H",
 			"fillStyle": "solid",
@@ -12888,7 +12937,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12900,12 +12949,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "머신 코드에 포함된다.",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 410,
-			"versionNonce": 480463086,
+			"version": 420,
+			"versionNonce": 1561804518,
 			"isDeleted": false,
 			"id": "OaR8u-h0O8kszaiFmQW1r",
 			"fillStyle": "solid",
@@ -12932,14 +12981,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "hoHNqMlm"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 483,
-			"versionNonce": 1757709554,
+			"version": 493,
+			"versionNonce": 304941690,
 			"isDeleted": false,
 			"id": "hoHNqMlm",
 			"fillStyle": "solid",
@@ -12961,7 +13010,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -12973,12 +13022,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "OaR8u-h0O8kszaiFmQW1r",
 			"originalText": "Document",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 363,
-			"versionNonce": 1466432302,
+			"version": 373,
+			"versionNonce": 987394598,
 			"isDeleted": false,
 			"id": "g4TZq2XxQpbIUP5WhKUBZ",
 			"fillStyle": "solid",
@@ -13005,14 +13054,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "m7wucACs"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 345,
-			"versionNonce": 797644466,
+			"version": 355,
+			"versionNonce": 1272556346,
 			"isDeleted": false,
 			"id": "m7wucACs",
 			"fillStyle": "solid",
@@ -13034,7 +13083,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13046,12 +13095,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "g4TZq2XxQpbIUP5WhKUBZ",
 			"originalText": "Root DOM Node",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 454,
-			"versionNonce": 861693294,
+			"version": 464,
+			"versionNonce": 945110374,
 			"isDeleted": false,
 			"id": "SY0_IzceiFHQ8xVPk74xZ",
 			"fillStyle": "solid",
@@ -13078,14 +13127,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "sexZAsPG"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 903,
-			"versionNonce": 186216562,
+			"version": 913,
+			"versionNonce": 280245242,
 			"isDeleted": false,
 			"id": "sexZAsPG",
 			"fillStyle": "solid",
@@ -13107,7 +13156,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13119,12 +13168,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "SY0_IzceiFHQ8xVPk74xZ",
 			"originalText": "HTML 요소에 쿼리 & 엑세스\nDOM 컨텐츠, HTML 요소와 상호작용",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 477,
-			"versionNonce": 1640597422,
+			"version": 487,
+			"versionNonce": 718577830,
 			"isDeleted": false,
 			"id": "_ldtDoNspjUwLGAg6e0IO",
 			"fillStyle": "solid",
@@ -13151,14 +13200,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "8xmTaWC6"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 556,
-			"versionNonce": 523670066,
+			"version": 566,
+			"versionNonce": 314549434,
 			"isDeleted": false,
 			"id": "8xmTaWC6",
 			"fillStyle": "solid",
@@ -13180,7 +13229,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13192,12 +13241,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "_ldtDoNspjUwLGAg6e0IO",
 			"originalText": "Window",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 407,
-			"versionNonce": 47735278,
+			"version": 417,
+			"versionNonce": 906337254,
 			"isDeleted": false,
 			"id": "pH7q87Wp34511nUP7rv3P",
 			"fillStyle": "solid",
@@ -13224,14 +13273,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "YlXEv77E"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 447,
-			"versionNonce": 2127133682,
+			"version": 457,
+			"versionNonce": 1268710778,
 			"isDeleted": false,
 			"id": "YlXEv77E",
 			"fillStyle": "solid",
@@ -13253,7 +13302,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13265,12 +13314,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "pH7q87Wp34511nUP7rv3P",
 			"originalText": "활성화된 창 또는 탭",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 492,
-			"versionNonce": 1234301998,
+			"version": 502,
+			"versionNonce": 2146774822,
 			"isDeleted": false,
 			"id": "JXth2j4lV-x70ulAeb8MC",
 			"fillStyle": "solid",
@@ -13297,14 +13346,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "XAwmTlFM"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1126,
-			"versionNonce": 1205415346,
+			"version": 1136,
+			"versionNonce": 143998522,
 			"isDeleted": false,
 			"id": "XAwmTlFM",
 			"fillStyle": "solid",
@@ -13326,7 +13375,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968261,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13338,12 +13387,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "JXth2j4lV-x70ulAeb8MC",
 			"originalText": "스크립트의 global storage\n브라우저가 제공하는 모든 기능에 대한 엑세스를 허용한다.",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
-			"version": 444,
-			"versionNonce": 534724206,
+			"version": 454,
+			"versionNonce": 1695570534,
 			"isDeleted": false,
 			"id": "hULijffl96PftAIW7Qj36",
 			"fillStyle": "solid",
@@ -13370,14 +13419,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "eulS5QY9"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 514,
-			"versionNonce": 1066182514,
+			"version": 524,
+			"versionNonce": 1988454138,
 			"isDeleted": false,
 			"id": "eulS5QY9",
 			"fillStyle": "solid",
@@ -13399,7 +13448,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13411,12 +13460,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "hULijffl96PftAIW7Qj36",
 			"originalText": "Root Entry Point",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
-			"version": 254,
-			"versionNonce": 1250508974,
+			"version": 264,
+			"versionNonce": 740564390,
 			"isDeleted": false,
 			"id": "gaFXU982a_ZOoYi_wUagd",
 			"fillStyle": "solid",
@@ -13438,7 +13487,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -13459,8 +13508,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 227,
-			"versionNonce": 1848305970,
+			"version": 237,
+			"versionNonce": 770865082,
 			"isDeleted": false,
 			"id": "r6SrHrrBRAgLL-DboUybi",
 			"fillStyle": "solid",
@@ -13482,7 +13531,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -13503,8 +13552,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 503,
-			"versionNonce": 221838062,
+			"version": 513,
+			"versionNonce": 979204326,
 			"isDeleted": false,
 			"id": "WaQiCYEw8QReFHPzsj0Gk",
 			"fillStyle": "solid",
@@ -13526,14 +13575,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 466,
-			"versionNonce": 991621874,
+			"version": 476,
+			"versionNonce": 1056927866,
 			"isDeleted": false,
 			"id": "ybQwChY23cNwVDS4oljms",
 			"fillStyle": "solid",
@@ -13560,14 +13609,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "C5JBYKFU"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 649,
-			"versionNonce": 1316449582,
+			"version": 659,
+			"versionNonce": 1195994150,
 			"isDeleted": false,
 			"id": "C5JBYKFU",
 			"fillStyle": "solid",
@@ -13589,7 +13638,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13601,12 +13650,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "ybQwChY23cNwVDS4oljms",
 			"originalText": "<html lang=\"en\">\n  <head>\n    <title>DOM Interaction</title>\n  </script>\n  </head>\n  <body>\n      <header>\n          <h1>Dive into the DOM</h1>\n      </header>\n      <p>There's a log to it!<p>\n  </body>\n</html>",
 			"lineHeight": 1.2,
-			"baseline": 227
+			"baseline": 226
 		},
 		{
 			"type": "rectangle",
-			"version": 287,
-			"versionNonce": 149144754,
+			"version": 297,
+			"versionNonce": 1030705466,
 			"isDeleted": false,
 			"id": "xmCD5DrqA27kTlzCRVQE2",
 			"fillStyle": "solid",
@@ -13637,14 +13686,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 227,
-			"versionNonce": 1001232238,
+			"version": 237,
+			"versionNonce": 282392422,
 			"isDeleted": false,
 			"id": "GSCghV1C",
 			"fillStyle": "solid",
@@ -13666,7 +13715,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13678,12 +13727,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "xmCD5DrqA27kTlzCRVQE2",
 			"originalText": "HTML",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 412,
-			"versionNonce": 1361862258,
+			"version": 422,
+			"versionNonce": 1285888506,
 			"isDeleted": false,
 			"id": "zvsQpyzIfgq239Ek1e61p",
 			"fillStyle": "solid",
@@ -13710,14 +13759,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "MpwJyg78"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 362,
-			"versionNonce": 1831106990,
+			"version": 372,
+			"versionNonce": 256711334,
 			"isDeleted": false,
 			"id": "MpwJyg78",
 			"fillStyle": "solid",
@@ -13739,7 +13788,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13751,12 +13800,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "zvsQpyzIfgq239Ek1e61p",
 			"originalText": "TITLE",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 420,
-			"versionNonce": 1086046258,
+			"version": 430,
+			"versionNonce": 732154554,
 			"isDeleted": false,
 			"id": "zXWgFVS5Kb1hhRhMeNjqT",
 			"fillStyle": "solid",
@@ -13783,14 +13832,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "vyniAq5y"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 384,
-			"versionNonce": 168104942,
+			"version": 394,
+			"versionNonce": 694080998,
 			"isDeleted": false,
 			"id": "vyniAq5y",
 			"fillStyle": "solid",
@@ -13812,7 +13861,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13824,12 +13873,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "zXWgFVS5Kb1hhRhMeNjqT",
 			"originalText": "H1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 443,
-			"versionNonce": 1400433138,
+			"version": 453,
+			"versionNonce": 1091462010,
 			"isDeleted": false,
 			"id": "zgBXXcT1tAUCczkoSr27z",
 			"fillStyle": "solid",
@@ -13856,14 +13905,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "aFIscUkB"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 411,
-			"versionNonce": 1817732654,
+			"version": 421,
+			"versionNonce": 1746348326,
 			"isDeleted": false,
 			"id": "aFIscUkB",
 			"fillStyle": "solid",
@@ -13885,7 +13934,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -13897,12 +13946,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "zgBXXcT1tAUCczkoSr27z",
 			"originalText": "P",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 330,
-			"versionNonce": 1886051250,
+			"version": 340,
+			"versionNonce": 656925754,
 			"isDeleted": false,
 			"id": "i_N_6BN1O1a3g99AXIfHd",
 			"fillStyle": "solid",
@@ -13924,14 +13973,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 390,
-			"versionNonce": 1158115438,
+			"version": 400,
+			"versionNonce": 719524966,
 			"isDeleted": false,
 			"id": "ZwzH08ePZubsa7d4iR0r5",
 			"fillStyle": "solid",
@@ -13953,14 +14002,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 384,
-			"versionNonce": 95982962,
+			"version": 394,
+			"versionNonce": 936594682,
 			"isDeleted": false,
 			"id": "8ou3rZueV4MD2Wi6lJDi4",
 			"fillStyle": "solid",
@@ -13987,14 +14036,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "oJP9V8WR"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 338,
-			"versionNonce": 1071329966,
+			"version": 348,
+			"versionNonce": 1536137126,
 			"isDeleted": false,
 			"id": "oJP9V8WR",
 			"fillStyle": "solid",
@@ -14016,7 +14065,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14028,12 +14077,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "8ou3rZueV4MD2Wi6lJDi4",
 			"originalText": "BODY",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
-			"version": 183,
-			"versionNonce": 615061298,
+			"version": 193,
+			"versionNonce": 412327354,
 			"isDeleted": false,
 			"id": "8K0UFfsbTOHpdWU2a1n90",
 			"fillStyle": "solid",
@@ -14055,7 +14104,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14076,8 +14125,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 212,
-			"versionNonce": 662482158,
+			"version": 222,
+			"versionNonce": 575255270,
 			"isDeleted": false,
 			"id": "IQ64ud6gbTulu_QnN2hGZ",
 			"fillStyle": "solid",
@@ -14099,7 +14148,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14120,8 +14169,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 393,
-			"versionNonce": 497246450,
+			"version": 403,
+			"versionNonce": 1183569530,
 			"isDeleted": false,
 			"id": "Oj-4ohao_tF-Lo0RUWp1G",
 			"fillStyle": "solid",
@@ -14148,14 +14197,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "f8ppQ0mZ"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 338,
-			"versionNonce": 158654254,
+			"version": 348,
+			"versionNonce": 429811238,
 			"isDeleted": false,
 			"id": "f8ppQ0mZ",
 			"fillStyle": "solid",
@@ -14177,7 +14226,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14189,12 +14238,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Oj-4ohao_tF-Lo0RUWp1G",
 			"originalText": "HEAD",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
-			"version": 246,
-			"versionNonce": 472806066,
+			"version": 256,
+			"versionNonce": 578746170,
 			"isDeleted": false,
 			"id": "Ae9itNwffAAvrCALwyzMm",
 			"fillStyle": "solid",
@@ -14216,7 +14265,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14237,8 +14286,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 525,
-			"versionNonce": 1512884590,
+			"version": 535,
+			"versionNonce": 41595238,
 			"isDeleted": false,
 			"id": "Ci89McEHpR_zwoEegYyze",
 			"fillStyle": "solid",
@@ -14260,14 +14309,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 299,
-			"versionNonce": 1123110002,
+			"version": 309,
+			"versionNonce": 2094006266,
 			"isDeleted": false,
 			"id": "k29VMUq-_31CQlDlXzk3H",
 			"fillStyle": "solid",
@@ -14289,7 +14338,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14310,8 +14359,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 414,
-			"versionNonce": 418212782,
+			"version": 424,
+			"versionNonce": 2016122022,
 			"isDeleted": false,
 			"id": "IdpCclJi1snOOGuRKSlqO",
 			"fillStyle": "solid",
@@ -14338,14 +14387,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "WXASnsTA"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 374,
-			"versionNonce": 1202908722,
+			"version": 384,
+			"versionNonce": 562163898,
 			"isDeleted": false,
 			"id": "WXASnsTA",
 			"fillStyle": "solid",
@@ -14367,7 +14416,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14379,12 +14428,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "IdpCclJi1snOOGuRKSlqO",
 			"originalText": "HEADER",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 787,
-			"versionNonce": 777555050,
+			"version": 807,
+			"versionNonce": 610144230,
 			"isDeleted": false,
 			"id": "5Fc0zoKSfbSkhhfzzXQ5p",
 			"fillStyle": "solid",
@@ -14406,7 +14455,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309699,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -14435,8 +14484,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 370,
-			"versionNonce": 257578994,
+			"version": 380,
+			"versionNonce": 1681377658,
 			"isDeleted": false,
 			"id": "LPlg3icer4HgVuBWosq-W",
 			"fillStyle": "solid",
@@ -14463,14 +14512,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 276,
-			"versionNonce": 1812781102,
+			"version": 286,
+			"versionNonce": 1931420454,
 			"isDeleted": false,
 			"id": "Ljr2HEnnboxOytRcEsQrb",
 			"fillStyle": "solid",
@@ -14492,7 +14541,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14513,8 +14562,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 249,
-			"versionNonce": 1240369586,
+			"version": 259,
+			"versionNonce": 741640762,
 			"isDeleted": false,
 			"id": "TuDOASWZ3QdUyG36HiqgY",
 			"fillStyle": "solid",
@@ -14536,7 +14585,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -14557,8 +14606,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 521,
-			"versionNonce": 2036179566,
+			"version": 531,
+			"versionNonce": 1188810342,
 			"isDeleted": false,
 			"id": "JQnfm7crwliZjixq-VsK8",
 			"fillStyle": "solid",
@@ -14585,14 +14634,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 487,
-			"versionNonce": 244745074,
+			"version": 497,
+			"versionNonce": 5976826,
 			"isDeleted": false,
 			"id": "5I6AO6QU9swfDYvI2QYF9",
 			"fillStyle": "solid",
@@ -14619,14 +14668,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "3aOfyMZr"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 687,
-			"versionNonce": 781919406,
+			"version": 697,
+			"versionNonce": 744559014,
 			"isDeleted": false,
 			"id": "3aOfyMZr",
 			"fillStyle": "solid",
@@ -14648,7 +14697,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14660,12 +14709,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "5I6AO6QU9swfDYvI2QYF9",
 			"originalText": "<html lang=\"en\">\n  <head>\n    <title>The DOM</title>\n  </script>\n  </head>\n  <body>\n      <header>\n          <h1>Dive into the DOM</h1>\n      </header>\n      <p>There's a lot to it!<p>\n  </body>\n</html>",
 			"lineHeight": 1.2,
-			"baseline": 227
+			"baseline": 226
 		},
 		{
 			"type": "rectangle",
-			"version": 304,
-			"versionNonce": 2006533426,
+			"version": 314,
+			"versionNonce": 321831866,
 			"isDeleted": false,
 			"id": "4mYx5KbyA6lK8YZcvdRcJ",
 			"fillStyle": "solid",
@@ -14696,14 +14745,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 245,
-			"versionNonce": 1567514350,
+			"version": 255,
+			"versionNonce": 249294054,
 			"isDeleted": false,
 			"id": "xuTUVk4O",
 			"fillStyle": "solid",
@@ -14725,7 +14774,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14737,12 +14786,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "4mYx5KbyA6lK8YZcvdRcJ",
 			"originalText": "HTML",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 435,
-			"versionNonce": 1046335218,
+			"version": 445,
+			"versionNonce": 1322400890,
 			"isDeleted": false,
 			"id": "q4ZYJ-8OXzb7xp2ZB410x",
 			"fillStyle": "solid",
@@ -14769,14 +14818,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "LLhggmnt"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 385,
-			"versionNonce": 979390766,
+			"version": 395,
+			"versionNonce": 1809408038,
 			"isDeleted": false,
 			"id": "LLhggmnt",
 			"fillStyle": "solid",
@@ -14798,7 +14847,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14810,12 +14859,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "q4ZYJ-8OXzb7xp2ZB410x",
 			"originalText": "TITLE",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 442,
-			"versionNonce": 1466638514,
+			"version": 452,
+			"versionNonce": 1627954490,
 			"isDeleted": false,
 			"id": "y3meWec_dLs-d7bv_-Aei",
 			"fillStyle": "solid",
@@ -14842,14 +14891,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "UbWiBIqv"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 407,
-			"versionNonce": 14285678,
+			"version": 417,
+			"versionNonce": 122055526,
 			"isDeleted": false,
 			"id": "UbWiBIqv",
 			"fillStyle": "solid",
@@ -14871,7 +14920,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14883,12 +14932,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "y3meWec_dLs-d7bv_-Aei",
 			"originalText": "H1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 467,
-			"versionNonce": 241711730,
+			"version": 477,
+			"versionNonce": 1194649082,
 			"isDeleted": false,
 			"id": "1FG5S14T1b4whbm8Ux8aW",
 			"fillStyle": "solid",
@@ -14915,14 +14964,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "eHwccJCF"
 				}
 			],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 436,
-			"versionNonce": 388259246,
+			"version": 446,
+			"versionNonce": 527437478,
 			"isDeleted": false,
 			"id": "eHwccJCF",
 			"fillStyle": "solid",
@@ -14944,7 +14993,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -14956,12 +15005,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "1FG5S14T1b4whbm8Ux8aW",
 			"originalText": "P",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 352,
-			"versionNonce": 572267570,
+			"version": 362,
+			"versionNonce": 1515853498,
 			"isDeleted": false,
 			"id": "7nwmH9MDgY0lq8lrlW1Z8",
 			"fillStyle": "solid",
@@ -14983,14 +15032,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 412,
-			"versionNonce": 845707246,
+			"version": 422,
+			"versionNonce": 553863654,
 			"isDeleted": false,
 			"id": "Bimk5LaUNL1oaG8YNULkM",
 			"fillStyle": "solid",
@@ -15012,14 +15061,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372384,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 406,
-			"versionNonce": 1617806834,
+			"version": 416,
+			"versionNonce": 1528508282,
 			"isDeleted": false,
 			"id": "EqNB8JyTlP8udZmZKXmiT",
 			"fillStyle": "solid",
@@ -15046,14 +15095,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "5CQweBca"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 361,
-			"versionNonce": 2058308142,
+			"version": 371,
+			"versionNonce": 1527586086,
 			"isDeleted": false,
 			"id": "5CQweBca",
 			"fillStyle": "solid",
@@ -15075,7 +15124,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15087,12 +15136,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "EqNB8JyTlP8udZmZKXmiT",
 			"originalText": "BODY",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
-			"version": 205,
-			"versionNonce": 1113864114,
+			"version": 215,
+			"versionNonce": 2109419578,
 			"isDeleted": false,
 			"id": "1PM6mE73Bkdh7HmgqhfVa",
 			"fillStyle": "solid",
@@ -15114,7 +15163,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -15135,8 +15184,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 234,
-			"versionNonce": 786551918,
+			"version": 244,
+			"versionNonce": 855279718,
 			"isDeleted": false,
 			"id": "RlzU8wHzgpQ1yDaEpZAzW",
 			"fillStyle": "solid",
@@ -15158,7 +15207,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -15179,8 +15228,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 417,
-			"versionNonce": 136737138,
+			"version": 427,
+			"versionNonce": 1981618426,
 			"isDeleted": false,
 			"id": "YrpqWBeb6KQshm8p5B9QT",
 			"fillStyle": "solid",
@@ -15211,14 +15260,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 362,
-			"versionNonce": 1221138094,
+			"version": 372,
+			"versionNonce": 1486392230,
 			"isDeleted": false,
 			"id": "SnNHcNum",
 			"fillStyle": "solid",
@@ -15240,7 +15289,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15252,12 +15301,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "YrpqWBeb6KQshm8p5B9QT",
 			"originalText": "HEAD",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
-			"version": 268,
-			"versionNonce": 1425765170,
+			"version": 278,
+			"versionNonce": 63171002,
 			"isDeleted": false,
 			"id": "LSgcx6RXrWNAaGwuwfNQg",
 			"fillStyle": "solid",
@@ -15279,7 +15328,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -15300,8 +15349,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 547,
-			"versionNonce": 554569966,
+			"version": 557,
+			"versionNonce": 2048141030,
 			"isDeleted": false,
 			"id": "T3BKrSHEkkehIre6cOQeS",
 			"fillStyle": "solid",
@@ -15323,14 +15372,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 321,
-			"versionNonce": 1263156466,
+			"version": 331,
+			"versionNonce": 2110956154,
 			"isDeleted": false,
 			"id": "DlZTXhuUJsIWk4EOeDXiL",
 			"fillStyle": "solid",
@@ -15352,7 +15401,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -15373,8 +15422,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 436,
-			"versionNonce": 322552622,
+			"version": 446,
+			"versionNonce": 2012895782,
 			"isDeleted": false,
 			"id": "3BnmCYgMw1DRhntiZ49oK",
 			"fillStyle": "solid",
@@ -15401,14 +15450,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "MV8XOhkN"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 397,
-			"versionNonce": 681168562,
+			"version": 407,
+			"versionNonce": 1594639162,
 			"isDeleted": false,
 			"id": "MV8XOhkN",
 			"fillStyle": "solid",
@@ -15430,7 +15479,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15442,12 +15491,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "3BnmCYgMw1DRhntiZ49oK",
 			"originalText": "HEADER",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 1077,
-			"versionNonce": 565521774,
+			"version": 1087,
+			"versionNonce": 423109990,
 			"isDeleted": false,
 			"id": "JbhgUXh8Q9HDAiifGPLe7",
 			"fillStyle": "solid",
@@ -15469,7 +15518,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -15498,8 +15547,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 556,
-			"versionNonce": 1636903026,
+			"version": 566,
+			"versionNonce": 1372834810,
 			"isDeleted": false,
 			"id": "5Ln-fTn4VZbZt4abloyMh",
 			"fillStyle": "solid",
@@ -15526,14 +15575,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 597,
-			"versionNonce": 432623534,
+			"version": 607,
+			"versionNonce": 1058703526,
 			"isDeleted": false,
 			"id": "Bmkozz3pA3ynjNaBhqBc0",
 			"fillStyle": "solid",
@@ -15560,14 +15609,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "6dynjPv8"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 567,
-			"versionNonce": 1039616562,
+			"version": 577,
+			"versionNonce": 1009532090,
 			"isDeleted": false,
 			"id": "6dynjPv8",
 			"fillStyle": "solid",
@@ -15589,7 +15638,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15601,12 +15650,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Bmkozz3pA3ynjNaBhqBc0",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 719,
-			"versionNonce": 933177838,
+			"version": 729,
+			"versionNonce": 424575974,
 			"isDeleted": false,
 			"id": "pKGtDuQ-KA2ZHS4dr20Yr",
 			"fillStyle": "solid",
@@ -15633,14 +15682,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "bVVd5nXo"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968262,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 690,
-			"versionNonce": 1957901298,
+			"version": 700,
+			"versionNonce": 1270388090,
 			"isDeleted": false,
 			"id": "bVVd5nXo",
 			"fillStyle": "solid",
@@ -15662,7 +15711,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15674,12 +15723,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "pKGtDuQ-KA2ZHS4dr20Yr",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 750,
-			"versionNonce": 1245690926,
+			"version": 760,
+			"versionNonce": 1507923750,
 			"isDeleted": false,
 			"id": "WQl5rqsqEoJ6GIk7nDifD",
 			"fillStyle": "solid",
@@ -15706,14 +15755,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "SIQDhUzX"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 722,
-			"versionNonce": 1204544946,
+			"version": 732,
+			"versionNonce": 29087290,
 			"isDeleted": false,
 			"id": "SIQDhUzX",
 			"fillStyle": "solid",
@@ -15735,7 +15784,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15747,12 +15796,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "WQl5rqsqEoJ6GIk7nDifD",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 740,
-			"versionNonce": 1469318766,
+			"version": 750,
+			"versionNonce": 1765753446,
 			"isDeleted": false,
 			"id": "dxx9RDAh8ZA3wacA8GI7-",
 			"fillStyle": "solid",
@@ -15779,14 +15828,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "O0irbwZs"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 712,
-			"versionNonce": 543711090,
+			"version": 722,
+			"versionNonce": 1058602746,
 			"isDeleted": false,
 			"id": "O0irbwZs",
 			"fillStyle": "solid",
@@ -15808,7 +15857,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15820,12 +15869,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "dxx9RDAh8ZA3wacA8GI7-",
 			"originalText": "|__",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 887,
-			"versionNonce": 1080363182,
+			"version": 897,
+			"versionNonce": 439748006,
 			"isDeleted": false,
 			"id": "tM9tCfx65sF5s9vYDkZwS",
 			"fillStyle": "solid",
@@ -15852,14 +15901,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "0WJPsEfc"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 868,
-			"versionNonce": 718250290,
+			"version": 878,
+			"versionNonce": 1347620794,
 			"isDeleted": false,
 			"id": "0WJPsEfc",
 			"fillStyle": "solid",
@@ -15881,7 +15930,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15893,12 +15942,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "tM9tCfx65sF5s9vYDkZwS",
 			"originalText": "The DOM",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 943,
-			"versionNonce": 1683735278,
+			"version": 953,
+			"versionNonce": 1576165606,
 			"isDeleted": false,
 			"id": "Ru9yWIc60gmwiwHdZUiH_",
 			"fillStyle": "solid",
@@ -15925,14 +15974,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "ZpKryQFD"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 964,
-			"versionNonce": 1919462130,
+			"version": 974,
+			"versionNonce": 2039285882,
 			"isDeleted": false,
 			"id": "ZpKryQFD",
 			"fillStyle": "solid",
@@ -15954,7 +16003,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -15966,12 +16015,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Ru9yWIc60gmwiwHdZUiH_",
 			"originalText": "Dive into the DOM",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 899,
-			"versionNonce": 1174484270,
+			"version": 909,
+			"versionNonce": 2013352998,
 			"isDeleted": false,
 			"id": "Ld8-4grFjrJCpBf-Zf5ew",
 			"fillStyle": "solid",
@@ -15998,14 +16047,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "0oo9xCJQ"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 892,
-			"versionNonce": 2109373618,
+			"version": 902,
+			"versionNonce": 42592570,
 			"isDeleted": false,
 			"id": "0oo9xCJQ",
 			"fillStyle": "solid",
@@ -16027,7 +16076,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16039,12 +16088,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Ld8-4grFjrJCpBf-Zf5ew",
 			"originalText": "There's a lot to it!",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 815,
-			"versionNonce": 784228206,
+			"version": 825,
+			"versionNonce": 844095334,
 			"isDeleted": false,
 			"id": "QOC8L1vys5n7Jf6h1S8FZ",
 			"fillStyle": "solid",
@@ -16075,14 +16124,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1085,
-			"versionNonce": 1785468530,
+			"version": 1095,
+			"versionNonce": 1118614010,
 			"isDeleted": false,
 			"id": "f9FSV43z",
 			"fillStyle": "solid",
@@ -16104,7 +16153,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.281157659243917,
@@ -16116,12 +16165,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "QOC8L1vys5n7Jf6h1S8FZ",
 			"originalText": "<p id=\"welcome-text\" class=\"text-default\">Welcome!</p>",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 1218,
-			"versionNonce": 1830776618,
+			"version": 1238,
+			"versionNonce": 288031398,
 			"isDeleted": false,
 			"id": "y9ZZjQRBXPBqBj37safu0",
 			"fillStyle": "solid",
@@ -16143,7 +16192,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309715,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16180,8 +16229,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 664,
-			"versionNonce": 155482162,
+			"version": 674,
+			"versionNonce": 754475706,
 			"isDeleted": false,
 			"id": "BDxZ2MHbhnuENu0iVlU7w",
 			"fillStyle": "solid",
@@ -16216,14 +16265,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 654,
-			"versionNonce": 1971575790,
+			"version": 664,
+			"versionNonce": 121617894,
 			"isDeleted": false,
 			"id": "HgS4B3Ae",
 			"fillStyle": "solid",
@@ -16245,7 +16294,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16257,12 +16306,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "BDxZ2MHbhnuENu0iVlU7w",
 			"originalText": "const p",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 760,
-			"versionNonce": 2049614322,
+			"version": 770,
+			"versionNonce": 1544551290,
 			"isDeleted": false,
 			"id": "q7La-5-CTf8Hc8lIO38Ux",
 			"fillStyle": "solid",
@@ -16293,14 +16342,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 781,
-			"versionNonce": 213790254,
+			"version": 791,
+			"versionNonce": 698028326,
 			"isDeleted": false,
 			"id": "GR3b4qTD",
 			"fillStyle": "solid",
@@ -16322,7 +16371,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16334,12 +16383,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "q7La-5-CTf8Hc8lIO38Ux",
 			"originalText": "p.textContent",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 770,
-			"versionNonce": 1210422194,
+			"version": 780,
+			"versionNonce": 506887226,
 			"isDeleted": false,
 			"id": "qRvrca5b_Y4MsALCjCyEn",
 			"fillStyle": "solid",
@@ -16370,14 +16419,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 808,
-			"versionNonce": 1702115438,
+			"version": 818,
+			"versionNonce": 1672084582,
 			"isDeleted": false,
 			"id": "tfd8ELoD",
 			"fillStyle": "solid",
@@ -16399,7 +16448,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16411,12 +16460,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "qRvrca5b_Y4MsALCjCyEn",
 			"originalText": "p.id",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 836,
-			"versionNonce": 89935218,
+			"version": 846,
+			"versionNonce": 21947642,
 			"isDeleted": false,
 			"id": "5CT_XPPIqKeIW0JL9x8j4",
 			"fillStyle": "solid",
@@ -16447,14 +16496,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 894,
-			"versionNonce": 1198455470,
+			"version": 904,
+			"versionNonce": 725188518,
 			"isDeleted": false,
 			"id": "uGsxJPqe",
 			"fillStyle": "solid",
@@ -16476,7 +16525,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16488,12 +16537,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "5CT_XPPIqKeIW0JL9x8j4",
 			"originalText": "p.className",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 886,
-			"versionNonce": 1729482546,
+			"version": 896,
+			"versionNonce": 1591489978,
 			"isDeleted": false,
 			"id": "8d9m97jdyLVfKYrCK7rSn",
 			"fillStyle": "solid",
@@ -16520,14 +16569,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "JLD0MF73"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 916,
-			"versionNonce": 425161966,
+			"version": 926,
+			"versionNonce": 880188134,
 			"isDeleted": false,
 			"id": "JLD0MF73",
 			"fillStyle": "solid",
@@ -16549,7 +16598,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16561,12 +16610,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "8d9m97jdyLVfKYrCK7rSn",
 			"originalText": "\"Welcome\"",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 948,
-			"versionNonce": 1639520498,
+			"version": 958,
+			"versionNonce": 1744924282,
 			"isDeleted": false,
 			"id": "AGpwZds1ld-3g2ebPyuNe",
 			"fillStyle": "solid",
@@ -16597,14 +16646,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1015,
-			"versionNonce": 79079214,
+			"version": 1025,
+			"versionNonce": 636374566,
 			"isDeleted": false,
 			"id": "pbo7lVDE",
 			"fillStyle": "solid",
@@ -16626,7 +16675,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16638,12 +16687,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "AGpwZds1ld-3g2ebPyuNe",
 			"originalText": "\"welcome-text\"",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 975,
-			"versionNonce": 1154296498,
+			"version": 985,
+			"versionNonce": 830574394,
 			"isDeleted": false,
 			"id": "24mfIlNIiRHZW8HS090_N",
 			"fillStyle": "solid",
@@ -16674,14 +16723,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1057,
-			"versionNonce": 435523950,
+			"version": 1067,
+			"versionNonce": 1284348262,
 			"isDeleted": false,
 			"id": "GSSLwDon",
 			"fillStyle": "solid",
@@ -16703,7 +16752,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -16715,12 +16764,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "24mfIlNIiRHZW8HS090_N",
 			"originalText": "\"text-default\"",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 369,
-			"versionNonce": 1388868022,
+			"version": 384,
+			"versionNonce": 1069520890,
 			"isDeleted": false,
 			"id": "sps6-OWWSrVVIjbzLe7Hc",
 			"fillStyle": "solid",
@@ -16742,7 +16791,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309716,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16767,8 +16816,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 929,
-			"versionNonce": 1723008374,
+			"version": 959,
+			"versionNonce": 1335983270,
 			"isDeleted": false,
 			"id": "ZKhGYTAVytSfuqAO-aQ69",
 			"fillStyle": "solid",
@@ -16790,7 +16839,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309720,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16819,8 +16868,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 929,
-			"versionNonce": 140437174,
+			"version": 959,
+			"versionNonce": 314476730,
 			"isDeleted": false,
 			"id": "BajE-CHs_82sRPJmBTeeK",
 			"fillStyle": "solid",
@@ -16842,7 +16891,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309721,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -16871,8 +16920,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 217,
-			"versionNonce": 1578536430,
+			"version": 227,
+			"versionNonce": 1691809766,
 			"isDeleted": false,
 			"id": "dXfEg8LB",
 			"fillStyle": "solid",
@@ -16894,7 +16943,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 45.477302511830324,
@@ -16910,8 +16959,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 1297,
-			"versionNonce": 517214194,
+			"version": 1307,
+			"versionNonce": 841048442,
 			"isDeleted": false,
 			"id": "c699tcMueD3OExfGGfvCF",
 			"fillStyle": "solid",
@@ -16946,14 +16995,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1640,
-			"versionNonce": 1948950574,
+			"version": 1650,
+			"versionNonce": 70978342,
 			"isDeleted": false,
 			"id": "R04FPQU5",
 			"fillStyle": "solid",
@@ -16975,7 +17024,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.281157659243917,
@@ -16987,12 +17036,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "c699tcMueD3OExfGGfvCF",
 			"originalText": "p.className = \"new-class\"",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 1237,
-			"versionNonce": 2131833142,
+			"version": 1267,
+			"versionNonce": 959128122,
 			"isDeleted": false,
 			"id": "utk2acYCoO2DHj5b329KH",
 			"fillStyle": "solid",
@@ -17014,7 +17063,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309722,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17043,8 +17092,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 1373,
-			"versionNonce": 327260790,
+			"version": 1403,
+			"versionNonce": 473609830,
 			"isDeleted": false,
 			"id": "fkq-cirz18fJ-nkjwMSDk",
 			"fillStyle": "solid",
@@ -17066,7 +17115,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309722,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17095,8 +17144,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 1160,
-			"versionNonce": 1694645106,
+			"version": 1170,
+			"versionNonce": 1656670970,
 			"isDeleted": false,
 			"id": "PBGz2QZgprVjUo4VTFrpy",
 			"fillStyle": "solid",
@@ -17127,14 +17176,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1482,
-			"versionNonce": 266792110,
+			"version": 1492,
+			"versionNonce": 1168308646,
 			"isDeleted": false,
 			"id": "sT48lQyd",
 			"fillStyle": "solid",
@@ -17156,7 +17205,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.281157659243917,
@@ -17168,12 +17217,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "PBGz2QZgprVjUo4VTFrpy",
 			"originalText": "<p ... class=\"new-class\">",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 1533,
-			"versionNonce": 2009988402,
+			"version": 1543,
+			"versionNonce": 358570938,
 			"isDeleted": false,
 			"id": "2eZiQWWXB2uvnYJiqaicv",
 			"fillStyle": "solid",
@@ -17200,14 +17249,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "x1PPIXER"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1941,
-			"versionNonce": 838936302,
+			"version": 1951,
+			"versionNonce": 2007028966,
 			"isDeleted": false,
 			"id": "x1PPIXER",
 			"fillStyle": "solid",
@@ -17229,7 +17278,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.281157659243917,
@@ -17241,12 +17290,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "2eZiQWWXB2uvnYJiqaicv",
 			"originalText": "<input id=\"input-1\" class=\"input-default\" value=\"Enter text...\">",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
-			"version": 416,
-			"versionNonce": 1195083506,
+			"version": 426,
+			"versionNonce": 1865405562,
 			"isDeleted": false,
 			"id": "9vNZNobzeDyO8I0aijhLy",
 			"fillStyle": "solid",
@@ -17268,14 +17317,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 520,
-			"versionNonce": 22681902,
+			"version": 530,
+			"versionNonce": 1002522662,
 			"isDeleted": false,
 			"id": "mQWQBMvVsHuBUaomgg5I9",
 			"fillStyle": "solid",
@@ -17297,14 +17346,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 515,
-			"versionNonce": 1808914610,
+			"version": 525,
+			"versionNonce": 1374893370,
 			"isDeleted": false,
 			"id": "4n4PeEGwc4nBZ_NIEKWpm",
 			"fillStyle": "solid",
@@ -17326,14 +17375,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 668,
-			"versionNonce": 1432011630,
+			"version": 678,
+			"versionNonce": 1643205478,
 			"isDeleted": false,
 			"id": "afpCWchX2QPxoqtJaOmaR",
 			"fillStyle": "solid",
@@ -17355,7 +17404,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -17396,8 +17445,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 361,
-			"versionNonce": 1429729906,
+			"version": 371,
+			"versionNonce": 1863089658,
 			"isDeleted": false,
 			"id": "nI44yj5KwhO5o-OB4Xdq5",
 			"fillStyle": "solid",
@@ -17424,14 +17473,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "Q84JANu9"
 				}
 			],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 427,
-			"versionNonce": 810296750,
+			"version": 437,
+			"versionNonce": 880670374,
 			"isDeleted": false,
 			"id": "Q84JANu9",
 			"fillStyle": "solid",
@@ -17453,7 +17502,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372385,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17465,12 +17514,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "nI44yj5KwhO5o-OB4Xdq5",
 			"originalText": "속성(Attribute)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 341,
-			"versionNonce": 1714738226,
+			"version": 351,
+			"versionNonce": 1400811194,
 			"isDeleted": false,
 			"id": "bAspsIgw",
 			"fillStyle": "solid",
@@ -17492,7 +17541,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17504,12 +17553,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "> const input = document.querySelector(\"input\");",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 395,
-			"versionNonce": 1666662382,
+			"version": 405,
+			"versionNonce": 739520998,
 			"isDeleted": false,
 			"id": "7u2vfVXwXz8O32g4pN0He",
 			"fillStyle": "solid",
@@ -17536,14 +17585,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "n4YC5p6R"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 361,
-			"versionNonce": 279936498,
+			"version": 371,
+			"versionNonce": 1944897402,
 			"isDeleted": false,
 			"id": "n4YC5p6R",
 			"fillStyle": "solid",
@@ -17565,7 +17614,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17577,12 +17626,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "7u2vfVXwXz8O32g4pN0He",
 			"originalText": "input.id",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 283,
-			"versionNonce": 847581742,
+			"version": 293,
+			"versionNonce": 599852326,
 			"isDeleted": false,
 			"id": "7cmhsbuhFQ6FbSECgn2yQ",
 			"fillStyle": "solid",
@@ -17609,14 +17658,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "KrXbaKTD"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 280,
-			"versionNonce": 1907290034,
+			"version": 290,
+			"versionNonce": 949602362,
 			"isDeleted": false,
 			"id": "KrXbaKTD",
 			"fillStyle": "solid",
@@ -17638,7 +17687,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17650,12 +17699,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "7cmhsbuhFQ6FbSECgn2yQ",
 			"originalText": "input.className",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 310,
-			"versionNonce": 2025757806,
+			"version": 320,
+			"versionNonce": 217149542,
 			"isDeleted": false,
 			"id": "A2A48_nbZ_nRQi0lJ6adF",
 			"fillStyle": "solid",
@@ -17682,14 +17731,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "7WtCnnuV"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 319,
-			"versionNonce": 1834625394,
+			"version": 329,
+			"versionNonce": 157855994,
 			"isDeleted": false,
 			"id": "7WtCnnuV",
 			"fillStyle": "solid",
@@ -17711,7 +17760,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17723,12 +17772,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "A2A48_nbZ_nRQi0lJ6adF",
 			"originalText": "input.value",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 199,
-			"versionNonce": 1271717550,
+			"version": 209,
+			"versionNonce": 594703270,
 			"isDeleted": false,
 			"id": "D59OfdOP",
 			"fillStyle": "solid",
@@ -17750,7 +17799,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 104.8528292223427,
@@ -17766,8 +17815,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 222,
-			"versionNonce": 1257777970,
+			"version": 232,
+			"versionNonce": 1507623354,
 			"isDeleted": false,
 			"id": "CcJkIvgP",
 			"fillStyle": "solid",
@@ -17789,7 +17838,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968263,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17801,12 +17850,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "실시간 동기화",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 284,
-			"versionNonce": 542693614,
+			"version": 294,
+			"versionNonce": 561057510,
 			"isDeleted": false,
 			"id": "ngIypxq5",
 			"fillStyle": "solid",
@@ -17828,7 +17877,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17840,12 +17889,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "단방향 실시간 동기화",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 395,
-			"versionNonce": 1357903090,
+			"version": 405,
+			"versionNonce": 890780282,
 			"isDeleted": false,
 			"id": "a0avYpec",
 			"fillStyle": "solid",
@@ -17865,7 +17914,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17877,12 +17926,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "value를 변경하더라도 속성값에 바로 반영되지 않는다.\n속성값을 변경해야 프로퍼티값이 변경된다.",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 457,
-			"versionNonce": 1844153134,
+			"version": 467,
+			"versionNonce": 1937392166,
 			"isDeleted": false,
 			"id": "wgpir4E0",
 			"fillStyle": "solid",
@@ -17902,7 +17951,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17914,12 +17963,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "사용자의 입력 값을 받기 위한 input을 다시 속성값에 반영하려고 한다는 것.\nvalue의 속성을 저장하려고 input의 초깃값을 다시 리셋하는 것.",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 272,
-			"versionNonce": 1623754418,
+			"version": 282,
+			"versionNonce": 1239341882,
 			"isDeleted": false,
 			"id": "F3bVyjHV",
 			"fillStyle": "solid",
@@ -17939,7 +17988,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17951,12 +18000,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "불가능",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 395,
-			"versionNonce": 1391326574,
+			"version": 405,
+			"versionNonce": 1820003686,
 			"isDeleted": false,
 			"id": "OCT9WDHp",
 			"fillStyle": "solid",
@@ -17976,7 +18025,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -17988,12 +18037,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "사용자 input을 value 속성에 반영하려고 하는 경우 할당하려는 값을 잃어버려서 리셋할 수 없게 된다.",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 267,
-			"versionNonce": 321446002,
+			"version": 277,
+			"versionNonce": 1989370874,
 			"isDeleted": false,
 			"id": "qel1bZ9C",
 			"fillStyle": "solid",
@@ -18013,7 +18062,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18025,12 +18074,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "traversing the DOM",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 403,
-			"versionNonce": 950605742,
+			"version": 413,
+			"versionNonce": 2042654886,
 			"isDeleted": false,
 			"id": "091jO7WQ7K-l0UaTviu6-",
 			"fillStyle": "solid",
@@ -18081,14 +18130,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 393,
-			"versionNonce": 1406665266,
+			"version": 403,
+			"versionNonce": 1429787834,
 			"isDeleted": false,
 			"id": "Gfxgk4CX",
 			"fillStyle": "solid",
@@ -18110,7 +18159,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18122,12 +18171,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "091jO7WQ7K-l0UaTviu6-",
 			"originalText": "현재 노드",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 1354,
-			"versionNonce": 680713142,
+			"version": 1374,
+			"versionNonce": 1459055590,
 			"isDeleted": false,
 			"id": "rMfibXvXXvC_CuVFQTJgy",
 			"fillStyle": "solid",
@@ -18149,7 +18198,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309728,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18178,8 +18227,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 676,
-			"versionNonce": 2109533170,
+			"version": 686,
+			"versionNonce": 1198665082,
 			"isDeleted": false,
 			"id": "oVqjLJa0",
 			"fillStyle": "solid",
@@ -18206,7 +18255,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18218,12 +18267,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "childNodes()\nchildren()\nquerySelector()",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "arrow",
-			"version": 466,
-			"versionNonce": 56779434,
+			"version": 481,
+			"versionNonce": 1110245158,
 			"isDeleted": false,
 			"id": "ZUvNEymhGiLyNVVQr3XOZ",
 			"fillStyle": "solid",
@@ -18245,7 +18294,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309728,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18270,8 +18319,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 753,
-			"versionNonce": 1326366122,
+			"version": 773,
+			"versionNonce": 42102330,
 			"isDeleted": false,
 			"id": "s7okwzkmruzDNA0XAs-C3",
 			"fillStyle": "solid",
@@ -18293,7 +18342,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309728,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18322,8 +18371,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 213,
-			"versionNonce": 1646841454,
+			"version": 223,
+			"versionNonce": 802040422,
 			"isDeleted": false,
 			"id": "M3KAggrQ",
 			"fillStyle": "solid",
@@ -18350,7 +18399,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18362,12 +18411,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "firstChild()\nfirstElementChild()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 238,
-			"versionNonce": 1281628018,
+			"version": 248,
+			"versionNonce": 458004218,
 			"isDeleted": false,
 			"id": "GUTMWX4D",
 			"fillStyle": "solid",
@@ -18389,7 +18438,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18401,12 +18450,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "lastChild()\nlastElementChild()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "arrow",
-			"version": 731,
-			"versionNonce": 724910122,
+			"version": 751,
+			"versionNonce": 2124934566,
 			"isDeleted": false,
 			"id": "_ku2qWWkD_0431WL0Jq_t",
 			"fillStyle": "solid",
@@ -18428,7 +18477,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309728,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18457,8 +18506,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 828,
-			"versionNonce": 655654250,
+			"version": 848,
+			"versionNonce": 307472314,
 			"isDeleted": false,
 			"id": "g4Pwpkl1cD2NpMBylOq2G",
 			"fillStyle": "solid",
@@ -18480,7 +18529,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309728,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18509,8 +18558,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 289,
-			"versionNonce": 1449036526,
+			"version": 299,
+			"versionNonce": 736577766,
 			"isDeleted": false,
 			"id": "dgsleYo2",
 			"fillStyle": "solid",
@@ -18537,7 +18586,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18549,12 +18598,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "previousSibling()\npreviousElementSibling()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 327,
-			"versionNonce": 752247538,
+			"version": 337,
+			"versionNonce": 1606066298,
 			"isDeleted": false,
 			"id": "4PQEoMjs",
 			"fillStyle": "solid",
@@ -18581,7 +18630,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18593,12 +18642,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "nextSibling()\nnextElementSibling()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 647,
-			"versionNonce": 2087386414,
+			"version": 657,
+			"versionNonce": 119094310,
 			"isDeleted": false,
 			"id": "T3e6id6h",
 			"fillStyle": "solid",
@@ -18625,7 +18674,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -18637,12 +18686,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "parentNode()\nparentElement()\nclosest()",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "arrow",
-			"version": 787,
-			"versionNonce": 1538239210,
+			"version": 807,
+			"versionNonce": 2135195962,
 			"isDeleted": false,
 			"id": "pPVlmXCTZKKlZ9VD9jBbW",
 			"fillStyle": "solid",
@@ -18664,7 +18713,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309728,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -18693,8 +18742,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 262,
-			"versionNonce": 78587758,
+			"version": 272,
+			"versionNonce": 1714079590,
 			"isDeleted": false,
 			"id": "XzxDkmxfBu1nPtUVVE034",
 			"fillStyle": "solid",
@@ -18716,7 +18765,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -18737,8 +18786,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 284,
-			"versionNonce": 1053544050,
+			"version": 294,
+			"versionNonce": 2085898746,
 			"isDeleted": false,
 			"id": "UvdeiY99vpZMs_hpY0Uo5",
 			"fillStyle": "solid",
@@ -18761,14 +18810,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 327,
-			"versionNonce": 1064569262,
+			"version": 337,
+			"versionNonce": 1500048038,
 			"isDeleted": false,
 			"id": "1FDmW1J4rpVoWM1ofhkz3",
 			"fillStyle": "solid",
@@ -18791,14 +18840,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 370,
-			"versionNonce": 686633010,
+			"version": 380,
+			"versionNonce": 2112682682,
 			"isDeleted": false,
 			"id": "QlDieqsmjxfhTpMECwHS7",
 			"fillStyle": "solid",
@@ -18821,14 +18870,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 337,
-			"versionNonce": 199402478,
+			"version": 347,
+			"versionNonce": 1602266598,
 			"isDeleted": false,
 			"id": "nXSYdCU9exjd3MJZ_AObK",
 			"fillStyle": "solid",
@@ -18851,14 +18900,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 346,
-			"versionNonce": 335305202,
+			"version": 356,
+			"versionNonce": 1387369338,
 			"isDeleted": false,
 			"id": "Sdm4WvGCqZbBTaUaO_lLR",
 			"fillStyle": "solid",
@@ -18881,7 +18930,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -18906,8 +18955,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 255,
-			"versionNonce": 2080634414,
+			"version": 265,
+			"versionNonce": 427751718,
 			"isDeleted": false,
 			"id": "E8kJVLUk81dHtynBKISsB",
 			"fillStyle": "solid",
@@ -18930,7 +18979,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -18951,8 +19000,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 444,
-			"versionNonce": 788548530,
+			"version": 454,
+			"versionNonce": 2095387706,
 			"isDeleted": false,
 			"id": "mP80pKz6S_UuUGoG50JjF",
 			"fillStyle": "solid",
@@ -18975,14 +19024,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 248,
-			"versionNonce": 2025914478,
+			"version": 258,
+			"versionNonce": 2127619174,
 			"isDeleted": false,
 			"id": "bBXR1OlSf-5Mnz-A4EmZX",
 			"fillStyle": "solid",
@@ -19005,7 +19054,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -19030,8 +19079,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 165,
-			"versionNonce": 807404914,
+			"version": 175,
+			"versionNonce": 1047166202,
 			"isDeleted": false,
 			"id": "nZ8ZlCaELSIMnhCt1wNR2",
 			"fillStyle": "solid",
@@ -19054,7 +19103,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -19075,8 +19124,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 151,
-			"versionNonce": 1709359790,
+			"version": 161,
+			"versionNonce": 289630118,
 			"isDeleted": false,
 			"id": "0UBqxrcp",
 			"fillStyle": "solid",
@@ -19096,7 +19145,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19108,12 +19157,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Creation & Inserting Elements",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 259,
-			"versionNonce": 1889699634,
+			"version": 269,
+			"versionNonce": 616877498,
 			"isDeleted": false,
 			"id": "MHFokJVJHmnUD4LZ7_j-N",
 			"fillStyle": "solid",
@@ -19140,14 +19189,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "m0rLYDMP"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 238,
-			"versionNonce": 1175600366,
+			"version": 248,
+			"versionNonce": 285442790,
 			"isDeleted": false,
 			"id": "m0rLYDMP",
 			"fillStyle": "solid",
@@ -19169,7 +19218,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19181,12 +19230,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "MHFokJVJHmnUD4LZ7_j-N",
 			"originalText": "HTML 코드",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 383,
-			"versionNonce": 149868786,
+			"version": 393,
+			"versionNonce": 353830522,
 			"isDeleted": false,
 			"id": "q9L6x9bhfrV7nrIv4vO7z",
 			"fillStyle": "solid",
@@ -19213,14 +19262,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "EQHp471d"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 386,
-			"versionNonce": 1591242542,
+			"version": 396,
+			"versionNonce": 815674918,
 			"isDeleted": false,
 			"id": "EQHp471d",
 			"fillStyle": "solid",
@@ -19242,7 +19291,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19254,12 +19303,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "q9L6x9bhfrV7nrIv4vO7z",
 			"originalText": "createElement()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 319,
-			"versionNonce": 1821106866,
+			"version": 329,
+			"versionNonce": 1478764346,
 			"isDeleted": false,
 			"id": "kkQsMEPCxvIftyjRzyeZI",
 			"fillStyle": "solid",
@@ -19286,14 +19335,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "w8JWVgPk"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 318,
-			"versionNonce": 1553881454,
+			"version": 328,
+			"versionNonce": 1224769894,
 			"isDeleted": false,
 			"id": "w8JWVgPk",
 			"fillStyle": "solid",
@@ -19315,7 +19364,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19327,12 +19376,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "kkQsMEPCxvIftyjRzyeZI",
 			"originalText": "innerHTML",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 773,
-			"versionNonce": 102808690,
+			"version": 783,
+			"versionNonce": 642723834,
 			"isDeleted": false,
 			"id": "0gqBuDtjjgWQ-qFDF4L3F",
 			"fillStyle": "solid",
@@ -19359,14 +19408,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "oPfR3C7B"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 851,
-			"versionNonce": 1991048110,
+			"version": 861,
+			"versionNonce": 225928358,
 			"isDeleted": false,
 			"id": "oPfR3C7B",
 			"fillStyle": "solid",
@@ -19388,7 +19437,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19400,12 +19449,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "0gqBuDtjjgWQ-qFDF4L3F",
 			"originalText": "insertAdacentHTML()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 212,
-			"versionNonce": 1400135218,
+			"version": 222,
+			"versionNonce": 865804474,
 			"isDeleted": false,
 			"id": "SJ18ZPd6",
 			"fillStyle": "solid",
@@ -19427,7 +19476,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19439,12 +19488,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": ": HTML 문자열 추가",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 268,
-			"versionNonce": 321738222,
+			"version": 278,
+			"versionNonce": 1068490726,
 			"isDeleted": false,
 			"id": "QTGzWEU4",
 			"fillStyle": "solid",
@@ -19466,7 +19515,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19478,12 +19527,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": ":특정 부분에 HTML 문자열 추가",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 424,
-			"versionNonce": 23971826,
+			"version": 434,
+			"versionNonce": 1001060730,
 			"isDeleted": false,
 			"id": "lDPQllJKhNDTjrlSTs_dz",
 			"fillStyle": "solid",
@@ -19510,14 +19559,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "XXQ8pclu"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 459,
-			"versionNonce": 1797810222,
+			"version": 469,
+			"versionNonce": 1672934182,
 			"isDeleted": false,
 			"id": "XXQ8pclu",
 			"fillStyle": "solid",
@@ -19539,7 +19588,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19551,12 +19600,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "lDPQllJKhNDTjrlSTs_dz",
 			"originalText": "appendChild()\nappend()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 450,
-			"versionNonce": 135526834,
+			"version": 460,
+			"versionNonce": 230799930,
 			"isDeleted": false,
 			"id": "M75tban4TUsy99xPW4_Ar",
 			"fillStyle": "solid",
@@ -19583,14 +19632,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "qSLIM9U8"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 544,
-			"versionNonce": 780612206,
+			"version": 554,
+			"versionNonce": 1945738854,
 			"isDeleted": false,
 			"id": "qSLIM9U8",
 			"fillStyle": "solid",
@@ -19612,7 +19661,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19628,8 +19677,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 538,
-			"versionNonce": 1183708018,
+			"version": 548,
+			"versionNonce": 415392506,
 			"isDeleted": false,
 			"id": "12E5FSczBGZ0ejO41D2Jy",
 			"fillStyle": "solid",
@@ -19656,14 +19705,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "2WbmRMiP"
 				}
 			],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 637,
-			"versionNonce": 672314542,
+			"version": 647,
+			"versionNonce": 356835750,
 			"isDeleted": false,
 			"id": "2WbmRMiP",
 			"fillStyle": "solid",
@@ -19685,7 +19734,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19697,12 +19746,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "12E5FSczBGZ0ejO41D2Jy",
 			"originalText": "replaceChild()\nreplaceWith()",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 394,
-			"versionNonce": 522368306,
+			"version": 404,
+			"versionNonce": 1999631290,
 			"isDeleted": false,
 			"id": "MUuADDlM",
 			"fillStyle": "solid",
@@ -19724,7 +19773,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19736,12 +19785,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": ": 새로운 DOM 요소/노드 추가",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 458,
-			"versionNonce": 1634987758,
+			"version": 468,
+			"versionNonce": 1254472934,
 			"isDeleted": false,
 			"id": "2XUAj3fA",
 			"fillStyle": "solid",
@@ -19763,7 +19812,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19775,12 +19824,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": ": 새로운 DOM 요소/노드 특정 위치에 삽입",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 500,
-			"versionNonce": 322518770,
+			"version": 510,
+			"versionNonce": 2066574458,
 			"isDeleted": false,
 			"id": "GKNSApp7",
 			"fillStyle": "solid",
@@ -19802,7 +19851,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -19814,12 +19863,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": ": 기존 DOM 요소/노드 대체",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "image",
-			"version": 227,
-			"versionNonce": 1194582318,
+			"version": 237,
+			"versionNonce": 705245222,
 			"isDeleted": false,
 			"id": "1bFMPt148LoxmtSwwmhnV",
 			"fillStyle": "solid",
@@ -19841,7 +19890,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372386,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"status": "saved",
@@ -19853,8 +19902,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 281,
-			"versionNonce": 1599639730,
+			"version": 291,
+			"versionNonce": 981323066,
 			"isDeleted": false,
 			"id": "8Wh221BZyawSONScnIu25",
 			"fillStyle": "solid",
@@ -19881,14 +19930,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 1083,
-			"versionNonce": 1287359342,
+			"version": 1093,
+			"versionNonce": 251411302,
 			"isDeleted": false,
 			"id": "M032LADGS8WfhR-59tIcK",
 			"fillStyle": "solid",
@@ -19910,7 +19959,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -19943,8 +19992,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 427,
-			"versionNonce": 388475506,
+			"version": 437,
+			"versionNonce": 444863994,
 			"isDeleted": false,
 			"id": "41vOjVZB",
 			"fillStyle": "solid",
@@ -19967,7 +20016,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.74714056088594,
@@ -19979,12 +20028,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "{name: 'Max', age: 30},\n{name : 'Manuel', age: 31}",
 			"lineHeight": 1.2,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "text",
-			"version": 683,
-			"versionNonce": 273935790,
+			"version": 693,
+			"versionNonce": 1340858022,
 			"isDeleted": false,
 			"id": "WZ61042z",
 			"fillStyle": "solid",
@@ -20007,7 +20056,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968264,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.576356727132104,
@@ -20019,12 +20068,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "map()은 객체의 내용으로 새로운 배열을 만들어 반환",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
-			"version": 448,
-			"versionNonce": 1097698354,
+			"version": 458,
+			"versionNonce": 1547912890,
 			"isDeleted": false,
 			"id": "pdSuvVuA-IZkXFHH5LQtT",
 			"fillStyle": "solid",
@@ -20052,14 +20101,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 406,
-			"versionNonce": 2133198830,
+			"version": 416,
+			"versionNonce": 1904548326,
 			"isDeleted": false,
 			"id": "9EFLgOVb",
 			"fillStyle": "solid",
@@ -20082,7 +20131,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 84.70174236011408,
@@ -20098,8 +20147,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 289,
-			"versionNonce": 1947284978,
+			"version": 299,
+			"versionNonce": 677273466,
 			"isDeleted": false,
 			"id": "KNZhlWYwkB02GkmaEH92F",
 			"fillStyle": "solid",
@@ -20126,14 +20175,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 493,
-			"versionNonce": 2033900078,
+			"version": 503,
+			"versionNonce": 1523903782,
 			"isDeleted": false,
 			"id": "9TK70fDtmfmIhotEjXGjW",
 			"fillStyle": "solid",
@@ -20155,7 +20204,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20184,8 +20233,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 701,
-			"versionNonce": 1880729522,
+			"version": 711,
+			"versionNonce": 454582330,
 			"isDeleted": false,
 			"id": "Gt0nHrZQ",
 			"fillStyle": "solid",
@@ -20212,7 +20261,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.576356727132104,
@@ -20224,12 +20273,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "전개연산을 통해 다시 요소 해체",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
-			"version": 355,
-			"versionNonce": 1971020910,
+			"version": 365,
+			"versionNonce": 155736166,
 			"isDeleted": false,
 			"id": "eDQqhkpXFzGSJtdOonUOw",
 			"fillStyle": "solid",
@@ -20256,14 +20305,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 606,
-			"versionNonce": 1034805618,
+			"version": 616,
+			"versionNonce": 1347700986,
 			"isDeleted": false,
 			"id": "nk9qynC6RjEQZ6wEgSM0n",
 			"fillStyle": "solid",
@@ -20285,7 +20334,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20314,8 +20363,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 764,
-			"versionNonce": 632333998,
+			"version": 774,
+			"versionNonce": 1152146342,
 			"isDeleted": false,
 			"id": "SAoGux6N",
 			"fillStyle": "solid",
@@ -20342,7 +20391,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.576356727132104,
@@ -20354,12 +20403,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "해체된 요소를 다시 배열로 묶음",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 1209328434,
+			"version": 138,
+			"versionNonce": 1872042426,
 			"isDeleted": false,
 			"id": "GsInA9Ep",
 			"fillStyle": "solid",
@@ -20379,7 +20428,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -20391,12 +20440,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Object VS Map VS Set",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 381,
-			"versionNonce": 444834030,
+			"version": 391,
+			"versionNonce": 1395521254,
 			"isDeleted": false,
 			"id": "iEcizWLCH0iRU9cyBT8ZS",
 			"fillStyle": "solid",
@@ -20423,14 +20472,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "VaWmTiS7"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 400,
-			"versionNonce": 2041949426,
+			"version": 410,
+			"versionNonce": 939381370,
 			"isDeleted": false,
 			"id": "VaWmTiS7",
 			"fillStyle": "solid",
@@ -20452,7 +20501,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -20464,12 +20513,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "iEcizWLCH0iRU9cyBT8ZS",
 			"originalText": "key: 어떤 값이라도 키가 될 수 있음",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 333,
-			"versionNonce": 1736266542,
+			"version": 343,
+			"versionNonce": 760883750,
 			"isDeleted": false,
 			"id": "q9Pa-2afdtm5-BfcdxiAo",
 			"fillStyle": "solid",
@@ -20496,14 +20545,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "Dtgnyscw"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 293,
-			"versionNonce": 1477918386,
+			"version": 303,
+			"versionNonce": 206664506,
 			"isDeleted": false,
 			"id": "Dtgnyscw",
 			"fillStyle": "solid",
@@ -20525,7 +20574,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -20537,12 +20586,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "q9Pa-2afdtm5-BfcdxiAo",
 			"originalText": "Map",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 479,
-			"versionNonce": 1191624046,
+			"version": 489,
+			"versionNonce": 840824166,
 			"isDeleted": false,
 			"id": "ydyUaAkyCn_rvFL2Q5N66",
 			"fillStyle": "solid",
@@ -20569,14 +20618,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "WLNrwwA3"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 656,
-			"versionNonce": 534812786,
+			"version": 666,
+			"versionNonce": 2129853434,
 			"isDeleted": false,
 			"id": "WLNrwwA3",
 			"fillStyle": "solid",
@@ -20598,7 +20647,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -20610,12 +20659,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "ydyUaAkyCn_rvFL2Q5N66",
 			"originalText": "요소가 많을 경우 object 보다 성능적으로 유리하다.",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
-			"version": 558,
-			"versionNonce": 1047060398,
+			"version": 568,
+			"versionNonce": 1522948262,
 			"isDeleted": false,
 			"id": "o-jOBDNo73zEViLPKc50b",
 			"fillStyle": "solid",
@@ -20642,14 +20691,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "5nMXBdHm"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 864,
-			"versionNonce": 1624816178,
+			"version": 874,
+			"versionNonce": 1575316666,
 			"isDeleted": false,
 			"id": "5nMXBdHm",
 			"fillStyle": "solid",
@@ -20671,7 +20720,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -20683,12 +20732,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "o-jOBDNo73zEViLPKc50b",
 			"originalText": "데이터를 자주\n(초당 여러 번) \n추가/제거 할 때 유리",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
-			"version": 313,
-			"versionNonce": 1103935982,
+			"version": 323,
+			"versionNonce": 1862292454,
 			"isDeleted": false,
 			"id": "1oRBLo7dM5lAB5S0gXtVK",
 			"fillStyle": "solid",
@@ -20715,14 +20764,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "L136bjU8"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 265,
-			"versionNonce": 434545650,
+			"version": 275,
+			"versionNonce": 1053541754,
 			"isDeleted": false,
 			"id": "L136bjU8",
 			"fillStyle": "solid",
@@ -20744,7 +20793,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -20756,12 +20805,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "1oRBLo7dM5lAB5S0gXtVK",
 			"originalText": "object",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 535,
-			"versionNonce": 1480281134,
+			"version": 545,
+			"versionNonce": 953739046,
 			"isDeleted": false,
 			"id": "2nVKc4Xh_u9m9zkn_1KoJ",
 			"fillStyle": "solid",
@@ -20788,14 +20837,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "yXFQUO92"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 664,
-			"versionNonce": 1427199410,
+			"version": 674,
+			"versionNonce": 183043642,
 			"isDeleted": false,
 			"id": "yXFQUO92",
 			"fillStyle": "solid",
@@ -20817,7 +20866,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -20829,12 +20878,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "2nVKc4Xh_u9m9zkn_1KoJ",
 			"originalText": "key: string, number, symbol",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 537,
-			"versionNonce": 1067292270,
+			"version": 547,
+			"versionNonce": 951915110,
 			"isDeleted": false,
 			"id": "vna86Lb8VsS0YmGqsJX3v",
 			"fillStyle": "solid",
@@ -20861,14 +20910,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "yg1ID293"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 798,
-			"versionNonce": 1132449650,
+			"version": 808,
+			"versionNonce": 186658554,
 			"isDeleted": false,
 			"id": "yg1ID293",
 			"fillStyle": "solid",
@@ -20890,7 +20939,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -20906,8 +20955,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 708,
-			"versionNonce": 280795310,
+			"version": 718,
+			"versionNonce": 1501156774,
 			"isDeleted": false,
 			"id": "aylcEI4oWRMgoUd77MGtK",
 			"fillStyle": "solid",
@@ -20934,14 +20983,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "BM8DLO5B"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1158,
-			"versionNonce": 1501106482,
+			"version": 1168,
+			"versionNonce": 1945386938,
 			"isDeleted": false,
 			"id": "BM8DLO5B",
 			"fillStyle": "solid",
@@ -20963,7 +21012,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -20975,12 +21024,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "aylcEI4oWRMgoUd77MGtK",
 			"originalText": "쉽고 빠르게 \n생성할 수 있다.\n성능 측면에서도 좋음.",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "image",
-			"version": 209,
-			"versionNonce": 1665225454,
+			"version": 219,
+			"versionNonce": 607924454,
 			"isDeleted": false,
 			"id": "vcEZe2CRqqE3dSVz3RA0z",
 			"fillStyle": "solid",
@@ -21002,7 +21051,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -21014,8 +21063,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 211,
-			"versionNonce": 1784945394,
+			"version": 221,
+			"versionNonce": 1904752762,
 			"isDeleted": false,
 			"id": "o3qlTbGF6GaMUowomRAK4",
 			"fillStyle": "solid",
@@ -21042,14 +21091,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 330,
-			"versionNonce": 1907672366,
+			"version": 340,
+			"versionNonce": 1955669030,
 			"isDeleted": false,
 			"id": "Puqj_KXw17kOp3fz1UKbC",
 			"fillStyle": "solid",
@@ -21076,14 +21125,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 759,
-			"versionNonce": 1153952946,
+			"version": 769,
+			"versionNonce": 866064698,
 			"isDeleted": false,
 			"id": "uYl2oAzR",
 			"fillStyle": "solid",
@@ -21110,7 +21159,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 52.53802513280631,
@@ -21126,8 +21175,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 338,
-			"versionNonce": 1031794542,
+			"version": 348,
+			"versionNonce": 744861542,
 			"isDeleted": false,
 			"id": "WKEy9o6A",
 			"fillStyle": "solid",
@@ -21154,7 +21203,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 52.53802513280631,
@@ -21170,8 +21219,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 254,
-			"versionNonce": 1313572466,
+			"version": 264,
+			"versionNonce": 2040259066,
 			"isDeleted": false,
 			"id": "dR4phEnJfU6Dw__IKacSH",
 			"fillStyle": "solid",
@@ -21193,7 +21242,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21222,8 +21271,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 418,
-			"versionNonce": 854315438,
+			"version": 428,
+			"versionNonce": 1745277606,
 			"isDeleted": false,
 			"id": "n9Ds1tekYSpDe_kIJNcJa",
 			"fillStyle": "solid",
@@ -21245,7 +21294,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21274,8 +21323,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "image",
-			"version": 171,
-			"versionNonce": 532015154,
+			"version": 181,
+			"versionNonce": 511808186,
 			"isDeleted": false,
 			"id": "JttvJFav7IWcBXpsFlZz4",
 			"fillStyle": "solid",
@@ -21297,7 +21346,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"status": "saved",
@@ -21309,8 +21358,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 250,
-			"versionNonce": 1294035950,
+			"version": 260,
+			"versionNonce": 841059814,
 			"isDeleted": false,
 			"id": "ijJbkz-9M3Gv0mY-zmPfx",
 			"fillStyle": "solid",
@@ -21337,14 +21386,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 269,
-			"versionNonce": 552473074,
+			"version": 279,
+			"versionNonce": 619916154,
 			"isDeleted": false,
 			"id": "Wgd_H7ddmSp14ryJcCX0h",
 			"fillStyle": "solid",
@@ -21371,14 +21420,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 428,
-			"versionNonce": 975814190,
+			"version": 438,
+			"versionNonce": 935518502,
 			"isDeleted": false,
 			"id": "fhzRIXHUrFWHMHC3YcUiz",
 			"fillStyle": "solid",
@@ -21400,7 +21449,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21429,8 +21478,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 701,
-			"versionNonce": 620430258,
+			"version": 711,
+			"versionNonce": 1127459898,
 			"isDeleted": false,
 			"id": "8VrYO8Dt-rWq7LVTE-ocR",
 			"fillStyle": "solid",
@@ -21452,7 +21501,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21485,8 +21534,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 268,
-			"versionNonce": 2129512558,
+			"version": 278,
+			"versionNonce": 2086128742,
 			"isDeleted": false,
 			"id": "Jyxfy0d10YSM0FtEJthQv",
 			"fillStyle": "solid",
@@ -21508,7 +21557,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -21529,8 +21578,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 257,
-			"versionNonce": 100908402,
+			"version": 267,
+			"versionNonce": 1864766714,
 			"isDeleted": false,
 			"id": "txhT5Rd2M0AOQGxL2gotP",
 			"fillStyle": "solid",
@@ -21552,7 +21601,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -21573,8 +21622,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 284,
-			"versionNonce": 456559278,
+			"version": 294,
+			"versionNonce": 229461926,
 			"isDeleted": false,
 			"id": "vQozD5lhiUCrA4oKxM4Qv",
 			"fillStyle": "solid",
@@ -21601,14 +21650,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 453,
-			"versionNonce": 1095712562,
+			"version": 463,
+			"versionNonce": 1783457210,
 			"isDeleted": false,
 			"id": "b4ot7izKr907sz8KTfNBM",
 			"fillStyle": "solid",
@@ -21630,7 +21679,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21663,8 +21712,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 620,
-			"versionNonce": 766313710,
+			"version": 630,
+			"versionNonce": 938502886,
 			"isDeleted": false,
 			"id": "SxIVWMXKUX2PqlDevGZ2B",
 			"fillStyle": "solid",
@@ -21686,7 +21735,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -21719,8 +21768,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 237,
-			"versionNonce": 323258610,
+			"version": 247,
+			"versionNonce": 1305255546,
 			"isDeleted": false,
 			"id": "1VTM64HsNmK6dxaM28XhV",
 			"fillStyle": "solid",
@@ -21742,14 +21791,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 652,
-			"versionNonce": 400176942,
+			"version": 662,
+			"versionNonce": 967712294,
 			"isDeleted": false,
 			"id": "xElmq9bkeTEcn3aXZkUxq",
 			"fillStyle": "solid",
@@ -21771,14 +21820,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 295,
-			"versionNonce": 325753522,
+			"version": 305,
+			"versionNonce": 375832378,
 			"isDeleted": false,
 			"id": "nAip_ElY496Mxm7-ZqNz3",
 			"fillStyle": "solid",
@@ -21800,14 +21849,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 287,
-			"versionNonce": 572989806,
+			"version": 297,
+			"versionNonce": 2010343782,
 			"isDeleted": false,
 			"id": "TStElZgl-Nc7AWpdXx4WN",
 			"fillStyle": "solid",
@@ -21829,7 +21878,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -21854,8 +21903,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 271,
-			"versionNonce": 1349022834,
+			"version": 281,
+			"versionNonce": 813615098,
 			"isDeleted": false,
 			"id": "oX4ijU-7KITOB-b9o33pB",
 			"fillStyle": "solid",
@@ -21877,7 +21926,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -21902,8 +21951,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 237,
-			"versionNonce": 534561710,
+			"version": 247,
+			"versionNonce": 833440934,
 			"isDeleted": false,
 			"id": "-7dzojbDWtcle9AUnjAI_",
 			"fillStyle": "solid",
@@ -21925,7 +21974,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -21946,8 +21995,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 344,
-			"versionNonce": 1812272690,
+			"version": 354,
+			"versionNonce": 68663482,
 			"isDeleted": false,
 			"id": "4DedzXCF4DR_DJ5vpyhB6",
 			"fillStyle": "solid",
@@ -21969,7 +22018,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -21994,8 +22043,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 243,
-			"versionNonce": 321134062,
+			"version": 253,
+			"versionNonce": 887670758,
 			"isDeleted": false,
 			"id": "L1_kx2oIXT-5uZ7mJzcMC",
 			"fillStyle": "solid",
@@ -22017,7 +22066,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -22038,8 +22087,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 403,
-			"versionNonce": 925335538,
+			"version": 413,
+			"versionNonce": 13930874,
 			"isDeleted": false,
 			"id": "mIZ_OW1gMQnhO7ezYGati",
 			"fillStyle": "solid",
@@ -22063,14 +22112,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 400,
-			"versionNonce": 1359360046,
+			"version": 410,
+			"versionNonce": 294837030,
 			"isDeleted": false,
 			"id": "65fcsaksK2xEM6ba4RD-Y",
 			"fillStyle": "solid",
@@ -22092,7 +22141,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -22113,8 +22162,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 320,
-			"versionNonce": 1305915826,
+			"version": 330,
+			"versionNonce": 704139834,
 			"isDeleted": false,
 			"id": "dhYfpj4A",
 			"fillStyle": "solid",
@@ -22136,7 +22185,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.116627774643355,
@@ -22152,8 +22201,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 322,
-			"versionNonce": 627833454,
+			"version": 332,
+			"versionNonce": 1310230118,
 			"isDeleted": false,
 			"id": "oKGRl0Kb",
 			"fillStyle": "solid",
@@ -22175,7 +22224,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22187,12 +22236,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "offsetTop",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 340,
-			"versionNonce": 859417458,
+			"version": 350,
+			"versionNonce": 577108730,
 			"isDeleted": false,
 			"id": "6BuRZopX",
 			"fillStyle": "solid",
@@ -22214,7 +22263,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22226,12 +22275,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "offsetLeft",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 210,
-			"versionNonce": 1998486702,
+			"version": 220,
+			"versionNonce": 457623974,
 			"isDeleted": false,
 			"id": "cB4RwI0e",
 			"fillStyle": "solid",
@@ -22253,7 +22302,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22265,12 +22314,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "clientLeft",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 231,
-			"versionNonce": 1838640434,
+			"version": 241,
+			"versionNonce": 950045626,
 			"isDeleted": false,
 			"id": "QkVZO5Xk",
 			"fillStyle": "solid",
@@ -22292,7 +22341,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372387,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22304,12 +22353,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "clientTop",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 201,
-			"versionNonce": 1808185070,
+			"version": 211,
+			"versionNonce": 139109606,
 			"isDeleted": false,
 			"id": "W3cF1JW5",
 			"fillStyle": "solid",
@@ -22331,7 +22380,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22343,12 +22392,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "clientWidth",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 229,
-			"versionNonce": 576124658,
+			"version": 239,
+			"versionNonce": 1925907578,
 			"isDeleted": false,
 			"id": "5U44QkQ3",
 			"fillStyle": "solid",
@@ -22370,7 +22419,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968265,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22382,12 +22431,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "offsetWidth",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 361,
-			"versionNonce": 200124718,
+			"version": 371,
+			"versionNonce": 917575718,
 			"isDeleted": false,
 			"id": "vNt2xL8I",
 			"fillStyle": "solid",
@@ -22409,7 +22458,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22421,12 +22470,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "clientHeight",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 391,
-			"versionNonce": 838813874,
+			"version": 401,
+			"versionNonce": 447243578,
 			"isDeleted": false,
 			"id": "3W2LuegQ",
 			"fillStyle": "solid",
@@ -22448,7 +22497,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22460,12 +22509,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "offsetHeight",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 432,
-			"versionNonce": 1727812462,
+			"version": 442,
+			"versionNonce": 241640294,
 			"isDeleted": false,
 			"id": "wfKGYjaw",
 			"fillStyle": "solid",
@@ -22487,7 +22536,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22499,12 +22548,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "scrollHeight",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 235,
-			"versionNonce": 1412915826,
+			"version": 245,
+			"versionNonce": 1234939386,
 			"isDeleted": false,
 			"id": "08WFJXOpcr9-U1GPpAbXr",
 			"fillStyle": "solid",
@@ -22535,14 +22584,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 219,
-			"versionNonce": 926660014,
+			"version": 229,
+			"versionNonce": 1908000422,
 			"isDeleted": false,
 			"id": "ajkY2EWj",
 			"fillStyle": "solid",
@@ -22564,7 +22613,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22576,12 +22625,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "08WFJXOpcr9-U1GPpAbXr",
 			"originalText": "Person",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 313,
-			"versionNonce": 868631602,
+			"version": 323,
+			"versionNonce": 1957158586,
 			"isDeleted": false,
 			"id": "mltzqzAxiQdZ5o5dgPDoW",
 			"fillStyle": "solid",
@@ -22612,14 +22661,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 534,
-			"versionNonce": 97832942,
+			"version": 544,
+			"versionNonce": 1901461990,
 			"isDeleted": false,
 			"id": "3uOWYjih",
 			"fillStyle": "solid",
@@ -22641,7 +22690,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22653,12 +22702,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "mltzqzAxiQdZ5o5dgPDoW",
 			"originalText": "function Person() {...}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 335,
-			"versionNonce": 177401330,
+			"version": 345,
+			"versionNonce": 2020603770,
 			"isDeleted": false,
 			"id": "q75E3OXbhcI1ZVHI-YheF",
 			"fillStyle": "solid",
@@ -22685,14 +22734,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "aWoiFZiv"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 590,
-			"versionNonce": 1322295854,
+			"version": 600,
+			"versionNonce": 4773158,
 			"isDeleted": false,
 			"id": "aWoiFZiv",
 			"fillStyle": "solid",
@@ -22714,7 +22763,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22726,12 +22775,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "q75E3OXbhcI1ZVHI-YheF",
 			"originalText": "class Person {...}",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 332,
-			"versionNonce": 1034182578,
+			"version": 342,
+			"versionNonce": 624359482,
 			"isDeleted": false,
 			"id": "8qt0ndT3",
 			"fillStyle": "solid",
@@ -22753,7 +22802,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22765,12 +22814,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "생성자 함수 또는 클래스를 기반으로하여 생성된다.",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 284,
-			"versionNonce": 622341230,
+			"version": 294,
+			"versionNonce": 671039590,
 			"isDeleted": false,
 			"id": "8LFm4gghl_3V2eGFMm84s",
 			"fillStyle": "solid",
@@ -22792,7 +22841,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -22813,8 +22862,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 443,
-			"versionNonce": 2032245106,
+			"version": 453,
+			"versionNonce": 1256186106,
 			"isDeleted": false,
 			"id": "tAezjKO1srCcZyowd9R0l",
 			"fillStyle": "solid",
@@ -22845,14 +22894,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 354,
-			"versionNonce": 1450471086,
+			"version": 364,
+			"versionNonce": 1011237798,
 			"isDeleted": false,
 			"id": "5rNZgHll",
 			"fillStyle": "solid",
@@ -22874,7 +22923,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22886,12 +22935,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "tAezjKO1srCcZyowd9R0l",
 			"originalText": "\n\n{...}",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
-			"version": 366,
-			"versionNonce": 1280416562,
+			"version": 376,
+			"versionNonce": 1156428218,
 			"isDeleted": false,
 			"id": "xHQV75Mp6IJLkHV-A01C2",
 			"fillStyle": "solid",
@@ -22918,14 +22967,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "U87Cdw7T"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 533,
-			"versionNonce": 260991214,
+			"version": 543,
+			"versionNonce": 256564966,
 			"isDeleted": false,
 			"id": "U87Cdw7T",
 			"fillStyle": "solid",
@@ -22947,7 +22996,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22959,12 +23008,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "xHQV75Mp6IJLkHV-A01C2",
 			"originalText": "Person.prototype",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 341,
-			"versionNonce": 1167811826,
+			"version": 351,
+			"versionNonce": 109275770,
 			"isDeleted": false,
 			"id": "fmzdUBvc",
 			"fillStyle": "solid",
@@ -22986,7 +23035,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22998,12 +23047,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "기본 프로토타입 또는\n수동으로 할당된 프로토타입",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "arrow",
-			"version": 368,
-			"versionNonce": 310212714,
+			"version": 383,
+			"versionNonce": 630854182,
 			"isDeleted": false,
 			"id": "kuhuptwYrG8HsvamSFF_a",
 			"fillStyle": "solid",
@@ -23025,7 +23074,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309745,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -23050,8 +23099,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 917,
-			"versionNonce": 2021923638,
+			"version": 937,
+			"versionNonce": 644090682,
 			"isDeleted": false,
 			"id": "LYRi6KRgY9xItC3fZ_huL",
 			"fillStyle": "solid",
@@ -23073,7 +23122,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309746,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -23106,8 +23155,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 306,
-			"versionNonce": 2113897838,
+			"version": 316,
+			"versionNonce": 1780538726,
 			"isDeleted": false,
 			"id": "gnQTB8fM",
 			"fillStyle": "solid",
@@ -23129,7 +23178,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23141,12 +23190,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "객체의 인스턴스가 생성될 때\n생성자 프로토타입이 할당된다.",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 406,
-			"versionNonce": 129519730,
+			"version": 416,
+			"versionNonce": 1794282490,
 			"isDeleted": false,
 			"id": "pYCjSsLLAMEoU_pq4gGuA",
 			"fillStyle": "solid",
@@ -23170,14 +23219,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 298,
-			"versionNonce": 721987502,
+			"version": 308,
+			"versionNonce": 1647067302,
 			"isDeleted": false,
 			"id": "wa3A_phk2j82LEGWm-uIv",
 			"fillStyle": "solid",
@@ -23201,14 +23250,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 402,
-			"versionNonce": 1694069298,
+			"version": 412,
+			"versionNonce": 1446118586,
 			"isDeleted": false,
 			"id": "DSSjApKZ2USsK7IOAlB7o",
 			"fillStyle": "solid",
@@ -23232,14 +23281,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 258,
-			"versionNonce": 389251566,
+			"version": 268,
+			"versionNonce": 1634286566,
 			"isDeleted": false,
 			"id": "kTYGNRNt",
 			"fillStyle": "solid",
@@ -23261,7 +23310,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23273,12 +23322,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "<button>",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 446,
-			"versionNonce": 1227906034,
+			"version": 456,
+			"versionNonce": 835018106,
 			"isDeleted": false,
 			"id": "kdKb5gWSyt8-GSPfX-XXX",
 			"fillStyle": "solid",
@@ -23302,7 +23351,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -23327,8 +23376,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 282,
-			"versionNonce": 1703482414,
+			"version": 292,
+			"versionNonce": 1038405414,
 			"isDeleted": false,
 			"id": "5frlM74g",
 			"fillStyle": "solid",
@@ -23350,7 +23399,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23362,12 +23411,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "<section>",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 397,
-			"versionNonce": 1650724274,
+			"version": 407,
+			"versionNonce": 451911226,
 			"isDeleted": false,
 			"id": "Q-N99vMjwmHuvUai6IZKO",
 			"fillStyle": "solid",
@@ -23391,7 +23440,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -23416,8 +23465,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 144,
-			"versionNonce": 1878154862,
+			"version": 154,
+			"versionNonce": 67893862,
 			"isDeleted": false,
 			"id": "BJvK0fDb",
 			"fillStyle": "solid",
@@ -23444,7 +23493,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23456,12 +23505,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "capturing",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 366,
-			"versionNonce": 96175986,
+			"version": 376,
+			"versionNonce": 244565754,
 			"isDeleted": false,
 			"id": "yVSxWsfO",
 			"fillStyle": "solid",
@@ -23488,7 +23537,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23500,12 +23549,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "bubbling",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 199,
-			"versionNonce": 1798856878,
+			"version": 209,
+			"versionNonce": 715898278,
 			"isDeleted": false,
 			"id": "AxtvizyM",
 			"fillStyle": "solid",
@@ -23527,7 +23576,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23539,12 +23588,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "<div>",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 161,
-			"versionNonce": 1266534706,
+			"version": 171,
+			"versionNonce": 1966397370,
 			"isDeleted": false,
 			"id": "K-4cJSiwFx1OHaJcWnMVH",
 			"fillStyle": "solid",
@@ -23571,14 +23620,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "AWgtKT5c"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 173,
-			"versionNonce": 184818414,
+			"version": 183,
+			"versionNonce": 1190205670,
 			"isDeleted": false,
 			"id": "AWgtKT5c",
 			"fillStyle": "solid",
@@ -23600,7 +23649,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23612,12 +23661,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "K-4cJSiwFx1OHaJcWnMVH",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 385,
-			"versionNonce": 722588402,
+			"version": 395,
+			"versionNonce": 787861626,
 			"isDeleted": false,
 			"id": "o9pIUxBr2G65XDx4WJ3E5",
 			"fillStyle": "solid",
@@ -23644,14 +23693,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "MF3Gbtzx"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 414,
-			"versionNonce": 635342126,
+			"version": 424,
+			"versionNonce": 1080626214,
 			"isDeleted": false,
 			"id": "MF3Gbtzx",
 			"fillStyle": "solid",
@@ -23673,7 +23722,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23685,12 +23734,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "o9pIUxBr2G65XDx4WJ3E5",
 			"originalText": "moreCode()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 221,
-			"versionNonce": 385787058,
+			"version": 231,
+			"versionNonce": 530166074,
 			"isDeleted": false,
 			"id": "W5SdjYOG6BJtjvI3vdO26",
 			"fillStyle": "solid",
@@ -23717,14 +23766,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "xRiYouco"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 244,
-			"versionNonce": 1496364910,
+			"version": 254,
+			"versionNonce": 83924838,
 			"isDeleted": false,
 			"id": "xRiYouco",
 			"fillStyle": "solid",
@@ -23746,7 +23795,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23758,12 +23807,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "W5SdjYOG6BJtjvI3vdO26",
 			"originalText": "setTimeOut()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 237,
-			"versionNonce": 418070130,
+			"version": 247,
+			"versionNonce": 981694970,
 			"isDeleted": false,
 			"id": "5dAZlmlLHX2G8ofCh47Ey",
 			"fillStyle": "solid",
@@ -23790,14 +23839,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "W3sVHaOJ"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 250,
-			"versionNonce": 759404974,
+			"version": 260,
+			"versionNonce": 1023720102,
 			"isDeleted": false,
 			"id": "W3sVHaOJ",
 			"fillStyle": "solid",
@@ -23819,7 +23868,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23831,12 +23880,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "5dAZlmlLHX2G8ofCh47Ey",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 504,
-			"versionNonce": 1839112242,
+			"version": 514,
+			"versionNonce": 246819514,
 			"isDeleted": false,
 			"id": "OgCQajnmZbHVK4DTFvn7j",
 			"fillStyle": "solid",
@@ -23863,14 +23912,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "PqeYjsit"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 534,
-			"versionNonce": 960508910,
+			"version": 544,
+			"versionNonce": 2132964838,
 			"isDeleted": false,
 			"id": "PqeYjsit",
 			"fillStyle": "solid",
@@ -23892,7 +23941,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23904,12 +23953,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "OgCQajnmZbHVK4DTFvn7j",
 			"originalText": "moreCode()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 399,
-			"versionNonce": 553634290,
+			"version": 409,
+			"versionNonce": 1389675386,
 			"isDeleted": false,
 			"id": "HcE2wDE_zXeU78SZ4kTZk",
 			"fillStyle": "solid",
@@ -23940,14 +23989,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 420,
-			"versionNonce": 1194296878,
+			"version": 430,
+			"versionNonce": 73845030,
 			"isDeleted": false,
 			"id": "iCriWBDh",
 			"fillStyle": "solid",
@@ -23969,7 +24018,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -23981,12 +24030,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "HcE2wDE_zXeU78SZ4kTZk",
 			"originalText": "setTimeOut()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 309,
-			"versionNonce": 706067378,
+			"version": 319,
+			"versionNonce": 1898071098,
 			"isDeleted": false,
 			"id": "2Vfcf0dQ",
 			"fillStyle": "solid",
@@ -24008,7 +24057,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24020,12 +24069,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "자바스크립트",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 315,
-			"versionNonce": 2012909678,
+			"version": 325,
+			"versionNonce": 1547613286,
 			"isDeleted": false,
 			"id": "VXRNoh7a",
 			"fillStyle": "solid",
@@ -24047,7 +24096,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24059,12 +24108,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "브라우저 태스크",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 263,
-			"versionNonce": 117929330,
+			"version": 273,
+			"versionNonce": 327265530,
 			"isDeleted": false,
 			"id": "i5gM1WnK9CmM-_PfPGJ6s",
 			"fillStyle": "solid",
@@ -24091,14 +24140,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 337,
-			"versionNonce": 1735021230,
+			"version": 347,
+			"versionNonce": 544683942,
 			"isDeleted": false,
 			"id": "Md7a8MTFfUQOJTHFlCveK",
 			"fillStyle": "solid",
@@ -24120,14 +24169,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 220,
-			"versionNonce": 1495004978,
+			"version": 230,
+			"versionNonce": 796261818,
 			"isDeleted": false,
 			"id": "RP1WSFxS",
 			"fillStyle": "solid",
@@ -24149,7 +24198,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24161,12 +24210,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "콜백",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 368,
-			"versionNonce": 1439095594,
+			"version": 383,
+			"versionNonce": 691884774,
 			"isDeleted": false,
 			"id": "6fOW-tipod8pkntMUGb-k",
 			"fillStyle": "solid",
@@ -24188,7 +24237,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309750,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -24225,8 +24274,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 249,
-			"versionNonce": 12206322,
+			"version": 259,
+			"versionNonce": 304232058,
 			"isDeleted": false,
 			"id": "Y1J0jNZV2bV-mpGD7uson",
 			"fillStyle": "solid",
@@ -24249,14 +24298,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 243,
-			"versionNonce": 800849710,
+			"version": 253,
+			"versionNonce": 1092486694,
 			"isDeleted": false,
 			"id": "Saj6zrhhMdYqA7hEys2K1",
 			"fillStyle": "solid",
@@ -24284,14 +24333,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "KQI3uD4D"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 300,
-			"versionNonce": 963203762,
+			"version": 310,
+			"versionNonce": 1816745786,
 			"isDeleted": false,
 			"id": "KQI3uD4D",
 			"fillStyle": "solid",
@@ -24314,7 +24363,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24326,12 +24375,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Saj6zrhhMdYqA7hEys2K1",
 			"originalText": "const greet = () => {\n  console.log('hi');\n}\n\nconst showAlert = () => {\n  alert('Danger');\n}\n\nsetTimeout(showAlert, 2000);\n\ngreet();",
 			"lineHeight": 1.2,
-			"baseline": 246
+			"baseline": 245
 		},
 		{
 			"type": "rectangle",
-			"version": 281,
-			"versionNonce": 1787816302,
+			"version": 291,
+			"versionNonce": 1493586278,
 			"isDeleted": false,
 			"id": "5b8kJPuc-FCsbRAIOMXHL",
 			"fillStyle": "solid",
@@ -24354,14 +24403,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 275,
-			"versionNonce": 902835314,
+			"version": 285,
+			"versionNonce": 1582194682,
 			"isDeleted": false,
 			"id": "Cgkx9384ivbJnAI6dOTc-",
 			"fillStyle": "solid",
@@ -24389,14 +24438,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "Dstnei7u"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 166,
-			"versionNonce": 1877773230,
+			"version": 176,
+			"versionNonce": 1011037350,
 			"isDeleted": false,
 			"id": "Dstnei7u",
 			"fillStyle": "solid",
@@ -24419,7 +24468,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24435,8 +24484,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 329,
-			"versionNonce": 1001770546,
+			"version": 339,
+			"versionNonce": 70537402,
 			"isDeleted": false,
 			"id": "oMEHkA00W1BFPoCjk2xzs",
 			"fillStyle": "solid",
@@ -24464,14 +24513,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "1BK92oBd"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 104,
-			"versionNonce": 1576723950,
+			"version": 114,
+			"versionNonce": 1149349862,
 			"isDeleted": false,
 			"id": "1BK92oBd",
 			"fillStyle": "solid",
@@ -24494,7 +24543,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24506,12 +24555,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "oMEHkA00W1BFPoCjk2xzs",
 			"originalText": "Code",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 379,
-			"versionNonce": 1073821682,
+			"version": 389,
+			"versionNonce": 27142522,
 			"isDeleted": false,
 			"id": "LrynFrNR75yj-Oq5HL8tX",
 			"fillStyle": "solid",
@@ -24539,14 +24588,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "fm37z124"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 162,
-			"versionNonce": 633600046,
+			"version": 172,
+			"versionNonce": 231654182,
 			"isDeleted": false,
 			"id": "fm37z124",
 			"fillStyle": "solid",
@@ -24569,7 +24618,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24581,12 +24630,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "LrynFrNR75yj-Oq5HL8tX",
 			"originalText": "Stack",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 410,
-			"versionNonce": 45705650,
+			"version": 420,
+			"versionNonce": 231664186,
 			"isDeleted": false,
 			"id": "98tI4As1rU8foQ-CCsCmF",
 			"fillStyle": "solid",
@@ -24614,14 +24663,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "mInKld95"
 				}
 			],
-			"updated": 1707977372388,
+			"updated": 1708083968266,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 207,
-			"versionNonce": 791724654,
+			"version": 217,
+			"versionNonce": 714567270,
 			"isDeleted": false,
 			"id": "mInKld95",
 			"fillStyle": "solid",
@@ -24644,7 +24693,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372388,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24656,12 +24705,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "98tI4As1rU8foQ-CCsCmF",
 			"originalText": "Browser API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 192,
-			"versionNonce": 721773426,
+			"version": 202,
+			"versionNonce": 2141819642,
 			"isDeleted": false,
 			"id": "kWy86niV",
 			"fillStyle": "solid",
@@ -24684,7 +24733,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24696,12 +24745,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "JavaScript Engine",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 484,
-			"versionNonce": 2097824942,
+			"version": 494,
+			"versionNonce": 1470673318,
 			"isDeleted": false,
 			"id": "5njDgdSxxUrHVH-ckYolj",
 			"fillStyle": "solid",
@@ -24729,14 +24778,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "JWfraBuV"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 272,
-			"versionNonce": 1663837490,
+			"version": 282,
+			"versionNonce": 1504781242,
 			"isDeleted": false,
 			"id": "JWfraBuV",
 			"fillStyle": "solid",
@@ -24759,7 +24808,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24771,12 +24820,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "5njDgdSxxUrHVH-ckYolj",
 			"originalText": "Message\nQueue",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 548,
-			"versionNonce": 1358528238,
+			"version": 558,
+			"versionNonce": 808422630,
 			"isDeleted": false,
 			"id": "LGxOXA1T7Fi_GIXTitQfu",
 			"fillStyle": "solid",
@@ -24799,14 +24848,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 932,
-			"versionNonce": 1955901170,
+			"version": 942,
+			"versionNonce": 1443404922,
 			"isDeleted": false,
 			"id": "szJMja3SRdqjulRc-qLIP",
 			"fillStyle": "solid",
@@ -24832,7 +24881,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -24861,8 +24910,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 1097,
-			"versionNonce": 1334276398,
+			"version": 1107,
+			"versionNonce": 1639514150,
 			"isDeleted": false,
 			"id": "-Dy_LKA5cDhBLQzgO6AXZ",
 			"fillStyle": "solid",
@@ -24888,7 +24937,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -24917,8 +24966,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 222,
-			"versionNonce": 1673920690,
+			"version": 232,
+			"versionNonce": 1920138554,
 			"isDeleted": false,
 			"id": "C7wgLZf4",
 			"fillStyle": "solid",
@@ -24941,7 +24990,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24953,12 +25002,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Event Loop",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 432,
-			"versionNonce": 605887342,
+			"version": 442,
+			"versionNonce": 1613892454,
 			"isDeleted": false,
 			"id": "J2znp5keoxit31asu5FxM",
 			"fillStyle": "solid",
@@ -24986,14 +25035,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "zXyTAcpa"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 236,
-			"versionNonce": 208083570,
+			"version": 246,
+			"versionNonce": 2085832186,
 			"isDeleted": false,
 			"id": "zXyTAcpa",
 			"fillStyle": "solid",
@@ -25016,7 +25065,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25028,12 +25077,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "J2znp5keoxit31asu5FxM",
 			"originalText": "greet()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 482,
-			"versionNonce": 620985774,
+			"version": 492,
+			"versionNonce": 434613926,
 			"isDeleted": false,
 			"id": "XDGEpnnJsJMuNPqQ23cy1",
 			"fillStyle": "solid",
@@ -25061,14 +25110,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "ZGQkkk3Q"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 318,
-			"versionNonce": 1027537970,
+			"version": 328,
+			"versionNonce": 481064634,
 			"isDeleted": false,
 			"id": "ZGQkkk3Q",
 			"fillStyle": "solid",
@@ -25091,7 +25140,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25103,12 +25152,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "XDGEpnnJsJMuNPqQ23cy1",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 630,
-			"versionNonce": 2003015662,
+			"version": 640,
+			"versionNonce": 730261990,
 			"isDeleted": false,
 			"id": "dbVdzUDELSTGkB45HQsZZ",
 			"fillStyle": "solid",
@@ -25136,14 +25185,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "qiqEYFPE"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 445,
-			"versionNonce": 1412736498,
+			"version": 455,
+			"versionNonce": 1679921018,
 			"isDeleted": false,
 			"id": "qiqEYFPE",
 			"fillStyle": "solid",
@@ -25166,7 +25215,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25178,12 +25227,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "dbVdzUDELSTGkB45HQsZZ",
 			"originalText": "setTimeout()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 351,
-			"versionNonce": 860252718,
+			"version": 361,
+			"versionNonce": 337427750,
 			"isDeleted": false,
 			"id": "m0q9vzCP9WrhYCP81h4Wb",
 			"fillStyle": "solid",
@@ -25206,14 +25255,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 344,
-			"versionNonce": 1515132850,
+			"version": 354,
+			"versionNonce": 1458933818,
 			"isDeleted": false,
 			"id": "XnxwTr2kHGOT4eFtZrpV6",
 			"fillStyle": "solid",
@@ -25241,14 +25290,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "AoV7fwBw"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 402,
-			"versionNonce": 127202414,
+			"version": 412,
+			"versionNonce": 1763059814,
 			"isDeleted": false,
 			"id": "AoV7fwBw",
 			"fillStyle": "solid",
@@ -25271,7 +25320,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25283,12 +25332,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "XnxwTr2kHGOT4eFtZrpV6",
 			"originalText": "const greet = () => {\n  console.log('hi');\n}\n\nconst showAlert = () => {\n  alert('Danger');\n}\n\nsetTimeout(showAlert, 2000);\n\ngreet();",
 			"lineHeight": 1.2,
-			"baseline": 246
+			"baseline": 245
 		},
 		{
 			"type": "rectangle",
-			"version": 383,
-			"versionNonce": 531976562,
+			"version": 393,
+			"versionNonce": 2030795002,
 			"isDeleted": false,
 			"id": "MduPKYUEOrSwtc5bhB9t9",
 			"fillStyle": "solid",
@@ -25311,14 +25360,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 377,
-			"versionNonce": 1578645166,
+			"version": 387,
+			"versionNonce": 171977638,
 			"isDeleted": false,
 			"id": "oOQGfetiT6MuubI58QsNm",
 			"fillStyle": "solid",
@@ -25346,14 +25395,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "F7KaTBzc"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 268,
-			"versionNonce": 1471042354,
+			"version": 278,
+			"versionNonce": 1508264378,
 			"isDeleted": false,
 			"id": "F7KaTBzc",
 			"fillStyle": "solid",
@@ -25376,7 +25425,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25392,8 +25441,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 431,
-			"versionNonce": 2138648814,
+			"version": 441,
+			"versionNonce": 1439155942,
 			"isDeleted": false,
 			"id": "aZOaQqywoJORIQAzUTJGB",
 			"fillStyle": "solid",
@@ -25421,14 +25470,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "Lhw2Gd4z"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 206,
-			"versionNonce": 882973938,
+			"version": 216,
+			"versionNonce": 547947130,
 			"isDeleted": false,
 			"id": "Lhw2Gd4z",
 			"fillStyle": "solid",
@@ -25451,7 +25500,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25463,12 +25512,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "aZOaQqywoJORIQAzUTJGB",
 			"originalText": "Code",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 481,
-			"versionNonce": 926999342,
+			"version": 491,
+			"versionNonce": 1547303462,
 			"isDeleted": false,
 			"id": "07PwZNW9_x0JLzy5Bxye2",
 			"fillStyle": "solid",
@@ -25496,14 +25545,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "L0f2zbuS"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 265,
-			"versionNonce": 68464306,
+			"version": 275,
+			"versionNonce": 404136762,
 			"isDeleted": false,
 			"id": "L0f2zbuS",
 			"fillStyle": "solid",
@@ -25526,7 +25575,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25538,12 +25587,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "07PwZNW9_x0JLzy5Bxye2",
 			"originalText": "Stack",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 512,
-			"versionNonce": 2010664302,
+			"version": 522,
+			"versionNonce": 344180070,
 			"isDeleted": false,
 			"id": "Y1CZypBFnWGwMSwKwDKnY",
 			"fillStyle": "solid",
@@ -25571,14 +25620,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "aNbgQLFy"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 309,
-			"versionNonce": 1253050482,
+			"version": 319,
+			"versionNonce": 982658042,
 			"isDeleted": false,
 			"id": "aNbgQLFy",
 			"fillStyle": "solid",
@@ -25601,7 +25650,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25613,12 +25662,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Y1CZypBFnWGwMSwKwDKnY",
 			"originalText": "Browser API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 294,
-			"versionNonce": 2122870702,
+			"version": 304,
+			"versionNonce": 267528358,
 			"isDeleted": false,
 			"id": "G6n50uHy",
 			"fillStyle": "solid",
@@ -25641,7 +25690,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25653,12 +25702,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "JavaScript Engine",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 586,
-			"versionNonce": 1614424626,
+			"version": 596,
+			"versionNonce": 1042193594,
 			"isDeleted": false,
 			"id": "DUbhAlcYrVs4I85osafiL",
 			"fillStyle": "solid",
@@ -25686,14 +25735,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "4moxMJK6"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 375,
-			"versionNonce": 2004503022,
+			"version": 385,
+			"versionNonce": 775037926,
 			"isDeleted": false,
 			"id": "4moxMJK6",
 			"fillStyle": "solid",
@@ -25716,7 +25765,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25728,12 +25777,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "DUbhAlcYrVs4I85osafiL",
 			"originalText": "Message\nQueue",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 650,
-			"versionNonce": 194647026,
+			"version": 660,
+			"versionNonce": 543094138,
 			"isDeleted": false,
 			"id": "kmYzIZ0cF9QLQfQjqeJsn",
 			"fillStyle": "solid",
@@ -25756,14 +25805,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 1034,
-			"versionNonce": 565632046,
+			"version": 1044,
+			"versionNonce": 1364244262,
 			"isDeleted": false,
 			"id": "PZnWFN39C4BxbMdzkhuY9",
 			"fillStyle": "solid",
@@ -25789,7 +25838,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -25818,8 +25867,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 1199,
-			"versionNonce": 517391794,
+			"version": 1209,
+			"versionNonce": 848705082,
 			"isDeleted": false,
 			"id": "iLgm4EN3d2Idg3DfmPT8x",
 			"fillStyle": "solid",
@@ -25845,7 +25894,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -25874,8 +25923,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 324,
-			"versionNonce": 1931945582,
+			"version": 334,
+			"versionNonce": 297460326,
 			"isDeleted": false,
 			"id": "R9vaehql",
 			"fillStyle": "solid",
@@ -25898,7 +25947,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25910,12 +25959,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Event Loop",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 534,
-			"versionNonce": 320290674,
+			"version": 544,
+			"versionNonce": 631725818,
 			"isDeleted": false,
 			"id": "l5L7SfRZ7XXx2jigfBTBW",
 			"fillStyle": "solid",
@@ -25943,14 +25992,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "R58IFc85"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 339,
-			"versionNonce": 1016342702,
+			"version": 349,
+			"versionNonce": 1916642726,
 			"isDeleted": false,
 			"id": "R58IFc85",
 			"fillStyle": "solid",
@@ -25973,7 +26022,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -25985,12 +26034,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "l5L7SfRZ7XXx2jigfBTBW",
 			"originalText": "greet()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 585,
-			"versionNonce": 614629682,
+			"version": 595,
+			"versionNonce": 370503610,
 			"isDeleted": false,
 			"id": "AvnEK2fvWwxYwgBbo3GF7",
 			"fillStyle": "solid",
@@ -26018,14 +26067,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "nFDgF3Xd"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 421,
-			"versionNonce": 1302782702,
+			"version": 431,
+			"versionNonce": 335937766,
 			"isDeleted": false,
 			"id": "nFDgF3Xd",
 			"fillStyle": "solid",
@@ -26048,7 +26097,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -26060,12 +26109,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "AvnEK2fvWwxYwgBbo3GF7",
 			"originalText": "console.log()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 853,
-			"versionNonce": 1860143858,
+			"version": 863,
+			"versionNonce": 402876538,
 			"isDeleted": false,
 			"id": "wdBfxoMKMp6ot3hOd1j4O",
 			"fillStyle": "solid",
@@ -26093,14 +26142,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "qijYtLsU"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 691,
-			"versionNonce": 417879342,
+			"version": 701,
+			"versionNonce": 1788933158,
 			"isDeleted": false,
 			"id": "qijYtLsU",
 			"fillStyle": "solid",
@@ -26123,7 +26172,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -26135,12 +26184,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "wdBfxoMKMp6ot3hOd1j4O",
 			"originalText": "showArlert()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 356,
-			"versionNonce": 139812018,
+			"version": 366,
+			"versionNonce": 1127500090,
 			"isDeleted": false,
 			"id": "gzDxJgeNO3S6UFTI67jx_",
 			"fillStyle": "solid",
@@ -26162,14 +26211,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 350,
-			"versionNonce": 1472298862,
+			"version": 360,
+			"versionNonce": 1878753126,
 			"isDeleted": false,
 			"id": "h5zas_1_r5awvfGQ4HhEB",
 			"fillStyle": "solid",
@@ -26196,14 +26245,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "eEWUCoPl"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 405,
-			"versionNonce": 514520690,
+			"version": 415,
+			"versionNonce": 1057690106,
 			"isDeleted": false,
 			"id": "eEWUCoPl",
 			"fillStyle": "solid",
@@ -26225,7 +26274,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -26237,12 +26286,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "h5zas_1_r5awvfGQ4HhEB",
 			"originalText": "const greet = () => {\n  console.log('hi');\n}\n\nconst showAlert = () {\n  alert('Danger');\n}\n\nsetTimeout(showAlert, 2000);\n\ngreet();",
 			"lineHeight": 1.2,
-			"baseline": 227
+			"baseline": 226
 		},
 		{
 			"type": "rectangle",
-			"version": 388,
-			"versionNonce": 779837870,
+			"version": 398,
+			"versionNonce": 1482859174,
 			"isDeleted": false,
 			"id": "-lTIeQvor6ByKLBx42azp",
 			"fillStyle": "solid",
@@ -26264,14 +26313,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 383,
-			"versionNonce": 312956978,
+			"version": 393,
+			"versionNonce": 1317716666,
 			"isDeleted": false,
 			"id": "UVPJ9bO-FLvXVso9N9anw",
 			"fillStyle": "solid",
@@ -26298,14 +26347,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "PV1OMeKy"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 274,
-			"versionNonce": 1346305006,
+			"version": 284,
+			"versionNonce": 1183014374,
 			"isDeleted": false,
 			"id": "PV1OMeKy",
 			"fillStyle": "solid",
@@ -26327,7 +26376,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -26343,8 +26392,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 436,
-			"versionNonce": 338788850,
+			"version": 446,
+			"versionNonce": 1549163386,
 			"isDeleted": false,
 			"id": "Dkqcw58G2yFJWg-o__1SM",
 			"fillStyle": "solid",
@@ -26371,14 +26420,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "3slPYfVJ"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 212,
-			"versionNonce": 588598830,
+			"version": 222,
+			"versionNonce": 2137698598,
 			"isDeleted": false,
 			"id": "3slPYfVJ",
 			"fillStyle": "solid",
@@ -26400,7 +26449,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -26412,12 +26461,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Dkqcw58G2yFJWg-o__1SM",
 			"originalText": "Code",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 486,
-			"versionNonce": 1045459890,
+			"version": 496,
+			"versionNonce": 112254010,
 			"isDeleted": false,
 			"id": "w0jVDWLHMX9cZEyd3yvPI",
 			"fillStyle": "solid",
@@ -26444,14 +26493,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "WoulAY4P"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 271,
-			"versionNonce": 1676105838,
+			"version": 281,
+			"versionNonce": 512072806,
 			"isDeleted": false,
 			"id": "WoulAY4P",
 			"fillStyle": "solid",
@@ -26473,7 +26522,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -26485,12 +26534,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "w0jVDWLHMX9cZEyd3yvPI",
 			"originalText": "Stack",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 517,
-			"versionNonce": 858467698,
+			"version": 527,
+			"versionNonce": 729629946,
 			"isDeleted": false,
 			"id": "acDri5KfNq51hmOO11mWJ",
 			"fillStyle": "solid",
@@ -26517,14 +26566,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "sVQn0Wvn"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 315,
-			"versionNonce": 1249778350,
+			"version": 325,
+			"versionNonce": 1235296166,
 			"isDeleted": false,
 			"id": "sVQn0Wvn",
 			"fillStyle": "solid",
@@ -26546,7 +26595,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -26558,12 +26607,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "acDri5KfNq51hmOO11mWJ",
 			"originalText": "Browser API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 299,
-			"versionNonce": 940093234,
+			"version": 309,
+			"versionNonce": 1950258618,
 			"isDeleted": false,
 			"id": "q2pJG8Tz",
 			"fillStyle": "solid",
@@ -26585,7 +26634,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -26597,12 +26646,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "JavaScript Engine",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 591,
-			"versionNonce": 763532526,
+			"version": 601,
+			"versionNonce": 1693072102,
 			"isDeleted": false,
 			"id": "P41KNdinsrG_dDQzzWsDc",
 			"fillStyle": "solid",
@@ -26629,14 +26678,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "LdbrKeis"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 381,
-			"versionNonce": 1364195570,
+			"version": 391,
+			"versionNonce": 1645727354,
 			"isDeleted": false,
 			"id": "LdbrKeis",
 			"fillStyle": "solid",
@@ -26658,7 +26707,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -26670,12 +26719,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "P41KNdinsrG_dDQzzWsDc",
 			"originalText": "Message\nQueue",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 656,
-			"versionNonce": 645777198,
+			"version": 666,
+			"versionNonce": 1189998118,
 			"isDeleted": false,
 			"id": "h9uF5mCFX4ip6x-pc410K",
 			"fillStyle": "solid",
@@ -26697,14 +26746,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 1039,
-			"versionNonce": 1585973938,
+			"version": 1049,
+			"versionNonce": 1506537274,
 			"isDeleted": false,
 			"id": "v0xLWAN_O-xrobtl3lT-k",
 			"fillStyle": "solid",
@@ -26729,7 +26778,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -26758,8 +26807,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 1204,
-			"versionNonce": 903393646,
+			"version": 1214,
+			"versionNonce": 1821981030,
 			"isDeleted": false,
 			"id": "UX9qsAFt6HbgQsJlfPOSV",
 			"fillStyle": "solid",
@@ -26784,7 +26833,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -26813,8 +26862,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 331,
-			"versionNonce": 911729778,
+			"version": 341,
+			"versionNonce": 800978938,
 			"isDeleted": false,
 			"id": "ZfbzDg9G",
 			"fillStyle": "solid",
@@ -26841,7 +26890,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -26853,12 +26902,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Event Loop",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 542,
-			"versionNonce": 1725715374,
+			"version": 552,
+			"versionNonce": 758717606,
 			"isDeleted": false,
 			"id": "GsNL-qktTitCe9RFFRNqP",
 			"fillStyle": "solid",
@@ -26889,14 +26938,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 366,
-			"versionNonce": 1116112434,
+			"version": 376,
+			"versionNonce": 871426234,
 			"isDeleted": false,
 			"id": "w1G69atn",
 			"fillStyle": "solid",
@@ -26918,7 +26967,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -26930,12 +26979,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "GsNL-qktTitCe9RFFRNqP",
 			"originalText": "showAlert()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 592,
-			"versionNonce": 1941024238,
+			"version": 602,
+			"versionNonce": 1853528038,
 			"isDeleted": false,
 			"id": "rB4zmZMw348zwUnRPw-gV",
 			"fillStyle": "solid",
@@ -26962,14 +27011,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "MjxaVFiv"
 				}
 			],
-			"updated": 1707977372389,
+			"updated": 1708083968267,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 438,
-			"versionNonce": 469430258,
+			"version": 448,
+			"versionNonce": 1040695674,
 			"isDeleted": false,
 			"id": "MjxaVFiv",
 			"fillStyle": "solid",
@@ -26991,7 +27040,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -27003,12 +27052,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "rB4zmZMw348zwUnRPw-gV",
 			"originalText": "alert()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 561,
-			"versionNonce": 1929856118,
+			"version": 576,
+			"versionNonce": 1483385638,
 			"isDeleted": false,
 			"id": "5IIBLzBlyC8kMy77ElKcP",
 			"fillStyle": "solid",
@@ -27032,7 +27081,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708067309767,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -27065,8 +27114,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 338,
-			"versionNonce": 649863602,
+			"version": 348,
+			"versionNonce": 960856634,
 			"isDeleted": false,
 			"id": "q3-Cqmb5l0_pB5MfeRLZF",
 			"fillStyle": "solid",
@@ -27093,14 +27142,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "hqGgHhly"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 228,
-			"versionNonce": 1272285806,
+			"version": 238,
+			"versionNonce": 158750310,
 			"isDeleted": false,
 			"id": "hqGgHhly",
 			"fillStyle": "solid",
@@ -27122,7 +27171,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -27138,8 +27187,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 381,
-			"versionNonce": 770775922,
+			"version": 391,
+			"versionNonce": 814557946,
 			"isDeleted": false,
 			"id": "lZXWRo2qHSOnI-E6RX4V5",
 			"fillStyle": "solid",
@@ -27166,14 +27215,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "1iDJfJgL"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 281,
-			"versionNonce": 970329262,
+			"version": 291,
+			"versionNonce": 1248500134,
 			"isDeleted": false,
 			"id": "1iDJfJgL",
 			"fillStyle": "solid",
@@ -27195,7 +27244,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -27211,8 +27260,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 432,
-			"versionNonce": 2145443122,
+			"version": 442,
+			"versionNonce": 1516354490,
 			"isDeleted": false,
 			"id": "M_RCU4szTxbZsfDut3ecU",
 			"fillStyle": "solid",
@@ -27239,14 +27288,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "6I6DOXq3"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 348,
-			"versionNonce": 286017262,
+			"version": 358,
+			"versionNonce": 1114928358,
 			"isDeleted": false,
 			"id": "6I6DOXq3",
 			"fillStyle": "solid",
@@ -27268,7 +27317,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -27284,8 +27333,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 457,
-			"versionNonce": 166881010,
+			"version": 467,
+			"versionNonce": 619066490,
 			"isDeleted": false,
 			"id": "JV7nlj4t8iuriXSOyi0VO",
 			"fillStyle": "solid",
@@ -27312,14 +27361,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "re2eb2jl"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 383,
-			"versionNonce": 302070062,
+			"version": 393,
+			"versionNonce": 723576870,
 			"isDeleted": false,
 			"id": "re2eb2jl",
 			"fillStyle": "solid",
@@ -27341,7 +27390,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -27357,8 +27406,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 576,
-			"versionNonce": 1957476530,
+			"version": 586,
+			"versionNonce": 1105040698,
 			"isDeleted": false,
 			"id": "FogiqpVMACU6VMn6OmSgR",
 			"fillStyle": "solid",
@@ -27385,14 +27434,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "QB3BmAtq"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 511,
-			"versionNonce": 69067630,
+			"version": 521,
+			"versionNonce": 73200486,
 			"isDeleted": false,
 			"id": "QB3BmAtq",
 			"fillStyle": "solid",
@@ -27414,7 +27463,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -27430,8 +27479,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 589,
-			"versionNonce": 1068946034,
+			"version": 599,
+			"versionNonce": 850058746,
 			"isDeleted": false,
 			"id": "wxS4MXHkaiw634Ga9HzwV",
 			"fillStyle": "solid",
@@ -27458,14 +27507,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "h64OmZBW"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 535,
-			"versionNonce": 1504396718,
+			"version": 545,
+			"versionNonce": 1215665830,
 			"isDeleted": false,
 			"id": "h64OmZBW",
 			"fillStyle": "solid",
@@ -27487,7 +27536,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -27503,8 +27552,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 619,
-			"versionNonce": 1574417458,
+			"version": 629,
+			"versionNonce": 1414598330,
 			"isDeleted": false,
 			"id": "CCDuEDuh7y5T2aqK8DOfc",
 			"fillStyle": "solid",
@@ -27531,14 +27580,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "ItM9DNpi"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 572,
-			"versionNonce": 1406296046,
+			"version": 582,
+			"versionNonce": 538431974,
 			"isDeleted": false,
 			"id": "ItM9DNpi",
 			"fillStyle": "solid",
@@ -27560,7 +27609,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -27576,8 +27625,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "ellipse",
-			"version": 244,
-			"versionNonce": 1358323186,
+			"version": 254,
+			"versionNonce": 1802708858,
 			"isDeleted": false,
 			"id": "yN5kHD4CgVIfXTKiMz8zG",
 			"fillStyle": "solid",
@@ -27599,14 +27648,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 209,
-			"versionNonce": 647770670,
+			"version": 219,
+			"versionNonce": 374383910,
 			"isDeleted": false,
 			"id": "K4FsuHa75IstqNDNrhGfq",
 			"fillStyle": "solid",
@@ -27628,14 +27677,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 184,
-			"versionNonce": 1176096690,
+			"version": 194,
+			"versionNonce": 810821690,
 			"isDeleted": false,
 			"id": "Zkp19tS2",
 			"fillStyle": "solid",
@@ -27657,7 +27706,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 63.85607385540214,
@@ -27669,12 +27718,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "상품 전시",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 62
 		},
 		{
 			"type": "rectangle",
-			"version": 436,
-			"versionNonce": 485604462,
+			"version": 446,
+			"versionNonce": 1284313190,
 			"isDeleted": false,
 			"id": "okx0Ifge9wnit97lf169s",
 			"fillStyle": "solid",
@@ -27702,14 +27751,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "AGeHLqFR"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 387,
-			"versionNonce": 828967282,
+			"version": 397,
+			"versionNonce": 1524044026,
 			"isDeleted": false,
 			"id": "AGeHLqFR",
 			"fillStyle": "solid",
@@ -27732,7 +27781,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.804456928513988,
@@ -27748,8 +27797,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 481,
-			"versionNonce": 1016856238,
+			"version": 491,
+			"versionNonce": 781849510,
 			"isDeleted": false,
 			"id": "YfEYOSUBVTINSQjBZht0O",
 			"fillStyle": "solid",
@@ -27777,14 +27826,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "K9GWqICb"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 442,
-			"versionNonce": 1781205810,
+			"version": 452,
+			"versionNonce": 780067258,
 			"isDeleted": false,
 			"id": "K9GWqICb",
 			"fillStyle": "solid",
@@ -27807,7 +27856,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.804456928513988,
@@ -27823,8 +27872,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 530,
-			"versionNonce": 1782839534,
+			"version": 540,
+			"versionNonce": 648326886,
 			"isDeleted": false,
 			"id": "ikZBVr9RkSJk-w0fbu0AZ",
 			"fillStyle": "solid",
@@ -27852,14 +27901,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "6BejXoU5"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 507,
-			"versionNonce": 1187435762,
+			"version": 517,
+			"versionNonce": 107911802,
 			"isDeleted": false,
 			"id": "6BejXoU5",
 			"fillStyle": "solid",
@@ -27882,7 +27931,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.804456928513988,
@@ -27898,8 +27947,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 644,
-			"versionNonce": 225618734,
+			"version": 654,
+			"versionNonce": 1362747942,
 			"isDeleted": false,
 			"id": "VYKkiGKHmoxox9EMklwIO",
 			"fillStyle": "solid",
@@ -27927,14 +27976,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "A0ChzVSZ"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 629,
-			"versionNonce": 952329906,
+			"version": 639,
+			"versionNonce": 1634286394,
 			"isDeleted": false,
 			"id": "A0ChzVSZ",
 			"fillStyle": "solid",
@@ -27957,7 +28006,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.804456928513988,
@@ -27973,8 +28022,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 680,
-			"versionNonce": 881923438,
+			"version": 690,
+			"versionNonce": 826715494,
 			"isDeleted": false,
 			"id": "uBo4qI14oFhU-SwKJosqk",
 			"fillStyle": "solid",
@@ -28002,14 +28051,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "yyzMDC8p"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 675,
-			"versionNonce": 1757921394,
+			"version": 685,
+			"versionNonce": 1842463738,
 			"isDeleted": false,
 			"id": "yyzMDC8p",
 			"fillStyle": "solid",
@@ -28032,7 +28081,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.804456928513988,
@@ -28048,8 +28097,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 217,
-			"versionNonce": 954742702,
+			"version": 227,
+			"versionNonce": 1679298726,
 			"isDeleted": false,
 			"id": "JgR5ZGS9",
 			"fillStyle": "solid",
@@ -28071,7 +28120,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 63.85607385540214,
@@ -28083,12 +28132,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "결제",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 62
 		},
 		{
 			"type": "rectangle",
-			"version": 466,
-			"versionNonce": 1385882162,
+			"version": 476,
+			"versionNonce": 363541690,
 			"isDeleted": false,
 			"id": "a8ReEoKorGUKwIA73DDfo",
 			"fillStyle": "solid",
@@ -28116,14 +28165,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "z3y3bnCR"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 417,
-			"versionNonce": 1654723054,
+			"version": 427,
+			"versionNonce": 1432030182,
 			"isDeleted": false,
 			"id": "z3y3bnCR",
 			"fillStyle": "solid",
@@ -28146,7 +28195,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.804456928513988,
@@ -28162,8 +28211,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 511,
-			"versionNonce": 1629735922,
+			"version": 521,
+			"versionNonce": 177769850,
 			"isDeleted": false,
 			"id": "h3KplYoq9VO5qV5sVbAdA",
 			"fillStyle": "solid",
@@ -28191,14 +28240,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "se25obGf"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 472,
-			"versionNonce": 214213678,
+			"version": 482,
+			"versionNonce": 1931255590,
 			"isDeleted": false,
 			"id": "se25obGf",
 			"fillStyle": "solid",
@@ -28221,7 +28270,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.804456928513988,
@@ -28237,8 +28286,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 560,
-			"versionNonce": 174685618,
+			"version": 570,
+			"versionNonce": 1373425210,
 			"isDeleted": false,
 			"id": "9rTMlPipjgRIazrXxbEgU",
 			"fillStyle": "solid",
@@ -28266,14 +28315,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "Atg2S5bC"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 537,
-			"versionNonce": 1228664430,
+			"version": 547,
+			"versionNonce": 1640614502,
 			"isDeleted": false,
 			"id": "Atg2S5bC",
 			"fillStyle": "solid",
@@ -28296,7 +28345,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.804456928513988,
@@ -28312,8 +28361,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 674,
-			"versionNonce": 1804793714,
+			"version": 684,
+			"versionNonce": 1348138746,
 			"isDeleted": false,
 			"id": "s-g-dZJnS-d6VCB-XPIE5",
 			"fillStyle": "solid",
@@ -28341,14 +28390,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "Oxao63DN"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 659,
-			"versionNonce": 80736430,
+			"version": 669,
+			"versionNonce": 808422822,
 			"isDeleted": false,
 			"id": "Oxao63DN",
 			"fillStyle": "solid",
@@ -28371,7 +28420,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.804456928513988,
@@ -28387,8 +28436,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 710,
-			"versionNonce": 1692875058,
+			"version": 720,
+			"versionNonce": 1452672954,
 			"isDeleted": false,
 			"id": "k5WN-l4_6iuA3ys6VOZ7U",
 			"fillStyle": "solid",
@@ -28416,14 +28465,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "00Ud1PHI"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 705,
-			"versionNonce": 724151022,
+			"version": 715,
+			"versionNonce": 192604390,
 			"isDeleted": false,
 			"id": "00Ud1PHI",
 			"fillStyle": "solid",
@@ -28446,7 +28495,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.804456928513988,
@@ -28462,8 +28511,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 235,
-			"versionNonce": 902644466,
+			"version": 245,
+			"versionNonce": 749797498,
 			"isDeleted": false,
 			"id": "VA2ngcu2afPypITGDao0Z",
 			"fillStyle": "solid",
@@ -28485,14 +28534,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 428,
-			"versionNonce": 500385206,
+			"version": 448,
+			"versionNonce": 1933106214,
 			"isDeleted": false,
 			"id": "JuG90COifgQIwcHke1aW0",
 			"fillStyle": "solid",
@@ -28514,7 +28563,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309776,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -28543,8 +28592,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 227,
-			"versionNonce": 416027826,
+			"version": 237,
+			"versionNonce": 510583098,
 			"isDeleted": false,
 			"id": "ErNI0T6Hw_A-swiixU9lS",
 			"fillStyle": "solid",
@@ -28579,14 +28628,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 115,
-			"versionNonce": 959596398,
+			"version": 125,
+			"versionNonce": 1834379110,
 			"isDeleted": false,
 			"id": "8T78YLFY",
 			"fillStyle": "solid",
@@ -28608,7 +28657,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -28620,12 +28669,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "ErNI0T6Hw_A-swiixU9lS",
 			"originalText": "서비스 리스너",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 317,
-			"versionNonce": 1602924146,
+			"version": 327,
+			"versionNonce": 120760826,
 			"isDeleted": false,
 			"id": "ADaE61LPp4yxXGhJDUVO6",
 			"fillStyle": "solid",
@@ -28660,14 +28709,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 229,
-			"versionNonce": 915614126,
+			"version": 239,
+			"versionNonce": 975211174,
 			"isDeleted": false,
 			"id": "GWLLbefG",
 			"fillStyle": "solid",
@@ -28689,7 +28738,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -28701,12 +28750,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "ADaE61LPp4yxXGhJDUVO6",
 			"originalText": "application",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
-			"version": 467,
-			"versionNonce": 248516658,
+			"version": 477,
+			"versionNonce": 1577015994,
 			"isDeleted": false,
 			"id": "M9RKf_KCI7zBjJ6k4W9Dy",
 			"fillStyle": "solid",
@@ -28729,14 +28778,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 412,
-			"versionNonce": 303940590,
+			"version": 422,
+			"versionNonce": 138692070,
 			"isDeleted": false,
 			"id": "Lhh2CXhY1cP9m6cpp6Ueq",
 			"fillStyle": "solid",
@@ -28764,14 +28813,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 395,
-			"versionNonce": 2055420402,
+			"version": 405,
+			"versionNonce": 1098380154,
 			"isDeleted": false,
 			"id": "JVJa1VAOwK47J0WvlDue3",
 			"fillStyle": "solid",
@@ -28794,14 +28843,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 399,
-			"versionNonce": 1306203694,
+			"version": 409,
+			"versionNonce": 684628262,
 			"isDeleted": false,
 			"id": "obr8qESRoP4II-NXxnePo",
 			"fillStyle": "solid",
@@ -28824,7 +28873,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -28845,8 +28894,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 427,
-			"versionNonce": 1638607794,
+			"version": 437,
+			"versionNonce": 64975930,
 			"isDeleted": false,
 			"id": "yyqA8SIx41X5K0EVb30GM",
 			"fillStyle": "solid",
@@ -28869,7 +28918,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -28890,8 +28939,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 1119101038,
+			"version": 146,
+			"versionNonce": 1126990950,
 			"isDeleted": false,
 			"id": "RRy9gS09",
 			"fillStyle": "solid",
@@ -28913,7 +28962,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -28925,12 +28974,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 439,
-			"versionNonce": 1547292726,
+			"version": 469,
+			"versionNonce": 924376314,
 			"isDeleted": false,
 			"id": "GXbcKj4uUHtb-AW5j1B6F",
 			"fillStyle": "solid",
@@ -28952,7 +29001,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309777,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -28981,8 +29030,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 406,
-			"versionNonce": 540957046,
+			"version": 426,
+			"versionNonce": 153814950,
 			"isDeleted": false,
 			"id": "_WU6v2KrXjwcK89EtC2fN",
 			"fillStyle": "solid",
@@ -29004,7 +29053,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067309777,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -29033,8 +29082,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 196,
-			"versionNonce": 1578460978,
+			"version": 206,
+			"versionNonce": 950480314,
 			"isDeleted": false,
 			"id": "16ofotpg",
 			"fillStyle": "solid",
@@ -29056,7 +29105,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -29068,12 +29117,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "end point",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
-			"version": 264,
-			"versionNonce": 1170037998,
+			"version": 274,
+			"versionNonce": 1794581222,
 			"isDeleted": false,
 			"id": "18ssXDXY",
 			"fillStyle": "solid",
@@ -29100,7 +29149,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -29112,12 +29161,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "request",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "diamond",
-			"version": 282,
-			"versionNonce": 84259058,
+			"version": 292,
+			"versionNonce": 1034774138,
 			"isDeleted": false,
 			"id": "hTYCfqFCtl0Tl-PGz19Hu",
 			"fillStyle": "solid",
@@ -29141,14 +29190,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 317,
-			"versionNonce": 2082443054,
+			"version": 327,
+			"versionNonce": 1260246566,
 			"isDeleted": false,
 			"id": "W1lyrG8_eG-tXDUn-PoUZ",
 			"fillStyle": "solid",
@@ -29172,14 +29221,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 263,
-			"versionNonce": 46580402,
+			"version": 273,
+			"versionNonce": 1592690490,
 			"isDeleted": false,
 			"id": "Xdt4RQpPqAffogXCVoTMi",
 			"fillStyle": "solid",
@@ -29203,14 +29252,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 478,
-			"versionNonce": 67205486,
+			"version": 488,
+			"versionNonce": 848044390,
 			"isDeleted": false,
 			"id": "Bb4iWsnRAuvNNTT258mwK",
 			"fillStyle": "solid",
@@ -29234,14 +29283,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 426,
-			"versionNonce": 1375706226,
+			"version": 436,
+			"versionNonce": 617451514,
 			"isDeleted": false,
 			"id": "dYRDTsT4xEN1Sk2_qnICo",
 			"fillStyle": "solid",
@@ -29265,14 +29314,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968268,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 446,
-			"versionNonce": 78388142,
+			"version": 456,
+			"versionNonce": 76481702,
 			"isDeleted": false,
 			"id": "8VCbWnshwD5rlOVApzgAS",
 			"fillStyle": "solid",
@@ -29296,14 +29345,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 160,
-			"versionNonce": 7814706,
+			"version": 170,
+			"versionNonce": 323846330,
 			"isDeleted": false,
 			"id": "rFFMh6ox",
 			"fillStyle": "solid",
@@ -29326,7 +29375,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372390,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -29338,12 +29387,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "application",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "line",
-			"version": 349,
-			"versionNonce": 1414034926,
+			"version": 359,
+			"versionNonce": 852721638,
 			"isDeleted": false,
 			"id": "lZVkN5nshuigcVcce11iL",
 			"fillStyle": "solid",
@@ -29365,7 +29414,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -29394,8 +29443,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 175,
-			"versionNonce": 1259644914,
+			"version": 185,
+			"versionNonce": 907106682,
 			"isDeleted": false,
 			"id": "rY-Jk5qz9n8qZK4iur5SX",
 			"fillStyle": "solid",
@@ -29417,7 +29466,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -29442,8 +29491,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "ellipse",
-			"version": 187,
-			"versionNonce": 467634222,
+			"version": 197,
+			"versionNonce": 1902547750,
 			"isDeleted": false,
 			"id": "x6aeew4G1vk5695BBP_vu",
 			"fillStyle": "solid",
@@ -29465,14 +29514,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 190,
-			"versionNonce": 970906034,
+			"version": 200,
+			"versionNonce": 744233530,
 			"isDeleted": false,
 			"id": "4B5sj2CCzkPxr8Ldwo4c2",
 			"fillStyle": "solid",
@@ -29494,14 +29543,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 196,
-			"versionNonce": 2069516910,
+			"version": 206,
+			"versionNonce": 1790262886,
 			"isDeleted": false,
 			"id": "1Qx1GlS-TiUeWX6uKy9RH",
 			"fillStyle": "solid",
@@ -29523,14 +29572,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 239,
-			"versionNonce": 1006424946,
+			"version": 249,
+			"versionNonce": 890290938,
 			"isDeleted": false,
 			"id": "REGgFXh_30vXAN5cx42OW",
 			"fillStyle": "solid",
@@ -29552,14 +29601,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 206,
-			"versionNonce": 763483310,
+			"version": 216,
+			"versionNonce": 1938588070,
 			"isDeleted": false,
 			"id": "wPP-7GZqa7He5_WmyHa9K",
 			"fillStyle": "solid",
@@ -29581,14 +29630,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 198,
-			"versionNonce": 1135973682,
+			"version": 208,
+			"versionNonce": 984765370,
 			"isDeleted": false,
 			"id": "EDQnXcALTCbUjZZT5j-UR",
 			"fillStyle": "solid",
@@ -29610,14 +29659,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 207,
-			"versionNonce": 738135790,
+			"version": 217,
+			"versionNonce": 1058626790,
 			"isDeleted": false,
 			"id": "yfXqJba2oOq5SXX4T4fZ2",
 			"fillStyle": "solid",
@@ -29639,14 +29688,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 198,
-			"versionNonce": 1651515122,
+			"version": 208,
+			"versionNonce": 1600375930,
 			"isDeleted": false,
 			"id": "tdV4vM1hQoMXOOUGvWpnK",
 			"fillStyle": "solid",
@@ -29668,14 +29717,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 131,
-			"versionNonce": 1398473006,
+			"version": 141,
+			"versionNonce": 317247526,
 			"isDeleted": false,
 			"id": "C4iSp1zW",
 			"fillStyle": "solid",
@@ -29697,7 +29746,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -29709,12 +29758,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "REST",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 129,
-			"versionNonce": 1689481394,
+			"version": 139,
+			"versionNonce": 149433658,
 			"isDeleted": false,
 			"id": "l4s5kpZT",
 			"fillStyle": "solid",
@@ -29736,7 +29785,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -29748,12 +29797,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "SOAP",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 126,
-			"versionNonce": 117353326,
+			"version": 136,
+			"versionNonce": 2062015334,
 			"isDeleted": false,
 			"id": "A4hxd2r3",
 			"fillStyle": "solid",
@@ -29775,7 +29824,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -29787,12 +29836,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "TEST",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 120,
-			"versionNonce": 1848019570,
+			"version": 130,
+			"versionNonce": 1822586362,
 			"isDeleted": false,
 			"id": "PQ774zmP",
 			"fillStyle": "solid",
@@ -29814,7 +29863,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -29826,12 +29875,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "EI",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 96,
-			"versionNonce": 1429409198,
+			"version": 106,
+			"versionNonce": 2103672486,
 			"isDeleted": false,
 			"id": "uV0SwWmH",
 			"fillStyle": "solid",
@@ -29853,7 +29902,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -29865,12 +29914,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "MQ",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 105,
-			"versionNonce": 361786418,
+			"version": 115,
+			"versionNonce": 462792378,
 			"isDeleted": false,
 			"id": "5d5dZi8I",
 			"fillStyle": "solid",
@@ -29892,7 +29941,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -29904,12 +29953,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "SQL",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 118,
-			"versionNonce": 455157742,
+			"version": 128,
+			"versionNonce": 1325971942,
 			"isDeleted": false,
 			"id": "yYM5OXbj",
 			"fillStyle": "solid",
@@ -29931,7 +29980,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -29943,12 +29992,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "NoSQL",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 121,
-			"versionNonce": 14161394,
+			"version": 131,
+			"versionNonce": 241483642,
 			"isDeleted": false,
 			"id": "efQg2oBA",
 			"fillStyle": "solid",
@@ -29970,7 +30019,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -29982,12 +30031,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "File\nSource",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "ellipse",
-			"version": 220,
-			"versionNonce": 684849710,
+			"version": 230,
+			"versionNonce": 115641638,
 			"isDeleted": false,
 			"id": "mk5KhP1RZKCJkMvl3sZxb",
 			"fillStyle": "solid",
@@ -30010,14 +30059,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 17074098,
+			"version": 138,
+			"versionNonce": 827506746,
 			"isDeleted": false,
 			"id": "xy3WXNf0",
 			"fillStyle": "solid",
@@ -30040,7 +30089,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372391,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30052,12 +30101,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "ENV",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
-			"version": 105,
-			"versionNonce": 1697547374,
+			"version": 115,
+			"versionNonce": 1382283366,
 			"isDeleted": false,
 			"id": "qoZYjXwh081J09WEaIaYb",
 			"fillStyle": "solid",
@@ -30079,7 +30128,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -30100,8 +30149,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 90,
-			"versionNonce": 775733618,
+			"version": 100,
+			"versionNonce": 1883416826,
 			"isDeleted": false,
 			"id": "8776Ay1y1YXz2I1GyIR4c",
 			"fillStyle": "solid",
@@ -30123,7 +30172,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -30144,8 +30193,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 127,
-			"versionNonce": 1912587950,
+			"version": 137,
+			"versionNonce": 693369766,
 			"isDeleted": false,
 			"id": "V6xiW5EYcnCgVNxM_sy44",
 			"fillStyle": "solid",
@@ -30167,7 +30216,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -30188,8 +30237,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 96,
-			"versionNonce": 63423282,
+			"version": 106,
+			"versionNonce": 1119320506,
 			"isDeleted": false,
 			"id": "tXofCPb6pAIVXu7MzW_hq",
 			"fillStyle": "solid",
@@ -30211,7 +30260,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -30232,8 +30281,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 86,
-			"versionNonce": 1341047022,
+			"version": 96,
+			"versionNonce": 31561446,
 			"isDeleted": false,
 			"id": "9518In3W1CkWCLiM7IYvs",
 			"fillStyle": "solid",
@@ -30255,7 +30304,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -30276,8 +30325,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 102,
-			"versionNonce": 2081197298,
+			"version": 112,
+			"versionNonce": 936653434,
 			"isDeleted": false,
 			"id": "hz6E4GXbrFzWrHr4AR51r",
 			"fillStyle": "solid",
@@ -30299,7 +30348,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -30320,8 +30369,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 98,
-			"versionNonce": 42234670,
+			"version": 108,
+			"versionNonce": 77187622,
 			"isDeleted": false,
 			"id": "Dif6W89ASfYAFxvnABSp5",
 			"fillStyle": "solid",
@@ -30343,7 +30392,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -30364,8 +30413,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "ellipse",
-			"version": 273,
-			"versionNonce": 747773618,
+			"version": 283,
+			"versionNonce": 39572282,
 			"isDeleted": false,
 			"id": "Dl_CXWPP-ulOIQFhgSlTX",
 			"fillStyle": "solid",
@@ -30388,14 +30437,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 282,
-			"versionNonce": 875158894,
+			"version": 292,
+			"versionNonce": 1080661350,
 			"isDeleted": false,
 			"id": "IROxV16lAZjE66W3CXewP",
 			"fillStyle": "solid",
@@ -30418,14 +30467,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 291,
-			"versionNonce": 1644132466,
+			"version": 301,
+			"versionNonce": 78732282,
 			"isDeleted": false,
 			"id": "No4PCoCr-yBRalmtIDIqI",
 			"fillStyle": "solid",
@@ -30448,14 +30497,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 272,
-			"versionNonce": 1512570798,
+			"version": 282,
+			"versionNonce": 1587411110,
 			"isDeleted": false,
 			"id": "ETiYK_FUSWR5Zcd7aAeqn",
 			"fillStyle": "solid",
@@ -30478,14 +30527,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 296,
-			"versionNonce": 1008441906,
+			"version": 306,
+			"versionNonce": 1557646522,
 			"isDeleted": false,
 			"id": "ZLec6vCIB-16bxL0pl3mF",
 			"fillStyle": "solid",
@@ -30508,14 +30557,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 117,
-			"versionNonce": 1487395310,
+			"version": 127,
+			"versionNonce": 1457779686,
 			"isDeleted": false,
 			"id": "fnoEETQJ",
 			"fillStyle": "solid",
@@ -30537,7 +30586,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30549,12 +30598,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "HTML5 App",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 101,
-			"versionNonce": 1238205426,
+			"version": 111,
+			"versionNonce": 1886528890,
 			"isDeleted": false,
 			"id": "A7plKn26",
 			"fillStyle": "solid",
@@ -30576,7 +30625,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30588,12 +30637,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Test Agent",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 90,
-			"versionNonce": 649227310,
+			"version": 100,
+			"versionNonce": 591955750,
 			"isDeleted": false,
 			"id": "659AfQwt",
 			"fillStyle": "solid",
@@ -30615,7 +30664,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30627,12 +30676,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "MQ Service",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 94,
-			"versionNonce": 622605746,
+			"version": 104,
+			"versionNonce": 2026071610,
 			"isDeleted": false,
 			"id": "akzzsR1V",
 			"fillStyle": "solid",
@@ -30654,7 +30703,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30666,12 +30715,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "SQL server",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 120,
-			"versionNonce": 1915795054,
+			"version": 130,
+			"versionNonce": 1949872742,
 			"isDeleted": false,
 			"id": "XzqErwki",
 			"fillStyle": "solid",
@@ -30693,7 +30742,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30705,12 +30754,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "In-Memory",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 183,
-			"versionNonce": 254717810,
+			"version": 193,
+			"versionNonce": 246320890,
 			"isDeleted": false,
 			"id": "nxB3wUih",
 			"fillStyle": "solid",
@@ -30730,7 +30779,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 38.62776692708334,
@@ -30746,8 +30795,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 275,
-			"versionNonce": 1830307446,
+			"version": 379,
+			"versionNonce": 1686205862,
 			"isDeleted": false,
 			"id": "uGK3oYbvSCjcb-yDAf9Xh",
 			"fillStyle": "solid",
@@ -30756,8 +30805,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6863.483550347476,
-			"y": 4495.502618167734,
+			"x": 6818.210112847476,
+			"y": 4799.343764001067,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 179,
@@ -30784,14 +30833,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1708066815812,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 296,
-			"versionNonce": 42924982,
+			"version": 397,
+			"versionNonce": 917938106,
 			"isDeleted": false,
 			"id": "HJOwgFDO",
 			"fillStyle": "solid",
@@ -30800,8 +30849,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6885.793563164859,
-			"y": 4506.702618167734,
+			"x": 6840.520125664859,
+			"y": 4810.543764001067,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 134.37997436523438,
@@ -30811,7 +30860,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063864157,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30823,12 +30872,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "uGK3oYbvSCjcb-yDAf9Xh",
 			"originalText": "API Gateway\nHTML, CSS, JS\n인증, 인가, 라우트",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
-			"version": 492,
-			"versionNonce": 596407022,
+			"version": 559,
+			"versionNonce": 760205542,
 			"isDeleted": false,
 			"id": "GkrDTJo4EJNKx7LwgvP3P",
 			"fillStyle": "solid",
@@ -30837,8 +30886,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7185.996133970374,
-			"y": 4182.925818756833,
+			"x": 7140.722696470374,
+			"y": 4486.766964590166,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 179,
@@ -30857,14 +30906,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 481,
-			"versionNonce": 2145057522,
+			"version": 548,
+			"versionNonce": 1828624506,
 			"isDeleted": false,
 			"id": "Jw3Tv0qS",
 			"fillStyle": "solid",
@@ -30873,8 +30922,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7256.746133970374,
-			"y": 4213.325818756833,
+			"x": 7211.472696470374,
+			"y": 4517.166964590166,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 37.5,
@@ -30884,7 +30933,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30896,12 +30945,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "GkrDTJo4EJNKx7LwgvP3P",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 437,
-			"versionNonce": 892882806,
+			"version": 504,
+			"versionNonce": 1513145382,
 			"isDeleted": false,
 			"id": "SibYaYYkD3KZg6uFhvva2",
 			"fillStyle": "solid",
@@ -30910,8 +30959,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6861.811761959854,
-			"y": 4129.611841460335,
+			"x": 6816.538324459854,
+			"y": 4433.452987293669,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 179,
@@ -30930,14 +30979,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1708067340589,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 475,
-			"versionNonce": 349113066,
+			"version": 542,
+			"versionNonce": 826898746,
 			"isDeleted": false,
 			"id": "IiOQLFIE",
 			"fillStyle": "solid",
@@ -30946,8 +30995,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6904.436761959854,
-			"y": 4160.011841460335,
+			"x": 6859.163324459854,
+			"y": 4463.852987293669,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 93.75,
@@ -30957,7 +31006,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067340589,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -30969,12 +31018,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "SibYaYYkD3KZg6uFhvva2",
 			"originalText": "management",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 448,
-			"versionNonce": 2105741166,
+			"version": 515,
+			"versionNonce": 2098286438,
 			"isDeleted": false,
 			"id": "YppdK7W7",
 			"fillStyle": "solid",
@@ -30983,8 +31032,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6937.701979138222,
-			"y": 4759.784566846144,
+			"x": 6892.428541638222,
+			"y": 5063.625712679477,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 37.5,
@@ -30996,7 +31045,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31008,12 +31057,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
-			"version": 466,
-			"versionNonce": 1535796850,
+			"version": 533,
+			"versionNonce": 318390778,
 			"isDeleted": false,
 			"id": "_yRjL6gk6550QMrnAhuN5",
 			"fillStyle": "solid",
@@ -31022,8 +31071,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6921.599477052579,
-			"y": 4734.971084859796,
+			"x": 6876.326039552579,
+			"y": 5038.812230693129,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 67.46618997763744,
@@ -31035,14 +31084,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 465,
-			"versionNonce": 1166733742,
+			"version": 532,
+			"versionNonce": 1648259750,
 			"isDeleted": false,
 			"id": "eFzm9hcsWgmTUyd4EJqk0",
 			"fillStyle": "solid",
@@ -31051,8 +31100,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6956.35155494091,
-			"y": 4803.755463170602,
+			"x": 6911.07811744091,
+			"y": 5107.596609003935,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 0.8629535981690424,
@@ -31064,7 +31113,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -31085,8 +31134,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 524,
-			"versionNonce": 1645791282,
+			"version": 591,
+			"versionNonce": 1024717498,
 			"isDeleted": false,
 			"id": "_iasRuXWY4ODIZSYMzIBp",
 			"fillStyle": "solid",
@@ -31095,8 +31144,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6909.367974009165,
-			"y": 4786.397839769354,
+			"x": 6864.094536509165,
+			"y": 5090.2389856026875,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 96.20719582115635,
@@ -31108,7 +31157,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -31133,8 +31182,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 704,
-			"versionNonce": 2128382958,
+			"version": 771,
+			"versionNonce": 1147481574,
 			"isDeleted": false,
 			"id": "kamKsaS3FX7WxVvW7uf26",
 			"fillStyle": "solid",
@@ -31143,8 +31192,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 3.168410758649909,
-			"x": 6923.800546016214,
-			"y": 4866.225973752397,
+			"x": 6878.527108516214,
+			"y": 5170.06711958573,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 67.37953387992184,
@@ -31156,7 +31205,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -31181,8 +31230,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 648,
-			"versionNonce": 1283891434,
+			"version": 813,
+			"versionNonce": 37325690,
 			"isDeleted": false,
 			"id": "XC_STcmUvy2Dywv9aQc3I",
 			"fillStyle": "solid",
@@ -31191,8 +31240,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6953.197642741464,
-			"y": 4717.424331215112,
+			"x": 6907.924205241464,
+			"y": 5021.265477048446,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 1.100139982584551,
@@ -31207,14 +31256,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "HS2ZKQrc"
 				}
 			],
-			"updated": 1708067309778,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "uGK3oYbvSCjcb-yDAf9Xh",
-				"gap": 11.106561036693165,
-				"focus": -0.01941342943662251
+				"gap": 11.106561036694075,
+				"focus": -0.01941342943662311
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": "arrow",
@@ -31232,8 +31281,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 262,
-			"versionNonce": 1199627822,
+			"version": 329,
+			"versionNonce": 9601318,
 			"isDeleted": false,
 			"id": "HS2ZKQrc",
 			"fillStyle": "solid",
@@ -31242,8 +31291,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7034.32479056139,
-			"y": 4691.656924753956,
+			"x": 6989.05135306139,
+			"y": 4995.4980705872895,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 134.82498168945312,
@@ -31253,7 +31302,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31265,12 +31314,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "XC_STcmUvy2Dywv9aQc3I",
 			"originalText": "load할 페이지 및 \n소스코드 제공",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "arrow",
-			"version": 1211,
-			"versionNonce": 695706678,
+			"version": 1834,
+			"versionNonce": 1756236858,
 			"isDeleted": false,
 			"id": "EZdBL6hE7vxXahet9IjpC",
 			"fillStyle": "solid",
@@ -31279,12 +31328,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6862.699785844796,
-			"y": 4479.521826159691,
+			"x": 6817.503479067715,
+			"y": 4783.38116170188,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 129.46259024861138,
-			"height": 102.40188917191972,
+			"width": 129.61258379148876,
+			"height": 102.69675391987403,
 			"seed": 1523716522,
 			"groupIds": [],
 			"frameId": null,
@@ -31295,18 +31344,18 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "fzZVp4Tk"
 				}
 			],
-			"updated": 1708067319343,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "uGK3oYbvSCjcb-yDAf9Xh",
-				"gap": 16,
-				"focus": -0.13984083395880592
+				"gap": 15.978235304961345,
+				"focus": -0.13984083395576558
 			},
 			"endBinding": {
 				"elementId": "qA7RfEclZ-_eDzf7uyVNB",
-				"gap": 9.081560733786318,
-				"focus": -0.00019578393125379925
+				"gap": 9.081560733787228,
+				"focus": -0.00019578393123594666
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": "arrow",
@@ -31317,15 +31366,15 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					0
 				],
 				[
-					-129.46259024861138,
-					-102.40188917191972
+					-129.61258379148876,
+					-102.69675391987403
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 158,
-			"versionNonce": 341895278,
+			"version": 398,
+			"versionNonce": 1244884070,
 			"isDeleted": false,
 			"id": "fzZVp4Tk",
 			"fillStyle": "solid",
@@ -31334,8 +31383,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6761.494519334072,
-			"y": 4426.9644439183685,
+			"x": 6720.295675536552,
+			"y": 4722.563305758606,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 64.7349853515625,
@@ -31345,7 +31394,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31357,12 +31406,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "EZdBL6hE7vxXahet9IjpC",
 			"originalText": "회원 정보",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 1055,
-			"versionNonce": 339317034,
+			"version": 1380,
+			"versionNonce": 911504634,
 			"isDeleted": false,
 			"id": "3tzKd1x_txJOKJJ0q3wLg",
 			"fillStyle": "solid",
@@ -31371,12 +31420,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7056.098542125463,
-			"y": 4486.50966773069,
+			"x": 7008.876087351569,
+			"y": 4792.324288238269,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 210.60435882351885,
-			"height": 213.24714459478582,
+			"width": 212.55337609741218,
+			"height": 215.22061926903098,
 			"seed": 266583670,
 			"groupIds": [],
 			"frameId": null,
@@ -31387,18 +31436,18 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "HZSJCYBi"
 				}
 			],
-			"updated": 1708067309781,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "uGK3oYbvSCjcb-yDAf9Xh",
-				"gap": 16.316897948990118,
-				"focus": 0.4242434071016534
+				"gap": 13.614991777986688,
+				"focus": 0.4242434071016633
 			},
 			"endBinding": {
 				"elementId": "GkrDTJo4EJNKx7LwgvP3P",
-				"gap": 10.336704379071307,
-				"focus": -0.3171960350834212
+				"gap": 10.336704379072216,
+				"focus": -0.3171960350834375
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": "arrow",
@@ -31409,15 +31458,15 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					0
 				],
 				[
-					210.60435882351885,
-					-213.24714459478582
+					212.55337609741218,
+					-215.22061926903098
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 126,
-			"versionNonce": 1430629038,
+			"version": 196,
+			"versionNonce": 1595207590,
 			"isDeleted": false,
 			"id": "HZSJCYBi",
 			"fillStyle": "solid",
@@ -31426,8 +31475,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7122.735438454063,
-			"y": 4370.236291850722,
+			"x": 7077.462000954063,
+			"y": 4674.077437684056,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 78.57498168945312,
@@ -31437,7 +31486,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31449,12 +31498,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "3tzKd1x_txJOKJJ0q3wLg",
 			"originalText": "실시간 게임",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 890,
-			"versionNonce": 1937700726,
+			"version": 1049,
+			"versionNonce": 2091894202,
 			"isDeleted": false,
 			"id": "nHHqSLc-zcCprkjMKoXUX",
 			"fillStyle": "solid",
@@ -31463,11 +31512,11 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6955.810536030815,
-			"y": 4459.90521782986,
+			"x": 6910.537098530815,
+			"y": 4763.746363663193,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0.1447171184427134,
+			"width": 0.1447171184436229,
 			"height": 231.03387781862966,
 			"seed": 1367219254,
 			"groupIds": [],
@@ -31479,14 +31528,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "OeXcGoWv"
 				}
 			],
-			"updated": 1708067363239,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "SibYaYYkD3KZg6uFhvva2",
-				"gap": 19.259498550894932,
-				"focus": -0.052282689664373695
+				"gap": 19.259498550894023,
+				"focus": -0.05228268966437301
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": "arrow",
@@ -31497,15 +31546,15 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					0
 				],
 				[
-					0.1447171184427134,
+					0.1447171184436229,
 					-231.03387781862966
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 207,
-			"versionNonce": 416818414,
+			"version": 274,
+			"versionNonce": 996412134,
 			"isDeleted": false,
 			"id": "OeXcGoWv",
 			"fillStyle": "solid",
@@ -31514,8 +31563,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6980.631938965561,
-			"y": 4366.871763548311,
+			"x": 6935.358501465561,
+			"y": 4670.712909381644,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 199.55996704101562,
@@ -31525,7 +31574,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968269,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31537,12 +31586,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "nHHqSLc-zcCprkjMKoXUX",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 852,
-			"versionNonce": 467364082,
+			"version": 901,
+			"versionNonce": 618856058,
 			"isDeleted": false,
 			"id": "0ieNYAS1",
 			"fillStyle": "solid",
@@ -31551,8 +31600,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8314.346270209047,
-			"y": 3862.18449362723,
+			"x": 8238.923093125712,
+			"y": 4108.421472793897,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 268.31494140625,
@@ -31562,7 +31611,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31578,8 +31627,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 648,
-			"versionNonce": 1922696362,
+			"version": 888,
+			"versionNonce": 1303232038,
 			"isDeleted": false,
 			"id": "qA7RfEclZ-_eDzf7uyVNB",
 			"fillStyle": "solid",
@@ -31588,8 +31637,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6604.7584771876855,
-			"y": 4319.038376253985,
+			"x": 6559.4850396876855,
+			"y": 4622.602847048219,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 172,
@@ -31608,14 +31657,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1708067319343,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 640,
-			"versionNonce": 527790838,
+			"version": 880,
+			"versionNonce": 2075205434,
 			"isDeleted": false,
 			"id": "rZiLOfaC",
 			"fillStyle": "solid",
@@ -31624,8 +31673,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6681.3834771876855,
-			"y": 4333.938376253985,
+			"x": 6636.1100396876855,
+			"y": 4637.502847048218,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 18.75,
@@ -31635,7 +31684,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708067319343,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31647,12 +31696,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "qA7RfEclZ-_eDzf7uyVNB",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 411,
-			"versionNonce": 1426735470,
+			"version": 479,
+			"versionNonce": 719260006,
 			"isDeleted": false,
 			"id": "sa1XGw5iuGy5IyHvH5HiX",
 			"fillStyle": "solid",
@@ -31661,8 +31710,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6864.156052534527,
-			"y": 3991.9374423419563,
+			"x": 6818.882615034527,
+			"y": 4295.544132356478,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 172,
@@ -31677,14 +31726,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "jJaxUbwW"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 405,
-			"versionNonce": 147281010,
+			"version": 473,
+			"versionNonce": 1031612410,
 			"isDeleted": false,
 			"id": "jJaxUbwW",
 			"fillStyle": "solid",
@@ -31693,8 +31742,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6940.781052534527,
-			"y": 4006.8374423419564,
+			"x": 6895.507615034527,
+			"y": 4310.444132356478,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 18.75,
@@ -31704,7 +31753,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31716,12 +31765,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "sa1XGw5iuGy5IyHvH5HiX",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 515,
-			"versionNonce": 1230758830,
+			"version": 582,
+			"versionNonce": 1111813286,
 			"isDeleted": false,
 			"id": "Z10ID7qpbGgbeyuV0Sc2a",
 			"fillStyle": "solid",
@@ -31730,8 +31779,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7190.28821085442,
-			"y": 4066.1414353975124,
+			"x": 7145.01477335442,
+			"y": 4369.982581230846,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 172,
@@ -31746,14 +31795,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "4jcp0uB0"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 504,
-			"versionNonce": 1971844658,
+			"version": 571,
+			"versionNonce": 575281338,
 			"isDeleted": false,
 			"id": "4jcp0uB0",
 			"fillStyle": "solid",
@@ -31762,8 +31811,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7266.91321085442,
-			"y": 4081.0414353975125,
+			"x": 7221.63977335442,
+			"y": 4384.882581230846,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 18.75,
@@ -31773,7 +31822,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31785,12 +31834,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Z10ID7qpbGgbeyuV0Sc2a",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 165,
-			"versionNonce": 2143239662,
+			"version": 175,
+			"versionNonce": 294414310,
 			"isDeleted": false,
 			"id": "mIhhX9rY",
 			"fillStyle": "solid",
@@ -31810,7 +31859,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31822,12 +31871,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Client-Side Service discovery",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 100,
-			"versionNonce": 1296982002,
+			"version": 110,
+			"versionNonce": 1773859194,
 			"isDeleted": false,
 			"id": "RG8U4gNNCa3aqGklUg7qe",
 			"fillStyle": "solid",
@@ -31858,14 +31907,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 80,
-			"versionNonce": 1027428398,
+			"version": 90,
+			"versionNonce": 1489140518,
 			"isDeleted": false,
 			"id": "xBn1UOT4",
 			"fillStyle": "solid",
@@ -31887,7 +31936,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31899,12 +31948,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "RG8U4gNNCa3aqGklUg7qe",
 			"originalText": "service registry",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 219,
-			"versionNonce": 1008832946,
+			"version": 229,
+			"versionNonce": 1729278522,
 			"isDeleted": false,
 			"id": "bet27PCad_-nT-cFUNiLS",
 			"fillStyle": "solid",
@@ -31943,14 +31992,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 152,
-			"versionNonce": 1035934318,
+			"version": 162,
+			"versionNonce": 1314137702,
 			"isDeleted": false,
 			"id": "N33fkj1y",
 			"fillStyle": "solid",
@@ -31972,7 +32021,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -31984,12 +32033,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "bet27PCad_-nT-cFUNiLS",
 			"originalText": "Client",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 294,
-			"versionNonce": 1428720498,
+			"version": 304,
+			"versionNonce": 221534970,
 			"isDeleted": false,
 			"id": "keIkph9NDcsDM05lsHQHB",
 			"fillStyle": "solid",
@@ -32016,14 +32065,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "ZYLMEDr0"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 285,
-			"versionNonce": 1477287086,
+			"version": 295,
+			"versionNonce": 1393453478,
 			"isDeleted": false,
 			"id": "ZYLMEDr0",
 			"fillStyle": "solid",
@@ -32045,7 +32094,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -32057,12 +32106,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "keIkph9NDcsDM05lsHQHB",
 			"originalText": "microservice #1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 340,
-			"versionNonce": 782912818,
+			"version": 350,
+			"versionNonce": 2057497530,
 			"isDeleted": false,
 			"id": "18kmjJKrKvt4t1aK_3J95",
 			"fillStyle": "solid",
@@ -32089,14 +32138,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "acXUxhT5"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 336,
-			"versionNonce": 567400174,
+			"version": 346,
+			"versionNonce": 639517926,
 			"isDeleted": false,
 			"id": "acXUxhT5",
 			"fillStyle": "solid",
@@ -32118,7 +32167,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -32130,12 +32179,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "18kmjJKrKvt4t1aK_3J95",
 			"originalText": "microservice #2",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 318,
-			"versionNonce": 2114836210,
+			"version": 328,
+			"versionNonce": 92365946,
 			"isDeleted": false,
 			"id": "SlvFrhLO67Zpsk6wudP3D",
 			"fillStyle": "solid",
@@ -32162,14 +32211,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "1Fbf8hQu"
 				}
 			],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 313,
-			"versionNonce": 328517934,
+			"version": 323,
+			"versionNonce": 420526118,
 			"isDeleted": false,
 			"id": "1Fbf8hQu",
 			"fillStyle": "solid",
@@ -32191,7 +32240,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -32203,12 +32252,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "SlvFrhLO67Zpsk6wudP3D",
 			"originalText": "microservice #3",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 494,
-			"versionNonce": 1516652790,
+			"version": 514,
+			"versionNonce": 1200801082,
 			"isDeleted": false,
 			"id": "asNQ79xSbGRTlDGyAPq_t",
 			"fillStyle": "solid",
@@ -32232,7 +32281,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708067309786,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -32265,8 +32314,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 275,
-			"versionNonce": 481782122,
+			"version": 290,
+			"versionNonce": 1137886054,
 			"isDeleted": false,
 			"id": "LJK2uj9uAh5kv_oyXcqYP",
 			"fillStyle": "solid",
@@ -32290,7 +32339,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708067309786,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -32319,8 +32368,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 145,
-			"versionNonce": 397820530,
+			"version": 155,
+			"versionNonce": 708447738,
 			"isDeleted": false,
 			"id": "78L3649Q",
 			"fillStyle": "solid",
@@ -32342,7 +32391,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -32354,12 +32403,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "microservice #1\nquery",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 198,
-			"versionNonce": 396023214,
+			"version": 208,
+			"versionNonce": 951150246,
 			"isDeleted": false,
 			"id": "VRDH2p8o",
 			"fillStyle": "solid",
@@ -32381,7 +32430,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372392,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -32393,12 +32442,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "123.12.12.1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 385,
-			"versionNonce": 1004386870,
+			"version": 400,
+			"versionNonce": 1920614074,
 			"isDeleted": false,
 			"id": "RFuIIeENgx2MSuetVHG5W",
 			"fillStyle": "solid",
@@ -32422,7 +32471,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708067309786,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -32451,8 +32500,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 205,
-			"versionNonce": 1297084398,
+			"version": 215,
+			"versionNonce": 945398246,
 			"isDeleted": false,
 			"id": "dd8QP0au",
 			"fillStyle": "solid",
@@ -32474,7 +32523,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -32486,12 +32535,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "API call",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 172,
-			"versionNonce": 1675218418,
+			"version": 182,
+			"versionNonce": 1291212666,
 			"isDeleted": false,
 			"id": "UYM2hAWvYao4__OO3sxUE",
 			"fillStyle": "solid",
@@ -32515,7 +32564,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -32540,8 +32589,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 120,
-			"versionNonce": 971489838,
+			"version": 130,
+			"versionNonce": 1708684582,
 			"isDeleted": false,
 			"id": "_1gN_QbzUiB1NNJmQG-S1",
 			"fillStyle": "solid",
@@ -32565,7 +32614,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -32590,8 +32639,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 164,
-			"versionNonce": 185548722,
+			"version": 174,
+			"versionNonce": 1508988986,
 			"isDeleted": false,
 			"id": "c3TKqL2w2RxedfeJsjsac",
 			"fillStyle": "solid",
@@ -32615,7 +32664,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -32640,8 +32689,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 105,
-			"versionNonce": 1615547502,
+			"version": 115,
+			"versionNonce": 2056970342,
 			"isDeleted": false,
 			"id": "XebSLF7C",
 			"fillStyle": "solid",
@@ -32663,7 +32712,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -32675,12 +32724,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "registration",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
-			"version": 93,
-			"versionNonce": 372275570,
+			"version": 160,
+			"versionNonce": 961429754,
 			"isDeleted": false,
 			"id": "dz-nXROWVBad5oWGWywAs",
 			"fillStyle": "solid",
@@ -32689,8 +32738,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6953.062806176288,
-			"y": 4125.237582292682,
+			"x": 6907.789368676288,
+			"y": 4429.078728126016,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ebfbee",
 			"width": 0.6684027777773736,
@@ -32702,7 +32751,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -32723,8 +32772,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 314,
-			"versionNonce": 2118356654,
+			"version": 381,
+			"versionNonce": 2054022054,
 			"isDeleted": false,
 			"id": "xVT-zZvf_ocNnA-X-2WFD",
 			"fillStyle": "solid",
@@ -32733,8 +32782,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7273.691603919343,
-			"y": 4178.655551042682,
+			"x": 7228.418166419343,
+			"y": 4482.496696876016,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ebfbee",
 			"width": 0.3298611111113132,
@@ -32746,7 +32795,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -32767,8 +32816,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 332,
-			"versionNonce": 612662066,
+			"version": 429,
+			"versionNonce": 378540474,
 			"isDeleted": false,
 			"id": "ZRU1GZT8stGaM2IZbiepF",
 			"fillStyle": "solid",
@@ -32777,8 +32826,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6508.948690818462,
-			"y": 5562.821457184362,
+			"x": 6604.5113563495415,
+			"y": 5713.400884267695,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 179,
@@ -32795,20 +32844,16 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				{
 					"id": "7u64WXDwMisA9BKzTYKuH",
 					"type": "arrow"
-				},
-				{
-					"id": "T-2WlzLlGiBL1-Bl6sV1G",
-					"type": "arrow"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 358,
-			"versionNonce": 813271278,
+			"version": 468,
+			"versionNonce": 1736343270,
 			"isDeleted": false,
 			"id": "hhGsz5cg",
 			"fillStyle": "solid",
@@ -32817,35 +32862,35 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6531.2587036358445,
-			"y": 5574.021457184362,
+			"x": 6633.0738563495415,
+			"y": 5734.200884267695,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 134.37997436523438,
-			"height": 57.599999999999994,
+			"width": 121.875,
+			"height": 38.4,
 			"seed": 997917910,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "API Gateway\nHTML, CSS, JS\n인증, 인가, 라우트",
-			"rawText": "API Gateway\nHTML, CSS, JS\n인증, 인가, 라우트",
+			"text": "FE\nHTML, CSS, JS",
+			"rawText": "FE\nHTML, CSS, JS",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "ZRU1GZT8stGaM2IZbiepF",
-			"originalText": "API Gateway\nHTML, CSS, JS\n인증, 인가, 라우트",
+			"originalText": "FE\nHTML, CSS, JS",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 504,
-			"versionNonce": 1416774898,
+			"version": 577,
+			"versionNonce": 886688378,
 			"isDeleted": false,
 			"id": "71jfYyrI8Pu7OnMpQhNsZ",
 			"fillStyle": "solid",
@@ -32854,8 +32899,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7106.585995632181,
-			"y": 5568.3095426441105,
+			"x": 7155.695983377279,
+			"y": 5724.555330021562,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 179,
@@ -32874,14 +32919,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 494,
-			"versionNonce": 376847150,
+			"version": 567,
+			"versionNonce": 1985589798,
 			"isDeleted": false,
 			"id": "MqHw1uZL",
 			"fillStyle": "solid",
@@ -32890,8 +32935,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7177.335995632181,
-			"y": 5598.70954264411,
+			"x": 7226.445983377279,
+			"y": 5754.955330021562,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 37.5,
@@ -32901,7 +32946,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -32913,12 +32958,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "71jfYyrI8Pu7OnMpQhNsZ",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 452,
-			"versionNonce": 1602279090,
+			"version": 516,
+			"versionNonce": 2062445370,
 			"isDeleted": false,
 			"id": "L43hBZoMKnng5DIq8AL97",
 			"fillStyle": "solid",
@@ -32927,8 +32972,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6791.94622950502,
-			"y": 5537.61395379981,
+			"x": 6867.66467313247,
+			"y": 5708.574814706672,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 179,
@@ -32947,14 +32992,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 477,
-			"versionNonce": 1990370670,
+			"version": 553,
+			"versionNonce": 1106017638,
 			"isDeleted": false,
 			"id": "wZUSnEIX",
 			"fillStyle": "solid",
@@ -32963,35 +33008,35 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6839.25872950502,
-			"y": 5568.013953799809,
+			"x": 6920.109680456689,
+			"y": 5729.374814706673,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 84.375,
-			"height": 19.2,
+			"width": 74.1099853515625,
+			"height": 38.4,
 			"seed": 2015291862,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "User Stat",
-			"rawText": "User Stat",
+			"text": "manager\n인증, 인가",
+			"rawText": "manager\n인증, 인가",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "L43hBZoMKnng5DIq8AL97",
-			"originalText": "User Stat",
+			"originalText": "manager\n인증, 인가",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 34
 		},
 		{
 			"type": "text",
-			"version": 497,
-			"versionNonce": 911683698,
+			"version": 536,
+			"versionNonce": 2133914618,
 			"isDeleted": false,
 			"id": "WP19WQUq",
 			"fillStyle": "solid",
@@ -33000,8 +33045,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6876.820645328896,
-			"y": 6185.186696021554,
+			"x": 6946.702263166676,
+			"y": 6169.687184556622,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 37.5,
@@ -33013,7 +33058,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -33025,12 +33070,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
-			"version": 515,
-			"versionNonce": 1648871342,
+			"version": 554,
+			"versionNonce": 2139349158,
 			"isDeleted": false,
 			"id": "NPXflmK-DEHOVb7pTPADN",
 			"fillStyle": "solid",
@@ -33039,8 +33084,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6860.718143243253,
-			"y": 6160.373214035206,
+			"x": 6930.599761081033,
+			"y": 6144.873702570274,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 67.46618997763744,
@@ -33052,14 +33097,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 514,
-			"versionNonce": 482103858,
+			"version": 553,
+			"versionNonce": 329540794,
 			"isDeleted": false,
 			"id": "CZDOEnqII5Jzw_ZHNHJuO",
 			"fillStyle": "solid",
@@ -33068,8 +33113,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6895.470221131586,
-			"y": 6229.157592346011,
+			"x": 6965.351838969366,
+			"y": 6213.6580808810795,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 0.8629535981690424,
@@ -33081,7 +33126,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -33102,8 +33147,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 573,
-			"versionNonce": 1502519790,
+			"version": 612,
+			"versionNonce": 852286438,
 			"isDeleted": false,
 			"id": "SyKxQzbCysbYO3KMEvFXB",
 			"fillStyle": "solid",
@@ -33112,8 +33157,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6848.48664019984,
-			"y": 6211.799968944762,
+			"x": 6918.36825803762,
+			"y": 6196.300457479831,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 96.20719582115635,
@@ -33125,7 +33170,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -33150,8 +33195,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 753,
-			"versionNonce": 1167539186,
+			"version": 792,
+			"versionNonce": 1374403962,
 			"isDeleted": false,
 			"id": "GYUEYdqutX9AuAIrQxg4L",
 			"fillStyle": "solid",
@@ -33160,8 +33205,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 3.168410758649909,
-			"x": 6862.91921220689,
-			"y": 6291.628102927807,
+			"x": 6932.80083004467,
+			"y": 6276.128591462875,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 67.37953387992184,
@@ -33173,7 +33218,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -33198,8 +33243,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 647,
-			"versionNonce": 1167764522,
+			"version": 831,
+			"versionNonce": 1641312038,
 			"isDeleted": false,
 			"id": "7u64WXDwMisA9BKzTYKuH",
 			"fillStyle": "solid",
@@ -33208,12 +33253,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6801.292324338299,
-			"y": 6088.645219144023,
+			"x": 6902.121062083397,
+			"y": 6135.157550639122,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 168.86630567677093,
-			"height": 434.7034141582635,
+			"width": 200.6581118701897,
+			"height": 330.05727445238244,
 			"seed": 880218454,
 			"groupIds": [],
 			"frameId": null,
@@ -33224,14 +33269,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "Kltz9woC"
 				}
 			],
-			"updated": 1708067309789,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "ZRU1GZT8stGaM2IZbiepF",
-				"gap": 11.120347801397656,
-				"focus": -0.13441687344330286
+				"gap": 11.699391919044501,
+				"focus": 0.21067866388592751
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": "arrow",
@@ -33242,15 +33287,15 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					0
 				],
 				[
-					-168.86630567677093,
-					-434.7034141582635
+					-200.6581118701897,
+					-330.05727445238244
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 263,
-			"versionNonce": 1861152178,
+			"version": 293,
+			"versionNonce": 659160634,
 			"isDeleted": false,
 			"id": "Kltz9woC",
 			"fillStyle": "solid",
@@ -33259,8 +33304,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6820.616623699809,
-			"y": 6056.169032898225,
+			"x": 6734.379515303575,
+			"y": 5950.928913412931,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 134.82498168945312,
@@ -33270,7 +33315,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -33282,104 +33327,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "7u64WXDwMisA9BKzTYKuH",
 			"originalText": "load할 페이지 및 \n소스코드 제공",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "arrow",
-			"version": 1423,
-			"versionNonce": 424305770,
-			"isDeleted": false,
-			"id": "T-2WlzLlGiBL1-Bl6sV1G",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 6598.581350587069,
-			"y": 5546.821457184362,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 3.0266502270505953,
-			"height": 97.07943889650232,
-			"seed": 1406612438,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "TcIAJ8RJ"
-				}
-			],
-			"updated": 1708067309791,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "ZRU1GZT8stGaM2IZbiepF",
-				"gap": 16,
-				"focus": -0.017777484727225935
-			},
-			"endBinding": {
-				"elementId": "GJtAGiUfQU8yjDy-Vwm3j",
-				"gap": 6.807751209977141,
-				"focus": 0.029675873018309
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": "arrow",
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.0266502270505953,
-					-97.07943889650232
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 181,
-			"versionNonce": 2112513906,
-			"isDeleted": false,
-			"id": "TcIAJ8RJ",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 6679.626880048921,
-			"y": 5837.896156737132,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 64.7349853515625,
-			"height": 19.2,
-			"seed": 1907247382,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707977372393,
-			"link": null,
-			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 3,
-			"text": "회원 정보",
-			"rawText": "회원 정보",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "T-2WlzLlGiBL1-Bl6sV1G",
-			"originalText": "회원 정보",
-			"lineHeight": 1.2,
-			"baseline": 16
-		},
-		{
-			"type": "arrow",
-			"version": 1035,
-			"versionNonce": 1620124854,
+			"version": 1164,
+			"versionNonce": 1225235046,
 			"isDeleted": false,
 			"id": "PZIoDppPTVDqWS_vgbk-Q",
 			"fillStyle": "solid",
@@ -33388,12 +33341,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6968.775573807898,
-			"y": 6073.639841139722,
+			"x": 7012.660377729466,
+			"y": 6119.720187340703,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 214.13714294759393,
-			"height": 412.81188858976293,
+			"width": 206.1970899122607,
+			"height": 302.38449888388095,
 			"seed": 108050006,
 			"groupIds": [],
 			"frameId": null,
@@ -33404,14 +33357,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "HnzNJaWz"
 				}
 			],
-			"updated": 1708067309790,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "71jfYyrI8Pu7OnMpQhNsZ",
-				"gap": 12.518409905848785,
-				"focus": -0.12761550816012573
+				"gap": 12.780358435259586,
+				"focus": -0.08265902818895385
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": "arrow",
@@ -33422,15 +33375,15 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					0
 				],
 				[
-					214.13714294759393,
-					-412.81188858976293
+					206.1970899122607,
+					-302.38449888388095
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 133,
-			"versionNonce": 449882418,
+			"version": 182,
+			"versionNonce": 1621239546,
 			"isDeleted": false,
 			"id": "HnzNJaWz",
 			"fillStyle": "solid",
@@ -33439,35 +33392,35 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7036.5566544369685,
-			"y": 5857.63389684484,
+			"x": 7076.471431840869,
+			"y": 5949.327937898763,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 78.57498168945312,
-			"height": 19.2,
+			"height": 38.4,
 			"seed": 1257470870,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "실시간 게임",
-			"rawText": "실시간 게임",
+			"text": "실시간 게임\n웹 소켓",
+			"rawText": "실시간 게임\n웹 소켓",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "PZIoDppPTVDqWS_vgbk-Q",
-			"originalText": "실시간 게임",
+			"originalText": "실시간 게임\n웹 소켓",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 34
 		},
 		{
 			"type": "arrow",
-			"version": 847,
-			"versionNonce": 134818218,
+			"version": 1010,
+			"versionNonce": 255024550,
 			"isDeleted": false,
 			"id": "aafqKH_cwgNrkf8ZDV7vi",
 			"fillStyle": "solid",
@@ -33476,12 +33429,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6894.442987700014,
-			"y": 6076.624311290984,
+			"x": 6960.766246496597,
+			"y": 6086.543268728383,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 4.864417392595897,
-			"height": 439.3664271973312,
+			"width": 1.6694940565967045,
+			"height": 280.9908806757394,
 			"seed": 359373014,
 			"groupIds": [],
 			"frameId": null,
@@ -33492,14 +33445,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "1WUkGuSn"
 				}
 			],
-			"updated": 1708067309790,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "L43hBZoMKnng5DIq8AL97",
-				"gap": 19.64393029384337,
-				"focus": -0.08307493270493732
+				"focus": -0.017757870864780544,
+				"gap": 16.977573345970995
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": "arrow",
@@ -33510,15 +33463,15 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					0
 				],
 				[
-					-4.864417392595897,
-					-439.3664271973312
+					-1.6694940565967045,
+					-280.9908806757394
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 1292415730,
+			"version": 252,
+			"versionNonce": 913782714,
 			"isDeleted": false,
 			"id": "1WUkGuSn",
 			"fillStyle": "solid",
@@ -33527,8 +33480,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6788.465837877918,
-			"y": 5750.698511264914,
+			"x": 6844.681807904176,
+			"y": 5730.367096106258,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 199.55996704101562,
@@ -33538,7 +33491,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -33550,85 +33503,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "aafqKH_cwgNrkf8ZDV7vi",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 696,
-			"versionNonce": 1799728430,
-			"isDeleted": false,
-			"id": "GJtAGiUfQU8yjDy-Vwm3j",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 6519.158876673072,
-			"y": 5393.934267077882,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c9",
-			"width": 172,
-			"height": 49,
-			"seed": 535812950,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "8zm9PImE"
-				},
-				{
-					"id": "T-2WlzLlGiBL1-Bl6sV1G",
-					"type": "arrow"
-				}
-			],
-			"updated": 1707977372393,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 688,
-			"versionNonce": 387548338,
-			"isDeleted": false,
-			"id": "8zm9PImE",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 6595.783876673072,
-			"y": 5408.834267077882,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c9",
-			"width": 18.75,
-			"height": 19.2,
-			"seed": 323354774,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707977372393,
-			"link": null,
-			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 3,
-			"text": "DB",
-			"rawText": "DB",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "GJtAGiUfQU8yjDy-Vwm3j",
-			"originalText": "DB",
-			"lineHeight": 1.2,
-			"baseline": 16
-		},
-		{
-			"type": "rectangle",
-			"version": 423,
-			"versionNonce": 615765870,
+			"version": 519,
+			"versionNonce": 2038741222,
 			"isDeleted": false,
 			"id": "r-wEsENA58VBKBIClJ_sg",
 			"fillStyle": "solid",
@@ -33637,8 +33517,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6794.8527320798175,
-			"y": 5386.137934612606,
+			"x": 6874.266028648444,
+			"y": 5561.198060225352,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 172,
@@ -33653,14 +33533,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "OnxHv8tW"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 418,
-			"versionNonce": 313138802,
+			"version": 512,
+			"versionNonce": 1491873914,
 			"isDeleted": false,
 			"id": "OnxHv8tW",
 			"fillStyle": "solid",
@@ -33669,8 +33549,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6871.4777320798175,
-			"y": 5401.037934612606,
+			"x": 6950.891028648444,
+			"y": 5576.098060225351,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 18.75,
@@ -33680,7 +33560,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -33692,12 +33572,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "r-wEsENA58VBKBIClJ_sg",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 418,
-			"versionNonce": 1533196718,
+			"version": 500,
+			"versionNonce": 529050662,
 			"isDeleted": false,
 			"id": "cuk5276mODBrFoeShvR34",
 			"fillStyle": "solid",
@@ -33706,8 +33586,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7118.208960378428,
-			"y": 5433.300136993557,
+			"x": 7160.379609888232,
+			"y": 5587.84555672395,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 172,
@@ -33722,14 +33602,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "text"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 408,
-			"versionNonce": 209813554,
+			"version": 490,
+			"versionNonce": 2076447034,
 			"isDeleted": false,
 			"id": "nHcJJ3t4",
 			"fillStyle": "solid",
@@ -33738,8 +33618,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7194.833960378428,
-			"y": 5448.200136993557,
+			"x": 7237.004609888232,
+			"y": 5602.745556723949,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 18.75,
@@ -33749,7 +33629,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -33761,12 +33641,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "cuk5276mODBrFoeShvR34",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
-			"version": 116,
-			"versionNonce": 377181166,
+			"version": 195,
+			"versionNonce": 522991462,
 			"isDeleted": false,
 			"id": "RLFoVZ2MG6E-Y3ECQylPh",
 			"fillStyle": "solid",
@@ -33775,12 +33655,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6884.383853319345,
-			"y": 5527.656080515712,
+			"x": 6960.102296946795,
+			"y": 5707.528438003537,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ebfbee",
-			"width": 0.6684027777773736,
-			"height": 81.0243055555552,
+			"width": 0.3453171745659347,
+			"height": 95.9517336282679,
 			"seed": 1715790550,
 			"groupIds": [],
 			"frameId": null,
@@ -33788,7 +33668,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -33802,15 +33682,15 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					0
 				],
 				[
-					-0.6684027777773736,
-					-81.0243055555552
+					-0.3453171745659347,
+					-95.9517336282679
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 301,
-			"versionNonce": 545696242,
+			"version": 383,
+			"versionNonce": 1650579962,
 			"isDeleted": false,
 			"id": "_WFcGIdZp1W7Yus9ZVMgM",
 			"fillStyle": "solid",
@@ -33819,8 +33699,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7205.678573681445,
-			"y": 5567.857283392695,
+			"x": 7247.84922319125,
+			"y": 5722.402703123087,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ebfbee",
 			"width": 1.3231646825388452,
@@ -33832,7 +33712,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -33853,8 +33733,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 683,
-			"versionNonce": 268871214,
+			"version": 732,
+			"versionNonce": 1354521254,
 			"isDeleted": false,
 			"id": "Mf7m9M_ApzStlrgJxPM_6",
 			"fillStyle": "solid",
@@ -33863,8 +33743,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7977.286040686658,
-			"y": 4031.906247689907,
+			"x": 7901.8628636033245,
+			"y": 4278.143226856574,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 207,
@@ -33879,14 +33759,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "pBfinTtx"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 708,
-			"versionNonce": 1438686130,
+			"version": 757,
+			"versionNonce": 1808304826,
 			"isDeleted": false,
 			"id": "pBfinTtx",
 			"fillStyle": "solid",
@@ -33895,8 +33775,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8038.598540686658,
-			"y": 4069.806247689907,
+			"x": 7963.1753636033245,
+			"y": 4316.043226856574,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 84.375,
@@ -33906,7 +33786,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -33918,12 +33798,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Mf7m9M_ApzStlrgJxPM_6",
 			"originalText": "User Stat",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 812,
-			"versionNonce": 1491972206,
+			"version": 861,
+			"versionNonce": 2061899238,
 			"isDeleted": false,
 			"id": "OxEeFZeRva1reYCPxRpvW",
 			"fillStyle": "solid",
@@ -33932,8 +33812,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8482.466421879222,
-			"y": 4023.2738432501446,
+			"x": 8407.043244795888,
+			"y": 4269.510822416812,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 199,
@@ -33948,14 +33828,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "qNX3cuO8"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 804,
-			"versionNonce": 978736498,
+			"version": 853,
+			"versionNonce": 513483642,
 			"isDeleted": false,
 			"id": "qNX3cuO8",
 			"fillStyle": "solid",
@@ -33964,8 +33844,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8563.216421879222,
-			"y": 4064.1738432501447,
+			"x": 8487.793244795888,
+			"y": 4310.410822416811,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 37.5,
@@ -33975,7 +33855,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -33987,12 +33867,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "OxEeFZeRva1reYCPxRpvW",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 820,
-			"versionNonce": 2096722606,
+			"version": 869,
+			"versionNonce": 112617766,
 			"isDeleted": false,
 			"id": "8Pw-uSFEK5D0W8mi21c6C",
 			"fillStyle": "solid",
@@ -34001,8 +33881,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8046.467301504195,
-			"y": 3809.8959499076564,
+			"x": 7971.044124420861,
+			"y": 4056.1329290743233,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#b2f2bb",
 			"width": 177,
@@ -34017,14 +33897,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "SgouFVSt"
 				}
 			],
-			"updated": 1707977372393,
+			"updated": 1708083968270,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 886,
-			"versionNonce": 2140067634,
+			"version": 935,
+			"versionNonce": 891069498,
 			"isDeleted": false,
 			"id": "SgouFVSt",
 			"fillStyle": "solid",
@@ -34033,8 +33913,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8051.467301504195,
-			"y": 3840.095949907656,
+			"x": 7976.044124420861,
+			"y": 4086.332929074323,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 121.875,
@@ -34044,7 +33924,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -34056,12 +33936,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "8Pw-uSFEK5D0W8mi21c6C",
 			"originalText": "- game helper\n- 토너먼트\n- 매칭 알고리즘",
 			"lineHeight": 1.2,
-			"baseline": 54
+			"baseline": 53
 		},
 		{
 			"type": "text",
-			"version": 496,
-			"versionNonce": 651357422,
+			"version": 545,
+			"versionNonce": 865752166,
 			"isDeleted": false,
 			"id": "wHBTyfHk",
 			"fillStyle": "hachure",
@@ -34070,8 +33950,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7987.0383974195465,
-			"y": 4146.938117585647,
+			"x": 7911.615220336213,
+			"y": 4393.175096752314,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#b2f2bb",
 			"width": 243.75,
@@ -34081,7 +33961,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -34093,12 +33973,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "user id\nuser name\nuser wins\nuser loses\nuser rate\nuser state(on/off/playing)\nuser avatar\nuser rank\nuser status message\n\n업데이트\n로드",
 			"lineHeight": 1.2,
-			"baseline": 227
+			"baseline": 226
 		},
 		{
 			"type": "rectangle",
-			"version": 275,
-			"versionNonce": 366026994,
+			"version": 285,
+			"versionNonce": 691014906,
 			"isDeleted": false,
 			"id": "TUF55_sQwZ3AH8lquBNqU",
 			"fillStyle": "hachure",
@@ -34120,14 +34000,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 305,
-			"versionNonce": 1141055278,
+			"version": 315,
+			"versionNonce": 1264506790,
 			"isDeleted": false,
 			"id": "jH5GFEZA",
 			"fillStyle": "hachure",
@@ -34149,7 +34029,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.79523730887739,
@@ -34165,8 +34045,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 171,
-			"versionNonce": 1218720434,
+			"version": 181,
+			"versionNonce": 1079532986,
 			"isDeleted": false,
 			"id": "NTwii9kQcyu8DPMsgZ2mI",
 			"fillStyle": "hachure",
@@ -34190,14 +34070,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 209,
-			"versionNonce": 687016302,
+			"version": 219,
+			"versionNonce": 1446048486,
 			"isDeleted": false,
 			"id": "w8IoAEgef7SMmnRbLOxX4",
 			"fillStyle": "hachure",
@@ -34221,14 +34101,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 132,
-			"versionNonce": 1521421426,
+			"version": 142,
+			"versionNonce": 397973114,
 			"isDeleted": false,
 			"id": "HiOSg64g",
 			"fillStyle": "hachure",
@@ -34250,7 +34130,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.79523730887739,
@@ -34266,8 +34146,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 887860142,
+			"version": 146,
+			"versionNonce": 1318954534,
 			"isDeleted": false,
 			"id": "Y2qWga2E",
 			"fillStyle": "hachure",
@@ -34289,7 +34169,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.79523730887739,
@@ -34305,8 +34185,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 240,
-			"versionNonce": 565751346,
+			"version": 250,
+			"versionNonce": 806598458,
 			"isDeleted": false,
 			"id": "289Z9467",
 			"fillStyle": "hachure",
@@ -34328,7 +34208,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 7.343707343012114,
@@ -34340,12 +34220,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Template\n+\nHTML, CSS, JS",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 186,
-			"versionNonce": 1981154798,
+			"version": 196,
+			"versionNonce": 1435627878,
 			"isDeleted": false,
 			"id": "f0BRMDGn",
 			"fillStyle": "hachure",
@@ -34367,7 +34247,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.295305025383799,
@@ -34383,8 +34263,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 229,
-			"versionNonce": 581441522,
+			"version": 239,
+			"versionNonce": 2043461626,
 			"isDeleted": false,
 			"id": "IUqEB9Dor24H-9WFhNK5v",
 			"fillStyle": "hachure",
@@ -34408,14 +34288,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 179,
-			"versionNonce": 1299912750,
+			"version": 189,
+			"versionNonce": 1717228710,
 			"isDeleted": false,
 			"id": "EfAh5P0n",
 			"fillStyle": "hachure",
@@ -34437,7 +34317,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -34449,12 +34329,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "프론트",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 249,
-			"versionNonce": 763644338,
+			"version": 259,
+			"versionNonce": 1625731258,
 			"isDeleted": false,
 			"id": "rlZIMGlz",
 			"fillStyle": "hachure",
@@ -34476,7 +34356,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 9.176847132497741,
@@ -34492,8 +34372,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 225,
-			"versionNonce": 319021678,
+			"version": 235,
+			"versionNonce": 178606054,
 			"isDeleted": false,
 			"id": "vgOfaafkyKUUXDV1HEwrp",
 			"fillStyle": "hachure",
@@ -34517,14 +34397,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 214,
-			"versionNonce": 2037662578,
+			"version": 224,
+			"versionNonce": 1493469562,
 			"isDeleted": false,
 			"id": "nP271V6K",
 			"fillStyle": "hachure",
@@ -34546,7 +34426,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -34558,12 +34438,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "백",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 252,
-			"versionNonce": 964256942,
+			"version": 262,
+			"versionNonce": 243163942,
 			"isDeleted": false,
 			"id": "xRYPWM5A",
 			"fillStyle": "hachure",
@@ -34585,7 +34465,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.283919568931024,
@@ -34601,8 +34481,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 158,
-			"versionNonce": 1086260530,
+			"version": 168,
+			"versionNonce": 1768507962,
 			"isDeleted": false,
 			"id": "Y0L3aY4q",
 			"fillStyle": "hachure",
@@ -34624,7 +34504,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.251718316624537,
@@ -34636,12 +34516,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "장고\n뷰",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 196,
-			"versionNonce": 1921294062,
+			"version": 206,
+			"versionNonce": 877858406,
 			"isDeleted": false,
 			"id": "ei6wd94t",
 			"fillStyle": "hachure",
@@ -34663,7 +34543,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372393,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.251718316624537,
@@ -34675,12 +34555,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "장고\n쿼리셋",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 222,
-			"versionNonce": 1556844274,
+			"version": 232,
+			"versionNonce": 955773690,
 			"isDeleted": false,
 			"id": "3Ow6oXMP",
 			"fillStyle": "hachure",
@@ -34702,7 +34582,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.251718316624537,
@@ -34714,12 +34594,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "장고\nSerializer",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 271,
-			"versionNonce": 1387172142,
+			"version": 281,
+			"versionNonce": 1760580006,
 			"isDeleted": false,
 			"id": "QmwXPHbT",
 			"fillStyle": "hachure",
@@ -34741,7 +34621,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.251718316624537,
@@ -34753,12 +34633,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "장고\n모델",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "rectangle",
-			"version": 168,
-			"versionNonce": 1646321842,
+			"version": 178,
+			"versionNonce": 439583674,
 			"isDeleted": false,
 			"id": "O3LIInhALF0OCSLsBVttv",
 			"fillStyle": "hachure",
@@ -34782,14 +34662,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 209,
-			"versionNonce": 1969240942,
+			"version": 219,
+			"versionNonce": 2005085414,
 			"isDeleted": false,
 			"id": "D9pmTL_CkXQLe7K24FtYD",
 			"fillStyle": "hachure",
@@ -34813,14 +34693,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 250,
-			"versionNonce": 1013316210,
+			"version": 260,
+			"versionNonce": 390003834,
 			"isDeleted": false,
 			"id": "lQdbOViNG4cBIJgxjIuks",
 			"fillStyle": "hachure",
@@ -34844,14 +34724,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 313,
-			"versionNonce": 551722414,
+			"version": 323,
+			"versionNonce": 1033412646,
 			"isDeleted": false,
 			"id": "QOUveow47jbAcOurmTE6O",
 			"fillStyle": "hachure",
@@ -34875,14 +34755,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 154,
-			"versionNonce": 1247927346,
+			"version": 164,
+			"versionNonce": 2111659322,
 			"isDeleted": false,
 			"id": "T8oU0I4r-wiWpLPfpayhu",
 			"fillStyle": "hachure",
@@ -34906,7 +34786,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -34927,8 +34807,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 125,
-			"versionNonce": 1784592366,
+			"version": 135,
+			"versionNonce": 1595779942,
 			"isDeleted": false,
 			"id": "nABHYi0pAydA5qbK5wLAz",
 			"fillStyle": "hachure",
@@ -34952,7 +34832,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -34973,8 +34853,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 120,
-			"versionNonce": 2046526962,
+			"version": 130,
+			"versionNonce": 1802610170,
 			"isDeleted": false,
 			"id": "fdznYZNOFZGcNqmunIlXG",
 			"fillStyle": "hachure",
@@ -34998,7 +34878,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -35019,8 +34899,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 135,
-			"versionNonce": 1507691054,
+			"version": 145,
+			"versionNonce": 2053066406,
 			"isDeleted": false,
 			"id": "a0ZJ5U5jWLt8yqnIm7VkH",
 			"fillStyle": "hachure",
@@ -35044,7 +34924,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -35065,8 +34945,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 142,
-			"versionNonce": 1681520562,
+			"version": 152,
+			"versionNonce": 1493096122,
 			"isDeleted": false,
 			"id": "eMIOX4a8MiO5q43FhNukF",
 			"fillStyle": "hachure",
@@ -35090,7 +34970,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -35111,8 +34991,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "ellipse",
-			"version": 366,
-			"versionNonce": 239604846,
+			"version": 376,
+			"versionNonce": 1544194534,
 			"isDeleted": false,
 			"id": "jSOOBpXiQIv6dHQKDAeyS",
 			"fillStyle": "hachure",
@@ -35138,14 +35018,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 329,
-			"versionNonce": 1766076786,
+			"version": 339,
+			"versionNonce": 656928634,
 			"isDeleted": false,
 			"id": "NWbGkPw3QU38UXkrFOOgl",
 			"fillStyle": "solid",
@@ -35169,14 +35049,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 258,
-			"versionNonce": 1634162350,
+			"version": 268,
+			"versionNonce": 858545446,
 			"isDeleted": false,
 			"id": "Z6zjLsDRbwgwL6PsVrUcx",
 			"fillStyle": "solid",
@@ -35200,7 +35080,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -35221,8 +35101,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 306,
-			"versionNonce": 1281438514,
+			"version": 316,
+			"versionNonce": 707784762,
 			"isDeleted": false,
 			"id": "Qs6o__RFtzToFmFXvMFg3",
 			"fillStyle": "solid",
@@ -35246,7 +35126,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -35267,8 +35147,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "ellipse",
-			"version": 283,
-			"versionNonce": 199512302,
+			"version": 293,
+			"versionNonce": 1160890470,
 			"isDeleted": false,
 			"id": "yHvLk-ZPk76JvPwzHZRaL",
 			"fillStyle": "hachure",
@@ -35294,14 +35174,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 1341652210,
+			"version": 192,
+			"versionNonce": 905566458,
 			"isDeleted": false,
 			"id": "pEWKMG4c",
 			"fillStyle": "solid",
@@ -35324,7 +35204,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35336,12 +35216,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
-			"version": 195,
-			"versionNonce": 1229456174,
+			"version": 205,
+			"versionNonce": 568839078,
 			"isDeleted": false,
 			"id": "F3kvnz9xy39MloNIz_grK",
 			"fillStyle": "solid",
@@ -35363,7 +35243,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -35384,8 +35264,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 490,
-			"versionNonce": 1368362674,
+			"version": 500,
+			"versionNonce": 705210810,
 			"isDeleted": false,
 			"id": "wpCBXtMd",
 			"fillStyle": "solid",
@@ -35407,7 +35287,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 7.485926503714426,
@@ -35419,12 +35299,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "migrate\nmakemigrations",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 23,
-			"versionNonce": 2080075118,
+			"version": 33,
+			"versionNonce": 1467705062,
 			"isDeleted": false,
 			"id": "hW3KqTEm",
 			"fillStyle": "solid",
@@ -35444,7 +35324,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35456,12 +35336,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "User Management",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 124,
-			"versionNonce": 1437466922,
+			"version": 173,
+			"versionNonce": 2105500282,
 			"isDeleted": false,
 			"id": "Kb8BgK4L",
 			"fillStyle": "solid",
@@ -35470,8 +35350,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8126.704606385789,
-			"y": 4456.066342415298,
+			"x": 8051.281429302455,
+			"y": 4702.303321581965,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 65.625,
@@ -35481,7 +35361,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708068088661,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35493,12 +35373,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "Manager",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 228,
-			"versionNonce": 1363644334,
+			"version": 277,
+			"versionNonce": 645503526,
 			"isDeleted": false,
 			"id": "fz1Yfu8h",
 			"fillStyle": "solid",
@@ -35507,8 +35387,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8044.669532246723,
-			"y": 4614.966861824397,
+			"x": 7969.246355163389,
+			"y": 4861.203840991064,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 55.3599853515625,
@@ -35518,7 +35398,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35530,12 +35410,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "토너먼트",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 219,
-			"versionNonce": 1954351666,
+			"version": 268,
+			"versionNonce": 1260454714,
 			"isDeleted": false,
 			"id": "MyzuldMq",
 			"fillStyle": "solid",
@@ -35544,8 +35424,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8187.406062543414,
-			"y": 4601.898593597421,
+			"x": 8111.98288546008,
+			"y": 4848.135572764088,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 92.41497802734375,
@@ -35555,7 +35435,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35567,12 +35447,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "매칭 알고리즘",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 239,
-			"versionNonce": 1700096494,
+			"version": 288,
+			"versionNonce": 902784358,
 			"isDeleted": false,
 			"id": "3K97bbYR",
 			"fillStyle": "solid",
@@ -35581,8 +35461,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8062.589265080374,
-			"y": 4651.584894995229,
+			"x": 7987.16608799704,
+			"y": 4897.821874161896,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 143.30996704101562,
@@ -35592,7 +35472,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35604,12 +35484,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "토너먼트별 이름 설정",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 248,
-			"versionNonce": 1417737202,
+			"version": 297,
+			"versionNonce": 1565559802,
 			"isDeleted": false,
 			"id": "ODIQjTy1",
 			"fillStyle": "solid",
@@ -35618,8 +35498,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8143.2889280438085,
-			"y": 4564.055648035047,
+			"x": 8067.8657509604745,
+			"y": 4810.292627201714,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 64.7349853515625,
@@ -35629,7 +35509,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35641,12 +35521,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "게임 매칭",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 1731066926,
+			"version": 177,
+			"versionNonce": 1187629222,
 			"isDeleted": false,
 			"id": "Ayd1U3YV",
 			"fillStyle": "solid",
@@ -35655,8 +35535,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8071.021632993182,
-			"y": 4516.494556956317,
+			"x": 7995.598455909848,
+			"y": 4762.731536122984,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 27.67999267578125,
@@ -35666,7 +35546,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35678,12 +35558,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "게임",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
-			"version": 205,
-			"versionNonce": 1742841266,
+			"version": 254,
+			"versionNonce": 974191802,
 			"isDeleted": false,
 			"id": "XdClDu2dHlIGMj-O-xl9N",
 			"fillStyle": "solid",
@@ -35692,8 +35572,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8024.24925361998,
-			"y": 4525.137417060631,
+			"x": 7948.826076536646,
+			"y": 4771.374396227298,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 279.850636634671,
@@ -35703,14 +35583,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 53,
-			"versionNonce": 1910895082,
+			"version": 102,
+			"versionNonce": 1763034086,
 			"isDeleted": false,
 			"id": "9xm7ZH0N",
 			"fillStyle": "solid",
@@ -35719,8 +35599,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8049.782014759412,
-			"y": 4751.102052669345,
+			"x": 7974.358837676078,
+			"y": 4997.339031836012,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 27.67999267578125,
@@ -35730,7 +35610,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708068111465,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35742,12 +35622,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "유저",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
-			"version": 134,
-			"versionNonce": 2098854326,
+			"version": 183,
+			"versionNonce": 788878714,
 			"isDeleted": false,
 			"id": "BhEepihCI7GG7GuQEYa0R",
 			"fillStyle": "solid",
@@ -35756,8 +35636,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8036.3891320684215,
-			"y": 4757.406674212575,
+			"x": 7960.965954985088,
+			"y": 5003.643653379242,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 260.5817249349702,
@@ -35767,14 +35647,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708068111465,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 154,
-			"versionNonce": 1961108650,
+			"version": 203,
+			"versionNonce": 784357158,
 			"isDeleted": false,
 			"id": "W66FDsy2",
 			"fillStyle": "solid",
@@ -35783,8 +35663,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8105.567517609939,
-			"y": 4793.266428283877,
+			"x": 8030.144340526605,
+			"y": 5039.503407450544,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 129.469970703125,
@@ -35794,7 +35674,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708068111465,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35806,12 +35686,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "유저 정보 업데이트",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 160,
-			"versionNonce": 1448956662,
+			"version": 209,
+			"versionNonce": 1567659578,
 			"isDeleted": false,
 			"id": "ULOplWk2",
 			"fillStyle": "solid",
@@ -35820,8 +35700,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8104.332461016394,
-			"y": 4864.58524044747,
+			"x": 8028.90928393306,
+			"y": 5110.822219614137,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 129.469970703125,
@@ -35831,7 +35711,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708068111465,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35843,12 +35723,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "유저 정보 불러오기",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 230,
-			"versionNonce": 1192099690,
+			"version": 279,
+			"versionNonce": 1614185062,
 			"isDeleted": false,
 			"id": "dYaNXgPK",
 			"fillStyle": "solid",
@@ -35857,8 +35737,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8105.544693155439,
-			"y": 4829.762731030704,
+			"x": 8030.121516072105,
+			"y": 5075.999710197371,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 129.469970703125,
@@ -35868,7 +35748,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708068111465,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -35880,12 +35760,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "유저 상태 업데이트",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 68,
-			"versionNonce": 492202738,
+			"version": 117,
+			"versionNonce": 1177927418,
 			"isDeleted": false,
 			"id": "g9JLCu1KoNtSr-BfujUiT",
 			"fillStyle": "solid",
@@ -35894,8 +35774,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7992.98735910534,
-			"y": 4496.292378672579,
+			"x": 7917.564182022006,
+			"y": 4742.529357839246,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 351.9049034432901,
@@ -35905,14 +35785,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977372394,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 464,
-			"versionNonce": 126281646,
+			"version": 474,
+			"versionNonce": 809846182,
 			"isDeleted": false,
 			"id": "e6e0XDxDIclS1JbBqNpKc",
 			"fillStyle": "hachure",
@@ -35939,14 +35819,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 427,
-			"versionNonce": 1182741042,
+			"version": 437,
+			"versionNonce": 1440206778,
 			"isDeleted": false,
 			"id": "ACQot1eY8ZH5G96suPQx4",
 			"fillStyle": "solid",
@@ -35971,14 +35851,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 356,
-			"versionNonce": 1240056302,
+			"version": 366,
+			"versionNonce": 1880727782,
 			"isDeleted": false,
 			"id": "2EoS2DgPcWZeg0LNyeTGH",
 			"fillStyle": "solid",
@@ -36003,7 +35883,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -36024,8 +35904,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 404,
-			"versionNonce": 1946033138,
+			"version": 414,
+			"versionNonce": 1887029370,
 			"isDeleted": false,
 			"id": "X6YYicc54Sxc_hxa858hI",
 			"fillStyle": "solid",
@@ -36050,7 +35930,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -36071,8 +35951,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "ellipse",
-			"version": 381,
-			"versionNonce": 1735873582,
+			"version": 391,
+			"versionNonce": 1128305702,
 			"isDeleted": false,
 			"id": "4hXJQyG3dTDsW09FSl0iM",
 			"fillStyle": "hachure",
@@ -36099,14 +35979,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 280,
-			"versionNonce": 1836699058,
+			"version": 290,
+			"versionNonce": 2111744314,
 			"isDeleted": false,
 			"id": "EcVyjn98",
 			"fillStyle": "solid",
@@ -36130,7 +36010,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -36142,12 +36022,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 132,
-			"versionNonce": 437821038,
+			"version": 142,
+			"versionNonce": 1403461478,
 			"isDeleted": false,
 			"id": "Q6X-Bp4xwncHm0gQGjCaf",
 			"fillStyle": "solid",
@@ -36169,14 +36049,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 672745330,
+			"version": 157,
+			"versionNonce": 1969844730,
 			"isDeleted": false,
 			"id": "hqkRSLEw",
 			"fillStyle": "solid",
@@ -36198,7 +36078,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -36210,12 +36090,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "장고 애플리케이션",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 147,
-			"versionNonce": 1989583022,
+			"version": 157,
+			"versionNonce": 93995686,
 			"isDeleted": false,
 			"id": "TLrkHGhSOwsYK-XfqYHNG",
 			"fillStyle": "solid",
@@ -36244,14 +36124,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "cqbEgRBT"
 				}
 			],
-			"updated": 1707977401507,
+			"updated": 1708083968271,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 107,
-			"versionNonce": 1545832754,
+			"version": 117,
+			"versionNonce": 1780294330,
 			"isDeleted": false,
 			"id": "cqbEgRBT",
 			"fillStyle": "solid",
@@ -36273,7 +36153,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -36285,12 +36165,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "TLrkHGhSOwsYK-XfqYHNG",
 			"originalText": "뷰",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 124,
-			"versionNonce": 278551278,
+			"version": 134,
+			"versionNonce": 734461414,
 			"isDeleted": false,
 			"id": "-eq4p9FtIZENnLyp1FO7_",
 			"fillStyle": "solid",
@@ -36319,14 +36199,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "ANS1LsSf"
 				}
 			],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 108,
-			"versionNonce": 553620210,
+			"version": 118,
+			"versionNonce": 379370362,
 			"isDeleted": false,
 			"id": "ANS1LsSf",
 			"fillStyle": "solid",
@@ -36348,7 +36228,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -36360,12 +36240,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "-eq4p9FtIZENnLyp1FO7_",
 			"originalText": "Serializer",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 253,
-			"versionNonce": 514641198,
+			"version": 263,
+			"versionNonce": 993677606,
 			"isDeleted": false,
 			"id": "tM2Gk16oNvaEML1mrDxxf",
 			"fillStyle": "solid",
@@ -36394,14 +36274,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "4z20yphK"
 				}
 			],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 247,
-			"versionNonce": 154428594,
+			"version": 257,
+			"versionNonce": 1764441146,
 			"isDeleted": false,
 			"id": "4z20yphK",
 			"fillStyle": "solid",
@@ -36423,7 +36303,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -36435,12 +36315,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "tM2Gk16oNvaEML1mrDxxf",
 			"originalText": "모델",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 155,
-			"versionNonce": 506918766,
+			"version": 165,
+			"versionNonce": 2137078886,
 			"isDeleted": false,
 			"id": "rJ214bXlX6tmAL4-WvKYS",
 			"fillStyle": "solid",
@@ -36469,14 +36349,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "VrsBCGf3"
 				}
 			],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 145,
-			"versionNonce": 1047068274,
+			"version": 155,
+			"versionNonce": 262907130,
 			"isDeleted": false,
 			"id": "VrsBCGf3",
 			"fillStyle": "solid",
@@ -36498,7 +36378,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -36510,12 +36390,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "rJ214bXlX6tmAL4-WvKYS",
 			"originalText": "User API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 204,
-			"versionNonce": 2004998574,
+			"version": 214,
+			"versionNonce": 1309196198,
 			"isDeleted": false,
 			"id": "CnSIwaM4WXbQfr2cR9zaS",
 			"fillStyle": "solid",
@@ -36544,14 +36424,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "xiX9JM2o"
 				}
 			],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 202,
-			"versionNonce": 493117490,
+			"version": 212,
+			"versionNonce": 60880314,
 			"isDeleted": false,
 			"id": "xiX9JM2o",
 			"fillStyle": "solid",
@@ -36573,7 +36453,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -36585,12 +36465,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "CnSIwaM4WXbQfr2cR9zaS",
 			"originalText": "Store API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 250,
-			"versionNonce": 565605358,
+			"version": 260,
+			"versionNonce": 996006630,
 			"isDeleted": false,
 			"id": "Kl77zixbskZpkFBidxo0X",
 			"fillStyle": "solid",
@@ -36619,14 +36499,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "XvcczkRo"
 				}
 			],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 262,
-			"versionNonce": 1376618994,
+			"version": 272,
+			"versionNonce": 372125306,
 			"isDeleted": false,
 			"id": "XvcczkRo",
 			"fillStyle": "solid",
@@ -36648,7 +36528,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -36660,12 +36540,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "Kl77zixbskZpkFBidxo0X",
 			"originalText": "Product API",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
-			"version": 376,
-			"versionNonce": 2080476918,
+			"version": 386,
+			"versionNonce": 1307414054,
 			"isDeleted": false,
 			"id": "N5_8FcfiaGklBLAfkO20g",
 			"fillStyle": "solid",
@@ -36692,14 +36572,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "DBe6yBQc"
 				}
 			],
-			"updated": 1708063596971,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 421,
-			"versionNonce": 1936423858,
+			"version": 431,
+			"versionNonce": 2081836858,
 			"isDeleted": false,
 			"id": "DBe6yBQc",
 			"fillStyle": "solid",
@@ -36721,7 +36601,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.093578639143056,
@@ -36737,8 +36617,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 411,
-			"versionNonce": 1775993706,
+			"version": 421,
+			"versionNonce": 849664358,
 			"isDeleted": false,
 			"id": "WQHjTC1hss4xe8_DBn0rE",
 			"fillStyle": "solid",
@@ -36765,14 +36645,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "IkcFXQP7"
 				}
 			],
-			"updated": 1708063596973,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 460,
-			"versionNonce": 530920818,
+			"version": 470,
+			"versionNonce": 1505515514,
 			"isDeleted": false,
 			"id": "IkcFXQP7",
 			"fillStyle": "solid",
@@ -36794,7 +36674,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707977401507,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.093578639143056,
@@ -36810,8 +36690,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "rectangle",
-			"version": 305,
-			"versionNonce": 551512618,
+			"version": 316,
+			"versionNonce": 1892727974,
 			"isDeleted": false,
 			"id": "S0IaDVQQaTGUItahIG7Fo",
 			"fillStyle": "solid",
@@ -36820,7 +36700,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5826.9848596381225,
+			"x": 5822.599350172559,
 			"y": 4501.407872130874,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
@@ -36840,14 +36720,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1708063859020,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 338,
-			"versionNonce": 1858282870,
+			"version": 349,
+			"versionNonce": 1327712442,
 			"isDeleted": false,
 			"id": "PQqQlopV",
 			"fillStyle": "solid",
@@ -36856,7 +36736,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5860.2348596381225,
+			"x": 5855.849350172559,
 			"y": 4531.807872130874,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
@@ -36867,7 +36747,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063859020,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -36879,12 +36759,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "S0IaDVQQaTGUItahIG7Fo",
 			"originalText": "domain logic",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
-			"version": 492,
-			"versionNonce": 1603383798,
+			"version": 503,
+			"versionNonce": 505296870,
 			"isDeleted": false,
 			"id": "96jngZTX",
 			"fillStyle": "solid",
@@ -36893,7 +36773,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5893.234486943785,
+			"x": 5892.329757391039,
 			"y": 5080.273105819288,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
@@ -36906,7 +36786,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063826386,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -36918,12 +36798,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
-			"version": 510,
-			"versionNonce": 1628639338,
+			"version": 521,
+			"versionNonce": 65937786,
 			"isDeleted": false,
 			"id": "ONGIIh6tR8wHDUZzzl0CB",
 			"fillStyle": "solid",
@@ -36932,7 +36812,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5877.131984858142,
+			"x": 5876.227255305395,
 			"y": 5055.4596238329395,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -36945,14 +36825,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063826386,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 509,
-			"versionNonce": 968098614,
+			"version": 520,
+			"versionNonce": 312101670,
 			"isDeleted": false,
 			"id": "R9gcawk9azmqsakDa2OKC",
 			"fillStyle": "solid",
@@ -36961,7 +36841,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5911.8840627464715,
+			"x": 5910.979333193725,
 			"y": 5124.244002143747,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -36974,7 +36854,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063826386,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -36995,8 +36875,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 568,
-			"versionNonce": 1844015914,
+			"version": 579,
+			"versionNonce": 861921850,
 			"isDeleted": false,
 			"id": "mp5h6jgPreWjI_bxdBntJ",
 			"fillStyle": "solid",
@@ -37005,7 +36885,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5864.900481814727,
+			"x": 5863.995752261981,
 			"y": 5106.886378742498,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -37018,7 +36898,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063826386,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -37043,8 +36923,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "line",
-			"version": 748,
-			"versionNonce": 1442458742,
+			"version": 759,
+			"versionNonce": 481424998,
 			"isDeleted": false,
 			"id": "9v5eFYcTyUrP0Ap1mWPzz",
 			"fillStyle": "solid",
@@ -37053,7 +36933,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 3.168410758649909,
-			"x": 5879.333053821775,
+			"x": 5878.428324269029,
 			"y": 5186.714512725543,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -37066,7 +36946,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063826386,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -37091,8 +36971,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "arrow",
-			"version": 698,
-			"versionNonce": 43135146,
+			"version": 709,
+			"versionNonce": 945523450,
 			"isDeleted": false,
 			"id": "7QJtvtvD6WslZC6U2mLAj",
 			"fillStyle": "solid",
@@ -37101,7 +36981,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5908.561949234214,
+			"x": 5911.670442171117,
 			"y": 5037.744623889803,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -37117,7 +36997,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "O9FQIYJi"
 				}
 			],
-			"updated": 1708063826456,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -37138,8 +37018,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 308,
-			"versionNonce": 1915301302,
+			"version": 319,
+			"versionNonce": 892484006,
 			"isDeleted": false,
 			"id": "O9FQIYJi",
 			"fillStyle": "solid",
@@ -37148,7 +37028,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5841.69952838078,
+			"x": 5844.808021317684,
 			"y": 4953.13704788446,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -37159,7 +37039,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063826386,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -37171,12 +37051,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "7QJtvtvD6WslZC6U2mLAj",
 			"originalText": "load할 페이지 및 \n소스코드 제공",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 729,
-			"versionNonce": 2131017718,
+			"version": 740,
+			"versionNonce": 425991098,
 			"isDeleted": false,
 			"id": "LjQykrtjG0e5yuHP9kR3q",
 			"fillStyle": "solid",
@@ -37185,7 +37065,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5823.720399621537,
+			"x": 5826.099350172559,
 			"y": 4310.028630904398,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
@@ -37205,14 +37085,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"type": "arrow"
 				}
 			],
-			"updated": 1708063859876,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 721,
-			"versionNonce": 1889526378,
+			"version": 732,
+			"versionNonce": 860361958,
 			"isDeleted": false,
 			"id": "pBqEZbWA",
 			"fillStyle": "solid",
@@ -37221,7 +37101,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5900.345399621537,
+			"x": 5902.724350172559,
 			"y": 4324.928630904397,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
@@ -37232,7 +37112,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063859876,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -37244,12 +37124,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "LjQykrtjG0e5yuHP9kR3q",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 1053,
-			"versionNonce": 1758974442,
+			"version": 1084,
+			"versionNonce": 345805946,
 			"isDeleted": false,
 			"id": "xxzDh2V5iWDFD3HxOZgaG",
 			"fillStyle": "solid",
@@ -37258,11 +37138,11 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5910.95571556061,
+			"x": 5908.343007957444,
 			"y": 4485.407872130874,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0.930738163051501,
+			"width": 4.824909497458975,
 			"height": 117.16660214813692,
 			"seed": 1051449654,
 			"groupIds": [],
@@ -37274,7 +37154,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "8JGRRgMx"
 				}
 			],
-			"updated": 1708067309802,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -37296,15 +37176,15 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					0
 				],
 				[
-					0.930738163051501,
+					4.824909497458975,
 					-117.16660214813692
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 258,
-			"versionNonce": 1338550006,
+			"version": 269,
+			"versionNonce": 8423462,
 			"isDeleted": false,
 			"id": "8JGRRgMx",
 			"fillStyle": "solid",
@@ -37313,7 +37193,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5814.114625655895,
+			"x": 5814.792891186318,
 			"y": 4410.179483518173,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -37324,7 +37204,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063833406,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -37336,12 +37216,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "xxzDh2V5iWDFD3HxOZgaG",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
-			"version": 327,
-			"versionNonce": 1859302326,
+			"version": 338,
+			"versionNonce": 734524730,
 			"isDeleted": false,
 			"id": "k2TdOOokQvR7aNxlmYF5l",
 			"fillStyle": "solid",
@@ -37350,7 +37230,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5817.3998898834625,
+			"x": 5822.599350172559,
 			"y": 4802.94694685001,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
@@ -37366,14 +37246,14 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "zZ8yzAZ2"
 				}
 			],
-			"updated": 1708063835341,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 357,
-			"versionNonce": 598477482,
+			"version": 368,
+			"versionNonce": 1288213350,
 			"isDeleted": false,
 			"id": "zZ8yzAZ2",
 			"fillStyle": "solid",
@@ -37382,7 +37262,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5883.4623898834625,
+			"x": 5888.661850172559,
 			"y": 4833.34694685001,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
@@ -37393,7 +37273,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063835341,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -37405,12 +37285,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "k2TdOOokQvR7aNxlmYF5l",
 			"originalText": "nginx",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 1008,
-			"versionNonce": 861016182,
+			"version": 1019,
+			"versionNonce": 810106362,
 			"isDeleted": false,
 			"id": "tT3EIx6wmZtPBB-qOe_yv",
 			"fillStyle": "solid",
@@ -37419,7 +37299,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5911.3976397998,
+			"x": 5910.719374269375,
 			"y": 4748.164230370778,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -37435,7 +37315,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 					"id": "1onaBPaK"
 				}
 			],
-			"updated": 1708063842653,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -37456,8 +37336,8 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		},
 		{
 			"type": "text",
-			"version": 289,
-			"versionNonce": 585404854,
+			"version": 300,
+			"versionNonce": 1114453670,
 			"isDeleted": false,
 			"id": "1onaBPaK",
 			"fillStyle": "solid",
@@ -37466,7 +37346,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5812.997632182476,
+			"x": 5812.319366652051,
 			"y": 4660.4984856669535,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -37477,7 +37357,7 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708063842761,
+			"updated": 1708083968272,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -37489,13 +37369,2465 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"containerId": "tT3EIx6wmZtPBB-qOe_yv",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
-			"id": "QEA105cb",
+			"type": "rectangle",
+			"version": 408,
+			"versionNonce": 1327722170,
+			"isDeleted": false,
+			"id": "IZLMakabc_UBNYsTLOxXa",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5593.517260354633,
+			"y": 5749.313479805819,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 179,
+			"height": 80,
+			"seed": 972582650,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "xT0OAsXX"
+				},
+				{
+					"id": "QJgU2vKYyT6jPJcl6K38H",
+					"type": "arrow"
+				},
+				{
+					"id": "I4uToTUNYJcx9mMuvKjps",
+					"type": "arrow"
+				}
+			],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false
+		},
+		{
 			"type": "text",
-			"x": 6712.2461367807055,
-			"y": 4131.994424219503,
+			"version": 448,
+			"versionNonce": 974877158,
+			"isDeleted": false,
+			"id": "xT0OAsXX",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5622.079760354633,
+			"y": 5770.113479805819,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 121.875,
+			"height": 38.4,
+			"seed": 499417018,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "FE\nHTML, CSS, JS",
+			"rawText": "FE\nHTML, CSS, JS",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "IZLMakabc_UBNYsTLOxXa",
+			"originalText": "FE\nHTML, CSS, JS",
+			"lineHeight": 1.2,
+			"baseline": 34
+		},
+		{
+			"type": "rectangle",
+			"version": 583,
+			"versionNonce": 486115194,
+			"isDeleted": false,
+			"id": "hspaYwt81hPGH_JcHywHr",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6164.279565168355,
+			"y": 5741.171050559687,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 179,
+			"height": 80,
+			"seed": 2001762426,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "171isWIY"
+				},
+				{
+					"id": "1mEz5q5ObGQ3DHT3s7zKi",
+					"type": "arrow"
+				}
+			],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 573,
+			"versionNonce": 1860191526,
+			"isDeleted": false,
+			"id": "171isWIY",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6235.029565168355,
+			"y": 5771.571050559686,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 37.5,
+			"height": 19.2,
+			"seed": 1449089338,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "Game",
+			"rawText": "Game",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "hspaYwt81hPGH_JcHywHr",
+			"originalText": "Game",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 521,
+			"versionNonce": 571377722,
+			"isDeleted": false,
+			"id": "y0UjOTjJnOLuOfGNL-XGC",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5876.248254923546,
+			"y": 5725.4616749506795,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 179,
+			"height": 80,
+			"seed": 1515463162,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "MIqPnyp3"
+				},
+				{
+					"id": "nWL8jjYktP45dbnFagBis",
+					"type": "arrow"
+				}
+			],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 559,
+			"versionNonce": 841527398,
+			"isDeleted": false,
+			"id": "MIqPnyp3",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5928.693262247764,
+			"y": 5746.26167495068,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 74.1099853515625,
+			"height": 38.4,
+			"seed": 1043452602,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "manager\n인증, 인가",
+			"rawText": "manager\n인증, 인가",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "y0UjOTjJnOLuOfGNL-XGC",
+			"originalText": "manager\n인증, 인가",
+			"lineHeight": 1.2,
+			"baseline": 34
+		},
+		{
+			"type": "text",
+			"version": 531,
+			"versionNonce": 1715826938,
+			"isDeleted": false,
+			"id": "BsgJ6t9J",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5945.22653104154,
+			"y": 6184.137358348894,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 37.5,
+			"height": 19.2,
+			"seed": 1687907194,
+			"groupIds": [
+				"Ac0fCl6zR7WvO6DA7xGCF"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "User",
+			"rawText": "User",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "User",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "ellipse",
+			"version": 549,
+			"versionNonce": 532788134,
+			"isDeleted": false,
+			"id": "_EvU9fbkTKUMvNKf_sjLq",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5929.124028955896,
+			"y": 6159.323876362546,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 67.46618997763744,
+			"height": 67.46618997763744,
+			"seed": 1674832954,
+			"groupIds": [
+				"Ac0fCl6zR7WvO6DA7xGCF"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "line",
+			"version": 548,
+			"versionNonce": 2099331514,
+			"isDeleted": false,
+			"id": "vWi8dZTfkLu7Jn3zW2Wtd",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5963.87610684423,
+			"y": 6228.108254673353,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.8629535981690424,
+			"height": 63.65096715782329,
+			"seed": 297686266,
+			"groupIds": [
+				"Ac0fCl6zR7WvO6DA7xGCF"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8629535981690424,
+					63.65096715782329
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 607,
+			"versionNonce": 1373130470,
+			"isDeleted": false,
+			"id": "JXZj6Bmwbutq9v04zqTDv",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5916.8925259124835,
+			"y": 6210.7506312721025,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 96.20719582115635,
+			"height": 33.073937970552834,
+			"seed": 266184122,
+			"groupIds": [
+				"Ac0fCl6zR7WvO6DA7xGCF"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					47.38388329640202,
+					33.073937970552834
+				],
+				[
+					96.20719582115635,
+					0.5691219833524883
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 787,
+			"versionNonce": 298121850,
+			"isDeleted": false,
+			"id": "SF7G08rkGI8dU10jRQAAh",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 3.168410758649909,
+			"x": 5931.325097919534,
+			"y": 6290.578765255149,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 67.37953387992184,
+			"height": 36.85381799359675,
+			"seed": 1465179770,
+			"groupIds": [
+				"Ac0fCl6zR7WvO6DA7xGCF"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					33.69447504162781,
+					36.54141840743159
+				],
+				[
+					67.37953387992184,
+					-0.3123995861651565
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 811,
+			"versionNonce": 351896102,
+			"isDeleted": false,
+			"id": "QJgU2vKYyT6jPJcl6K38H",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5910.704643874472,
+			"y": 6151.773271177245,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 216.4089690568444,
+			"height": 310.76039945238153,
+			"seed": 1155989306,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "peNE7Xfd"
+				}
+			],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "IZLMakabc_UBNYsTLOxXa",
+				"gap": 11.699391919044501,
+				"focus": 0.21067866388594234
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-216.4089690568444,
+					-310.76039945238153
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 298,
+			"versionNonce": 1928567610,
+			"isDeleted": false,
+			"id": "peNE7Xfd",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5735.087668501324,
+			"y": 5977.1930714510545,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 134.82498168945312,
+			"height": 38.4,
+			"seed": 620169210,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "load할 페이지 및 \n소스코드 제공",
+			"rawText": "load할 페이지 및 \n소스코드 제공",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "QJgU2vKYyT6jPJcl6K38H",
+			"originalText": "load할 페이지 및 \n소스코드 제공",
+			"lineHeight": 1.2,
+			"baseline": 34
+		},
+		{
+			"type": "arrow",
+			"version": 2549,
+			"versionNonce": 470961510,
+			"isDeleted": false,
+			"id": "I4uToTUNYJcx9mMuvKjps",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5684.518268461792,
+			"y": 5742.026715099937,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.8500968532534898,
+			"height": 127.67226977885457,
+			"seed": 1065875642,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "aOiqIaMK"
+				}
+			],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "IZLMakabc_UBNYsTLOxXa",
+				"gap": 7.286764705881978,
+				"focus": 0.020228782525426193
+			},
+			"endBinding": {
+				"elementId": "EOLk6xX3XE2V_uZH_39Ok",
+				"gap": 6.45389091585912,
+				"focus": -0.029262931242585947
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8500968532534898,
+					-127.67226977885457
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 718,
+			"versionNonce": 521151482,
+			"isDeleted": false,
+			"id": "aOiqIaMK",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5665.565723697274,
+			"y": 5668.590580210512,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 37.05499267578125,
+			"height": 19.2,
+			"seed": 1681707386,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "회원?",
+			"rawText": "회원?",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "I4uToTUNYJcx9mMuvKjps",
+			"originalText": "회원?",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "arrow",
+			"version": 1172,
+			"versionNonce": 879734950,
+			"isDeleted": false,
+			"id": "1mEz5q5ObGQ3DHT3s7zKi",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6021.243959520542,
+			"y": 6136.607047584709,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 206.1970899122598,
+			"height": 302.38449888388004,
+			"seed": 1985516090,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "u6TV54Mk"
+				}
+			],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "hspaYwt81hPGH_JcHywHr",
+				"gap": 13.051498141142474,
+				"focus": -0.08424232374181563
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					206.1970899122598,
+					-302.38449888388004
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 170,
+			"versionNonce": 1344115898,
+			"isDeleted": false,
+			"id": "u6TV54Mk",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6085.055013631945,
+			"y": 5975.814798142768,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 78.57498168945312,
+			"height": 19.2,
+			"seed": 2025732858,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "실시간 게임",
+			"rawText": "실시간 게임",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "1mEz5q5ObGQ3DHT3s7zKi",
+			"originalText": "실시간 게임",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "arrow",
+			"version": 969,
+			"versionNonce": 2042538982,
+			"isDeleted": false,
+			"id": "nWL8jjYktP45dbnFagBis",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5968.616336647951,
+			"y": 6102.895745677149,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 2.669888644094499,
+			"height": 277.7901404326258,
+			"seed": 435211194,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "hpdqobC1"
+				}
+			],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "y0UjOTjJnOLuOfGNL-XGC",
+				"gap": 19.64393029384337,
+				"focus": -0.0679897203295418
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.669888644094499,
+					-277.7901404326258
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 246,
+			"versionNonce": 129953146,
+			"isDeleted": false,
+			"id": "hpdqobC1",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5870.171297449492,
+			"y": 5944.800675460836,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 199.55996704101562,
+			"height": 38.4,
+			"seed": 1075004538,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "JSON 데이터 형식으로 정보 \n교환",
+			"rawText": "JSON 데이터 형식으로 정보 교환",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "nWL8jjYktP45dbnFagBis",
+			"originalText": "JSON 데이터 형식으로 정보 교환",
+			"lineHeight": 1.2,
+			"baseline": 34
+		},
+		{
+			"type": "rectangle",
+			"version": 1245,
+			"versionNonce": 168574758,
+			"isDeleted": false,
+			"id": "EOLk6xX3XE2V_uZH_39Ok",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5594.940681503361,
+			"y": 5558.900554405223,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 350790970,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "2xNOFTa1"
+				},
+				{
+					"id": "I4uToTUNYJcx9mMuvKjps",
+					"type": "arrow"
+				}
+			],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 1236,
+			"versionNonce": 456601146,
+			"isDeleted": false,
+			"id": "2xNOFTa1",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5671.565681503361,
+			"y": 5573.800554405223,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 299101690,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "EOLk6xX3XE2V_uZH_39Ok",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 524,
+			"versionNonce": 969239142,
+			"isDeleted": false,
+			"id": "uiFja1tvdcAWp1ocSYN0C",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5882.849610439519,
+			"y": 5577.813780763475,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 198713018,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "0cxzrHzQ"
+				},
+				{
+					"id": "I4uToTUNYJcx9mMuvKjps",
+					"type": "arrow"
+				}
+			],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 519,
+			"versionNonce": 1063868154,
+			"isDeleted": false,
+			"id": "0cxzrHzQ",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5959.474610439519,
+			"y": 5592.7137807634745,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 1066940282,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "uiFja1tvdcAWp1ocSYN0C",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 497,
+			"versionNonce": 1203187110,
+			"isDeleted": false,
+			"id": "IlVHV4l6XojyZRNB1XCjX",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6175.902529914601,
+			"y": 5606.161644909133,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 1565997114,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "qSmoHLlK",
+					"type": "text"
+				}
+			],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 487,
+			"versionNonce": 349726650,
+			"isDeleted": false,
+			"id": "qSmoHLlK",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6252.527529914601,
+			"y": 5621.061644909133,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 351805690,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "IlVHV4l6XojyZRNB1XCjX",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "line",
+			"version": 185,
+			"versionNonce": 286165222,
+			"isDeleted": false,
+			"id": "OK6h3LYe-EENzEn3Bc3FJ",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5968.685878737871,
+			"y": 5715.503801666583,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 0.6684027777773736,
+			"height": 81.0243055555552,
+			"seed": 570290618,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.6684027777773736,
+					-81.0243055555552
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 380,
+			"versionNonce": 866607226,
+			"isDeleted": false,
+			"id": "YGBQiil00EGgYB-PDahQW",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6263.37214321762,
+			"y": 5740.718791308272,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 1.3231646825388452,
+			"height": 82.19928075396774,
+			"seed": 1468770938,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1708083968272,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.3231646825388452,
+					-82.19928075396774
+				]
+			]
+		},
+		{
+			"type": "rectangle",
+			"version": 328,
+			"versionNonce": 1163426854,
+			"isDeleted": false,
+			"id": "kpetkkaClYmX2xyfcicDL",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7966.663243159065,
+			"y": 5963.278204883708,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 179,
+			"height": 80,
+			"seed": 292463270,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "53A7fn2d"
+				},
+				{
+					"id": "QK2SD_K4aDj-GZoj6dMTB",
+					"type": "arrow"
+				},
+				{
+					"id": "nOZd2SxGs8Cg7PYw3VCWN",
+					"type": "arrow"
+				},
+				{
+					"id": "_tNP7DVN7R1C-r8rbNwpy",
+					"type": "arrow"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 346,
+			"versionNonce": 932790586,
+			"isDeleted": false,
+			"id": "53A7fn2d",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7988.973255976448,
+			"y": 5974.478204883708,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 134.37997436523438,
+			"height": 57.599999999999994,
+			"seed": 2114936294,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "API Gateway\nHTML, CSS, JS\n인증, 인가, 라우트",
+			"rawText": "API Gateway\nHTML, CSS, JS\n인증, 인가, 라우트",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "kpetkkaClYmX2xyfcicDL",
+			"originalText": "API Gateway\nHTML, CSS, JS\n인증, 인가, 라우트",
+			"lineHeight": 1.2,
+			"baseline": 53
+		},
+		{
+			"type": "rectangle",
+			"version": 724,
+			"versionNonce": 444729190,
+			"isDeleted": false,
+			"id": "Xh2mslvsUIMM7FmIk7pxO",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8617.567422909171,
+			"y": 5927.030010976721,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 179,
+			"height": 80,
+			"seed": 1702277414,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "7OC37iwu"
+				},
+				{
+					"id": "5MHQLWg0llrKO7VIS3IMX",
+					"type": "arrow"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 714,
+			"versionNonce": 1276185082,
+			"isDeleted": false,
+			"id": "7OC37iwu",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8688.317422909171,
+			"y": 5957.430010976721,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 37.5,
+			"height": 19.2,
+			"seed": 1662098534,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "Game",
+			"rawText": "Game",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "Xh2mslvsUIMM7FmIk7pxO",
+			"originalText": "Game",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 454,
+			"versionNonce": 14166694,
+			"isDeleted": false,
+			"id": "MrOxB0Y1cW2GaF3Lt82ef",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8030.855425359678,
+			"y": 5615.27805317631,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 179,
+			"height": 80,
+			"seed": 481107878,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "t9fM7rws"
+				},
+				{
+					"id": "nOZd2SxGs8Cg7PYw3VCWN",
+					"type": "arrow"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 492,
+			"versionNonce": 940686010,
+			"isDeleted": false,
+			"id": "t9fM7rws",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8073.480425359678,
+			"y": 5645.67805317631,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 93.75,
+			"height": 19.2,
+			"seed": 1987459814,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "management",
+			"rawText": "management",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "MrOxB0Y1cW2GaF3Lt82ef",
+			"originalText": "management",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "text",
+			"version": 464,
+			"versionNonce": 1460135398,
+			"isDeleted": false,
+			"id": "d4HwYCvN",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8106.745642538047,
+			"y": 6245.450778562118,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 37.5,
+			"height": 19.2,
+			"seed": 1190784550,
+			"groupIds": [
+				"NgS8aktR_rWiCOmUx8xxg"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "User",
+			"rawText": "User",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "User",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "ellipse",
+			"version": 482,
+			"versionNonce": 1782469498,
+			"isDeleted": false,
+			"id": "Ce7buvw39E6DdvFAcF9vC",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8090.643140452404,
+			"y": 6220.63729657577,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 67.46618997763744,
+			"height": 67.46618997763744,
+			"seed": 186988902,
+			"groupIds": [
+				"NgS8aktR_rWiCOmUx8xxg"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "line",
+			"version": 481,
+			"versionNonce": 505297190,
+			"isDeleted": false,
+			"id": "AlmVJVusom-tVWBykWDOJ",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8125.395218340734,
+			"y": 6289.421674886577,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.8629535981690424,
+			"height": 63.65096715782329,
+			"seed": 440736934,
+			"groupIds": [
+				"NgS8aktR_rWiCOmUx8xxg"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8629535981690424,
+					63.65096715782329
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 540,
+			"versionNonce": 81384506,
+			"isDeleted": false,
+			"id": "gMwM7-o5NhQ6vDI8NMzsj",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8078.411637408989,
+			"y": 6272.0640514853285,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 96.20719582115635,
+			"height": 33.073937970552834,
+			"seed": 1510381542,
+			"groupIds": [
+				"NgS8aktR_rWiCOmUx8xxg"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					47.38388329640202,
+					33.073937970552834
+				],
+				[
+					96.20719582115635,
+					0.5691219833524883
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 720,
+			"versionNonce": 763896934,
+			"isDeleted": false,
+			"id": "QTvvNhuiklmhLiM4SJuXi",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 3.168410758649909,
+			"x": 8092.844209416037,
+			"y": 6351.892185468373,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 67.37953387992184,
+			"height": 36.85381799359675,
+			"seed": 1920379686,
+			"groupIds": [
+				"NgS8aktR_rWiCOmUx8xxg"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					33.69447504162781,
+					36.54141840743159
+				],
+				[
+					67.37953387992184,
+					-0.3123995861651565
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 717,
+			"versionNonce": 1774664954,
+			"isDeleted": false,
+			"id": "QK2SD_K4aDj-GZoj6dMTB",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8122.241306141287,
+			"y": 6203.090542931087,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 47.69862293294591,
+			"height": 148.70577701068578,
+			"seed": 33707622,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "hcYAMWL2"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "kpetkkaClYmX2xyfcicDL",
+				"gap": 11.106561036693165,
+				"focus": -0.019413429436624614
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-47.69862293294591,
+					-148.70577701068578
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 279,
+			"versionNonce": 1729275814,
+			"isDeleted": false,
+			"id": "hcYAMWL2",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8030.979503830088,
+			"y": 6109.537654425745,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 134.82498168945312,
+			"height": 38.4,
+			"seed": 1366727078,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "load할 페이지 및 \n소스코드 제공",
+			"rawText": "load할 페이지 및 \n소스코드 제공",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "QK2SD_K4aDj-GZoj6dMTB",
+			"originalText": "load할 페이지 및 \n소스코드 제공",
+			"lineHeight": 1.2,
+			"baseline": 34
+		},
+		{
+			"type": "arrow",
+			"version": 1691,
+			"versionNonce": 1183419834,
+			"isDeleted": false,
+			"id": "_tNP7DVN7R1C-r8rbNwpy",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7953.9162442533,
+			"y": 5961.651358201823,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 86.64481454815177,
+			"height": 84.70620214513474,
+			"seed": 134247654,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "7a4aGmti"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "kpetkkaClYmX2xyfcicDL",
+				"gap": 12.850393427048402,
+				"focus": -0.457518386104372
+			},
+			"endBinding": {
+				"elementId": "a88tcMmRQU6GVb0oBnJ4q",
+				"gap": 9.081560733787228,
+				"focus": -0.00019578393124880972
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-86.64481454815177,
+					-84.70620214513474
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 347,
+			"versionNonce": 1793770214,
+			"isDeleted": false,
+			"id": "7a4aGmti",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7878.116820815384,
+			"y": 5909.5911841466705,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 64.7349853515625,
+			"height": 19.2,
+			"seed": 1596778534,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "회원 정보",
+			"rawText": "회원 정보",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "_tNP7DVN7R1C-r8rbNwpy",
+			"originalText": "회원 정보",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "arrow",
+			"version": 1434,
+			"versionNonce": 541312634,
+			"isDeleted": false,
+			"id": "5MHQLWg0llrKO7VIS3IMX",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8159.8385969904075,
+			"y": 6210.15036494067,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 450.51563363015975,
+			"height": 193.94143175386034,
+			"seed": 1458107238,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "g05IKzT2"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "Xh2mslvsUIMM7FmIk7pxO",
+				"gap": 11.674020555542484,
+				"focus": -0.09608065671004447
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					450.51563363015975,
+					-193.94143175386034
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 146,
+			"versionNonce": 1268610598,
+			"isDeleted": false,
+			"id": "g05IKzT2",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8253.108120859624,
+			"y": 5975.60820798451,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 78.57498168945312,
+			"height": 19.2,
+			"seed": 1770100390,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "실시간 게임",
+			"rawText": "실시간 게임",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "5MHQLWg0llrKO7VIS3IMX",
+			"originalText": "실시간 게임",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "arrow",
+			"version": 1026,
+			"versionNonce": 1605953338,
+			"isDeleted": false,
+			"id": "nOZd2SxGs8Cg7PYw3VCWN",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8070.0830050384475,
+			"y": 5944.946226323122,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 48.40204516761332,
+			"height": 232.17226499727167,
+			"seed": 1067700710,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "eg2ARawu"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "kpetkkaClYmX2xyfcicDL",
+				"focus": 0.017978718994154267,
+				"gap": 18.33197856058632
+			},
+			"endBinding": {
+				"elementId": "MrOxB0Y1cW2GaF3Lt82ef",
+				"focus": -0.10339505432930328,
+				"gap": 17.4959081495399
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					48.40204516761332,
+					-232.17226499727167
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 227,
+			"versionNonce": 1108853094,
+			"isDeleted": false,
+			"id": "eg2ARawu",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7989.115951019347,
+			"y": 5813.325884575128,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 199.55996704101562,
+			"height": 38.4,
+			"seed": 1683793190,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "JSON 데이터 형식으로 정보 \n교환",
+			"rawText": "JSON 데이터 형식으로 정보 교환",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "nOZd2SxGs8Cg7PYw3VCWN",
+			"originalText": "JSON 데이터 형식으로 정보 교환",
+			"lineHeight": 1.2,
+			"baseline": 34
+		},
+		{
+			"type": "rectangle",
+			"version": 836,
+			"versionNonce": 1565257722,
+			"isDeleted": false,
+			"id": "a88tcMmRQU6GVb0oBnJ4q",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7746.899567058098,
+			"y": 5818.863595322901,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 2031685734,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "OsgyTX6U"
+				},
+				{
+					"id": "_tNP7DVN7R1C-r8rbNwpy",
+					"type": "arrow"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 828,
+			"versionNonce": 1638311078,
+			"isDeleted": false,
+			"id": "OsgyTX6U",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7823.524567058098,
+			"y": 5833.763595322901,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 1772491686,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "a88tcMmRQU6GVb0oBnJ4q",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 428,
+			"versionNonce": 1828708538,
+			"isDeleted": false,
+			"id": "Km7q3lRbScr3F-dkA8PSG",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8033.199715934352,
+			"y": 5477.603654057931,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 540061414,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "DpI1UURW"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 423,
+			"versionNonce": 1274486758,
+			"isDeleted": false,
+			"id": "DpI1UURW",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8109.824715934352,
+			"y": 5492.50365405793,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 960881190,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "Km7q3lRbScr3F-dkA8PSG",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 716,
+			"versionNonce": 1786231162,
+			"isDeleted": false,
+			"id": "0z7Kyr96KqnGFVkI0Yecu",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8621.85949979322,
+			"y": 5810.245627617402,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 936553830,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "isi0Ex8r"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 705,
+			"versionNonce": 1695953702,
+			"isDeleted": false,
+			"id": "isi0Ex8r",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8698.48449979322,
+			"y": 5825.145627617401,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 958664870,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "0z7Kyr96KqnGFVkI0Yecu",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "line",
+			"version": 109,
+			"versionNonce": 1157003834,
+			"isDeleted": false,
+			"id": "v7edhcwNCpfDaU_-upMED",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8122.1064695761115,
+			"y": 5610.903794008657,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 0.6684027777773736,
+			"height": 81.0243055555552,
+			"seed": 686230502,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.6684027777773736,
+					-81.0243055555552
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 515,
+			"versionNonce": 124837478,
+			"isDeleted": false,
+			"id": "fQCy2-NFQWNWnKiAKyE_D",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8705.26289285814,
+			"y": 5922.759743262572,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 0.3298611111113132,
+			"height": 66.42795138888869,
+			"seed": 1965596454,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.3298611111113132,
+					-66.42795138888869
+				]
+			]
+		},
+		{
+			"id": "TwJx52G9",
+			"type": "text",
+			"x": 6622.823965204148,
+			"y": 5667.299694897735,
+			"width": 131.19633514294938,
+			"height": 38.38429919610861,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2036014438,
+			"version": 76,
+			"versionNonce": 1364364602,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"text": "<NGINX>",
+			"rawText": "<NGINX>",
+			"fontSize": 31.98691599675718,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 30.999999999999993,
+			"containerId": null,
+			"originalText": "<NGINX>",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "rectangle",
+			"version": 469,
+			"versionNonce": 190784250,
+			"isDeleted": true,
+			"id": "sDjgSLCCL6GPf4stz-lpw",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8277.056259932475,
+			"y": 5626.1271913055825,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 179,
+			"height": 80,
+			"seed": 1294579046,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "QHASgR7V"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 506,
+			"versionNonce": 936649126,
+			"isDeleted": true,
+			"id": "QHASgR7V",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8319.681259932475,
+			"y": 5656.527191305582,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"width": 93.75,
+			"height": 19.2,
+			"seed": 509221030,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "management",
+			"rawText": "management",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "sDjgSLCCL6GPf4stz-lpw",
+			"originalText": "management",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "rectangle",
+			"version": 431,
+			"versionNonce": 2016719802,
+			"isDeleted": true,
+			"id": "TMYHjMADOvh3j-TuiTR5F",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8287.700357692353,
+			"y": 5467.513352281755,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 172,
+			"height": 49,
+			"seed": 169612262,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "hZeIPSzr"
+				}
+			],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 427,
+			"versionNonce": 1500314854,
+			"isDeleted": true,
+			"id": "hZeIPSzr",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8364.325357692353,
+			"y": 5482.413352281755,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 18.75,
+			"height": 19.2,
+			"seed": 2054989606,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB",
+			"rawText": "DB",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "TMYHjMADOvh3j-TuiTR5F",
+			"originalText": "DB",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "line",
+			"version": 113,
+			"versionNonce": 2107255930,
+			"isDeleted": true,
+			"id": "GAzxtf5gkmn93g6XBEg-9",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8376.607111334113,
+			"y": 5600.813492232482,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"width": 0.6684027777773736,
+			"height": 81.0243055555552,
+			"seed": 266916454,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.6684027777773736,
+					-81.0243055555552
+				]
+			]
+		},
+		{
+			"id": "JD83hiqS07MGZIXCPQ_vT",
+			"type": "arrow",
+			"x": 8153.490036657713,
+			"y": 5943.048345464516,
+			"width": 205.27707411794836,
+			"height": 222.8941380427259,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 129231782,
+			"version": 69,
+			"versionNonce": 1640525862,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					205.27707411794836,
+					-222.8941380427259
+				]
+			],
+			"lastCommittedPoint": [
+				215.1488156089763,
+				-243.83357794817402
+			],
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "sDjgSLCCL6GPf4stz-lpw",
+				"focus": -0.3321845213845551,
+				"gap": 14.02701611620796
+			},
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "S4rp0Zf6",
+			"type": "text",
+			"x": 6529.875729977485,
+			"y": 5611.925442120255,
 			"width": 9.375,
 			"height": 19.2,
 			"angle": 0,
@@ -37509,12 +39841,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1500460278,
-			"version": 2,
-			"versionNonce": 537083242,
+			"seed": 1611288742,
+			"version": 3,
+			"versionNonce": 215186278,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1708067395784,
+			"updated": 1708083968273,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -37523,7 +39855,81 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 			"fontFamily": 3,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 16,
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "7AyGtmOU",
+			"type": "text",
+			"x": 6506.403997506324,
+			"y": 5642.10338386889,
+			"width": 9.375,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1099970726,
+			"version": 3,
+			"versionNonce": 2025903610,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "i0t4M1VK",
+			"type": "text",
+			"x": 6530.993431523731,
+			"y": 5607.454635935272,
+			"width": 9.375,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 355676666,
+			"version": 3,
+			"versionNonce": 282795686,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1708083968273,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.2
@@ -37542,12 +39948,12 @@ JSON 데이터 형식으로 정보 교환 ^1onaBPaK
 		"currentItemFontFamily": 3,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": "dot",
-		"currentItemEndArrowhead": null,
-		"scrollX": -7343.934662237333,
-		"scrollY": -4152.647876021388,
+		"currentItemStartArrowhead": "arrow",
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": -6003.298589002456,
+		"scrollY": -4385.402170255592,
 		"zoom": {
-			"value": 0.8908972160435957
+			"value": 0.8946932241070108
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
