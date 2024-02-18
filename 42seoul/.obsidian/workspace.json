@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "696d0981b63fce41",
+        "id": "6723edd1499c30b7",
         "type": "tabs",
         "children": [
           {
-            "id": "37b7533d119869ea",
+            "id": "7841ee3941fb45b7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "541833b11ae5615f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/해결해야 할 질문 by 프없프개.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md"
               }
             }
           },
@@ -145,53 +159,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37b7533d119869ea",
+  "active": "7841ee3941fb45b7",
   "lastOpenFiles": [
-    "Transcendence/Untitled.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/1.0 렌더링 함수.md",
+    "Transcendence/해결해야 할 질문 by 프없프개.md",
+    "Transcendence/JavaScript 완벽 가이드/7.0 반복과 유사 배열 객체.md",
+    "Transcendence/JavaScript 완벽 가이드/7.1 배열.md",
+    "template/프레임워크 없는 프론트엔드 개발 템플릿.md",
+    "template/Zettelkasten.md",
+    "template/Python 강의 템플릿.md",
+    "template/Daily Note Template.md",
+    "template/핸즈온 장고 템플릿.md",
+    "Day Planners/2024-02-18.md",
+    "Day Planners/2024-02-17.md",
+    "무제 파일.canvas",
+    "Transcendence/매우 중요.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.3.1 전술적 설계.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.3.0 전략적 설계.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.1 응집도와 결합도 그리고 SRP.md",
+    "Transcendence/MSA 패턴과 핵심기술/4.0 서비스 분리 전략.md",
+    "Transcendence/MSA 패턴과 핵심기술/3.0 MSA 성숙도 모델.md",
+    "Transcendence/MSA 패턴과 핵심기술/2.1.3 프로세스 및 통제 역량.md",
+    "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
+    "Transcendence/MSA 패턴과 핵심기술/2.0 MSA 도입 조건.md",
+    "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
+    "Transcendence/MSA 패턴과 핵심기술/6.0 서비스 디스커버리 패턴.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발",
     "Transcendence/트센 캔버스.canvas",
-    "Transcendence/핸즈 온 장고/4.1 DRF Serializer.md",
-    "Transcendence/개중요.md",
-    "Transcendence/MSA 패턴과 핵심기술/6.0 서비스 디스커버리 패턴.md",
-    "Transcendence/ft_transcendence.md",
-    "Transcendence/핸즈 온 장고/0. 핸즈온 장고.md",
-    "Transcendence/핸즈 온 장고/1.0 장고란?.md",
-    "Transcendence/2.2 장고의 필드.md",
     "첨부파일/정리 다 하면 지울 녀석.png",
     "첨부파일/Pasted image 20240215194346.png",
     "첨부파일/Pasted image 20240215150150.png",
-    "Transcendence/핸즈 온 장고/4.0 직렬화.md",
-    "Transcendence/핸즈 온 장고/3.3 트랜잭션 관리.md",
-    "Transcendence/핸즈 온 장고/3.2 쿼리셋 활용하기.md",
-    "Transcendence/핸즈 온 장고/3.1 쿼리셋.md",
-    "Transcendence/핸즈 온 장고/3.0 ORM.md",
-    "Transcendence/핸즈 온 장고/2.3 마이그레이션.md",
-    "Transcendence/핸즈 온 장고/2.2 장고의 필드.md",
-    "Transcendence/핸즈 온 장고/2.1 장고의 모델.md",
-    "Day Planners/2024-02-15.md",
     "첨부파일/Pasted image 20240215015427.png",
     "첨부파일/화질에바임.png",
     "첨부파일/Pasted image 20240215014746.png",
-    "Transcendence/2.1 장고의 모델.md",
-    "Transcendence/핸즈 온 장고/2.0 ER 모델링.md",
-    "Transcendence/Django4 및 Python 풀스택 개발자 마스터 클래스/4. Bootstrap.md",
     "첨부파일/Pasted image 20240214152643.png",
-    "template/핸즈온 장고 템플릿.md",
-    "Transcendence/핸즈 온 장고/1.1 장고 라이브러리.md",
     "Transcendence/핸즈 온 장고",
-    "Transcendence/SEO.md",
-    "Transcendence/Git-flow.md",
     "Transcendence/MSA 패턴과 핵심기술",
     "첨부파일/Pasted image 20230808152329.png",
     "첨부파일/Pasted image 20231025163918.png",
