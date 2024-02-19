@@ -4,34 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "6723edd1499c30b7",
+        "id": "3ab199f791975cee",
         "type": "tabs",
         "children": [
           {
-            "id": "7841ee3941fb45b7",
+            "id": "b1c365d876195df2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           },
           {
-            "id": "541833b11ae5615f",
+            "id": "6d29a049aaaf3821",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/해결해야 할 질문 by 프없프개.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md"
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md"
               }
             }
           },
@@ -168,12 +167,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7841ee3941fb45b7",
+  "active": "6d29a049aaaf3821",
   "lastOpenFiles": [
-    "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/1.2 동적 데이터 렌더링.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/0.0 해결해야 할 질문 by 프없프개.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/1.0 렌더링 함수.md",
-    "Transcendence/해결해야 할 질문 by 프없프개.md",
     "Transcendence/JavaScript 완벽 가이드/7.0 반복과 유사 배열 객체.md",
     "Transcendence/JavaScript 완벽 가이드/7.1 배열.md",
     "template/프레임워크 없는 프론트엔드 개발 템플릿.md",
@@ -185,7 +186,6 @@
     "Day Planners/2024-02-17.md",
     "무제 파일.canvas",
     "Transcendence/매우 중요.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
     "Transcendence/MSA 패턴과 핵심기술/4.3.1 전술적 설계.md",
     "Transcendence/MSA 패턴과 핵심기술/4.3.0 전략적 설계.md",
     "Transcendence/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
@@ -196,7 +196,6 @@
     "Transcendence/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
     "Transcendence/MSA 패턴과 핵심기술/2.0 MSA 도입 조건.md",
     "Transcendence/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
-    "Transcendence/MSA 패턴과 핵심기술/6.0 서비스 디스커버리 패턴.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발",
     "Transcendence/트센 캔버스.canvas",
     "첨부파일/정리 다 하면 지울 녀석.png",
