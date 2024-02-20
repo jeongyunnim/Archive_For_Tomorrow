@@ -42937,11 +42937,11 @@ Diff 알고리즘 ^kgBrahwm
 				"type": 2
 			},
 			"seed": 82438102,
-			"version": 601,
-			"versionNonce": 445914314,
+			"version": 781,
+			"versionNonce": 460782282,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1708329485079,
+			"updated": 1708330666710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42998,11 +42998,11 @@ Diff 알고리즘 ^kgBrahwm
 				"type": 2
 			},
 			"seed": 242523158,
-			"version": 543,
-			"versionNonce": 4846474,
+			"version": 723,
+			"versionNonce": 1562448266,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708329485079,
+			"updated": 1708330666710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43059,11 +43059,11 @@ Diff 알고리즘 ^kgBrahwm
 				"type": 2
 			},
 			"seed": 1504162954,
-			"version": 764,
-			"versionNonce": 1184297546,
+			"version": 944,
+			"versionNonce": 1994018890,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708329485079,
+			"updated": 1708330666710,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43120,11 +43120,11 @@ Diff 알고리즘 ^kgBrahwm
 				"type": 2
 			},
 			"seed": 1335443862,
-			"version": 599,
-			"versionNonce": 542513418,
+			"version": 779,
+			"versionNonce": 1820178186,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708329485079,
+			"updated": 1708330666711,
 			"link": null,
 			"locked": false,
 			"points": [
