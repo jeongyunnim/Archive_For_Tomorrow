@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97b7a0013256c7f8",
+        "id": "d9d28a95930568dd",
         "type": "tabs",
         "children": [
           {
-            "id": "92a6c95872e3344c",
+            "id": "09250f2bf7e96be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe2a73d9115c4cf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/계층형 아키텍처.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1314c3e31b173316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/소프트웨어 아키텍처.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/JWT.md",
+                "file": "Transcendence/소프트웨어 아키텍처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/JWT.md",
+                "file": "Transcendence/소프트웨어 아키텍처.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/JWT.md"
+                "file": "Transcendence/소프트웨어 아키텍처.md"
               }
             }
           },
@@ -147,17 +172,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92a6c95872e3344c",
+  "active": "1314c3e31b173316",
   "lastOpenFiles": [
+    "Transcendence/계층형 아키텍처.md",
+    "Transcendence/소프트웨어 아키텍처.md",
+    "Transcendence/트센 소프트웨어 설계.md",
+    "Transcendence/JWT 장고로 구현하기.md",
+    "Transcendence/JWT.md",
+    "Transcendence/Stateless와 Stateful.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/2.1 DOM 이벤트 API.md",
+    "Day Planners/2024-02-15.md",
+    "Day Planners/2024-02-21.md",
+    "Transcendence/Server-Side Rendering.md",
+    "Transcendence/SparseArray.md",
+    "Transcendence/거버넌스.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/1.2 동적 데이터 렌더링.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
     "첨부파일/Pasted image 20240220184858.png",
     "첨부파일/Pasted image 20240220165256.png",
     "첨부파일/정리 다 하면 지울 녀석.png",
@@ -168,7 +207,6 @@
     "첨부파일/Pasted image 20240214152643.png",
     "첨부파일/Pasted image 20240206171915.png",
     "첨부파일/Pasted image 20240206002957.png",
-    "첨부파일/Pasted image 20240206002730.png",
     "첨부파일/Module09 ex00.md",
     "첨부파일",
     "무제 파일.canvas",
@@ -184,22 +222,9 @@
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.2 워드프레스 및 MySQL 컨테이너 생성과 연동.md",
-    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.1 워드프레스 구축.md",
-    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.0 여러 개의 컨테이너를 연동해 실행해보자.md",
-    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/0. 그림과 실습으로 배우는 도커 & 쿠버네티스.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스",
-    "archive(non_fixed)/inception/database/mysql doc 정리/mysql data 디렉토리.md",
-    "archive(non_fixed)/inception/database/mysql doc 정리/information_schema.md",
-    "archive(non_fixed)/inception/database/mysql 설정 쉘 스크립트 설명.md",
-    "archive(non_fixed)/inception/database/mysql 기본 database.md",
     "archive(non_fixed)/inception/database/mysql doc 정리",
-    "archive(non_fixed)/inception/database/mariadb 에러.md",
     "archive(non_fixed)/inception/database",
-    "Transcendence/핸즈 온 장고/4.1 DRF Serializer.md",
-    "Transcendence/핸즈 온 장고/4.0 직렬화.md",
-    "Transcendence/핸즈 온 장고/3.3 트랜잭션 관리.md",
-    "Transcendence/핸즈 온 장고/3.2 쿼리셋 활용하기.md",
-    "Transcendence/핸즈 온 장고/3.1 쿼리셋.md",
     "Transcendence/핸즈 온 장고",
     "Transcendence/프레임워크 없는 프론트엔드 개발",
     "Transcendence/트센 캔버스.canvas",
