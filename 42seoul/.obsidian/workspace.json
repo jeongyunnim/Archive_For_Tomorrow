@@ -37,14 +37,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/JWT 장고로 구현하기.md",
+                "file": "Transcendence/소프트웨어 아키텍처.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "edf1053555af2f8a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/JWT 장고로 구현하기.md",
+                "file": "Excalidraw/ft_transcendence.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/JWT 장고로 구현하기.md",
+                "file": "Excalidraw/ft_transcendence.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/JWT 장고로 구현하기.md"
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           },
@@ -172,25 +182,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1314c3e31b173316",
+  "active": "edf1053555af2f8a",
   "lastOpenFiles": [
-    "Transcendence/트센 캔버스.canvas",
-    "Transcendence/ft_transcendence.md",
-    "Transcendence/JWT.md",
-    "Transcendence/JWT 장고로 구현하기.md",
-    "Excalidraw/inception.excalidraw.md",
+    "Transcendence/DDD.md",
+    "첨부파일/Pasted image 20240221234836.png",
     "Transcendence/소프트웨어 아키텍처.md",
     "Transcendence/계층형 아키텍처.md",
     "Transcendence/트센 소프트웨어 설계.md",
+    "Transcendence/JWT 장고로 구현하기.md",
+    "Transcendence/JWT.md",
     "Transcendence/Stateless와 Stateful.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/2.1 DOM 이벤트 API.md",
     "Day Planners/2024-02-15.md",
@@ -209,7 +218,6 @@
     "첨부파일/Pasted image 20240215014746.png",
     "첨부파일/Pasted image 20240214152643.png",
     "첨부파일/Pasted image 20240206171915.png",
-    "첨부파일/Pasted image 20240206002957.png",
     "첨부파일/Module09 ex00.md",
     "첨부파일",
     "무제 파일.canvas",
@@ -222,11 +230,13 @@
     "archive(non_fixed)/inception/도커/쿠버네티스 입문.md",
     "archive(non_fixed)/inception/도커/도커 빌드 시간 줄이기.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/Awesome-Compose.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/7.0 도커 컴포즈를 익히자.md",
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스",
     "archive(non_fixed)/inception/database/mysql doc 정리",
     "archive(non_fixed)/inception/database",
     "Transcendence/핸즈 온 장고",
     "Transcendence/프레임워크 없는 프론트엔드 개발",
+    "Transcendence/트센 캔버스.canvas",
     "Transcendence/작성 해야 함",
     "Transcendence/Python 100일 부트캠프",
     "Transcendence/MSA 패턴과 핵심기술",
