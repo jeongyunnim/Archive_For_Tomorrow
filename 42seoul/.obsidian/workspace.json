@@ -16,8 +16,29 @@
                 "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "ece3452538ac8d1c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/MSA.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "fb6081e17942efdd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/JavaScript.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Excalidraw/MSA.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Excalidraw/MSA.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+                "file": "Excalidraw/MSA.excalidraw.md"
               }
             }
           },
@@ -145,25 +166,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe2a73d9115c4cf6",
+  "active": "ece3452538ac8d1c",
   "lastOpenFiles": [
-    "Transcendence/<번역>ft_transcendence.md",
-    "Transcendence/ft_transcendence.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/JWT.md",
-    "Transcendence/JWT 장고로 구현하기.md",
-    "Transcendence/DDD.md",
-    "첨부파일/Pasted image 20240221234836.png",
-    "첨부파일/Pasted image 20240203164149.png",
+    "Excalidraw/Django.excalidraw.md",
+    "Excalidraw/FJsort.excalidraw.md",
+    "Excalidraw/MSA.excalidraw.md",
+    "Excalidraw/inception.excalidraw.md",
+    "Excalidraw/JavaScript.excalidraw.md",
     "첨부파일/Pasted image 20240201004413.png",
     "첨부파일/Pasted image 20240201001027.png",
     "첨부파일/Pasted image 20240127164907.png",
@@ -172,6 +191,8 @@
     "첨부파일/Pasted image 20240122182043.png",
     "첨부파일/Pasted image 20240122180254.png",
     "첨부파일/Pasted image 20240122155452.png",
+    "첨부파일/Pasted image 20240121170027.png",
+    "첨부파일/Pasted image 20240121165953.png",
     "무제 파일.canvas",
     "template/핸즈온 장고 템플릿.md",
     "template/프레임워크 없는 프론트엔드 개발 템플릿.md",
