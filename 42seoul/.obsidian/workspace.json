@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b424291643e6ab46",
+            "id": "47835ebb4c0784fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Transcendence/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           }
@@ -70,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md",
+                "file": "Excalidraw/ft_transcendence.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md",
+                "file": "Excalidraw/ft_transcendence.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md"
+                "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
           },
@@ -147,30 +145,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "47835ebb4c0784fa",
   "lastOpenFiles": [
+    "Transcendence/트센 캔버스.canvas",
+    "Transcendence/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "첨부파일/Pasted Image 20240223154225_304.png",
+    "첨부파일/Pasted image 20240221234836.png",
+    "첨부파일/Pasted image 20240220184858.png",
+    "첨부파일/Pasted image 20240220165256.png",
     "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.4 View, Routing, URLs.md",
     "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
     "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md",
     "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.8 Django Form.md",
     "Transcendence/Django/JWT 장고로 구현하기/0. JWT 장고로 구현하기.md",
-    "Transcendence/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md",
     "Transcendence/Django/JWT 장고로 구현하기/2. drf-simplejwt.md",
     "Transcendence/Django/JWT 장고로 구현하기/1. deku 장고로 jwt 구현 블로그 정리.md",
     "Transcendence/Django/JWT 장고로 구현하기",
     "Transcendence/Django",
     "Transcendence/JWT.md",
     "Excalidraw/JavaScript.excalidraw.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
     "Excalidraw/MSA.excalidraw.md",
     "Excalidraw/Django.excalidraw.md",
     "Excalidraw/FJsort.excalidraw.md",
@@ -181,10 +184,6 @@
     "첨부파일/Pasted image 20240127164520.png",
     "첨부파일/Pasted image 20240126160056.png",
     "첨부파일/Pasted image 20240122182043.png",
-    "첨부파일/Pasted image 20240122180254.png",
-    "첨부파일/Pasted image 20240122155452.png",
-    "첨부파일/Pasted image 20240121170027.png",
-    "첨부파일/Pasted image 20240121165953.png",
     "무제 파일.canvas",
     "template/핸즈온 장고 템플릿.md",
     "template/프레임워크 없는 프론트엔드 개발 템플릿.md",
@@ -197,10 +196,8 @@
     "Transcendence/Django/핸즈 온 장고/3.3 트랜잭션 관리.md",
     "Transcendence/Django/핸즈 온 장고/3.2 쿼리셋 활용하기.md",
     "Transcendence/Django/핸즈 온 장고/3.1 쿼리셋.md",
-    "Transcendence/Django/핸즈 온 장고/3.0 ORM.md",
     "Transcendence/Django/핸즈 온 장고",
     "Transcendence/프레임워크 없는 프론트엔드 개발",
-    "Transcendence/트센 캔버스.canvas",
     "Transcendence/작성 해야 함",
     "Transcendence/Python 100일 부트캠프",
     "Transcendence/MSA 패턴과 핵심기술",
