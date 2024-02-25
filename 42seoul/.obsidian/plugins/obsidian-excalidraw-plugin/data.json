@@ -78,31 +78,36 @@
         "status": "unpublished",
         "elements": [
           {
-            "id": "EL6Ygb2Npo2v_PIglulMQ",
             "type": "line",
-            "x": 3644.0547443651417,
-            "y": 215.94336170631217,
-            "width": 98.18517087809278,
-            "height": 19.32855864780592,
-            "angle": 0,
-            "strokeColor": "#1e1e1e",
-            "backgroundColor": "transparent",
+            "version": 346,
+            "versionNonce": 862253407,
+            "isDeleted": false,
+            "id": "EL6Ygb2Npo2v_PIglulMQ",
             "fillStyle": "hachure",
             "strokeWidth": 2,
             "strokeStyle": "solid",
             "roughness": 0,
             "opacity": 100,
+            "angle": 0,
+            "x": 3644.0547443651417,
+            "y": 215.94336170631217,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 98.18517087809278,
+            "height": 19.32855864780592,
+            "seed": 357005183,
             "groupIds": [],
             "frameId": null,
             "roundness": null,
-            "seed": 357005183,
-            "version": 346,
-            "versionNonce": 862253407,
-            "isDeleted": false,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1708863754974,
             "link": null,
             "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
             "points": [
               [
                 0,
@@ -128,15 +133,7 @@
                 79.42277379498182,
                 -0.056396254016533476
               ]
-            ],
-            "lastCommittedPoint": [
-              79.42277379498182,
-              -0.056396254016533476
-            ],
-            "startBinding": null,
-            "endBinding": null,
-            "startArrowhead": null,
-            "endArrowhead": null
+            ]
           }
         ],
         "created": 1708863771366

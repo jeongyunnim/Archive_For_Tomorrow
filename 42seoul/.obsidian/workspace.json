@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/2.2 TodoMVC에 이벤트 추가 예제.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/2.2 TodoMVC에 이벤트 추가 예제.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "9eb08c726a706a96",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/JavaScript.excalidraw.md"
               }
             }
           },
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/2.2 TodoMVC에 이벤트 추가 예제.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/2.2 TodoMVC에 이벤트 추가 예제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/2.2 TodoMVC에 이벤트 추가 예제.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/2.2 TodoMVC에 이벤트 추가 예제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/2.2 TodoMVC에 이벤트 추가 예제.md"
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/2.2 TodoMVC에 이벤트 추가 예제.md"
               }
             }
           },
@@ -170,13 +180,16 @@
   },
   "active": "47835ebb4c0784fa",
   "lastOpenFiles": [
+    "Excalidraw/JavaScript.excalidraw.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/2.2 TodoMVC에 이벤트 추가 예제.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/1.0 렌더링 함수.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/0.0 해결해야 할 질문 by 프없프개.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
-    "Transcendence/2.2 TodoMVC에 이벤트 추가 예제.md",
     "Transcendence/Django/JWT 장고로 구현하기/5. JWT 인증을 사용한 회원가입&로그인.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/2.1 DOM 이벤트 API.md",
     "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
     "Transcendence/JavaScript 완벽 가이드/13.0 고급 함수 개념.md",
-    "Excalidraw/JavaScript.excalidraw.md",
     "Transcendence/Django/JWT 장고로 구현하기/4. DRF를 사용한 JWT Authentication.md",
     "Transcendence/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md",
     "Transcendence/Django/JWT 장고로 구현하기/2. drf-simplejwt.md",
@@ -208,9 +221,6 @@
     "첨부파일/Pasted image 20240126160056.png",
     "첨부파일/Pasted image 20240122182043.png",
     "무제 파일.canvas",
-    "template/핸즈온 장고 템플릿.md",
-    "template/프레임워크 없는 프론트엔드 개발 템플릿.md",
-    "template/Zettelkasten.md",
     "template",
     "Transcendence/Django/핸즈 온 장고",
     "Transcendence/프레임워크 없는 프론트엔드 개발",
