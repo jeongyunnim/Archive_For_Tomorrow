@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/Django/JWT 장고로 구현하기/4. DRF를 사용한 JWT Authentication.md",
+                "file": "Transcendence/2.2 TodoMVC에 이벤트 추가 예제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bdd6a220947101f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/Django/JWT 장고로 구현하기/5. JWT 인증을 사용한 회원가입&로그인.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tistory",
+                "query": "버블링",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/Django/JWT 장고로 구현하기/4. DRF를 사용한 JWT Authentication.md",
+                "file": "Transcendence/2.2 TodoMVC에 이벤트 추가 예제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/Django/JWT 장고로 구현하기/4. DRF를 사용한 JWT Authentication.md",
+                "file": "Transcendence/2.2 TodoMVC에 이벤트 추가 예제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/Django/JWT 장고로 구현하기/4. DRF를 사용한 JWT Authentication.md"
+                "file": "Transcendence/2.2 TodoMVC에 이벤트 추가 예제.md"
               }
             }
           },
@@ -147,23 +159,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "47835ebb4c0784fa",
   "lastOpenFiles": [
+    "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
+    "Transcendence/2.2 TodoMVC에 이벤트 추가 예제.md",
+    "Transcendence/Django/JWT 장고로 구현하기/5. JWT 인증을 사용한 회원가입&로그인.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/2.1 DOM 이벤트 API.md",
+    "Transcendence/JavaScript 완벽 가이드/12.0 이벤트.md",
+    "Transcendence/JavaScript 완벽 가이드/13.0 고급 함수 개념.md",
+    "Excalidraw/JavaScript.excalidraw.md",
     "Transcendence/Django/JWT 장고로 구현하기/4. DRF를 사용한 JWT Authentication.md",
+    "Transcendence/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md",
+    "Transcendence/Django/JWT 장고로 구현하기/2. drf-simplejwt.md",
+    "Transcendence/Django/JWT 장고로 구현하기/6. Django Rest API with JSON web token authentication.md",
     "Transcendence/Django/JWT 장고로 구현하기/0. JWT 장고로 구현하기.md",
     "Transcendence/Django/JWT 장고로 구현하기/1. deku 장고로 jwt 구현 블로그 정리.md",
-    "Transcendence/Django/JWT 장고로 구현하기/2. drf-simplejwt.md",
-    "Transcendence/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/Python",
     "Transcendence/트센 캔버스.canvas",
     "첨부파일/Pasted Image 20240223154225_304.png",
     "첨부파일/Pasted image 20240221234836.png",
@@ -176,7 +197,6 @@
     "Transcendence/Django/JWT 장고로 구현하기",
     "Transcendence/Django",
     "Transcendence/JWT.md",
-    "Excalidraw/JavaScript.excalidraw.md",
     "Excalidraw/MSA.excalidraw.md",
     "Excalidraw/Django.excalidraw.md",
     "Excalidraw/FJsort.excalidraw.md",
@@ -191,21 +211,13 @@
     "template/핸즈온 장고 템플릿.md",
     "template/프레임워크 없는 프론트엔드 개발 템플릿.md",
     "template/Zettelkasten.md",
-    "template/Python 강의 템플릿.md",
-    "template/Daily Note Template.md",
     "template",
-    "Transcendence/Django/핸즈 온 장고/4.1 DRF Serializer.md",
-    "Transcendence/Django/핸즈 온 장고/4.0 직렬화.md",
-    "Transcendence/Django/핸즈 온 장고/3.3 트랜잭션 관리.md",
-    "Transcendence/Django/핸즈 온 장고/3.2 쿼리셋 활용하기.md",
-    "Transcendence/Django/핸즈 온 장고/3.1 쿼리셋.md",
     "Transcendence/Django/핸즈 온 장고",
     "Transcendence/프레임워크 없는 프론트엔드 개발",
     "Transcendence/작성 해야 함",
-    "Transcendence/Python 100일 부트캠프",
+    "Transcendence/Python/Python 100일 부트캠프",
     "Transcendence/MSA 패턴과 핵심기술",
     "Transcendence/JavaScript 완벽 가이드",
-    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스",
     "Untitled.canvas",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
