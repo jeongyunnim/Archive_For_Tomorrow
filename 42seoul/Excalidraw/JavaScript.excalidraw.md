@@ -19003,8 +19003,8 @@ WheelEvent ^uIKLxQmZ
 		},
 		{
 			"type": "arrow",
-			"version": 340,
-			"versionNonce": 1261128881,
+			"version": 421,
+			"versionNonce": 1189838961,
 			"isDeleted": false,
 			"id": "CONLhfGu1IUtZad5zQ5nD",
 			"fillStyle": "hachure",
@@ -19028,7 +19028,7 @@ WheelEvent ^uIKLxQmZ
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708881253440,
+			"updated": 1708914173021,
 			"link": null,
 			"locked": false,
 			"startBinding": {
