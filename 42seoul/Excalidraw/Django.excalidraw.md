@@ -201,6 +201,33 @@ Product API ^OyrKhFx3
 복호
 화 ^FJPCbrJK
 
+클래스 ^Jy43sRKi
+
+딕셔너리 ^mj62Y8pC
+
+JSON ^mzVsSCKG
+
+bytes ^RFY1kruE
+
+class User:
+    username: str = ""
+    password: str = ""
+    email: str = ""
+    name: str = ""
+    age: int = -1
+    is_superuser: bool = False
+    create_at: str = None ^D4XW9cmS
+
+{
+    username: "jeongyun.jeseo"
+    password: "test"
+    email: "jeseo@test.com"
+    name: "서정윤"
+    age: 28
+    is_superuser: false,
+    create_at: datetime(2024,2,26 11,51,31)
+} ^Z5X6eIm4
+
 %%
 # Drawing
 ```json
@@ -358,7 +385,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "{{JINJA}}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -430,7 +457,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "Pyton file\nwith\nURL routing",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -502,7 +529,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "Python file\nusing Django",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -576,7 +603,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "Python file\nusing Django\nModels",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -650,7 +677,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "Application \nlogic \nin Python",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "line",
@@ -1563,7 +1590,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "User\n(Browser)",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "line",
@@ -2040,7 +2067,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "SQL",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -2080,7 +2107,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "Database",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -2580,7 +2607,7 @@ Product API ^OyrKhFx3
 			"containerId": "auHYek0uv-e743vyVofYR",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -2655,7 +2682,7 @@ Product API ^OyrKhFx3
 			"containerId": "tbilMBO97c3O4nhs08YYY",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -2730,7 +2757,7 @@ Product API ^OyrKhFx3
 			"containerId": "2KSK5s7LugnrucCV0LehW",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -2805,7 +2832,7 @@ Product API ^OyrKhFx3
 			"containerId": "ZoCsNUXTM2BM-xJLpuSP9",
 			"originalText": "app\n1",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -2880,7 +2907,7 @@ Product API ^OyrKhFx3
 			"containerId": "kNcEK2JmZ1GvbtKp0KuGr",
 			"originalText": "app\n2",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -2955,7 +2982,7 @@ Product API ^OyrKhFx3
 			"containerId": "LHvkaJmUBPGktU27D8LAE",
 			"originalText": "app\n3",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -3030,7 +3057,7 @@ Product API ^OyrKhFx3
 			"containerId": "3Rp7v8vmW2b09osckbDB2",
 			"originalText": "app\nN",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "line",
@@ -3306,7 +3333,7 @@ Product API ^OyrKhFx3
 			"containerId": "FLelaXlxyvoiyU1Tmf7kW",
 			"originalText": "settings.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -3385,7 +3412,7 @@ Product API ^OyrKhFx3
 			"containerId": "hj3h_PBO5xL-tKhPA_oZr",
 			"originalText": "admin.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -3468,7 +3495,7 @@ Product API ^OyrKhFx3
 			"containerId": "qARSLJtPq-0bJC_iGpCaS",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -3625,7 +3652,7 @@ Product API ^OyrKhFx3
 			"containerId": "Eo8_HQ5qOa4HKGdyjc2Js",
 			"originalText": "view.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
@@ -3754,12 +3781,12 @@ Product API ^OyrKhFx3
 			"containerId": "FzHGRsw82JlqdfEgYTJE2",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 841,
-			"versionNonce": 649348013,
+			"version": 846,
+			"versionNonce": 983131871,
 			"isDeleted": false,
 			"id": "ySM50BaBY4aqpepXosR5P",
 			"fillStyle": "solid",
@@ -3783,7 +3810,7 @@ Product API ^OyrKhFx3
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708587928549,
+			"updated": 1709002227001,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3808,8 +3835,8 @@ Product API ^OyrKhFx3
 		},
 		{
 			"type": "arrow",
-			"version": 1869,
-			"versionNonce": 1210664461,
+			"version": 1889,
+			"versionNonce": 698823423,
 			"isDeleted": false,
 			"id": "CseNXK9Kt-cq1iSzCePld",
 			"fillStyle": "solid",
@@ -3833,7 +3860,7 @@ Product API ^OyrKhFx3
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708587928550,
+			"updated": 1709002227002,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5372,7 +5399,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -5447,7 +5474,7 @@ Product API ^OyrKhFx3
 			"containerId": "aCQttfn3gvLc6T9U605w9",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -5522,7 +5549,7 @@ Product API ^OyrKhFx3
 			"containerId": "BnDiKCgJKMDQ9ydMsarWA",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -5772,7 +5799,7 @@ Product API ^OyrKhFx3
 			"containerId": "euQup-7Kl69o0aO3rIRZr",
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -7133,7 +7160,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -7208,7 +7235,7 @@ Product API ^OyrKhFx3
 			"containerId": "DQ6b7X-FXkk9BzsYFw91W",
 			"originalText": "URL",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -7287,7 +7314,7 @@ Product API ^OyrKhFx3
 			"containerId": "qaG-54jF6urpUag2n8nM9",
 			"originalText": "urls.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -7493,7 +7520,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "views.py",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -7537,12 +7564,12 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "reverse(url_name)",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 3045,
-			"versionNonce": 511683907,
+			"version": 3050,
+			"versionNonce": 232308849,
 			"isDeleted": false,
 			"id": "iik3l1udTQJQG3eqOv567",
 			"fillStyle": "solid",
@@ -7566,7 +7593,7 @@ Product API ^OyrKhFx3
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708587928555,
+			"updated": 1709002227004,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7692,7 +7719,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "base.html",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -7847,7 +7874,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -7886,7 +7913,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -7954,7 +7981,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -7993,7 +8020,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "{% extends \"base.html\" %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -8032,7 +8059,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "{% block content %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -8071,7 +8098,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "{% endblock %}",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -8168,7 +8195,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "other.html",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -8589,7 +8616,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "Template\n+\nHTML, CSS, JS",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -8698,7 +8725,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "프론트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -8807,7 +8834,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "백",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -8885,7 +8912,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "장고\n뷰",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -8924,7 +8951,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "장고\n쿼리셋",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -8963,7 +8990,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "장고\nSerializer",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -9002,7 +9029,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "장고\n모델",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -9585,7 +9612,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -9668,7 +9695,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "migrate\nmakemigrations",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -9903,7 +9930,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -9971,7 +9998,7 @@ Product API ^OyrKhFx3
 			"containerId": null,
 			"originalText": "장고 애플리케이션",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10046,7 +10073,7 @@ Product API ^OyrKhFx3
 			"containerId": "oTWkhIfDvAkz7rE-Etoi5",
 			"originalText": "뷰",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10121,7 +10148,7 @@ Product API ^OyrKhFx3
 			"containerId": "LjEDVIzhoDB2KUBkMZgVI",
 			"originalText": "Serializer",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10196,7 +10223,7 @@ Product API ^OyrKhFx3
 			"containerId": "kmzst1BU6UrC3rIqYeLYy",
 			"originalText": "모델",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10271,7 +10298,7 @@ Product API ^OyrKhFx3
 			"containerId": "j9lfBZCKKJsDsTgxKdphZ",
 			"originalText": "User API",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10346,7 +10373,7 @@ Product API ^OyrKhFx3
 			"containerId": "UMlSxUKpIlYustfSLuqXS",
 			"originalText": "Store API",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10421,7 +10448,7 @@ Product API ^OyrKhFx3
 			"containerId": "mfWYHRLeco051FKYbX2Ki",
 			"originalText": "Product API",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10568,29 +10595,449 @@ Product API ^OyrKhFx3
 			"originalText": "복호\n화",
 			"lineHeight": 1.2,
 			"baseline": 37
+		},
+		{
+			"id": "-WRpwzWXZAutxtZEy4ywl",
+			"type": "rectangle",
+			"x": 540.7508038589327,
+			"y": -370.8812999498813,
+			"width": 212,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1162459601,
+			"version": 123,
+			"versionNonce": 1661220607,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "Jy43sRKi"
+				}
+			],
+			"updated": 1709002082107,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "Jy43sRKi",
+			"type": "text",
+			"x": 620.8008221694796,
+			"y": -360.3812999498813,
+			"width": 51.89996337890625,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1913970545,
+			"version": 124,
+			"versionNonce": 1740504177,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1709002082107,
+			"link": null,
+			"locked": false,
+			"text": "클래스",
+			"rawText": "클래스",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 19,
+			"containerId": "-WRpwzWXZAutxtZEy4ywl",
+			"originalText": "클래스",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "rectangle",
+			"version": 160,
+			"versionNonce": 2021850911,
+			"isDeleted": false,
+			"id": "6Q3025orGsRCStZZg1GQC",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 540.7508038589327,
+			"y": -214.31160849596085,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 212,
+			"height": 45,
+			"seed": 2105297841,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "mj62Y8pC"
+				}
+			],
+			"updated": 1709002082107,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 173,
+			"versionNonce": 75974225,
+			"isDeleted": false,
+			"id": "mj62Y8pC",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 612.1508282729952,
+			"y": -203.81160849596085,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 69.199951171875,
+			"height": 24,
+			"seed": 1144630673,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709002082107,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "딕셔너리",
+			"rawText": "딕셔너리",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "6Q3025orGsRCStZZg1GQC",
+			"originalText": "딕셔너리",
+			"lineHeight": 1.2,
+			"baseline": 19
+		},
+		{
+			"type": "rectangle",
+			"version": 222,
+			"versionNonce": 817407167,
+			"isDeleted": false,
+			"id": "URgAYtKNx6QIMsbUTddC5",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 540.1288799256471,
+			"y": 48.43664455781851,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 212,
+			"height": 45,
+			"seed": 1753507729,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "mzVsSCKG"
+				}
+			],
+			"updated": 1709002320864,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 243,
+			"versionNonce": 1344293553,
+			"isDeleted": false,
+			"id": "mzVsSCKG",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 622.6913799256471,
+			"y": 58.93664455781851,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 46.875,
+			"height": 24,
+			"seed": 1939033457,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709002320864,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "JSON",
+			"rawText": "JSON",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "URgAYtKNx6QIMsbUTddC5",
+			"originalText": "JSON",
+			"lineHeight": 1.2,
+			"baseline": 19
+		},
+		{
+			"type": "rectangle",
+			"version": 225,
+			"versionNonce": 2028188895,
+			"isDeleted": false,
+			"id": "22Bea_NN8za6MddxosigI",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 540.1288799256471,
+			"y": 202.00008870278236,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 212,
+			"height": 45,
+			"seed": 1719389169,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "RFY1kruE"
+				}
+			],
+			"updated": 1709002320864,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 261,
+			"versionNonce": 1074121873,
+			"isDeleted": false,
+			"id": "RFY1kruE",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 616.8320049256471,
+			"y": 212.50008870278236,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 58.59375,
+			"height": 24,
+			"seed": 434054609,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709002320864,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "bytes",
+			"rawText": "bytes",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "22Bea_NN8za6MddxosigI",
+			"originalText": "bytes",
+			"lineHeight": 1.2,
+			"baseline": 19
+		},
+		{
+			"id": "Iy2uIThgKhjBNe8e_9CQD",
+			"type": "rectangle",
+			"x": 820.9059740154033,
+			"y": -383.1246735585872,
+			"width": 280.97735205484383,
+			"height": 174.61521014871846,
+			"angle": 0,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"bO7voTRAIkPUoYNUN2iiX"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1614558129,
+			"version": 137,
+			"versionNonce": 1106849343,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1709002225317,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "D4XW9cmS",
+			"type": "text",
+			"x": 832.3120526562161,
+			"y": -368.6347444733554,
+			"width": 255.41015625,
+			"height": 139.5238402533685,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"bO7voTRAIkPUoYNUN2iiX"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 494779295,
+			"version": 336,
+			"versionNonce": 1478957361,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1709002225317,
+			"link": null,
+			"locked": false,
+			"text": "class User:\n    username: str = \"\"\n    password: str = \"\"\n    email: str = \"\"\n    name: str = \"\"\n    age: int = -1\n    is_superuser: bool = False\n    create_at: str = None",
+			"rawText": "class User:\n    username: str = \"\"\n    password: str = \"\"\n    email: str = \"\"\n    name: str = \"\"\n    age: int = -1\n    is_superuser: bool = False\n    create_at: str = None",
+			"fontSize": 14.533733359725884,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 136,
+			"containerId": null,
+			"originalText": "class User:\n    username: str = \"\"\n    password: str = \"\"\n    email: str = \"\"\n    name: str = \"\"\n    age: int = -1\n    is_superuser: bool = False\n    create_at: str = None",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "rectangle",
+			"version": 254,
+			"versionNonce": 683794431,
+			"isDeleted": false,
+			"id": "UhVaZwddu1zPW0VskJDOO",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 825.9043732046149,
+			"y": -180.07717616759896,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#ebfbee",
+			"width": 379.17728962851226,
+			"height": 195.37332721116684,
+			"seed": 1011083903,
+			"groupIds": [
+				"T876FSBgOuGx7pimS_oQj"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709002315042,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 526,
+			"versionNonce": 857733471,
+			"isDeleted": false,
+			"id": "Z5X6eIm4",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 837.3104518454278,
+			"y": -165.58724708236718,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 366.087890625,
+			"height": 156.96432028503955,
+			"seed": 109068959,
+			"groupIds": [
+				"T876FSBgOuGx7pimS_oQj"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709002309079,
+			"link": null,
+			"locked": false,
+			"fontSize": 14.533733359725884,
+			"fontFamily": 3,
+			"text": "{\n    username: \"jeongyun.jeseo\"\n    password: \"test\"\n    email: \"jeseo@test.com\"\n    name: \"서정윤\"\n    age: 28\n    is_superuser: false,\n    create_at: datetime(2024,2,26 11,51,31)\n}",
+			"rawText": "{\n    username: \"jeongyun.jeseo\"\n    password: \"test\"\n    email: \"jeseo@test.com\"\n    name: \"서정윤\"\n    age: 28\n    is_superuser: false,\n    create_at: datetime(2024,2,26 11,51,31)\n}",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "{\n    username: \"jeongyun.jeseo\"\n    password: \"test\"\n    email: \"jeseo@test.com\"\n    name: \"서정윤\"\n    age: 28\n    is_superuser: false,\n    create_at: datetime(2024,2,26 11,51,31)\n}",
+			"lineHeight": 1.2,
+			"baseline": 154
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 1,
+		"currentItemStrokeColor": "#ffffff",
+		"currentItemBackgroundColor": "#ebfbee",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
+		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
+		"currentItemFontFamily": 3,
 		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2368.154401154404,
-		"scrollY": 1339.901261498919,
+		"scrollX": -588.4183244896386,
+		"scrollY": 297.2794968727438,
 		"zoom": {
-			"value": 0.4999999999999996
+			"value": 1.066430297812691
 		},
-		"currentItemRoundness": "round",
+		"currentItemRoundness": "sharp",
 		"gridSize": null,
 		"currentStrokeOptions": null,
 		"previousGridSize": null
