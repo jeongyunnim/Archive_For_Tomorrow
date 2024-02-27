@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
+                "file": "Transcendence/5.2 라우팅 예제.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/5.2 라우팅 예제.md",
+                "file": "Day Planners/2024-02-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,18 +193,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0912515abc68d6ca",
+  "active": "9eb08c726a706a96",
   "lastOpenFiles": [
-    "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
-    "Transcendence/5.2 라우팅 예제.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/5.1 단일 페이지 어플리케이션.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
     "Excalidraw/JavaScript.excalidraw.md",
+    "Transcendence/5.2 라우팅 예제.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
+    "Day Planners/2024-02-27.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/5.1 단일 페이지 어플리케이션.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/5.0 라우팅.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/4.3 적합한 HTTP API를 선택하는 방법.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/4.2 HTTP 요청 예제.md",
     "Transcendence/Fetch API.md",
     "Transcendence/보일러플레이트 코드.md",
-    "Day Planners/2024-02-27.md",
     "Transcendence/JavaScript 완벽 가이드/8.0 객체란 무엇인가?.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/0.0 해결해야 할 질문 by 프없프개.md",
     "Transcendence/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
@@ -232,7 +232,6 @@
     "template/프레임워크 없는 프론트엔드 개발 템플릿.md",
     "template/Zettelkasten.md",
     "template/Python 강의 템플릿.md",
-    "template/Daily Note Template.md",
     "template",
     "Transcendence/Python/Python 100일 부트캠프",
     "Transcendence/Django/핸즈 온 장고",
