@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/5.0 라우팅.md",
+                "file": "Transcendence/5.2 라우팅 예제.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/5.0 라우팅.md",
+                "file": "Transcendence/5.2 라우팅 예제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/5.0 라우팅.md",
+                "file": "Transcendence/5.2 라우팅 예제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/5.0 라우팅.md"
+                "file": "Transcendence/5.2 라우팅 예제.md"
               }
             }
           },
@@ -194,9 +194,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "0912515abc68d6ca",
   "lastOpenFiles": [
     "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
+    "Transcendence/5.2 라우팅 예제.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/5.1 단일 페이지 어플리케이션.md",
+    "Excalidraw/JavaScript.excalidraw.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/5.0 라우팅.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/4.3 적합한 HTTP API를 선택하는 방법.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/4.2 HTTP 요청 예제.md",
@@ -231,9 +234,6 @@
     "template/Python 강의 템플릿.md",
     "template/Daily Note Template.md",
     "template",
-    "Transcendence/Python/Python 100일 부트캠프/Pycharm.md",
-    "Transcendence/Python/Python 100일 부트캠프/66. RESTful 라우팅으로 자신만의 API 구축.md",
-    "Transcendence/Python/Python 100일 부트캠프/0. Python All-in-one 코스.md",
     "Transcendence/Python/Python 100일 부트캠프",
     "Transcendence/Django/핸즈 온 장고",
     "Transcendence/Django/JWT 장고로 구현하기",
