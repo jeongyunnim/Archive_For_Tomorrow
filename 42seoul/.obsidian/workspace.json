@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6301f2ca14ca757b",
+        "id": "bd5c92a6358df959",
         "type": "tabs",
         "children": [
           {
-            "id": "2a4eee8e1f9b127d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8a7a6a56e2abb32f",
+            "id": "b26b6c89bd4cf2b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/Django/JWT 장고로 구현하기/0. JWT 장고로 구현하기.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/5.2 라우팅 예제.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -96,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/5.2 라우팅 예제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/5.2 라우팅 예제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/5.2 라우팅 예제.md"
               }
             }
           },
@@ -158,45 +149,47 @@
   "left-ribbon": {
     "hiddenItems": {
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a4eee8e1f9b127d",
+  "active": "b26b6c89bd4cf2b4",
   "lastOpenFiles": [
-    "Excalidraw/JavaScript.excalidraw.md",
-    "Transcendence/Django/JWT 장고로 구현하기/0. JWT 장고로 구현하기.md",
-    "Transcendence/JavaScript 완벽 가이드/16.0 HTTP로 작업하기.md",
-    "Transcendence/JavaScript 완벽 가이드/18.0 브라우저 스토리지.md",
-    "Transcendence/JavaScript 완벽 가이드/14.2 문자열 심화.md",
-    "Transcendence/JavaScript 완벽 가이드/15.2 async, await.md",
-    "Transcendence/JavaScript 완벽 가이드/15.1 프로미스.md",
-    "Transcendence/JavaScript 완벽 가이드/15.0 비동기 javaScript 프로미스, 콜백.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/5.2 라우팅 예제.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/1.0 렌더링 함수.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/1.2 동적 데이터 렌더링.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/1.2 동적 데이터 렌더링 1.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/4.1 REST.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/3.1 웹 컴포넌트 API.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/2.2 TodoMVC에 이벤트 추가 예제.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/2.1 DOM 이벤트 API.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/2.0 YANGI 원칙.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "Excalidraw/inception.excalidraw.md",
-    "Transcendence/replace 추가 정보.md",
+    "Transcendence/Django/핸즈 온 장고/4.1 DRF Serializer.md",
+    "Transcendence/Django/핸즈 온 장고/4.0 직렬화.md",
     "첨부파일/Pasted Image 20240228192906_309.png",
-    "Excalidraw/Django.excalidraw.md",
-    "Excalidraw/FJsort.excalidraw.md",
     "첨부파일/Pasted Image 20240228181620_925.png",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/5.1 단일 페이지 어플리케이션.md",
-    "Day Planners/2024-02-26.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/5.2 라우팅 예제.md",
+    "Transcendence/replace 추가 정보.md",
     "Day Planners/2024-02-28.md",
+    "무제 파일.canvas",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "무제 파일 1.canvas",
+    "Excalidraw/Django.excalidraw.md",
+    "Excalidraw/inception.excalidraw.md",
+    "Excalidraw/JavaScript.excalidraw.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/5.1 단일 페이지 어플리케이션.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/5.0 라우팅.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/4.3 적합한 HTTP API를 선택하는 방법.md",
+    "Transcendence/보일러플레이트 코드.md",
+    "Transcendence/Fetch API.md",
+    "Transcendence/5.2 라우팅 예제.md",
+    "Day Planners/2024-02-27.md",
+    "Transcendence/Django REST Framework.md",
+    "Transcendence/Use Case Diagram.md",
+    "Transcendence/Stateless와 Stateful.md",
+    "Transcendence/SparseArray.md",
+    "Transcendence/Server-Side Rendering.md",
+    "Transcendence/Node.js.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/1.0 렌더링 함수.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/4.2 HTTP 요청 예제.md",
+    "Transcendence/Django/JWT 장고로 구현하기/5. JWT 인증을 사용한 회원가입&로그인.md",
     "Transcendence/Python",
     "Transcendence/트센 캔버스.canvas",
     "첨부파일/Pasted Image 20240223154225_304.png",
@@ -209,7 +202,6 @@
     "첨부파일/Pasted image 20240201001027.png",
     "첨부파일/Pasted image 20240127164907.png",
     "첨부파일/Pasted image 20240127164520.png",
-    "무제 파일.canvas",
     "template",
     "Transcendence/Django/핸즈 온 장고",
     "Transcendence/프레임워크 없는 프론트엔드 개발",
