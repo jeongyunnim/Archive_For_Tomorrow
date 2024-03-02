@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bd5c92a6358df959",
+        "id": "a3a60565b24c5333",
         "type": "tabs",
         "children": [
           {
-            "id": "b26b6c89bd4cf2b4",
+            "id": "933aa3dc7bad165b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.3 네이티브 프록시.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c23fa0ca051683c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.3 네이티브 프록시.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.3 네이티브 프록시.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.3 네이티브 프록시.md"
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md"
               }
             }
           },
@@ -148,64 +161,63 @@
   "left-ribbon": {
     "hiddenItems": {
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b26b6c89bd4cf2b4",
+  "active": "a69cded141b28ffc",
   "lastOpenFiles": [
-    "Transcendence/프레임워크 없는 프론트엔드 개발/6.2 반응형 프로그래밍.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/6.3 네이티브 프록시.md",
-    "Day Planners/2024-03-01.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/6.1 ToDoMVC 앱 리뷰.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/6.0 상태관리.md",
-    "Transcendence/6.1 ToDoMVC 앱 리뷰.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
-    "Transcendence/6.0 상태관리.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/5.2 라우팅 예제.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/2.2 TodoMVC에 이벤트 추가 예제.md",
-    "Transcendence/Django/핸즈 온 장고/4.1 DRF Serializer.md",
-    "Transcendence/Django/핸즈 온 장고/4.0 직렬화.md",
-    "첨부파일/Pasted Image 20240228192906_309.png",
-    "첨부파일/Pasted Image 20240228181620_925.png",
-    "Transcendence/replace 추가 정보.md",
-    "Day Planners/2024-02-28.md",
-    "무제 파일.canvas",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "무제 파일 1.canvas",
-    "Excalidraw/Django.excalidraw.md",
-    "Excalidraw/inception.excalidraw.md",
     "Excalidraw/JavaScript.excalidraw.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/5.1 단일 페이지 어플리케이션.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/5.0 라우팅.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/4.3 적합한 HTTP API를 선택하는 방법.md",
-    "Transcendence/보일러플레이트 코드.md",
-    "Transcendence/Fetch API.md",
-    "Transcendence/5.2 라우팅 예제.md",
-    "Day Planners/2024-02-27.md",
-    "Transcendence/Django REST Framework.md",
-    "Transcendence/Python",
-    "Transcendence/트센 캔버스.canvas",
-    "첨부파일/Pasted Image 20240223154225_304.png",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/6.3 네이티브 프록시.md",
+    "첨부파일/정리 다 하면 지울 녀석.png",
     "첨부파일/Pasted image 20240221234836.png",
     "첨부파일/Pasted image 20240220184858.png",
     "첨부파일/Pasted image 20240220165256.png",
-    "Transcendence/Django/JWT 장고로 구현하기",
-    "Transcendence/Django",
-    "첨부파일/Pasted image 20240201004413.png",
-    "첨부파일/Pasted image 20240201001027.png",
-    "첨부파일/Pasted image 20240127164907.png",
-    "첨부파일/Pasted image 20240127164520.png",
+    "첨부파일/Pasted image 20240215150150.png",
+    "첨부파일/Pasted image 20240215015427.png",
+    "첨부파일/Pasted image 20240214152643.png",
+    "첨부파일/Pasted image 20240206171915.png",
+    "첨부파일/Pasted image 20240206002957.png",
+    "첨부파일/Pasted image 20240206002730.png",
+    "무제 파일.canvas",
+    "template/핸즈온 장고 템플릿.md",
+    "template/프레임워크 없는 프론트엔드 개발 템플릿.md",
+    "template/Zettelkasten.md",
+    "template/Python 강의 템플릿.md",
+    "template/Daily Note Template.md",
     "template",
-    "Transcendence/Django/핸즈 온 장고",
-    "Transcendence/프레임워크 없는 프론트엔드 개발",
-    "Transcendence/작성 해야 함",
+    "Transcendence/Python/Python 100일 부트캠프/Pycharm.md",
+    "Transcendence/Python/Python 100일 부트캠프/66. RESTful 라우팅으로 자신만의 API 구축.md",
+    "Transcendence/Python/Python 100일 부트캠프/0. Python All-in-one 코스.md",
+    "Transcendence/Django/핸즈 온 장고/4.1 DRF Serializer.md",
+    "Transcendence/Django/핸즈 온 장고/4.0 직렬화.md",
+    "Transcendence/Django/핸즈 온 장고/3.3 트랜잭션 관리.md",
+    "Transcendence/Django/핸즈 온 장고/3.2 쿼리셋 활용하기.md",
+    "Transcendence/Django/핸즈 온 장고/3.1 쿼리셋.md",
+    "Transcendence/Django/핸즈 온 장고/3.0 ORM.md",
+    "Transcendence/Django/핸즈 온 장고/2.3 마이그레이션.md",
+    "Transcendence/Django/핸즈 온 장고/2.2 장고의 필드.md",
+    "Transcendence/Django/핸즈 온 장고/2.1 장고의 모델.md",
+    "Transcendence/Django/핸즈 온 장고/2.0 ER 모델링.md",
+    "Transcendence/Django/핸즈 온 장고/1.1 장고 라이브러리.md",
+    "Transcendence/Django/핸즈 온 장고/1.0 장고란?.md",
+    "Transcendence/Django/핸즈 온 장고/0. 핸즈온 장고.md",
+    "Transcendence/Django/JWT 장고로 구현하기/6. Django Rest API with JSON web token authentication.md",
     "Transcendence/Python/Python 100일 부트캠프",
+    "Transcendence/Django/핸즈 온 장고",
+    "Transcendence/Django/JWT 장고로 구현하기",
+    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스",
+    "Transcendence/프레임워크 없는 프론트엔드 개발",
+    "Transcendence/트센 캔버스.canvas",
+    "Transcendence/작성 해야 함",
+    "Transcendence/Python",
     "Transcendence/MSA 패턴과 핵심기술",
     "Transcendence/JavaScript 완벽 가이드",
     "Untitled.canvas",
