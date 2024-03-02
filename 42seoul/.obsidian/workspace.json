@@ -23,16 +23,26 @@
             "id": "c23fa0ca051683c9",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/JavaScript.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "68efa6d552c3ac98",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.5 상태관리 전략 비교.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 318.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -99,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.5 상태관리 전략 비교.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.5 상태관리 전략 비교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md"
+                "file": "Transcendence/프레임워크 없는 프론트엔드 개발/6.5 상태관리 전략 비교.md"
               }
             }
           },
@@ -170,11 +180,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "68efa6d552c3ac98",
   "lastOpenFiles": [
-    "Excalidraw/JavaScript.excalidraw.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
+    "Excalidraw/JavaScript.excalidraw.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/6.5 상태관리 전략 비교.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/1.0 렌더링 함수.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발/6.2 반응형 프로그래밍.md",
     "Transcendence/프레임워크 없는 프론트엔드 개발/6.3 네이티브 프록시.md",
     "첨부파일/정리 다 하면 지울 녀석.png",
     "첨부파일/Pasted image 20240221234836.png",
@@ -206,10 +220,6 @@
     "Transcendence/Django/핸즈 온 장고/2.2 장고의 필드.md",
     "Transcendence/Django/핸즈 온 장고/2.1 장고의 모델.md",
     "Transcendence/Django/핸즈 온 장고/2.0 ER 모델링.md",
-    "Transcendence/Django/핸즈 온 장고/1.1 장고 라이브러리.md",
-    "Transcendence/Django/핸즈 온 장고/1.0 장고란?.md",
-    "Transcendence/Django/핸즈 온 장고/0. 핸즈온 장고.md",
-    "Transcendence/Django/JWT 장고로 구현하기/6. Django Rest API with JSON web token authentication.md",
     "Transcendence/Python/Python 100일 부트캠프",
     "Transcendence/Django/핸즈 온 장고",
     "Transcendence/Django/JWT 장고로 구현하기",
