@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0 init.js 뜯어보기.md",
+                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7620431b4d665c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/2.0.1 config.js 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.1 View.js 뜯어보기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dff643f79d92a240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcendence/2.1.1 keypath.js 뜯어보기.md",
+                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.2 View.js 뜯어보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reduce",
+                "query": "data-*",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50390243530273,
-    "collapsed": true
+    "width": 238.50390243530273
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/2.1.1 keypath.js 뜯어보기.md",
+                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/2.1.1 keypath.js 뜯어보기.md",
+                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/2.1.1 keypath.js 뜯어보기.md"
+                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md"
               }
             }
           },
@@ -193,14 +191,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dff643f79d92a240",
+  "active": "68efa6d552c3ac98",
   "lastOpenFiles": [
-    "Transcendence/heshin님 프레임워크 뜯어보기/2.1 View.js 뜯어보기.md",
-    "Transcendence/2.1.1 keypath.js 뜯어보기.md",
-    "Transcendence/heshin님 프레임워크 뜯어보기/2.0 init.js 뜯어보기.md",
+    "첨부파일/Pasted image 20240304022612.png",
+    "Transcendence/2.0.1 config.js 파일.md",
+    "Transcendence/heshin님 프레임워크 뜯어보기/2.0.2 View.js 뜯어보기.md",
     "Transcendence/heshin님 프레임워크 뜯어보기/1. index 뜯어보기.md",
-    "Transcendence/heshin님 프레임워크 뜯어보기/0. heshin님 프레임워크 뜯어보기.md",
+    "Transcendence/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/2.1.1 keypath.js 뜯어보기.md",
+    "Transcendence/JavaScript 완벽 가이드/11.0 DOM & Browser API.md",
+    "Transcendence/heshin님 프레임워크 뜯어보기/0. heshin님 프레임워크 뜯어보기.md",
     "template/heshin's framework template.md",
     "Transcendence/heshin님 프레임워크 뜯어보기",
     "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
@@ -231,9 +232,6 @@
     "Transcendence/Python/Python 100일 부트캠프/Pycharm.md",
     "Transcendence/Python/Python 100일 부트캠프/66. RESTful 라우팅으로 자신만의 API 구축.md",
     "Transcendence/Python/Python 100일 부트캠프/0. Python All-in-one 코스.md",
-    "Transcendence/Django/핸즈 온 장고/4.1 DRF Serializer.md",
-    "Transcendence/Django/핸즈 온 장고/4.0 직렬화.md",
-    "Transcendence/Django/핸즈 온 장고/3.3 트랜잭션 관리.md",
     "Transcendence/Python/Python 100일 부트캠프",
     "Transcendence/Django/핸즈 온 장고",
     "Transcendence/Django/JWT 장고로 구현하기",
