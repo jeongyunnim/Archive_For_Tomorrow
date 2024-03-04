@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a60565b24c5333",
+        "id": "dd1b97a326630264",
         "type": "tabs",
         "children": [
           {
-            "id": "68efa6d552c3ac98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7620431b4d665c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcendence/2.0.1 config.js 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a9a7dd7ff1a559f",
+            "id": "ab560edb4933dbd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,13 +20,11 @@
             }
           },
           {
-            "id": "b10cac7e7e6e2c3a",
+            "id": "31a5f2d7c8641d59",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data-*",
+                "query": "볼륨",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50390243530273
+    "width": 300.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -120,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md",
+                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.2 View.js 뜯어보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md",
+                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.2 View.js 뜯어보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md"
+                "file": "Transcendence/heshin님 프레임워크 뜯어보기/2.0.2 View.js 뜯어보기.md"
               }
             }
           },
@@ -181,67 +155,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68efa6d552c3ac98",
+  "active": "ab560edb4933dbd1",
   "lastOpenFiles": [
-    "첨부파일/Pasted image 20240304022612.png",
-    "Transcendence/2.0.1 config.js 파일.md",
-    "Transcendence/heshin님 프레임워크 뜯어보기/2.0.2 View.js 뜯어보기.md",
-    "Transcendence/heshin님 프레임워크 뜯어보기/1. index 뜯어보기.md",
-    "Transcendence/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md",
+    "Transcendence/heshin님 프레임워크 뜯어보기/2.1.1 keypath.js 뜯어보기.md",
+    "Transcendence/Django/Django REST Framework.md",
+    "Transcendence/Django/JWT 장고로 구현하기/0. JWT 장고로 구현하기.md",
+    "Transcendence/Django/JWT 장고로 구현하기/5. JWT 인증을 사용한 회원가입&로그인.md",
+    "Transcendence/Django/JWT 장고로 구현하기/4. DRF를 사용한 JWT Authentication.md",
+    "Transcendence/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md",
+    "Transcendence/Django/JWT 장고로 구현하기/2. drf-simplejwt.md",
+    "Transcendence/Django/JWT 장고로 구현하기/1. deku 장고로 jwt 구현 블로그 정리.md",
     "Excalidraw/ft_transcendence.excalidraw.md",
-    "Transcendence/2.1.1 keypath.js 뜯어보기.md",
-    "Transcendence/JavaScript 완벽 가이드/11.0 DOM & Browser API.md",
-    "Transcendence/heshin님 프레임워크 뜯어보기/0. heshin님 프레임워크 뜯어보기.md",
-    "template/heshin's framework template.md",
-    "Transcendence/heshin님 프레임워크 뜯어보기",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
-    "Excalidraw/JavaScript.excalidraw.md",
-    "Transcendence/JavaScript 완벽 가이드/7.1 배열.md",
-    "첨부파일/Pasted Image 20240303174053_559.png",
-    "첨부파일/Pasted Image 20240303173524_338.png",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/6.5 상태관리 전략 비교.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/1.1 개선된 렌더링 함수.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/1.0 렌더링 함수.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/6.2 반응형 프로그래밍.md",
-    "Transcendence/프레임워크 없는 프론트엔드 개발/6.3 네이티브 프록시.md",
+    "Excalidraw/inception.excalidraw.md",
+    "Transcendence/거버넌스.md",
+    "Transcendence/Use Case Diagram.md",
+    "Transcendence/Stateless와 Stateful.md",
+    "Transcendence/SparseArray.md",
+    "Transcendence/Server-Side Rendering.md",
+    "Transcendence/SEO.md",
+    "Transcendence/replace 추가 정보.md",
+    "Transcendence/Rendering on the Web.md",
+    "Transcendence/Node.js.md",
+    "Transcendence/JWT.md",
+    "Transcendence/Fetch API.md",
+    "Transcendence/ft_transcendence.md",
+    "Transcendence/Git-flow.md",
+    "Transcendence/DDD.md",
+    "Transcendence/옵저버 패턴.md",
+    "Transcendence/Django/JWT 장고로 구현하기/6. Django Rest API with JSON web token authentication.md",
+    "Transcendence/트센 캔버스.canvas",
+    "무제 파일.canvas",
     "첨부파일/정리 다 하면 지울 녀석.png",
+    "첨부파일/Pasted image 20240304022612.png",
     "첨부파일/Pasted image 20240221234836.png",
     "첨부파일/Pasted image 20240220184858.png",
     "첨부파일/Pasted image 20240220165256.png",
+    "첨부파일/Pasted image 20240215194346.png",
     "첨부파일/Pasted image 20240215150150.png",
     "첨부파일/Pasted image 20240215015427.png",
+    "첨부파일/Pasted image 20240215014746.png",
     "첨부파일/Pasted image 20240214152643.png",
-    "첨부파일/Pasted image 20240206171915.png",
-    "무제 파일.canvas",
-    "template/핸즈온 장고 템플릿.md",
-    "template/Zettelkasten.md",
-    "template/Python 강의 템플릿.md",
-    "template/Daily Note Template.md",
-    "template",
-    "Transcendence/Python/Python 100일 부트캠프/Pycharm.md",
-    "Transcendence/Python/Python 100일 부트캠프/66. RESTful 라우팅으로 자신만의 API 구축.md",
-    "Transcendence/Python/Python 100일 부트캠프/0. Python All-in-one 코스.md",
+    "Transcendence/프레임워크 없는 프론트엔드 개발",
+    "Transcendence/heshin님 프레임워크 뜯어보기",
     "Transcendence/Python/Python 100일 부트캠프",
+    "Transcendence/Python",
+    "Transcendence/MSA 패턴과 핵심기술",
     "Transcendence/Django/핸즈 온 장고",
     "Transcendence/Django/JWT 장고로 구현하기",
     "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스",
-    "Transcendence/프레임워크 없는 프론트엔드 개발",
-    "Transcendence/트센 캔버스.canvas",
-    "Transcendence/작성 해야 함",
-    "Transcendence/Python",
-    "Transcendence/MSA 패턴과 핵심기술",
+    "Transcendence/Django",
     "Untitled.canvas",
+    "template",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
