@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c8679bf04c25d47a",
+        "id": "258e3cf9a84f49f2",
         "type": "tabs",
         "children": [
           {
-            "id": "89effc2608cbc690",
+            "id": "3c38f3b3b4d12684",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Transcendence/트센 캔버스.canvas",
                 "viewState": {
-                  "x": 1127.9616862547077,
-                  "y": 1222.3028440939338,
-                  "zoom": -1.141844523365959
+                  "x": 1662.013926053001,
+                  "y": 2488.9027520620443,
+                  "zoom": -1.2476644705866677
                 }
               }
             }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "date",
+                "query": "promise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,9 +160,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "89effc2608cbc690",
+  "active": "3c38f3b3b4d12684",
   "lastOpenFiles": [
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/JavaScript/mdn web docs/1.0 Web component.md",
+    "Transcendence/JavaScript/mdn web docs/0.MDN Web Docs.md",
+    "Day Planners/2024-03-27.md",
+    "Transcendence/JavaScript/JavaScript 완벽 가이드/15.1 프로미스.md",
+    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/6.1 ToDoMVC 앱 리뷰.md",
+    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/4.2 HTTP 요청 예제.md",
     "Transcendence/ft_transcendence.md",
+    "Transcendence/트센 캔버스.canvas",
+    "Transcendence/<번역>ft_transcendence.md",
+    "Transcendence/Rendering on the Web.md",
+    "Transcendence/Server-Side Rendering.md",
+    "Transcendence/SparseArray.md",
+    "Transcendence/JavaScript/JavaScript 완벽 가이드/35.0 웹 컴포넌트.md",
+    "Transcendence/JavaScript/mdn web docs",
+    "Transcendence/35.0 웹 컴포넌트.md",
+    "Transcendence/JavaScript/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
+    "Day Planners/2024-03-24.md",
+    "Transcendence/옵저버 패턴.md",
+    "Day Planners/2024-03-17.md",
     "Transcendence/Django/핸즈 온 장고/3.0 ORM.md",
     "Transcendence/Django/핸즈 온 장고/4.1 DRF Serializer.md",
     "Transcendence/Django/핸즈 온 장고/4.0 직렬화.md",
@@ -171,24 +190,6 @@
     "Transcendence/Django/핸즈 온 장고/3.1 쿼리셋.md",
     "template/핸즈온 장고 템플릿.md",
     "Transcendence/Django/핸즈 온 장고/2.1 장고의 모델.md",
-    "archive(non_fixed)/inception/도커/Docker docs/0. Docker docs 정리.md",
-    "Transcendence/트센 캔버스.canvas",
-    "Transcendence/<번역>ft_transcendence.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "Day Planners/2024-03-11.md",
-    "Excalidraw/inception.excalidraw.md",
-    "Transcendence/옵저버 패턴.md",
-    "Transcendence/heshin님 프레임워크 뜯어보기/2.1.1 keypath.js 뜯어보기.md",
-    "Transcendence/heshin님 프레임워크 뜯어보기/2.0.1 config.js 파일.md",
-    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/6.5 상태관리 전략 비교.md",
-    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/6.4 이벤트 버스.md",
-    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/6.3 네이티브 프록시.md",
-    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/6.2 반응형 프로그래밍.md",
-    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/6.1 ToDoMVC 앱 리뷰.md",
-    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/6.0 상태관리.md",
-    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/5.2 라우팅 예제.md",
-    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/5.1 단일 페이지 어플리케이션.md",
-    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/5.0 라우팅.md",
     "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발",
     "Transcendence/JavaScript/JavaScript 완벽 가이드",
     "Transcendence/JavaScript",
@@ -210,7 +211,6 @@
     "Transcendence/Django/핸즈 온 장고",
     "Transcendence/Django/JWT 장고로 구현하기",
     "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스",
-    "Transcendence/프레임워크 없는 프론트엔드 개발",
     "Untitled.canvas",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
