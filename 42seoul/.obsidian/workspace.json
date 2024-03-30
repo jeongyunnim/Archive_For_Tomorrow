@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendence/JWT.md",
+                "file": "Transcendence/작성 해야 함/OAuth 2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "promise",
+                "query": "oauth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence/JWT.md",
+                "file": "Transcendence/작성 해야 함/OAuth 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence/JWT.md",
+                "file": "Transcendence/작성 해야 함/OAuth 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence/JWT.md"
+                "file": "Transcendence/작성 해야 함/OAuth 2.0.md"
               }
             }
           },
@@ -159,7 +159,23 @@
   },
   "active": "145214241efeb8e7",
   "lastOpenFiles": [
-    "Transcendence/Fetch API.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
+    "Transcendence/작성 해야 함/OAuth 2.0.md",
+    "Excalidraw/inception.excalidraw.md",
+    "Transcendence/작성 해야 함/Microservices.md",
+    "Transcendence/ft_transcendence.md",
+    "Transcendence/JWT.md",
+    "Transcendence/매우 중요.md",
+    "Transcendence/보일러플레이트 코드.md",
+    "Transcendence/거버넌스.md",
+    "Transcendence/Use Case Diagram.md",
+    "Transcendence/Stateless와 Stateful.md",
+    "Transcendence/SparseArray.md",
+    "Transcendence/Server-Side Rendering.md",
+    "Transcendence/Rendering on the Web.md",
+    "Transcendence/replace 추가 정보.md",
+    "Transcendence/JavaScript/mdn web docs/Fetch API.md",
+    "Transcendence/Django/JWT 장고로 구현하기/4. DRF를 사용한 JWT Authentication.md",
     "Transcendence/협업/DDD.md",
     "Transcendence/협업",
     "Transcendence/<번역>ft_transcendence.md",
@@ -169,24 +185,8 @@
     "Transcendence/작성 해야 함/single-page application.md",
     "Transcendence/작성 해야 함/REST.md",
     "Transcendence/작성 해야 함/scheme.md",
-    "Transcendence/작성 해야 함/OAuth 2.0.md",
-    "Transcendence/작성 해야 함/Microservices.md",
     "Transcendence/작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
-    "Transcendence/작성 해야 함/Hoisting.md",
-    "Transcendence/작성 해야 함/gRPC.md",
-    "Transcendence/fallback.md",
-    "Transcendence/작성 해야 함/DTO.md",
-    "Transcendence/작성 해야 함/Blockchain.md",
-    "Transcendence/작성 해야 함/API 문서 작성.md",
-    "Transcendence/JavaScript/mdn web docs/2.0 WebSocket.md",
-    "Transcendence/JavaScript/mdn web docs/0.MDN Web Docs.md",
-    "Transcendence/JavaScript/mdn web docs/1.0 Web component.md",
-    "Day Planners/2024-03-28.md",
     "Transcendence/트센 캔버스.canvas",
-    "Excalidraw/ft_transcendence.excalidraw.md",
-    "Day Planners/2024-03-27.md",
-    "Transcendence/JavaScript/JavaScript 완벽 가이드/15.1 프로미스.md",
-    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/6.1 ToDoMVC 앱 리뷰.md",
     "Transcendence/JavaScript/mdn web docs",
     "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발",
     "Transcendence/JavaScript/JavaScript 완벽 가이드",

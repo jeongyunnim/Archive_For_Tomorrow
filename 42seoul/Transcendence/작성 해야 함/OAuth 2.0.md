@@ -35,6 +35,8 @@ Open Authorization
 	- 인증 후 사용자가 서비스 제공자가 아닌 소비자를 통해 보호된 자원에 접근하기 위한 키를 포함한 값
 ### 인증방식
 
+![[Excalidraw/ft_transcendence.excalidraw.md#^group=A9kFtdFZITMainVlxFwWP]]
+
 ---
 ### 생각(파생된 질문/생각)
 
