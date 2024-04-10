@@ -16,8 +16,21 @@
                 "file": "Excalidraw/ft_transcendence.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "89a6e35019b3c53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcendence/과제 제출 전 재확인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Transcendence/과제 제출 전 재확인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md",
+                "file": "Transcendence/과제 제출 전 재확인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/ft_transcendence.excalidraw.md"
+                "file": "Transcendence/과제 제출 전 재확인.md"
               }
             }
           },
@@ -146,18 +158,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c38f3b3b4d12684",
+  "active": "89a6e35019b3c53c",
   "lastOpenFiles": [
+    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.6 Model and Databases.md",
+    "Transcendence/과제 제출 전 재확인.md",
+    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.5 Template.md",
+    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.4 View, Routing, URLs.md",
+    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
+    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.1 Django 프레임워크에 대한 소개.md",
+    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
+    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.0 Django.md",
+    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/5.1 pip 패키지 설치.md",
+    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/4. Bootstrap.md",
+    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/2. HTML.md",
+    "Excalidraw/ft_transcendence.excalidraw.md",
     "Excalidraw/inception.excalidraw.md",
     "Day Planners/2024-03-31.md",
     "Transcendence/트센 캔버스.canvas",
@@ -167,7 +191,6 @@
     "Transcendence/fallback.md",
     "Transcendence/JavaScript/mdn web docs/2.0 WebSocket.md",
     "Day Planners/2024-03-28.md",
-    "Excalidraw/ft_transcendence.excalidraw.md",
     "Transcendence/JavaScript/mdn web docs/1.0 Web component.md",
     "Transcendence/JavaScript/mdn web docs/0.MDN Web Docs.md",
     "Day Planners/2024-03-27.md",
@@ -175,18 +198,7 @@
     "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/6.1 ToDoMVC 앱 리뷰.md",
     "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발/4.2 HTTP 요청 예제.md",
     "Transcendence/ft_transcendence.md",
-    "Transcendence/<번역>ft_transcendence.md",
-    "Transcendence/Rendering on the Web.md",
-    "Transcendence/Server-Side Rendering.md",
-    "Transcendence/SparseArray.md",
-    "Transcendence/JavaScript/JavaScript 완벽 가이드/35.0 웹 컴포넌트.md",
     "Transcendence/JavaScript/mdn web docs",
-    "Transcendence/35.0 웹 컴포넌트.md",
-    "Transcendence/JavaScript/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
-    "Day Planners/2024-03-24.md",
-    "Transcendence/옵저버 패턴.md",
-    "Day Planners/2024-03-17.md",
-    "Transcendence/Django/핸즈 온 장고/3.0 ORM.md",
     "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발",
     "Transcendence/JavaScript/JavaScript 완벽 가이드",
     "Transcendence/JavaScript",
