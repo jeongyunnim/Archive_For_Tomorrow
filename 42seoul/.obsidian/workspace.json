@@ -11,8 +11,12 @@
             "id": "cb19a1c4bc6328e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "archive(non_fixed)/Transcendence/ft_transcendence.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "archive(non_fixed)/Transcendence/ft_transcendence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "archive(non_fixed)/Transcendence/ft_transcendence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "archive(non_fixed)/Transcendence/ft_transcendence.md"
+              }
             }
           },
           {
@@ -151,32 +159,42 @@
   },
   "active": "cb19a1c4bc6328e8",
   "lastOpenFiles": [
-    "archive(non_fixed)/inception/NGINX 쿡북.md",
-    "archive(non_fixed)/inception/Hacky patch.md",
-    "archive(non_fixed)/inception/Inception 번역.md",
-    "archive(non_fixed)/알고리즘/키 값으로 정보 검색.md",
-    "archive(non_fixed)/알고리즘/최소 비교 정렬.md",
-    "archive(non_fixed)/알고리즘/야콥스탈 수.md",
-    "archive(non_fixed)/알고리즘/삽입을 이용한 정렬.md",
-    "archive(non_fixed)/알고리즘/둘 이상의 파일들에 있는 항목들의 부합.md",
-    "C++ Unmanaged Programming/4. 참조(Reference).md",
-    "C++ Unmanaged Programming/5. 문자열(string).md",
-    "Transcendence/fallback.md",
-    "Transcendence/SparseArray.md",
-    "Transcendence/Stateless와 Stateful.md",
-    "Transcendence/옵저버 패턴.md",
-    "Transcendence/왜 WeakMap을 사용해야 하는가?.md",
-    "Transcendence/트센 소프트웨어 설계.md",
-    "Transcendence/이미지에 PostgreSQL 적용시키기.md",
-    "Transcendence/소프트웨어 아키텍처.md",
-    "Transcendence/보일러플레이트 코드.md",
-    "Transcendence/SEO.md",
-    "Transcendence/Python/Python 100일 부트캠프/Pycharm.md",
-    "Transcendence/Python/Python 100일 부트캠프/66. RESTful 라우팅으로 자신만의 API 구축.md",
-    "Transcendence/Python/Python 100일 부트캠프/0. Python All-in-one 코스.md",
-    "Transcendence/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.5 Template.md",
-    "Transcendence/Server-Side Rendering.md",
-    "Excalidraw/Django.excalidraw.md",
+    "archive(non_fixed)/작성 해야 함/프로젝트 구성 참고하기.md",
+    "archive(non_fixed)/작성 해야 함/single-page application.md",
+    "archive(non_fixed)/작성 해야 함/scheme.md",
+    "archive(non_fixed)/작성 해야 함/gRPC.md",
+    "archive(non_fixed)/작성 해야 함/Two Scoops of Django.md",
+    "archive(non_fixed)/작성 해야 함/REST.md",
+    "archive(non_fixed)/작성 해야 함/OAuth 2.0.md",
+    "archive(non_fixed)/작성 해야 함/Microservices.md",
+    "archive(non_fixed)/작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
+    "archive(non_fixed)/작성 해야 함/Hoisting.md",
+    "archive(non_fixed)/작성 해야 함/DTO.md",
+    "archive(non_fixed)/작성 해야 함/Blockchain.md",
+    "archive(non_fixed)/작성 해야 함/API 문서 작성.md",
+    "archive(non_fixed)/작성 해야 함",
+    "archive(non_fixed)/협업/DDD.md",
+    "archive(non_fixed)/협업",
+    "archive(non_fixed)/Python/Python 100일 부트캠프/Pycharm.md",
+    "archive(non_fixed)/Python/Python 100일 부트캠프/66. RESTful 라우팅으로 자신만의 API 구축.md",
+    "archive(non_fixed)/Python/Python 100일 부트캠프/0. Python All-in-one 코스.md",
+    "archive(non_fixed)/Python/Python 100일 부트캠프",
+    "archive(non_fixed)/Python",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/6.0 서비스 디스커버리 패턴.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/5.1 MSA를 위한 컨테이너 오케스트레이션.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/5.0 MSA를 위한 컨테이너와 도커.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/4.3.1 전술적 설계.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/4.3.0 전략적 설계.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/4.3 도메인 주도 설계의 세부 개념.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/4.1 응집도와 결합도 그리고 SRP.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/4.0 서비스 분리 전략.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술",
+    "archive(non_fixed)/JavaScript/프레임워크 없는 프론트엔드 개발",
+    "archive(non_fixed)/JavaScript/mdn web docs",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드",
+    "archive(non_fixed)/JavaScript",
+    "archive(non_fixed)/heshin님 프레임워크 뜯어보기",
     "첨부파일/Pasted image 20240215194346.png",
     "첨부파일/Pasted image 20240220165256.png",
     "첨부파일/Pasted image 20240220184858.png",
@@ -188,18 +206,8 @@
     "첨부파일/Pasted Image 20240303174053_559.png",
     "첨부파일/Pasted image 20240304022612.png",
     "Transcendence/트센 캔버스.canvas",
-    "Transcendence/협업",
-    "Transcendence/JavaScript/mdn web docs",
-    "Transcendence/JavaScript/프레임워크 없는 프론트엔드 개발",
-    "Transcendence/JavaScript/JavaScript 완벽 가이드",
-    "Transcendence/JavaScript",
     "무제 파일 1.canvas",
-    "Transcendence/heshin님 프레임워크 뜯어보기",
     "무제 파일.canvas",
-    "template",
-    "Transcendence/Python/Python 100일 부트캠프",
-    "Transcendence/Django/핸즈 온 장고",
-    "Transcendence/Django/JWT 장고로 구현하기",
     "Untitled.canvas",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
