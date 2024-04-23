@@ -39,8 +39,8 @@ aliases:
 	- 현업, 개발자, 디자이너 등이 동일한 의미로 이해하는 언어
 	- 공통언어를 정의하고 사용하여 중복되는 어휘를 구분
 - 도메인 모델을 결과물로 얻을 수 있다.
-![[Excalidraw/ft_transcendence.excalidraw.md#^group=MkciipDPDE4ZHljVToDEV]]
-![[Excalidraw/ft_transcendence.excalidraw.md#^group=mX0yC4ak9P6URYK9eBGC8]]
+![[Excalidraw(non_fixed)/ft_transcendence.excalidraw.md#^group=MkciipDPDE4ZHljVToDEV]]
+![[Excalidraw(non_fixed)/ft_transcendence.excalidraw.md#^group=mX0yC4ak9P6URYK9eBGC8]]
 ### Event storming
 ```
 1. Domain Event 정의

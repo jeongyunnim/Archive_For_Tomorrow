@@ -30,7 +30,7 @@ aliases:
 ### RSA 공개키 암호화 방식
 - 암호화 키가 한 쌍이다(열쇠가 2개).
 	- 하나는 암호화하는 데 사용되고 다른 하나는 복호화하는 데 사용된다.
-![[Excalidraw/inception.excalidraw.md#^group=kChwKuMPcWlnTtwh3CMO6|700]]
+![[Excalidraw(non_fixed)/inception.excalidraw.md#^group=kChwKuMPcWlnTtwh3CMO6|700]]
 
 ### 인증서와 공개키의 무결성 검증이 필요한 이유
 - 브라우저에는 여러 인증서들이 이미 포함되어있다.

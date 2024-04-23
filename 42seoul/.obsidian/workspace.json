@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb09cede02de3d8e",
+        "id": "5b992530f4d44023",
         "type": "tabs",
         "children": [
           {
-            "id": "cb19a1c4bc6328e8",
+            "id": "9f20dee67be9a6df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive(non_fixed)/Transcendence/ft_transcendence.md",
+                "file": "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.1.1 keypath.js 뜯어보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ft_transcendence.excalidraw#^group",
+                "query": "첨부파일",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archive(non_fixed)/Transcendence/ft_transcendence.md",
+                "file": "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.1.1 keypath.js 뜯어보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archive(non_fixed)/Transcendence/ft_transcendence.md",
+                "file": "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.1.1 keypath.js 뜯어보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archive(non_fixed)/Transcendence/ft_transcendence.md"
+                "file": "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.1.1 keypath.js 뜯어보기.md"
               }
             }
           },
@@ -157,54 +157,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb19a1c4bc6328e8",
+  "active": "9f20dee67be9a6df",
   "lastOpenFiles": [
-    "archive(non_fixed)/작성 해야 함/프로젝트 구성 참고하기.md",
-    "archive(non_fixed)/작성 해야 함/single-page application.md",
-    "archive(non_fixed)/작성 해야 함/scheme.md",
-    "archive(non_fixed)/작성 해야 함/gRPC.md",
-    "archive(non_fixed)/작성 해야 함/Two Scoops of Django.md",
-    "archive(non_fixed)/작성 해야 함/REST.md",
+    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.0.2 View.js 뜯어보기.md",
+    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md",
+    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/1. index 뜯어보기.md",
+    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/0. heshin님 프레임워크 뜯어보기.md",
+    "archive(non_fixed)/inception/Inception 번역.md",
+    "archive(non_fixed)/inception/NGINX 쿡북.md",
+    "archive(non_fixed)/inception/OpenSSL.md",
+    "archive(non_fixed)/inception/PGID, 프로세스 그룹 아이디.md",
+    "첨부파일",
+    "첨부파일(non_fixed)/Untitled",
+    "archive(non_fixed)/inception/RSA 인증서와 전자서명의 원리.md",
+    "archive(non_fixed)/inception/ISO.md",
+    "archive(non_fixed)/inception/HAProxy.md",
     "archive(non_fixed)/작성 해야 함/OAuth 2.0.md",
-    "archive(non_fixed)/작성 해야 함/Microservices.md",
-    "archive(non_fixed)/작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
-    "archive(non_fixed)/작성 해야 함/Hoisting.md",
     "archive(non_fixed)/작성 해야 함/DTO.md",
     "archive(non_fixed)/작성 해야 함/Blockchain.md",
-    "archive(non_fixed)/작성 해야 함/API 문서 작성.md",
-    "archive(non_fixed)/작성 해야 함",
+    "archive(non_fixed)/inception/도커/도커엔진.md",
+    "archive(non_fixed)/inception/컨테이너 환경을 위한 초기화 시스템.md",
+    "archive(non_fixed)/Transcendence/트센 소프트웨어 설계.md",
     "archive(non_fixed)/협업/DDD.md",
-    "archive(non_fixed)/협업",
-    "archive(non_fixed)/Python/Python 100일 부트캠프/Pycharm.md",
-    "archive(non_fixed)/Python/Python 100일 부트캠프/66. RESTful 라우팅으로 자신만의 API 구축.md",
-    "archive(non_fixed)/Python/Python 100일 부트캠프/0. Python All-in-one 코스.md",
-    "archive(non_fixed)/Python/Python 100일 부트캠프",
-    "archive(non_fixed)/Python",
-    "archive(non_fixed)/MSA 패턴과 핵심기술/6.0 서비스 디스커버리 패턴.md",
-    "archive(non_fixed)/MSA 패턴과 핵심기술/5.1 MSA를 위한 컨테이너 오케스트레이션.md",
-    "archive(non_fixed)/MSA 패턴과 핵심기술/5.0 MSA를 위한 컨테이너와 도커.md",
-    "archive(non_fixed)/MSA 패턴과 핵심기술/4.3.1 전술적 설계.md",
-    "archive(non_fixed)/MSA 패턴과 핵심기술/4.3.0 전략적 설계.md",
-    "archive(non_fixed)/MSA 패턴과 핵심기술/4.3 도메인 주도 설계의 세부 개념.md",
-    "archive(non_fixed)/MSA 패턴과 핵심기술/4.2 도메인 주도 설계.md",
-    "archive(non_fixed)/MSA 패턴과 핵심기술/4.1 응집도와 결합도 그리고 SRP.md",
-    "archive(non_fixed)/MSA 패턴과 핵심기술/4.0 서비스 분리 전략.md",
-    "archive(non_fixed)/MSA 패턴과 핵심기술",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/15.0 비동기 javaScript 프로미스, 콜백.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/12.0 이벤트.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/10.0 생성자 함수 vs 클래스.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/11.0 DOM & Browser API.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/7.3 객체와 map과 set의 활용 팁.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/9.0 OOP란 무엇인가?.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/7.1 배열.md",
+    "archive(non_fixed)/JavaScript/프레임워크 없는 프론트엔드 개발/6.5 상태관리 전략 비교.md",
+    "첨부파일(non_fixed)/Pasted image 20230808152329.png",
+    "첨부파일(non_fixed)/Pasted image 20240304022612.png",
+    "첨부파일(non_fixed)/Pasted Image 20240303174053_559.png",
+    "첨부파일(non_fixed)/Pasted Image 20240303173524_338.png",
+    "첨부파일(non_fixed)/Pasted Image 20240228192906_309.png",
+    "첨부파일(non_fixed)/Pasted Image 20240228181620_925.png",
+    "첨부파일(non_fixed)/Pasted Image 20240223154225_304.png",
+    "첨부파일(non_fixed)/Pasted image 20240221234836.png",
+    "첨부파일(non_fixed)/Pasted image 20240220184858.png",
+    "첨부파일(non_fixed)/Pasted image 20240220165256.png",
+    "archive(non_fixed)/Django/핸즈 온 장고",
+    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스",
+    "archive(non_fixed)/Django/JWT 장고로 구현하기",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드",
     "archive(non_fixed)/JavaScript/프레임워크 없는 프론트엔드 개발",
     "archive(non_fixed)/JavaScript/mdn web docs",
-    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드",
-    "archive(non_fixed)/JavaScript",
-    "archive(non_fixed)/heshin님 프레임워크 뜯어보기",
-    "첨부파일/Pasted image 20240215194346.png",
-    "첨부파일/Pasted image 20240220165256.png",
-    "첨부파일/Pasted image 20240220184858.png",
-    "첨부파일/Pasted image 20240221234836.png",
-    "첨부파일/Pasted Image 20240223154225_304.png",
-    "첨부파일/Pasted Image 20240228181620_925.png",
-    "첨부파일/Pasted Image 20240228192906_309.png",
-    "첨부파일/Pasted Image 20240303173524_338.png",
-    "첨부파일/Pasted Image 20240303174053_559.png",
-    "첨부파일/Pasted image 20240304022612.png",
+    "archive(non_fixed)/Python/Python 100일 부트캠프",
+    "archive(non_fixed)/Django",
     "Transcendence/트센 캔버스.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
