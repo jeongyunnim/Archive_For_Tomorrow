@@ -4,18 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "5b992530f4d44023",
+        "id": "79c50b984c6f1913",
         "type": "tabs",
         "children": [
           {
-            "id": "d9e5783eb7e5391f",
+            "id": "2040e8cfa9b7a621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
+                "file": "Java/스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b575a0727a771767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/2024-04-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac3c03b6851cffd4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Java Spring.md"
               }
             }
           }
@@ -38,11 +60,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "첨부파일",
-                "matchingCase": true,
-                "explainSearch": true,
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -70,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -86,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
+                "file": "Java/스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
+                "file": "Java/스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md"
+                "file": "Java/스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md"
               }
             }
           },
@@ -147,70 +169,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a69cded141b28ffc",
   "lastOpenFiles": [
     "Java/스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "Java/스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
+    "Day Planners/2024-04-24.md",
     "Day Planners/2024-04-23.md",
-    "Java/스프링 핵심 원리 - 기본편/1.1 스프링이란?.md",
-    "Java/DAO.md",
-    "Java/스프링 부트를 왜 쓰는가?.md",
-    "Java/스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
-    "첨부파일/Pasted image 20240423201952.png",
+    "Java/스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md",
+    "Java/스프링 핵심 원리 - 기본편/1.4 객체 지향 설계와 스프링.md",
+    "Java/스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
+    "Java/스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
     "Excalidraw/Java Spring.md",
-    "Java/스프링 핵심 원리 - 기본편",
-    "template/스프링 핵심 원리 - 기본편.md",
-    "template/heshin's framework template 1.md",
-    "template/Daily Note Template.md",
-    "Java",
-    "Day Planners/2024-01~2024-03/2024-01-01.md",
-    "Day Planners/2024-01~2024-03/2024-01-03.md",
-    "Day Planners/2024-01~2024-03",
-    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.1.1 keypath.js 뜯어보기.md",
-    "Excalidraw",
-    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.0.2 View.js 뜯어보기.md",
-    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.0.0 init.js 뜯어보기.md",
-    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/1. index 뜯어보기.md",
-    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/0. heshin님 프레임워크 뜯어보기.md",
-    "archive(non_fixed)/inception/Inception 번역.md",
-    "archive(non_fixed)/inception/NGINX 쿡북.md",
-    "archive(non_fixed)/inception/OpenSSL.md",
-    "archive(non_fixed)/inception/PGID, 프로세스 그룹 아이디.md",
-    "첨부파일",
-    "첨부파일(non_fixed)/Untitled",
-    "archive(non_fixed)/inception/RSA 인증서와 전자서명의 원리.md",
-    "archive(non_fixed)/inception/ISO.md",
-    "archive(non_fixed)/inception/HAProxy.md",
-    "archive(non_fixed)/작성 해야 함/OAuth 2.0.md",
-    "첨부파일(non_fixed)/Pasted image 20230808152329.png",
+    "Java/JDBC.md",
+    "Java/스프링 핵심 원리 - 기본편/1.1 스프링이란?.md",
+    "Java/스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
+    "Java/스프링 부트를 왜 쓰는가?.md",
+    "Java/DAO.md",
+    "Day Planners/2024-01-04.md",
+    "첨부파일/Pasted image 20240423201952.png",
     "첨부파일(non_fixed)/Pasted image 20240304022612.png",
-    "첨부파일(non_fixed)/Pasted Image 20240303174053_559.png",
-    "첨부파일(non_fixed)/Pasted Image 20240303173524_338.png",
-    "첨부파일(non_fixed)/Pasted Image 20240228192906_309.png",
-    "첨부파일(non_fixed)/Pasted Image 20240228181620_925.png",
-    "첨부파일(non_fixed)/Pasted Image 20240223154225_304.png",
     "첨부파일(non_fixed)/Pasted image 20240221234836.png",
     "첨부파일(non_fixed)/Pasted image 20240220184858.png",
-    "archive(non_fixed)/Django/핸즈 온 장고",
-    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스",
-    "archive(non_fixed)/Django/JWT 장고로 구현하기",
-    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드",
-    "Transcendence/트센 캔버스.canvas",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas",
-    "Untitled.canvas",
+    "첨부파일(non_fixed)/Pasted image 20240220165256.png",
+    "첨부파일(non_fixed)/Pasted image 20240215194346.png",
+    "첨부파일(non_fixed)/Pasted image 20240215150150.png",
+    "첨부파일(non_fixed)/Pasted image 20240215015427.png",
+    "첨부파일(non_fixed)/Pasted image 20240215014746.png",
+    "첨부파일(non_fixed)/Pasted image 20240214152643.png",
+    "첨부파일(non_fixed)/Module09 ex00.md",
+    "첨부파일(non_fixed)",
+    "template/핸즈온 장고 템플릿.md",
+    "template/스프링 핵심 원리 - 기본편.md",
+    "template/Python 강의 템플릿.md",
+    "archive(non_fixed)/협업/DDD.md",
+    "archive(non_fixed)/협업",
+    "archive(non_fixed)/작성 해야 함/프로젝트 구성 참고하기.md",
+    "archive(non_fixed)/작성 해야 함/single-page application.md",
+    "archive(non_fixed)/작성 해야 함/scheme.md",
+    "archive(non_fixed)/작성 해야 함/gRPC.md",
+    "archive(non_fixed)/작성 해야 함/Two Scoops of Django.md",
+    "archive(non_fixed)/작성 해야 함/REST.md",
+    "archive(non_fixed)/작성 해야 함/OAuth 2.0.md",
+    "archive(non_fixed)/작성 해야 함",
+    "archive(non_fixed)/inception/도커/Docker docs",
+    "archive(non_fixed)/heshin님 프레임워크 뜯어보기",
+    "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
+    "archive(non_fixed)/Transcendence",
+    "archive(non_fixed)/Python/Python 100일 부트캠프",
+    "archive(non_fixed)/Python",
+    "archive(non_fixed)/MSA 패턴과 핵심기술",
+    "archive(non_fixed)/JavaScript/프레임워크 없는 프론트엔드 개발",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
+    "Untitled.canvas",
     "Untitled 2.canvas"
   ]
 }
