@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "1defc3add8bd60fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "ac3c03b6851cffd4",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0f7d921c1364e09b",
+  "active": "1defc3add8bd60fa",
   "lastOpenFiles": [
     "Excalidraw/Java Spring.md",
     "Java/스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
