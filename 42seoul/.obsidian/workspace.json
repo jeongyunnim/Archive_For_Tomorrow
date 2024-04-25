@@ -13,19 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
+                "file": "Day Planners/2024-04-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1defc3add8bd60fa",
+            "id": "e19daef87b49aa76",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Java/1.1 콘솔 출력.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -91,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
+                "file": "Java/1.1 콘솔 출력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
+                "file": "Java/1.1 콘솔 출력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md"
+                "file": "Java/1.1 콘솔 출력.md"
               }
             }
           },
@@ -178,11 +180,24 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1defc3add8bd60fa",
+  "active": "e19daef87b49aa76",
   "lastOpenFiles": [
-    "Excalidraw/Java Spring.md",
-    "Java/스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
+    "첨부파일/Pasted image 20240425215737.png",
+    "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+    "Java/1.1 콘솔 출력.md",
+    "Java/Java 프로그래밍 완벽 정복/1.0 jshell이란?.md",
+    "Java/JPA.md",
     "Day Planners/2024-04-24.md",
+    "Excalidraw/Java Spring.md",
+    "Java/Thinking in Java/0. Thinking in Java.md",
+    "Java/스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
+    "template/스프링 핵심 원리 - 기본편.md",
+    "template/Java 프로그래밍 완벽 정복.md",
+    "template/Thinking in Java Template.md",
+    "Java/Thinking in Java",
+    "첨부파일/Pasted image 20240425162345.png",
+    "Java/Java 프로그래밍 완벽 정복",
+    "Java/Untitled.md",
     "Java/스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
     "Java/스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md",
     "첨부파일/Pasted image 20240424210446.png",
@@ -204,20 +219,9 @@
     "첨부파일(non_fixed)/Pasted image 20240220184858.png",
     "첨부파일(non_fixed)/Pasted image 20240220165256.png",
     "첨부파일(non_fixed)/Pasted image 20240215194346.png",
-    "첨부파일(non_fixed)/Pasted image 20240215150150.png",
     "첨부파일(non_fixed)/Module09 ex00.md",
     "첨부파일(non_fixed)",
-    "template/핸즈온 장고 템플릿.md",
-    "template/스프링 핵심 원리 - 기본편.md",
-    "template/Python 강의 템플릿.md",
-    "archive(non_fixed)/협업/DDD.md",
     "archive(non_fixed)/협업",
-    "archive(non_fixed)/작성 해야 함/프로젝트 구성 참고하기.md",
-    "archive(non_fixed)/작성 해야 함/single-page application.md",
-    "archive(non_fixed)/작성 해야 함/scheme.md",
-    "archive(non_fixed)/작성 해야 함/gRPC.md",
-    "archive(non_fixed)/작성 해야 함/Two Scoops of Django.md",
-    "archive(non_fixed)/작성 해야 함/REST.md",
     "archive(non_fixed)/작성 해야 함",
     "archive(non_fixed)/inception/도커/Docker docs",
     "archive(non_fixed)/heshin님 프레임워크 뜯어보기",
@@ -225,8 +229,6 @@
     "archive(non_fixed)/Transcendence",
     "archive(non_fixed)/Python/Python 100일 부트캠프",
     "archive(non_fixed)/Python",
-    "archive(non_fixed)/MSA 패턴과 핵심기술",
-    "archive(non_fixed)/JavaScript/프레임워크 없는 프론트엔드 개발",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

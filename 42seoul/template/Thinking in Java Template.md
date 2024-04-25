@@ -1,0 +1,24 @@
+---
+날짜: 2024-04-25
+넘버: 
+태그: 프로그래밍
+출처: https://pi9.theoinf.tu-ilmenau.de/~streitdf/KBSE/material/ThinkingInJava980102a.pdf
+aliases:
+---
+### 날짜  2024-04-25 21:24
+
+### 태그:
+
+>[!메모]
+>
+
+### 원문
+---
+
+---
+### 생각(파생된 질문/생각)
+
+### 출처
+[Thinking in Java 9/e (PDF)](https://pi9.theoinf.tu-ilmenau.de/~streitdf/KBSE/material/ThinkingInJava980102a.pdf)
+
+### 연결 문서 (연결 이유)
