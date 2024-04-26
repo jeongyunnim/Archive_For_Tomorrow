@@ -4,40 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "79c50b984c6f1913",
+        "id": "7ea4a7c9f92eebd4",
         "type": "tabs",
         "children": [
           {
-            "id": "0f7d921c1364e09b",
+            "id": "712b3d5bea0dc353",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2024-04-24.md",
+                "file": "Day Planners/2024-04-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e19daef87b49aa76",
+            "id": "92d13f359cf2750c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/1.1 콘솔 출력.md",
+                "file": "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ac3c03b6851cffd4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Java Spring.md"
               }
             }
           }
@@ -61,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "볼륨",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 300.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/1.1 콘솔 출력.md",
+                "file": "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/1.1 콘솔 출력.md",
+                "file": "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/1.1 콘솔 출력.md"
+                "file": "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md"
               }
             }
           },
@@ -170,68 +160,70 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e19daef87b49aa76",
+  "active": "92d13f359cf2750c",
   "lastOpenFiles": [
-    "첨부파일/Pasted image 20240425215737.png",
+    "Java/Java 프로그래밍 완벽 정복/2.0 자바 메서드.md",
+    "Java/Java 프로그래밍 완벽 정복/1.1 콘솔 출력.md",
+    "Day Planners/2024-04-26.md",
     "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
-    "Java/1.1 콘솔 출력.md",
+    "Java/bucket.md",
+    "archive(non_fixed)/작성 해야 함/gRPC.md",
+    "archive(non_fixed)/작성 해야 함/API 문서 작성.md",
+    "archive(non_fixed)/작성 해야 함/Blockchain.md",
+    "archive(non_fixed)/작성 해야 함/DTO.md",
+    "archive(non_fixed)/작성 해야 함/Hoisting.md",
+    "archive(non_fixed)/작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
     "Java/Java 프로그래밍 완벽 정복/1.0 jshell이란?.md",
-    "Java/JPA.md",
     "Day Planners/2024-04-24.md",
-    "Excalidraw/Java Spring.md",
-    "Java/Thinking in Java/0. Thinking in Java.md",
-    "Java/스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
-    "template/스프링 핵심 원리 - 기본편.md",
-    "template/Java 프로그래밍 완벽 정복.md",
-    "template/Thinking in Java Template.md",
-    "Java/Thinking in Java",
+    "Day Planners/2024-04-23.md",
+    "Day Planners/2024-01-01.md",
+    "첨부파일/Pasted image 20240425215737.png",
     "첨부파일/Pasted image 20240425162345.png",
-    "Java/Java 프로그래밍 완벽 정복",
-    "Java/Untitled.md",
-    "Java/스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "Java/스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md",
     "첨부파일/Pasted image 20240424210446.png",
     "첨부파일/Pasted image 20240424210300.png",
     "첨부파일/Pasted image 20240424205812.png",
-    "Day Planners/2024-04-23.md",
-    "Java/스프링 핵심 원리 - 기본편/1.4 객체 지향 설계와 스프링.md",
-    "Java/스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
-    "Java/스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
-    "Java/JDBC.md",
-    "Java/스프링 핵심 원리 - 기본편/1.1 스프링이란?.md",
-    "Java/스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
-    "Java/스프링 부트를 왜 쓰는가?.md",
-    "Java/DAO.md",
-    "Day Planners/2024-01-04.md",
     "첨부파일/Pasted image 20240423201952.png",
     "첨부파일(non_fixed)/Pasted image 20240304022612.png",
     "첨부파일(non_fixed)/Pasted image 20240221234836.png",
     "첨부파일(non_fixed)/Pasted image 20240220184858.png",
     "첨부파일(non_fixed)/Pasted image 20240220165256.png",
-    "첨부파일(non_fixed)/Pasted image 20240215194346.png",
     "첨부파일(non_fixed)/Module09 ex00.md",
     "첨부파일(non_fixed)",
+    "template/스프링 핵심 원리 - 기본편.md",
+    "template/Zettelkasten.md",
+    "template/Thinking in Java Template.md",
+    "template/Java 프로그래밍 완벽 정복.md",
+    "template/Daily Note Template.md",
+    "template",
+    "archive(non_fixed)/협업/DDD.md",
     "archive(non_fixed)/협업",
+    "archive(non_fixed)/작성 해야 함/프로젝트 구성 참고하기.md",
+    "archive(non_fixed)/작성 해야 함/single-page application.md",
+    "archive(non_fixed)/작성 해야 함/scheme.md",
+    "archive(non_fixed)/작성 해야 함/Two Scoops of Django.md",
     "archive(non_fixed)/작성 해야 함",
-    "archive(non_fixed)/inception/도커/Docker docs",
     "archive(non_fixed)/heshin님 프레임워크 뜯어보기",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "archive(non_fixed)/Transcendence",
     "archive(non_fixed)/Python/Python 100일 부트캠프",
     "archive(non_fixed)/Python",
+    "archive(non_fixed)/MSA 패턴과 핵심기술",
+    "archive(non_fixed)/JavaScript/프레임워크 없는 프론트엔드 개발",
+    "Transcendence/트센 캔버스.canvas",
+    "무제 파일.canvas",
+    "Untitled.canvas",
     "Untitled 1/Untitled.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Untitled 2.canvas"
   ]
 }
