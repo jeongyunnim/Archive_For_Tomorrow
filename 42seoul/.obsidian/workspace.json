@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+                "file": "Java/Java 프로그래밍 완벽 정복/5.0 클래스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d0c7d475d7466c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java 프로그래밍 완벽 정복/5.0 클래스.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+                "file": "Java/Java 프로그래밍 완벽 정복/5.0 클래스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+                "file": "Java/Java 프로그래밍 완벽 정복/5.0 클래스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md"
+                "file": "Java/Java 프로그래밍 완벽 정복/5.0 클래스.md"
               }
             }
           },
@@ -188,9 +200,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0be1eda449a399a2",
+  "active": "8d0c7d475d7466c1",
   "lastOpenFiles": [
     "Java/Java 프로그래밍 완벽 정복/4.0 자바 프로젝트 구성.md",
+    "Java/getter를 쓰면 안된다?.md",
+    "Java/Java 프로그래밍 완벽 정복/5.0 클래스.md",
     "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
     "Java/Java 프로그래밍 완벽 정복/3.1 JDK vs JRE vs JVM.md",
     "Java/스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
@@ -215,7 +229,6 @@
     "archive(non_fixed)/작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
     "Day Planners/2024-04-24.md",
     "Day Planners/2024-04-23.md",
-    "Day Planners/2024-01-01.md",
     "첨부파일/Pasted image 20240425215737.png",
     "첨부파일/Pasted image 20240425162345.png",
     "첨부파일/Pasted image 20240424210446.png",
@@ -226,7 +239,6 @@
     "첨부파일(non_fixed)/Pasted image 20240221234836.png",
     "첨부파일(non_fixed)/Pasted image 20240220184858.png",
     "첨부파일(non_fixed)/Pasted image 20240220165256.png",
-    "첨부파일(non_fixed)/Module09 ex00.md",
     "첨부파일(non_fixed)",
     "template",
     "archive(non_fixed)/협업",
