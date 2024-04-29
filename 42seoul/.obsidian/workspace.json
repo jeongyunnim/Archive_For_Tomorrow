@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ea4a7c9f92eebd4",
+        "id": "3441cebff94bdae4",
         "type": "tabs",
         "children": [
           {
-            "id": "712b3d5bea0dc353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0be1eda449a399a2",
+            "id": "cc99931d253a708a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,40 +17,9 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8d0c7d475d7466c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java 프로그래밍 완벽 정복/5.0 클래스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0877f4118ee33686",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Java.md"
-              }
-            }
-          },
-          {
-            "id": "937544114a6bdf63",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -190,21 +148,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d0c7d475d7466c1",
+  "active": "a69cded141b28ffc",
   "lastOpenFiles": [
+    "Excalidraw/Java.md",
+    "Java/Java 프로그래밍 완벽 정복/5.0 클래스.md",
     "Java/Java 프로그래밍 완벽 정복/4.0 자바 프로젝트 구성.md",
     "Java/getter를 쓰면 안된다?.md",
-    "Java/Java 프로그래밍 완벽 정복/5.0 클래스.md",
     "Java/Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
     "Java/Java 프로그래밍 완벽 정복/3.1 JDK vs JRE vs JVM.md",
     "Java/스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
@@ -217,7 +176,6 @@
     "Java/Java 프로그래밍 완벽 정복/2.0 자바 메서드.md",
     "Java/Java 프로그래밍 완벽 정복/1.1 콘솔 출력.md",
     "Day Planners/2024-04-27.md",
-    "Excalidraw/Java.md",
     "Day Planners/2024-04-26.md",
     "Excalidraw/Untitled.canvas",
     "Java/bucket.md",
