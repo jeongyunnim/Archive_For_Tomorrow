@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "c5150b3771cda33e",
+        "id": "64d200f72b8b387a",
         "type": "tabs",
         "children": [
           {
-            "id": "fc1779d6d848e388",
+            "id": "07384fa7df8fef60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/4.30 5차 스프린트.md",
+                "file": "Java/6.2 자바의 참조자료형 - Wrapper Class.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f0b593989bb9392",
+            "id": "2aae268c417f291e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/4.30 5차 스프린트.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/6.0 자바의 자료형.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/4.30 5차 스프린트.md",
+                "file": "Java/6.2 자바의 참조자료형 - Wrapper Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/4.30 5차 스프린트.md",
+                "file": "Java/6.2 자바의 참조자료형 - Wrapper Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/4.30 5차 스프린트.md"
+                "file": "Java/6.2 자바의 참조자료형 - Wrapper Class.md"
               }
             }
           },
@@ -160,45 +159,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f0b593989bb9392",
+  "active": "07384fa7df8fef60",
   "lastOpenFiles": [
-    "Java/파일 구조 아키텍처.md",
-    "Java/4.30 5차 스프린트.md",
-    "Java/getter를 쓰면 안된다?.md",
-    "Java/0. Java 프로그래밍 완벽 정복/6.0 자바의 자료형.md",
-    "Excalidraw(non_fixed)/ft_transcendence.excalidraw.md",
     "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+    "Java/6.2 자바의 참조자료형 - Wrapper Class.md",
+    "Java/0. Java 프로그래밍 완벽 정복/6.0 자바의 자료형.md",
+    "Java/0. Java 프로그래밍 완벽 정복/6.1 자바의 참조자료형.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/5.0 함수에 대한 심화 개념.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/2-2. chrome 디버깅 툴.md",
+    "archive(non_fixed)/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md",
+    "archive(non_fixed)/Django/JWT 장고로 구현하기/2. drf-simplejwt.md",
+    "archive(non_fixed)/Django/JWT 장고로 구현하기/1. deku 장고로 jwt 구현 블로그 정리.md",
+    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/5.1 pip 패키지 설치.md",
+    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.0 Django.md",
+    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
+    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.4 View, Routing, URLs.md",
+    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
+    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.1 Django 프레임워크에 대한 소개.md",
+    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/5.0 Python.md",
+    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/4. Bootstrap.md",
+    "archive(non_fixed)/Python/Python 100일 부트캠프/66. RESTful 라우팅으로 자신만의 API 구축.md",
+    "archive(non_fixed)/Python/Python 100일 부트캠프/0. Python All-in-one 코스.md",
+    "Java/스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
+    "Java/4.30 5차 스프린트.md",
+    "Java/파일 구조 아키텍처.md",
+    "Java/getter를 쓰면 안된다?.md",
+    "Excalidraw(non_fixed)/ft_transcendence.excalidraw.md",
     "Java/0. Java 프로그래밍 완벽 정복/5.0 클래스.md",
     "Excalidraw/Java.md",
-    "Java/0. Java 프로그래밍 완벽 정복/4.0 자바 프로젝트 구성.md",
-    "Java/0. Java 프로그래밍 완벽 정복/3.1 JDK vs JRE vs JVM.md",
-    "Java/스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
-    "Excalidraw/Java Spring.md",
-    "Java/0. Java 프로그래밍 완벽 정복/1.0 jshell이란?.md",
-    "archive(non_fixed)/inception/컨테이너 환경을 위한 초기화 시스템.md",
-    "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
-    "archive(non_fixed)/inception/<Inception> Error log.md",
-    "Java/0. Java 프로그래밍 완벽 정복/3.0 자바 플랫폼.md",
-    "Java/0. Java 프로그래밍 완벽 정복/2.0 자바 메서드.md",
-    "Java/0. Java 프로그래밍 완벽 정복/1.1 콘솔 출력.md",
-    "Day Planners/2024-04-27.md",
-    "Day Planners/2024-04-26.md",
     "Excalidraw/Untitled.canvas",
-    "Java/bucket.md",
-    "작성 해야 함/gRPC.md",
-    "작성 해야 함/API 문서 작성.md",
-    "작성 해야 함/Blockchain.md",
-    "작성 해야 함/DTO.md",
     "첨부파일/Pasted image 20240425215737.png",
     "첨부파일/Pasted image 20240425162345.png",
     "첨부파일/Pasted image 20240424210446.png",
