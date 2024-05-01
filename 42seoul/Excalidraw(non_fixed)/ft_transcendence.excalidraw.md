@@ -1368,7 +1368,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -1438,7 +1438,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -1508,7 +1508,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -1605,7 +1605,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -1644,7 +1644,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -2034,7 +2034,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "SPA 전환",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -2223,7 +2223,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "동적 요소 개발\n(JS)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -2293,7 +2293,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "페이지 개발\n(JSP/Servlet)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -2363,7 +2363,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "API 개발\n(Java)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -2460,7 +2460,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -2499,7 +2499,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -2647,7 +2647,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "KghutSZDmCXo8DkXsQRp-",
 			"originalText": "페이지 개발 (JS)",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -2788,7 +2788,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "SSR 전환",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -2907,7 +2907,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "mzoEcpvVktNYH2qfomtm7",
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -2982,7 +2982,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "dEsShZFMou07WNKK-4v2V",
 			"originalText": "Node.js",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -3057,7 +3057,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "4t6jRiOJQLlnU2C7oiftR",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -3132,7 +3132,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "_FqBxSTaRZ8W8HneD1bZ8",
 			"originalText": "infrastucture",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -3171,7 +3171,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "API 개발\n(JAVA)",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -3407,7 +3407,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "GkrDTJo4EJNKx7LwgvP3P",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -3484,7 +3484,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "SibYaYYkD3KZg6uFhvva2",
 			"originalText": "management",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -3524,7 +3524,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -3701,8 +3701,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1196,
-			"versionNonce": 1436840260,
+			"version": 1198,
+			"versionNonce": 1416248137,
 			"isDeleted": false,
 			"id": "XC_STcmUvy2Dywv9aQc3I",
 			"fillStyle": "solid",
@@ -3729,7 +3729,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "HS2ZKQrc"
 				}
 			],
-			"updated": 1713245988983,
+			"updated": 1714459533563,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3789,12 +3789,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "XC_STcmUvy2Dywv9aQc3I",
 			"originalText": "load할 페이지 및 \n소스코드 제공",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 2831,
-			"versionNonce": 486070012,
+			"version": 2839,
+			"versionNonce": 492707399,
 			"isDeleted": false,
 			"id": "EZdBL6hE7vxXahet9IjpC",
 			"fillStyle": "solid",
@@ -3821,7 +3821,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "fzZVp4Tk"
 				}
 			],
-			"updated": 1713245988989,
+			"updated": 1714459533566,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3885,12 +3885,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "EZdBL6hE7vxXahet9IjpC",
 			"originalText": "회원 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 2377,
-			"versionNonce": 361056196,
+			"version": 2385,
+			"versionNonce": 398341097,
 			"isDeleted": false,
 			"id": "3tzKd1x_txJOKJJ0q3wLg",
 			"fillStyle": "solid",
@@ -3917,7 +3917,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "HZSJCYBi"
 				}
 			],
-			"updated": 1713245988986,
+			"updated": 1714459533564,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3981,12 +3981,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "3tzKd1x_txJOKJJ0q3wLg",
 			"originalText": "실시간 게임",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 1432,
-			"versionNonce": 1713833596,
+			"version": 1434,
+			"versionNonce": 1901992743,
 			"isDeleted": false,
 			"id": "nHHqSLc-zcCprkjMKoXUX",
 			"fillStyle": "solid",
@@ -4013,7 +4013,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "OeXcGoWv"
 				}
 			],
-			"updated": 1713245988988,
+			"updated": 1714459533565,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4073,7 +4073,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "nHHqSLc-zcCprkjMKoXUX",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -4150,7 +4150,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "qA7RfEclZ-_eDzf7uyVNB",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -4223,7 +4223,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "sa1XGw5iuGy5IyHvH5HiX",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -4296,7 +4296,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Z10ID7qpbGgbeyuV0Sc2a",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -4457,7 +4457,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Mf7m9M_ApzStlrgJxPM_6",
 			"originalText": "User Stat",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -4526,7 +4526,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "OxEeFZeRva1reYCPxRpvW",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -4632,7 +4632,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "user id\nuser name\nuser wins\nuser loses\nuser rate\nuser state(on/off/playing)\nuser avatar\nuser rank\nuser status message\n\n업데이트\n로드",
 			"lineHeight": 1.2,
-			"baseline": 226
+			"baseline": 227
 		},
 		{
 			"type": "text",
@@ -4669,7 +4669,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Manager",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -4706,7 +4706,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "토너먼트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -4743,7 +4743,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "매칭 알고리즘",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -4780,7 +4780,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "토너먼트별 이름 설정",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -4817,7 +4817,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "게임 매칭",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -4854,7 +4854,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "게임",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -4918,7 +4918,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "유저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -4982,7 +4982,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "유저 정보 업데이트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -5019,7 +5019,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "유저 정보 불러오기",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -5056,7 +5056,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "유저 상태 업데이트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -5152,7 +5152,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "S0IaDVQQaTGUItahIG7Fo",
 			"originalText": "domain logic",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -5191,7 +5191,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -5444,7 +5444,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "7QJtvtvD6WslZC6U2mLAj",
 			"originalText": "load할 페이지 및 \n소스코드 제공",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -5513,7 +5513,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "LjQykrtjG0e5yuHP9kR3q",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -5582,7 +5582,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "k2TdOOokQvR7aNxlmYF5l",
 			"originalText": "nginx",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -5666,7 +5666,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "tT3EIx6wmZtPBB-qOe_yv",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -5828,7 +5828,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Xh2mslvsUIMM7FmIk7pxO",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -5905,7 +5905,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "MrOxB0Y1cW2GaF3Lt82ef",
 			"originalText": "management",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -5945,7 +5945,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -6122,8 +6122,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1150,
-			"versionNonce": 1826694852,
+			"version": 1152,
+			"versionNonce": 97455529,
 			"isDeleted": false,
 			"id": "QK2SD_K4aDj-GZoj6dMTB",
 			"fillStyle": "solid",
@@ -6150,7 +6150,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "hcYAMWL2"
 				}
 			],
-			"updated": 1713245988996,
+			"updated": 1714459533571,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6210,12 +6210,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "QK2SD_K4aDj-GZoj6dMTB",
 			"originalText": "load할 페이지 및 \n소스코드 제공",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 2764,
-			"versionNonce": 2032597372,
+			"version": 2772,
+			"versionNonce": 1572819431,
 			"isDeleted": false,
 			"id": "_tNP7DVN7R1C-r8rbNwpy",
 			"fillStyle": "solid",
@@ -6242,7 +6242,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "7a4aGmti"
 				}
 			],
-			"updated": 1713245989000,
+			"updated": 1714459533574,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6306,12 +6306,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "_tNP7DVN7R1C-r8rbNwpy",
 			"originalText": "회원 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 2015,
-			"versionNonce": 1625417852,
+			"version": 2017,
+			"versionNonce": 1693437863,
 			"isDeleted": false,
 			"id": "5MHQLWg0llrKO7VIS3IMX",
 			"fillStyle": "solid",
@@ -6338,7 +6338,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "g05IKzT2"
 				}
 			],
-			"updated": 1713245988998,
+			"updated": 1714459533573,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6398,12 +6398,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "5MHQLWg0llrKO7VIS3IMX",
 			"originalText": "실시간 게임",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 2215,
-			"versionNonce": 34044156,
+			"version": 2223,
+			"versionNonce": 231031495,
 			"isDeleted": false,
 			"id": "nOZd2SxGs8Cg7PYw3VCWN",
 			"fillStyle": "solid",
@@ -6430,7 +6430,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "eg2ARawu"
 				}
 			],
-			"updated": 1713245988999,
+			"updated": 1714459533573,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6494,7 +6494,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "nOZd2SxGs8Cg7PYw3VCWN",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -6571,7 +6571,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "a88tcMmRQU6GVb0oBnJ4q",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -6644,7 +6644,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Km7q3lRbScr3F-dkA8PSG",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -6717,7 +6717,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "0z7Kyr96KqnGFVkI0Yecu",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -6886,7 +6886,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ZRU1GZT8stGaM2IZbiepF",
 			"originalText": "FE\nHTML, CSS, JS",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -6963,7 +6963,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "71jfYyrI8Pu7OnMpQhNsZ",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -7040,7 +7040,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "L43hBZoMKnng5DIq8AL97",
 			"originalText": "manager\n인증, 인가",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -7080,7 +7080,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -7257,8 +7257,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1214,
-			"versionNonce": 1274833988,
+			"version": 1216,
+			"versionNonce": 1577346057,
 			"isDeleted": false,
 			"id": "7u64WXDwMisA9BKzTYKuH",
 			"fillStyle": "solid",
@@ -7285,7 +7285,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "Kltz9woC"
 				}
 			],
-			"updated": 1713245989002,
+			"updated": 1714459533576,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7345,12 +7345,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "7u64WXDwMisA9BKzTYKuH",
 			"originalText": "load할 페이지 및 \n소스코드 제공",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 1547,
-			"versionNonce": 1367501308,
+			"version": 1549,
+			"versionNonce": 1038777607,
 			"isDeleted": false,
 			"id": "PZIoDppPTVDqWS_vgbk-Q",
 			"fillStyle": "solid",
@@ -7377,7 +7377,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "HnzNJaWz"
 				}
 			],
-			"updated": 1713245989003,
+			"updated": 1714459533577,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7437,12 +7437,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "PZIoDppPTVDqWS_vgbk-Q",
 			"originalText": "실시간 게임\n웹 소켓",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 1393,
-			"versionNonce": 1303266244,
+			"version": 1395,
+			"versionNonce": 1238170345,
 			"isDeleted": false,
 			"id": "aafqKH_cwgNrkf8ZDV7vi",
 			"fillStyle": "solid",
@@ -7469,7 +7469,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "1WUkGuSn"
 				}
 			],
-			"updated": 1713245989004,
+			"updated": 1714459533578,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7529,7 +7529,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "aafqKH_cwgNrkf8ZDV7vi",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -7602,7 +7602,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "r-wEsENA58VBKBIClJ_sg",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -7675,7 +7675,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "cuk5276mODBrFoeShvR34",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -7806,7 +7806,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "<NGINX>",
 			"lineHeight": 1.2,
-			"baseline": 30
+			"baseline": 31
 		},
 		{
 			"type": "rectangle",
@@ -9516,7 +9516,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "VzWRm7I2gckoyigbhnWrM",
 			"originalText": "domain logic",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -9555,7 +9555,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -9808,7 +9808,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "z-vMnp0EPHKBkdoe7S7oI",
 			"originalText": "load할 페이지 및 \n소스코드 제공",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -9877,7 +9877,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "fOyAXrKqLSIPWUAj0_uw4",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -10114,7 +10114,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "m3LxY6qqrgs4Ym15et1Pi",
 			"originalText": "API Gateway\n인가, 라우트",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -10187,7 +10187,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "1u0QnKrU3I9-_r7uZNADb",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10260,7 +10260,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "iCrj7agi3qox7HkDaGCoL",
 			"originalText": "management",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -10299,7 +10299,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -10477,8 +10477,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1581,
-			"versionNonce": 617544004,
+			"version": 1589,
+			"versionNonce": 1140647305,
 			"isDeleted": false,
 			"id": "AMNoyFvMSNnwcKRmjaAUw",
 			"fillStyle": "solid",
@@ -10488,7 +10488,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 5494.826264705093,
-			"y": 2161.526461498793,
+			"y": 2161.5264614987927,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 285.83535970250523,
@@ -10498,18 +10498,18 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713246323392,
+			"updated": 1714459533703,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "-fzalYFRb3fP9Fz9AHEp-",
-				"focus": -0.07049218719390055,
-				"gap": 10.93080334201477
+				"gap": 10.93080334201477,
+				"focus": -0.07049218719390055
 			},
 			"endBinding": {
 				"elementId": "m3LxY6qqrgs4Ym15et1Pi",
-				"focus": -0.013373842884480926,
-				"gap": 8.720006023929272
+				"gap": 8.720006023929272,
+				"focus": -0.013373842884480926
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": "arrow",
@@ -10527,8 +10527,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 3243,
-			"versionNonce": 1808249724,
+			"version": 3251,
+			"versionNonce": 2070200809,
 			"isDeleted": false,
 			"id": "_rD1CgWZ7vZHqcY30DygH",
 			"fillStyle": "solid",
@@ -10538,11 +10538,11 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 5011.339430281387,
-			"y": 2165.298634219907,
+			"y": 2165.2851018201263,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 193.62625177750851,
-			"height": 2.1622330275718014,
+			"height": 2.1712308835403746,
 			"seed": 257263711,
 			"groupIds": [],
 			"frameId": null,
@@ -10553,7 +10553,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "lj2O8EcZ"
 				}
 			],
-			"updated": 1713246094259,
+			"updated": 1714459533584,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10576,7 +10576,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 				],
 				[
 					-193.62625177750851,
-					2.1622330275718014
+					2.1712308835403746
 				]
 			]
 		},
@@ -10615,12 +10615,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "_rD1CgWZ7vZHqcY30DygH",
 			"originalText": "회원 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 2512,
-			"versionNonce": 722025468,
+			"version": 2520,
+			"versionNonce": 1623788297,
 			"isDeleted": false,
 			"id": "OVbdMCUJuvpaZ-Ddjseo9",
 			"fillStyle": "solid",
@@ -10629,11 +10629,11 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5081.053389829672,
+			"x": 5081.087918440968,
 			"y": 2105.8516260089077,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 113.91112423428876,
+			"width": 113.93781198862507,
 			"height": 209.77451227825463,
 			"seed": 764076255,
 			"groupIds": [],
@@ -10645,7 +10645,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "o526v8e1"
 				}
 			],
-			"updated": 1713246411513,
+			"updated": 1714459533583,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10667,7 +10667,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					0
 				],
 				[
-					-113.91112423428876,
+					-113.93781198862507,
 					-209.77451227825463
 				]
 			]
@@ -10707,7 +10707,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "OVbdMCUJuvpaZ-Ddjseo9",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -10780,7 +10780,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "h5r5yi9TGJYIZxDdA2yXa",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10849,7 +10849,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "WsvoxPeZZTrpFB5mDQeHZ",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10918,7 +10918,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "NW8JGJ4joez1W_j0nUE1y",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -11079,12 +11079,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "TCmVc-IKzsoAp5O-rjpzF",
 			"originalText": "Authorization",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 988,
-			"versionNonce": 1677452284,
+			"version": 996,
+			"versionNonce": 2066128073,
 			"isDeleted": false,
 			"id": "MWT7H0G-X3OOQwIrGHpQf",
 			"fillStyle": "solid",
@@ -11093,12 +11093,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5014.058290196969,
-			"y": 2107.5842007461824,
+			"x": 5014.060579522411,
+			"y": 2107.5832061987944,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 636.692673062339,
-			"height": 341.9217936774505,
+			"width": 636.6945932094222,
+			"height": 341.9207991300625,
 			"seed": 874121073,
 			"groupIds": [],
 			"frameId": null,
@@ -11111,7 +11111,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "kMzDaSac"
 				}
 			],
-			"updated": 1713246094259,
+			"updated": 1714459533586,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11133,8 +11133,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					0
 				],
 				[
-					-636.692673062339,
-					-341.9217936774505
+					-636.6945932094222,
+					-341.9207991300625
 				]
 			]
 		},
@@ -11173,7 +11173,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "MWT7H0G-X3OOQwIrGHpQf",
 			"originalText": "인증",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -11372,7 +11372,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "59ZPVSMsD2aUJcPAeGceS",
 			"originalText": "Game",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -11449,7 +11449,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "5n2ggLSUObYK4pFdi4bv9",
 			"originalText": "management",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -11489,7 +11489,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -11666,8 +11666,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1335,
-			"versionNonce": 1825613380,
+			"version": 1337,
+			"versionNonce": 632631367,
 			"isDeleted": false,
 			"id": "ateC_s8fGoqEyMVmkThuU",
 			"fillStyle": "solid",
@@ -11694,7 +11694,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "o9QhW0eh"
 				}
 			],
-			"updated": 1713245989014,
+			"updated": 1714459533587,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11754,12 +11754,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ateC_s8fGoqEyMVmkThuU",
 			"originalText": "load할 페이지 및 \n소스코드 제공",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 3288,
-			"versionNonce": 1635345476,
+			"version": 3296,
+			"versionNonce": 285430983,
 			"isDeleted": false,
 			"id": "wNits7mavkXzCaOQ4bI7V",
 			"fillStyle": "solid",
@@ -11786,7 +11786,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "zZLK0FW9"
 				}
 			],
-			"updated": 1713245989017,
+			"updated": 1714459533590,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11850,7 +11850,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "wNits7mavkXzCaOQ4bI7V",
 			"originalText": "회원 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -11942,12 +11942,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "wVIn2t_anh0W3HnkCdJXt",
 			"originalText": "실시간 게임",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 2495,
-			"versionNonce": 516005060,
+			"version": 2503,
+			"versionNonce": 1795695015,
 			"isDeleted": false,
 			"id": "vpMGAFoqiaJqSZa-p0rez",
 			"fillStyle": "solid",
@@ -11974,7 +11974,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "728c90aZ"
 				}
 			],
-			"updated": 1713245989016,
+			"updated": 1714459533589,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12038,7 +12038,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "vpMGAFoqiaJqSZa-p0rez",
 			"originalText": "JSON 데이터 형식으로 정보 교환",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -12115,7 +12115,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "jr6HRuonrCEG2gaRC8hMw",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -12188,7 +12188,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "lwcLcAK6WFSuEtFM-cUC5",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -12261,7 +12261,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "C9e4lBJtgg37bkja5b6I4",
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -12430,12 +12430,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "pb4denAub9zHp9mT6nEfr",
 			"originalText": "Authorization",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 842,
-			"versionNonce": 410055164,
+			"version": 844,
+			"versionNonce": 1931378473,
 			"isDeleted": false,
 			"id": "YzfoR_MUomZyjAgS_KImd",
 			"fillStyle": "solid",
@@ -12464,7 +12464,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "ge5YUoRO"
 				}
 			],
-			"updated": 1713245989019,
+			"updated": 1714459533592,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -12524,7 +12524,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "YzfoR_MUomZyjAgS_KImd",
 			"originalText": "인증",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -12945,7 +12945,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "dALFCLP4CGaciu4yCVyZF",
 			"originalText": "start",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -14160,7 +14160,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "home",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -14197,7 +14197,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "loding",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -14401,7 +14401,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "psHmsBrUZHfAwWBPBIK2j",
 			"originalText": "승/패\n레벨",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -14811,7 +14811,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "sFhC17gBrGIiInnTn8aag",
 			"originalText": "Domain",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -14884,7 +14884,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "OUTTl54BuSh58FhNhq0qX",
 			"originalText": "Sub Domain",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -14957,7 +14957,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "bYm0HOPaZSVs1nMhGE0aJ",
 			"originalText": "Sub Domain",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15030,7 +15030,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "rk9H8L3nn3J-nvDZGWf34",
 			"originalText": "Sub Domain",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -15201,7 +15201,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Problem Space",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15274,7 +15274,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "3OVL1pJqhXWiYu3OCP1e7",
 			"originalText": "Domain\nModel",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -15347,7 +15347,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "wZ5eW0jtCdvg3HgfSa0Wq",
 			"originalText": "Bounded Context",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15459,7 +15459,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Solution Space",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -15498,7 +15498,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Context Map",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15571,7 +15571,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "LNqFWoFnOhsp4VfPAt34p",
 			"originalText": "Bounded Context",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15644,7 +15644,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "9SAFaiDlT0Ei0vqmK-C7r",
 			"originalText": "Bounded Context",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -15717,7 +15717,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "vErCeSIp5M0hZGWUBu5RF",
 			"originalText": "Bounded Context",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -16102,7 +16102,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "geIBQBWo6emMX12bbw9Oo",
 			"originalText": "멀티 플레이어 통신, 동기화\n매칭 알고리즘",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -16314,7 +16314,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "30Rxxg1RXS_gaCxp0--73",
 			"originalText": "패들, 공, 배경\n움직임과 충돌 효과",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -16447,7 +16447,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "7RpDTECTX000IpRLuhtEr",
 			"originalText": "회원가입\n로그인 / 로그아웃",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -16622,7 +16622,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "WF784Sn7jORfC5njy9Cvn",
 			"originalText": "로그인을 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16691,7 +16691,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "OQS_dzn3H4k2SG30UtANI",
 			"originalText": "게임의 모드가\n선택되었다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -16760,7 +16760,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "sJKwaYAHjYu-ciect7UDA",
 			"originalText": "플레이 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16829,7 +16829,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "dRa_eb4oDm3GjrfrEZF1k",
 			"originalText": "매칭이 되었다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16898,7 +16898,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "mskkmkNdKlWxtTOn3xXCV",
 			"originalText": "유저를 검색했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -16967,7 +16967,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "A69wQhz8nKA3iyYiNizq0",
 			"originalText": "친구를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17036,7 +17036,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "S075RSnrjS-5FnXKcVGxJ",
 			"originalText": "친구를 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17105,7 +17105,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "b_kzX1DHQuqVNkFaQt56t",
 			"originalText": "내 프로필을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17174,7 +17174,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "QI6Zn7PduhWAwGFMyPMWf",
 			"originalText": "내 프로필을 변경했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17243,7 +17243,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "0V_E9RxBemWv61Lhn8Z18",
 			"originalText": "플레이 도중\n탈주했다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -17312,7 +17312,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "OuyQ8NsiHYK49FxQl1VK9",
 			"originalText": "플레이 도중 최소화 했다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -17381,7 +17381,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "MQ5hhcLqGUQciJ5XqTprP",
 			"originalText": "매칭 중\n탈주했다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -17450,7 +17450,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "NrRbVaTtRWYo8WI9d-107",
 			"originalText": "이겼다/졌다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17519,7 +17519,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "18JY85nvuiNOwk8j67MBl",
 			"originalText": "정보가 업데이트 됐다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17588,7 +17588,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "y-UdAYakatNNoho8BI3wa",
 			"originalText": "로그아웃 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17657,7 +17657,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "itfLdtLJjsyEiF2lYeMu9",
 			"originalText": "매칭\n실패했다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -17753,7 +17753,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "blGizO1nYd-7V6p80ZQve",
 			"originalText": "로그인을 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17822,7 +17822,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "_iptZWMSwbj5TF003XJwn",
 			"originalText": "게임의 모드가\n선택되었다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -17891,7 +17891,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "fT1hOjYnv4wLbKzTpGhGl",
 			"originalText": "플레이 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -17960,7 +17960,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "U6hCoWkJu6NmYAOmI41Nq",
 			"originalText": "매칭이 되었다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -18029,7 +18029,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "dJdPANWezOJ5_GTwUyDYY",
 			"originalText": "유저를 검색했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -18098,7 +18098,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "oCw5YOnTJecr0mVKBLlF7",
 			"originalText": "친구를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -18167,7 +18167,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "E_VEzH0wLyOvmRCKbJWV4",
 			"originalText": "친구를 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -18236,7 +18236,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "UnfdhS-vienOYw5NjKbrV",
 			"originalText": "내 프로필을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -18305,7 +18305,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "jqRfghOAE92TCVSF_51bz",
 			"originalText": "내 프로필을 변경했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -18374,7 +18374,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "AedPqj6OdLcjivBlrLY3x",
 			"originalText": "모드별\n이겼다/졌다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -18443,7 +18443,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "pTTVLRSGI5bINaDka6oIF",
 			"originalText": "정보가 업데이트 됐다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -18512,7 +18512,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "OytgdmatQSGVojZuCul5I",
 			"originalText": "로그아웃 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -18864,7 +18864,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "k18EpTWKOA0tW9GRL79xB",
 			"originalText": "로그인을 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -18933,7 +18933,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Wsb6RuY7daGLYXA88u2T9",
 			"originalText": "게임의 모드가\n선택되었다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -19002,7 +19002,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "cEwRQM95TDfgDY7zZkhll",
 			"originalText": "플레이 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19071,7 +19071,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "6N8ugu0xNLBw-SnkRmx5s",
 			"originalText": "매칭이 되었다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19140,7 +19140,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "6eAbNypl4IOfUszv_UaDT",
 			"originalText": "사용자 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19209,7 +19209,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Ey5hSSfEOD1AQRYq9d4aj",
 			"originalText": "친구를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19278,7 +19278,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "NNNyCLBBfvBjttKwnJxY6",
 			"originalText": "친구를 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19347,7 +19347,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "fjcuvo9C-PwGR9by7UaUk",
 			"originalText": "내 프로필을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19416,7 +19416,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "0SAoMW_as6iQKUqVsAI4k",
 			"originalText": "내 프로필을 변경했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19485,7 +19485,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "e8o2Si3zJVMKhLsbcgu-8",
 			"originalText": "이겼다/졌다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -19810,7 +19810,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "hXai6bej9Ak07PtUH5sN5",
 			"originalText": "로그아웃을 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19879,7 +19879,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "gIdaLU5qXmDAZexPHK8dF",
 			"originalText": "로그인",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -19948,7 +19948,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "MPB42ikp_974xFsj5hKhk",
 			"originalText": "로그아웃",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20017,7 +20017,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "KLfANs37pqhyluDgxkNkK",
 			"originalText": "친구 추가 요청",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20086,7 +20086,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "snTL-BZ3xTKmU9kWhnX8o",
 			"originalText": "프로필 수정",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20155,7 +20155,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "47zT7xueCQNDWsSQdSFP8",
 			"originalText": "프로필 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20224,7 +20224,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "AEXctOqLgnsPm19YU-Hj2",
 			"originalText": "모드 선택",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20293,7 +20293,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "NFUN2dTu9SfroambbMcEX",
 			"originalText": "플레이\n요청",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -20389,7 +20389,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "D8B08K1JCdCb_twGx5Kln",
 			"originalText": "로그인을 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20458,7 +20458,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "wiGz54wpMPfk9YVi4yt6N",
 			"originalText": "게임의 모드가\n선택되었다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -20527,7 +20527,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "UzueSTAL8HQwxKdXdqiD0",
 			"originalText": "플레이 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20596,7 +20596,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Sz93m0BvY8zyGM2mmk0oO",
 			"originalText": "매칭이 되었다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20665,7 +20665,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "wANEQsTvFlCr0i6n6ibsB",
 			"originalText": "사용자 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20734,7 +20734,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "pKqqRUisXD8yT87T3i9R7",
 			"originalText": "친구를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20803,7 +20803,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "XjS9LATMU9Q_wvHIIizU3",
 			"originalText": "친구를 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20872,7 +20872,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "iWDgyZ7a8M4prPNdf0Bcy",
 			"originalText": "내 프로필을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -20941,7 +20941,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "riOhn4EcPu1Ty63L1H6Z2",
 			"originalText": "내 프로필을 변경했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -21010,7 +21010,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "kY51ZtOjTYPZweC2Q-tgk",
 			"originalText": "이겼다/졌다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -21074,7 +21074,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "인증/인가",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -21138,7 +21138,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "사용자 관리",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -21202,7 +21202,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "프로필 관리",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -21266,7 +21266,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "게임",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -21335,7 +21335,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "cnjWu-Udb9bPNaRbvtH7z",
 			"originalText": "로그아웃을 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -21404,7 +21404,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "zttRC6ahFE8o9zSClfcJ2",
 			"originalText": "로그인",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -21473,7 +21473,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "hG7OvD7bZV6koGUZl265n",
 			"originalText": "로그아웃",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -21542,7 +21542,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "mOl_ZN98hNUUMqiNRadJF",
 			"originalText": "친구 추가 요청",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -21611,7 +21611,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "3GUg8JyPjNrXb_PBzOWfj",
 			"originalText": "프로필 수정",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -21680,7 +21680,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "wuSECnToa_cQafrDTSSsj",
 			"originalText": "프로필 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -21749,7 +21749,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "iLU0JrYiqib_pFAm_PBq7",
 			"originalText": "모드 선택",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -21818,7 +21818,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "fhLqfFVnI6lq8BrB9Iwxj",
 			"originalText": "플레이\n요청",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "ellipse",
@@ -21887,7 +21887,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "i8GRh0Wig1IQ-AVbmCdAJ",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -21956,7 +21956,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "HiEtCJVVwEeiTPkzsQDC9",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -22025,7 +22025,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "jsHOMJAmEoMQsHP1fi27W",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -22094,7 +22094,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "xZUpEztQWYnJLLjs1pbVr",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -22163,7 +22163,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "2ewOhH6VkEao4VBSV-jX8",
 			"originalText": "로그인\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -22232,7 +22232,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "t5oQTeDL-JIJ3Ned06KqH",
 			"originalText": "사용자 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -22301,7 +22301,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "aDuKG75DCKs_YccWsFliU",
 			"originalText": "게임 시스템",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -22370,7 +22370,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "4m6IYaFKCkZPeDvNlU8VL",
 			"originalText": "게임 중개 시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "ellipse",
@@ -22547,7 +22547,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "xpykkTdfu1bvJ5wqpqp5r",
 			"originalText": "사용자 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -22643,7 +22643,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "QPDsUM2fh8VAsat8Bxyz9",
 			"originalText": "로그인을 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -22712,7 +22712,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "slA3ue3A8JV_Qw0BYBCsP",
 			"originalText": "게임의 모드가\n선택되었다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -22781,7 +22781,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "0f1q5LbJUxkKE1OlTC_yS",
 			"originalText": "플레이 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -22850,7 +22850,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "iug2K2Eu1oCoyMmJS-1iO",
 			"originalText": "매칭이 되었다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -22919,7 +22919,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "nQuH2y_XUcv2gN9FLjECS",
 			"originalText": "사용자 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -22988,7 +22988,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "D5u8sMdlSCiyD-YkOySk_",
 			"originalText": "친구를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23057,7 +23057,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ydG9ELtkLz4ssfTmNvHx_",
 			"originalText": "친구를 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23126,7 +23126,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "0MMzsObLevPvt7IXf_bAs",
 			"originalText": "내 프로필을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23195,7 +23195,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "aIsHje8bRsjbU-u4sANYp",
 			"originalText": "내 프로필을 변경했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23264,7 +23264,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "5iWClWRO0Xfhyxj8_2bLD",
 			"originalText": "이겼다/졌다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -23328,7 +23328,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "인증/인가",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -23392,7 +23392,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "사용자 관리",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -23456,7 +23456,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "프로필 관리",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -23520,7 +23520,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "게임",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23589,7 +23589,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "SERFf5Pc_MHndNQYLetgf",
 			"originalText": "로그아웃을 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23658,7 +23658,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "8IRNxVim8KDkP8-yQBxUK",
 			"originalText": "로그인",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23727,7 +23727,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "4z-ehwOO44W_beNGHBMuz",
 			"originalText": "로그아웃",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23796,7 +23796,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "yW9lsTuydEETE9yfWzmAS",
 			"originalText": "친구 추가 요청",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23865,7 +23865,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "hzAEsKq4Jb2Hgg_IIIJMh",
 			"originalText": "프로필 수정",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -23934,7 +23934,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "44o5XO4CRq47EnO-nflvL",
 			"originalText": "프로필 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -24003,7 +24003,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "hMl0vtHMV0kR9YxpWHcdP",
 			"originalText": "모드 선택",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -24072,7 +24072,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "FpAvcU59_1jTXAFwXzfuM",
 			"originalText": "플레이\n요청",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "ellipse",
@@ -24141,7 +24141,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "sgnXJU3tZksWqseAclqw9",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -24210,7 +24210,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "pyJKFCW9icAU6htJCcU1S",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -24279,7 +24279,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "QYszax9EYX9MVcwDcJtJh",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -24348,7 +24348,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "cap3VS8wWJEkyqKAg0CSx",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -24417,7 +24417,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ikY7ZuiNi6A0f2UQ51K2i",
 			"originalText": "로그인\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -24486,7 +24486,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "1jRXbe7NPUVfeqvbXZi7B",
 			"originalText": "사용자 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -24555,7 +24555,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "-i_7ofKZHY5aMMwHyi_Io",
 			"originalText": "게임 시스템",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -24624,7 +24624,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "hvRlElQtvx97LU88QjC9B",
 			"originalText": "게임 중개 시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "ellipse",
@@ -24801,7 +24801,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "qoK59VKwXnO5945Yzz5o7",
 			"originalText": "사용자 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -24838,7 +24838,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "내 정보\n상대 정보",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -24875,7 +24875,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "상대 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -24916,8 +24916,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "text",
-			"version": 313,
-			"versionNonce": 1808112263,
+			"version": 314,
+			"versionNonce": 1880932135,
 			"isDeleted": false,
 			"id": "QcKBT3CN",
 			"fillStyle": "solid",
@@ -24926,7 +24926,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 12776.785772335097,
+			"x": 12776.622871656678,
 			"y": 3362.5722318893663,
 			"strokeColor": "#868e96",
 			"backgroundColor": "transparent",
@@ -24937,7 +24937,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1712727762487,
+			"updated": 1714459619780,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -24949,7 +24949,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "내 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -25023,7 +25023,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "모드 종류",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25119,7 +25119,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Hc7KQKbzzbkzn_gqjCvVu",
 			"originalText": "게임의 모드가\n선택되었다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -25188,7 +25188,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ATs9ZvLkDTLd6mVnrmLWm",
 			"originalText": "플레이 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25257,7 +25257,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "pvmHUgxKf6VBTBP43a_LX",
 			"originalText": "매칭이 되었다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25326,7 +25326,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "OOcO62ZjjpWk0urj13vgo",
 			"originalText": "사용자 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25395,7 +25395,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ZYac8nWj3wAlA5uE-yjfF",
 			"originalText": "친구를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25464,7 +25464,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "2CfACEscDVpf3V5d-KoWz",
 			"originalText": "친구를 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25533,7 +25533,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ADR06NMUY0oa94Q7vGYWo",
 			"originalText": "내 프로필을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25602,7 +25602,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "6DD8S96550JmbPcOZ748Z",
 			"originalText": "내 프로필을 변경했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25671,7 +25671,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "smoPyigEJ5XDohzAhmdkd",
 			"originalText": "이겼다/졌다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -25735,7 +25735,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "사용자 관리",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -25799,7 +25799,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "프로필 관리",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -25863,7 +25863,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "게임",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -25932,7 +25932,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "1VQQD6zuDCaQ7lNanuqmF",
 			"originalText": "친구 추가 요청",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26001,7 +26001,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "dC4S_6I6U2In_OrXthtad",
 			"originalText": "프로필 수정",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26070,7 +26070,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "43K0epCL2kdlQLHjVQRD1",
 			"originalText": "프로필 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26139,7 +26139,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "dTEsRJ7rmmdS86YDH30kN",
 			"originalText": "모드 선택",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26208,7 +26208,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "dsEi5EQ0a-9dJ9jIfXcCV",
 			"originalText": "플레이\n요청",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "ellipse",
@@ -26277,7 +26277,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "sslP_Zwh0lzGsu31eMskv",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -26346,7 +26346,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "QOMj-f-07sDEk9F0ffb3x",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -26415,7 +26415,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Fuv6sepHtXkZ-g0JsjEcT",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26484,7 +26484,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "94CwT_5JpH0TQ3F1rxKBz",
 			"originalText": "사용자 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -26553,7 +26553,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "6UgkaDd9-UB-9Obo01hJ4",
 			"originalText": "게임 시스템",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -26622,7 +26622,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "EKHCmvRYCckLbd6xUpI6j",
 			"originalText": "게임 중개 시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "ellipse",
@@ -26799,7 +26799,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "CHyL7B44yd6h80Q_I6-ON",
 			"originalText": "사용자 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -26836,7 +26836,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "내 정보\n상대 정보",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -26873,7 +26873,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "상대 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -26947,7 +26947,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "내 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -27021,7 +27021,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "모드 종류",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -27628,7 +27628,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "EjvS6nlMR-GePh_OTZiNw",
 			"originalText": "게임의 모드가\n선택되었다",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -27697,7 +27697,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "2Z1K_pbok4oo5sIwwfjPX",
 			"originalText": "플레이 했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -27766,7 +27766,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "r09x29fPYG5tLG-Sjh5mK",
 			"originalText": "매칭이 되었다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -27835,7 +27835,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "3xGdFWn5WHZUaLGBQeuTy",
 			"originalText": "사용자 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -27904,7 +27904,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "BtKbIqRsFbfcJwtAQDxuj",
 			"originalText": "친구를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -27973,7 +27973,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "uBH4uN3_NBIda4UOGbrey",
 			"originalText": "친구를 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -28042,7 +28042,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "j_yl3BZXhZMqPC-NFLqqs",
 			"originalText": "내 프로필을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -28111,7 +28111,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "kMukoGy_Gn8oGnbGsDsUY",
 			"originalText": "내 프로필을 변경했다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -28180,7 +28180,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "53KgILXDJTMqUWfi8f0ZE",
 			"originalText": "이겼다/졌다",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -28330,7 +28330,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ebayL12KcZjAr4Mq-5Wxm",
 			"originalText": "친구 추가 요청",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -28399,7 +28399,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "MNxi_padmsd-PxG4WTViY",
 			"originalText": "프로필 수정",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -28468,7 +28468,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Cde3QyF9lOWb-sTf_5jrZ",
 			"originalText": "프로필 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -28537,7 +28537,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "4ji0WUFK49bpWEmYACk_s",
 			"originalText": "모드 선택",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -28606,7 +28606,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ylIyJrcg-V_GK8aMO3oUQ",
 			"originalText": "플레이\n요청",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "ellipse",
@@ -28675,7 +28675,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "cafZRifS5mk9fgtOt-qBO",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -28744,7 +28744,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ghRn-o1WK79iFOMcZsMqN",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -28813,7 +28813,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "f3BoojKQiTnQZjVjd0LMC",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -28882,7 +28882,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "OXks49mmNrD9i7hPrd1Jq",
 			"originalText": "사용자 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -28951,7 +28951,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ECXYKXZYRlf5LNO-Cseho",
 			"originalText": "게임 시스템",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -29020,7 +29020,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "DBdlKEG3OzYBpRIWdPh1h",
 			"originalText": "게임 중개 시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "ellipse",
@@ -29197,7 +29197,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "uQ74EOCxLosd2OXkUYPiu",
 			"originalText": "사용자 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -29234,7 +29234,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "내 정보\n상대 정보",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -29271,7 +29271,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "상대 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -29345,7 +29345,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "내 정보",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -29419,7 +29419,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "모드 종류",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -30343,8 +30343,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2435,
-			"versionNonce": 416037828,
+			"version": 2437,
+			"versionNonce": 862659559,
 			"isDeleted": false,
 			"id": "LjcLwF2h2sssnbMIJRHPv",
 			"fillStyle": "solid",
@@ -30364,7 +30364,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713245989111,
+			"updated": 1714459533690,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -30389,8 +30389,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2767,
-			"versionNonce": 517481284,
+			"version": 2771,
+			"versionNonce": 1380716295,
 			"isDeleted": false,
 			"id": "mQvOn0pnQGMxMbtntsd7z",
 			"fillStyle": "solid",
@@ -30410,7 +30410,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713245989111,
+			"updated": 1714459533690,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -30760,8 +30760,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 664,
-			"versionNonce": 1509628612,
+			"version": 668,
+			"versionNonce": 941790759,
 			"isDeleted": false,
 			"id": "Cd_NC0ycDUNM-B7CuJg5c",
 			"fillStyle": "solid",
@@ -30781,7 +30781,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713245989113,
+			"updated": 1714459533693,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -31603,8 +31603,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 618,
-			"versionNonce": 886252100,
+			"version": 622,
+			"versionNonce": 735787335,
 			"isDeleted": false,
 			"id": "ofyzzH0vUNGJOmbTN61MI",
 			"fillStyle": "solid",
@@ -31624,7 +31624,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713245989114,
+			"updated": 1714459533693,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -32389,7 +32389,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "k1q0U2IvVzLMMK_KYAmoi",
 			"originalText": "편집",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -32648,7 +32648,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "👥",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "ellipse",
@@ -33232,7 +33232,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "36pLgZvF3B5tFPnLxXeoa",
 			"originalText": "찾을 친구를 입력해주세요",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -37083,7 +37083,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "(위,아래) 1p(w,s) : 2p(o,l)",
 			"lineHeight": 1.2,
-			"baseline": 29
+			"baseline": 28
 		},
 		{
 			"type": "rectangle",
@@ -37156,7 +37156,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "J7WUVg25_qi742xZ6LBfb",
 			"originalText": "0 : 0",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -37320,7 +37320,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "_c5lEpydlHFSqH_VoRtFF",
 			"originalText": "0 : 0",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -37869,7 +37869,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "(위,아래) 1p(w,s) : 2p(o,l)",
 			"lineHeight": 1.2,
-			"baseline": 29
+			"baseline": 28
 		},
 		{
 			"type": "rectangle",
@@ -37942,7 +37942,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "P3U-paSJtwprM72jziTL2",
 			"originalText": "0 : 0",
 			"lineHeight": 1.2,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -48217,7 +48217,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "1. id=\"app\"의 div가 어떤 식으로 대체가 되는지 알아보기",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -48323,7 +48323,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "1. importmap은 무엇인가?\n2. '@/'를 './srcs/'에 매핑한 이유는 무엇인가? ",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -48437,7 +48437,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "1. /srcs/index.js 분석하기",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "image",
@@ -48924,7 +48924,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "👥",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "ellipse",
@@ -49493,7 +49493,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "pWzz_xnhVR_nUMJN7gOqF",
 			"originalText": "Friend",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -49530,7 +49530,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "lv.20 카피바라",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -49567,7 +49567,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "lv.20 카피바라",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -49604,7 +49604,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "lv.20 카피바라",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -49641,7 +49641,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "lv.20 카피바라",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -49678,7 +49678,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "해당 유저가 존재X!",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -49784,7 +49784,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "이미지 업로드",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "image",
@@ -50161,7 +50161,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "👥",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "ellipse",
@@ -50403,12 +50403,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "edit profile",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 1244,
-			"versionNonce": 752238276,
+			"version": 1252,
+			"versionNonce": 1044903977,
 			"isDeleted": false,
 			"id": "LENiO2n4GnTGa13FOTtVp",
 			"fillStyle": "solid",
@@ -50430,18 +50430,18 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1713255528837,
+			"updated": 1714459533582,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "m3LxY6qqrgs4Ym15et1Pi",
-				"focus": 0.22576937796843888,
-				"gap": 16.06495993798717
+				"gap": 16.06495993798717,
+				"focus": 0.22576937796843888
 			},
 			"endBinding": {
 				"elementId": "1u0QnKrU3I9-_r7uZNADb",
-				"focus": -0.06179589445494606,
-				"gap": 10.931364795953186
+				"gap": 10.931364795953186,
+				"focus": -0.06179589445494606
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": "arrow",
@@ -50559,12 +50559,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "-fzalYFRb3fP9Fz9AHEp-",
 			"originalText": "nginx\nHTML, CSS, JS",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 489,
-			"versionNonce": 1652199164,
+			"version": 491,
+			"versionNonce": 2105877161,
 			"isDeleted": false,
 			"id": "DoKq5CFCaza0ZWUcTyaVs",
 			"fillStyle": "solid",
@@ -50584,7 +50584,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713246255227,
+			"updated": 1714459533703,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -52442,7 +52442,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "TuirMBRbc34cpJFvdgS1c",
 			"originalText": "login",
 			"lineHeight": 1.2,
-			"baseline": 8
+			"baseline": 9
 		},
 		{
 			"type": "rectangle",
@@ -52919,8 +52919,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 173,
-			"versionNonce": 523121788,
+			"version": 177,
+			"versionNonce": 809061481,
 			"isDeleted": false,
 			"id": "Q-MSkdSLqEdEEaVw9GuOh",
 			"fillStyle": "solid",
@@ -52940,7 +52940,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713245989125,
+			"updated": 1714459533706,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -53260,7 +53260,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "🌐http://resource_server/?client_id=....&uri=client/callback",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 23
 		},
 		{
 			"type": "arrow",
@@ -53674,7 +53674,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "EaQwirQWCuK3cANVyQslc",
 			"originalText": "login",
 			"lineHeight": 1.2,
-			"baseline": 8
+			"baseline": 9
 		},
 		{
 			"type": "text",
@@ -54688,7 +54688,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "access token",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -55111,7 +55111,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "access token",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -55180,7 +55180,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "access token",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -55276,7 +55276,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "MHLFy9qvkjkC2UKlF_XJM",
 			"originalText": "login",
 			"lineHeight": 1.2,
-			"baseline": 8
+			"baseline": 9
 		},
 		{
 			"type": "rectangle",
@@ -55664,8 +55664,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "text",
-			"version": 77,
-			"versionNonce": 2087401993,
+			"version": 97,
+			"versionNonce": 1351802987,
 			"isDeleted": false,
 			"id": "dbQEWs8u",
 			"fillStyle": "solid",
@@ -55674,8 +55674,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 16770.51285063885,
-			"y": 1533.7261294534999,
+			"x": 16772.688446445834,
+			"y": 1521.8261902316315,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 98.4375,
@@ -55685,7 +55685,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1712727762501,
+			"updated": 1714453520468,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -55817,8 +55817,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 923,
-			"versionNonce": 1953837383,
+			"version": 925,
+			"versionNonce": 721110405,
 			"isDeleted": false,
 			"id": "Ohgy70Q6GV8RmTyTXt6PE",
 			"fillStyle": "solid",
@@ -55827,18 +55827,18 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 17436.236202889973,
-			"y": 1890.8275628997083,
+			"x": 17436.236164136953,
+			"y": 1891.0220175735237,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 2.101479877521342,
-			"height": 482.3298595900517,
+			"width": 2.101575388111087,
+			"height": 482.52431426386715,
 			"seed": 55294857,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1712727762501,
+			"updated": 1714453631514,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -55860,15 +55860,15 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					0
 				],
 				[
-					2.101479877521342,
-					-482.3298595900517
+					2.101575388111087,
+					-482.52431426386715
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 882,
-			"versionNonce": 497461929,
+			"version": 883,
+			"versionNonce": 1508823589,
 			"isDeleted": false,
 			"id": "9jTbiowb",
 			"fillStyle": "solid",
@@ -55878,7 +55878,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 17087.09825833707,
-			"y": 1901.9758218050329,
+			"y": 1902.1702764788483,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"width": 853.21875,
@@ -55893,7 +55893,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1712727762501,
+			"updated": 1714453631513,
 			"link": "http://resource_server/?client_id=....&uri=client/callback",
 			"locked": false,
 			"fontSize": 24.405933163605845,
@@ -55905,7 +55905,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "🌐http://resource_server/?client_id=....&uri=client/callback",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 23
 		},
 		{
 			"type": "arrow",
@@ -56194,7 +56194,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "nSc_czIzrZgAJWEUYO9CO",
 			"originalText": "login",
 			"lineHeight": 1.2,
-			"baseline": 8
+			"baseline": 9
 		},
 		{
 			"type": "text",
@@ -56878,7 +56878,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "access token",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -57142,8 +57142,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 259,
-			"versionNonce": 2042038567,
+			"version": 261,
+			"versionNonce": 876606603,
 			"isDeleted": false,
 			"id": "1yJYeOoux6RTV1Mw7tTve",
 			"fillStyle": "solid",
@@ -57168,7 +57168,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1712727762502,
+			"updated": 1714453652517,
 			"link": null,
 			"locked": false
 		},
@@ -57280,7 +57280,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "access token",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -57349,7 +57349,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "access token",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -57472,7 +57472,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "fetch",
 			"lineHeight": 1.2,
-			"baseline": 64
+			"baseline": 63
 		},
 		{
 			"type": "arrow",
@@ -57560,12 +57560,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "username",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 150,
-			"versionNonce": 1223312636,
+			"version": 154,
+			"versionNonce": 1778767689,
 			"isDeleted": false,
 			"id": "QwVX9Mo7JneRHMutDtbOd",
 			"fillStyle": "solid",
@@ -57574,18 +57574,18 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 18401.20203902872,
+			"x": 18401.214407099684,
 			"y": 1801.1286202493388,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 7.275957614183426e-12,
-			"height": 215.34031729820026,
+			"width": 0.13523476523550926,
+			"height": 215.38214746058202,
 			"seed": 1015321257,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713245989127,
+			"updated": 1714459533708,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -57607,8 +57607,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					0
 				],
 				[
-					-7.275957614183426e-12,
-					-215.34031729820026
+					0.13523476523550926,
+					-215.38214746058202
 				]
 			]
 		},
@@ -57652,7 +57652,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "2fa인증",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -57689,12 +57689,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "인증 성공 시",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
-			"version": 310,
-			"versionNonce": 1166383300,
+			"version": 312,
+			"versionNonce": 56417735,
 			"isDeleted": false,
 			"id": "TuOJvFBmdHIXXMwj4DJ2G",
 			"fillStyle": "solid",
@@ -57704,7 +57704,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 1.2946406149279586,
 			"x": 18290.0102571823,
-			"y": 1343.0997958622995,
+			"y": 1343.0997958623027,
 			"strokeColor": "transparent",
 			"backgroundColor": "#ffc9c933",
 			"width": 68,
@@ -57723,14 +57723,14 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1713245989127,
+			"updated": 1714459533708,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 289,
-			"versionNonce": 1909474684,
+			"version": 291,
+			"versionNonce": 331220521,
 			"isDeleted": false,
 			"id": "wQUZnz9f",
 			"fillStyle": "solid",
@@ -57740,7 +57740,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 1.2946406149279586,
 			"x": 18309.9477571823,
-			"y": 1558.4997958622996,
+			"y": 1558.4997958623028,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 28.125,
@@ -57750,7 +57750,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713245989127,
+			"updated": 1714459533708,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -57762,7 +57762,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "TuOJvFBmdHIXXMwj4DJ2G",
 			"originalText": "2fa",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -57799,7 +57799,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "hostname\nip",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -57836,7 +57836,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "127.0.0.1:8000",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -57873,98 +57873,103 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "8001",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
-			"id": "MLOWGglq",
 			"type": "text",
-			"x": 4509.499834547798,
-			"y": 1513.831562359778,
-			"width": 90.83686778649187,
-			"height": 62.01130174224512,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c933",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 340492740,
 			"version": 75,
 			"versionNonce": 1119567996,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1713246087235,
-			"link": null,
-			"locked": false,
-			"text": "MSA",
-			"rawText": "MSA",
-			"fontSize": 51.67608478520427,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 50,
-			"containerId": null,
-			"originalText": "MSA",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "4cE4Gi4wWmkhpjc1WcIDs",
-			"type": "rectangle",
-			"x": 4814.359703666557,
-			"y": 2674.614886872083,
-			"width": 671.9681244280291,
-			"height": 460.1510092665071,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c933",
+			"id": "MLOWGglq",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 4509.499834547798,
+			"y": 1513.831562359778,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c933",
+			"width": 90.82612609863281,
+			"height": 62.01130174224512,
+			"seed": 340492740,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1053986300,
+			"boundElements": [],
+			"updated": 1713246087235,
+			"link": null,
+			"locked": false,
+			"fontSize": 51.67608478520427,
+			"fontFamily": 3,
+			"text": "MSA",
+			"rawText": "MSA",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "MSA",
+			"lineHeight": 1.2,
+			"baseline": 49
+		},
+		{
+			"type": "rectangle",
 			"version": 77,
 			"versionNonce": 669544828,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "4cE4Gi4wWmkhpjc1WcIDs",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4814.359703666557,
+			"y": 2674.614886872083,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c933",
+			"width": 671.9681244280291,
+			"height": 460.1510092665071,
+			"seed": 1053986300,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1713246182632,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "unQGhDVdEztjAIOabTNur",
 			"type": "line",
-			"x": 5369.878120352181,
-			"y": 1538.829887743747,
-			"width": 6.945212359335528,
-			"height": 858.9850683939226,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c933",
+			"version": 42,
+			"versionNonce": 1380268412,
+			"isDeleted": false,
+			"id": "unQGhDVdEztjAIOabTNur",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 5369.878120352181,
+			"y": 1538.829887743747,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c933",
+			"width": 6.945212359335528,
+			"height": 858.9850683939226,
+			"seed": 58126020,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 58126020,
-			"version": 42,
-			"versionNonce": 1380268412,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1713246259779,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -57974,225 +57979,40 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					6.945212359335528,
 					858.9850683939226
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "-ufJvvLT3K4Yx2XrMV_Lw",
 			"type": "ellipse",
-			"x": 5024.537766944263,
-			"y": 2335.6479449909184,
-			"width": 310.93171125994286,
-			"height": 250.28570379541316,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c933",
+			"version": 69,
+			"versionNonce": 793185916,
+			"isDeleted": false,
+			"id": "-ufJvvLT3K4Yx2XrMV_Lw",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 5024.537766944263,
+			"y": 2335.6479449909184,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c933",
+			"width": 310.93171125994286,
+			"height": 250.28570379541316,
+			"seed": 1722233028,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1722233028,
-			"version": 69,
-			"versionNonce": 793185916,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1713246355663,
 			"link": null,
 			"locked": false
 		},
 		{
-			"type": "arrow",
-			"version": 2275,
-			"versionNonce": 953337156,
-			"isDeleted": true,
-			"id": "peg9uhIi29s6yhKW3H6dL",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5225.137297124214,
-			"y": 2125.0641269951057,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"width": 171.69348128600086,
-			"height": 164.52299720977862,
-			"seed": 1000881311,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "nlk8rIFw"
-				}
-			],
-			"updated": 1713246013711,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "1u0QnKrU3I9-_r7uZNADb",
-				"focus": -0.5524080090968978,
-				"gap": 10.793584949533397
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": "arrow",
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					171.69348128600086,
-					-164.52299720977862
-				]
-			]
-		},
-		{
+			"id": "GewjzynO",
 			"type": "text",
-			"version": 374,
-			"versionNonce": 110764284,
-			"isDeleted": true,
-			"id": "nlk8rIFw",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5259.079244925402,
-			"y": 2283.2690297281797,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 78.57498168945312,
-			"height": 19.2,
-			"seed": 1440043199,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713246013711,
-			"link": null,
-			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 3,
-			"text": "실시간 게임",
-			"rawText": "실시간 게임",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "peg9uhIi29s6yhKW3H6dL",
-			"originalText": "실시간 게임",
-			"lineHeight": 1.2,
-			"baseline": 15
-		},
-		{
-			"type": "arrow",
-			"version": 2458,
-			"versionNonce": 413304644,
-			"isDeleted": true,
-			"id": "Uu8_BaDa-KsP1zA1ecHWS",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5186.561646561318,
-			"y": 2370.3077768823123,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"width": 49.764079529872106,
-			"height": 153.66904414673536,
-			"seed": 921846569,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "WNQCOH4T"
-				}
-			],
-			"updated": 1713246012723,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "dYUJ2kKTPfSyZ19YYt58y",
-				"gap": 11.55383487365578,
-				"focus": 0.5385667088414262
-			},
-			"endBinding": {
-				"elementId": "m3LxY6qqrgs4Ym15et1Pi",
-				"gap": 12.293724832960379,
-				"focus": -0.09026752640638457
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": "arrow",
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-49.764079529872106,
-					-153.66904414673536
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 423,
-			"versionNonce": 505380604,
-			"isDeleted": true,
-			"id": "WNQCOH4T",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5250.227193837667,
-			"y": 2274.567954787267,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 78.57498168945312,
-			"height": 19.2,
-			"seed": 66188809,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713246012723,
-			"link": null,
-			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 3,
-			"text": "실시간 게임",
-			"rawText": "실시간 게임",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "Uu8_BaDa-KsP1zA1ecHWS",
-			"originalText": "실시간 게임",
-			"lineHeight": 1.2,
-			"baseline": 15
-		},
-		{
-			"id": "uF1sEHnV",
-			"type": "text",
-			"x": 4945.777809415706,
-			"y": 1927.2530692970602,
+			"x": 13051.783204104675,
+			"y": 3155.629158513708,
 			"width": 9.375,
 			"height": 19.2,
 			"angle": 0,
@@ -58206,12 +58026,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 835980668,
+			"seed": 704698215,
 			"version": 2,
-			"versionNonce": 257595460,
+			"versionNonce": 346551945,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1713246024314,
+			"updated": 1714459629389,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -58220,306 +58040,10 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"fontFamily": 3,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 15,
+			"baseline": 16,
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.2
-		},
-		{
-			"id": "MBJVa-6jDaCjdJLVR8xMs",
-			"type": "arrow",
-			"x": 5163.936790972444,
-			"y": 2353.805405581202,
-			"width": 30.913089345528533,
-			"height": 127.9799972010128,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c933",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 391391044,
-			"version": 31,
-			"versionNonce": 345891836,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1713255355787,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-30.913089345528533,
-					-127.9799972010128
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "d8hNwTopPqmgqNkfTlz8j",
-			"type": "freedraw",
-			"x": 5119.718286293442,
-			"y": 2329.6307499987897,
-			"width": 64.85243938885287,
-			"height": 130.81460439028797,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c933",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 2091693564,
-			"version": 23,
-			"versionNonce": 1240146556,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1713255351278,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-0.14120201735931914
-				],
-				[
-					0,
-					-1.588755787395712
-				],
-				[
-					1.558505611997134,
-					-8.014535340394104
-				],
-				[
-					8.407891217072574,
-					-24.50253847672093
-				],
-				[
-					20.487656464429165,
-					-49.363106426657396
-				],
-				[
-					29.440361628157007,
-					-67.93422780587389
-				],
-				[
-					34.15628109567206,
-					-78.86396840561201
-				],
-				[
-					37.74734986290423,
-					-87.51904085043043
-				],
-				[
-					39.139479510206,
-					-91.05478909141948
-				],
-				[
-					39.59841196574598,
-					-91.78100049397835
-				],
-				[
-					40.511407841745495,
-					-92.623343563052
-				],
-				[
-					44.07222643357818,
-					-97.19298478514474
-				],
-				[
-					50.94688958248025,
-					-107.03330468455351
-				],
-				[
-					57.60969790709896,
-					-117.69576633727274
-				],
-				[
-					61.73542816485951,
-					-125.14539001173853
-				],
-				[
-					64.01517254784267,
-					-129.19052219942978
-				],
-				[
-					64.78686280999136,
-					-130.64304860103857
-				],
-				[
-					64.85243938885287,
-					-130.81460439028797
-				],
-				[
-					64.85243938885287,
-					-130.81460439028797
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				64.85243938885287,
-				-130.81460439028797
-			]
-		},
-		{
-			"id": "Mn3Qlkt_fCBIFIiT0HjYW",
-			"type": "freedraw",
-			"x": 5070.703160480365,
-			"y": 2254.978186149073,
-			"width": 132.3428598268847,
-			"height": 47.764301779625384,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c933",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 210277060,
-			"version": 29,
-			"versionNonce": 1683526724,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1713255350827,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.44888359590368054,
-					0
-				],
-				[
-					2.370598505671296,
-					0
-				],
-				[
-					5.704540782011463,
-					0
-				],
-				[
-					10.390106477637346,
-					0
-				],
-				[
-					16.432579013592658,
-					0
-				],
-				[
-					22.56072584768208,
-					0
-				],
-				[
-					28.265163033202043,
-					0
-				],
-				[
-					33.192937325002276,
-					0
-				],
-				[
-					43.45189064491569,
-					2.380647365306686
-				],
-				[
-					50.29122739035574,
-					5.477560870027446
-				],
-				[
-					58.57304167776783,
-					9.446964022729844
-				],
-				[
-					72.34754192290711,
-					16.593982346714256
-				],
-				[
-					76.56909893492957,
-					18.878802957760854
-				],
-				[
-					80.85633612230322,
-					21.04759549878372
-				],
-				[
-					87.38291506113455,
-					24.31088496819939
-				],
-				[
-					96.53224636495634,
-					28.749373032568656
-				],
-				[
-					110.3269479258588,
-					36.14854521587222
-				],
-				[
-					113.49938327258587,
-					37.82307889789263
-				],
-				[
-					115.27989616499417,
-					38.84195038778762
-				],
-				[
-					117.77657160032504,
-					40.11297573700267
-				],
-				[
-					121.740898524964,
-					41.97916292754371
-				],
-				[
-					125.91718387037781,
-					44.09750397740436
-				],
-				[
-					129.3165991290889,
-					45.938517220610265
-				],
-				[
-					132.3428598268847,
-					47.764301779625384
-				],
-				[
-					132.3428598268847,
-					47.764301779625384
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				132.3428598268847,
-				47.764301779625384
-			]
 		}
 	],
 	"appState": {
@@ -58537,10 +58061,10 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -4302.48443617276,
-		"scrollY": -1423.19488870641,
+		"scrollX": -13607.022670526594,
+		"scrollY": -0.9190101456835009,
 		"zoom": {
-			"value": 0.5891623896360397
+			"value": 0.5730883650761919
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
