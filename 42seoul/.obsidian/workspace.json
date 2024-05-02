@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "1d94a31c8f7209e9",
+            "id": "983c949a48f87014",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/6.3 자바의 참조자료형 - Dates.md",
+                "file": "Day Planners/2024-05-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+                "file": "Day Planners/2024-05-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+                "file": "Day Planners/2024-05-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md"
+                "file": "Day Planners/2024-05-02.md"
               }
             }
           },
@@ -181,13 +182,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "983c949a48f87014",
   "lastOpenFiles": [
-    "Java/0. Java 프로그래밍 완벽 정복/6.3 자바의 참조자료형 - Dates.md",
-    "Day Planners/2024-05-02.md",
+    "Java/7.2 ArrayLists.md",
     "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
-    "Java/0. Java 프로그래밍 완벽 정복/6.2 자바의 참조자료형 - Wrapper Class.md",
+    "Java/0. Java 프로그래밍 완벽 정복/7.0 Arrays.md",
+    "Java/0. Java 프로그래밍 완벽 정복/7.1 가변적 매개변수.md",
     "Java/0. Java 프로그래밍 완벽 정복/6.0 자바의 자료형.md",
+    "Java/0. Java 프로그래밍 완벽 정복/6.3 자바의 참조자료형 - Dates.md",
+    "Java/0. Java 프로그래밍 완벽 정복/4.0 자바 프로젝트 구성.md",
+    "Java/0. Java 프로그래밍 완벽 정복/5.0 클래스.md",
+    "template/Daily Note Template.md",
+    "template/Java 프로그래밍 완벽 정복.md",
+    "template/Thinking in Java Template.md",
+    "template/Zettelkasten.md",
+    "template/스프링 핵심 원리 - 기본편.md",
+    "Day Planners/2024-05-02.md",
+    "Java/0. Java 프로그래밍 완벽 정복/6.2 자바의 참조자료형 - Wrapper Class.md",
     "Java/0. Java 프로그래밍 완벽 정복/6.1 자바의 참조자료형.md",
     "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/5.0 함수에 대한 심화 개념.md",
     "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/2-2. chrome 디버깅 툴.md",
@@ -199,16 +210,6 @@
     "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.2 Django 작동 방식.md",
     "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.4 View, Routing, URLs.md",
     "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.3 Django 프로젝트.md",
-    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/6.1 Django 프레임워크에 대한 소개.md",
-    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/5.0 Python.md",
-    "archive(non_fixed)/Django/Django4 및 Python 풀스택 개발자 마스터 클래스/4. Bootstrap.md",
-    "archive(non_fixed)/Python/Python 100일 부트캠프/66. RESTful 라우팅으로 자신만의 API 구축.md",
-    "archive(non_fixed)/Python/Python 100일 부트캠프/0. Python All-in-one 코스.md",
-    "Java/스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "Java/4.30 5차 스프린트.md",
-    "Java/파일 구조 아키텍처.md",
-    "Java/getter를 쓰면 안된다?.md",
-    "Excalidraw(non_fixed)/ft_transcendence.excalidraw.md",
     "Excalidraw/Untitled.canvas",
     "첨부파일/Pasted image 20240425215737.png",
     "첨부파일/Pasted image 20240425162345.png",

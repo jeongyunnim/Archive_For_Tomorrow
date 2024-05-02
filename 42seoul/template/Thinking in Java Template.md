@@ -5,7 +5,7 @@
 출처: https://pi9.theoinf.tu-ilmenau.de/~streitdf/KBSE/material/ThinkingInJava980102a.pdf
 aliases:
 ---
-### 날짜  2024-04-25 21:24
+### 날짜: {{date: YYYY-MM-DD}} {{time}}
 
 ### 태그:
 

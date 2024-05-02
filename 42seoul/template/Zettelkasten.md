@@ -5,7 +5,7 @@
 출처: 
 aliases:
 ---
-### 날짜 {{date: YYYY-MM-DD}} {{time}}
+### 날짜: {{date: YYYY-MM-DD}} {{time}}
 
 ### 태그:
 
