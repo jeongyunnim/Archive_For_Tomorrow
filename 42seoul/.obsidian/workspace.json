@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/8.3 추상 클래스와 인터페이스.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c998a6580ec7414",
+            "id": "12513d0aa9926632",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/8.3 추상 클래스.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/8.3 추상 클래스와 인터페이스.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/8.3 추상 클래스.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/8.3 추상 클래스와 인터페이스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/8.3 추상 클래스.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/8.3 추상 클래스와 인터페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/8.3 추상 클래스.md"
+                "file": "Java/0. Java 프로그래밍 완벽 정복/8.3 추상 클래스와 인터페이스.md"
               }
             }
           },
@@ -170,10 +170,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9c998a6580ec7414",
+  "active": "12513d0aa9926632",
   "lastOpenFiles": [
+    "Java/프로그래머가 알아야할 97가지.md",
+    "Java/0. Java 프로그래밍 완벽 정복/8.3 추상 클래스와 인터페이스.md",
     "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
-    "Java/8.3 추상 클래스.md",
+    "Java/추상클래스와 인터페이스의 명확한 차이?.md",
     "Java/0. Java 프로그래밍 완벽 정복/8.2 상속.md",
     "Java/0. Java 프로그래밍 완벽 정복/8.1 객체 구성 관계.md",
     "Java/0. Java 프로그래밍 완벽 정복/6.0 자바의 자료형.md",
@@ -196,8 +198,6 @@
     "template/Zettelkasten.md",
     "template/스프링 핵심 원리 - 기본편.md",
     "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/5.0 함수에 대한 심화 개념.md",
-    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/2-2. chrome 디버깅 툴.md",
-    "archive(non_fixed)/Django/JWT 장고로 구현하기/3. django 로그인 구현하기.md",
     "Excalidraw/Untitled.canvas",
     "첨부파일/Pasted image 20240425215737.png",
     "첨부파일/Pasted image 20240425162345.png",
