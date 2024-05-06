@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:template  -path:\"Day Planners\"  ",
+  "search": "-path:template  -path:\"Day Planners\"  -path:Excalidraw  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 4454769
       }
+    },
+    {
+      "query": "tag:#42subject  ",
+      "color": {
+        "a": 1,
+        "rgb": 7387903
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.35844881491611824,
+  "scale": 0.8980005883426575,
   "close": false
 }

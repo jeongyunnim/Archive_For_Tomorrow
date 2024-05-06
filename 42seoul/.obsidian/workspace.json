@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/10.0 Generic.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "93fe59ab70080dd9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -29,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,12 +172,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "07384fa7df8fef60",
+  "active": "93fe59ab70080dd9",
   "lastOpenFiles": [
+    "archive(non_fixed)/Transcendence/왜 WeakMap을 사용해야 하는가?.md",
+    "archive(non_fixed)/inception/Inception 번역.md",
+    "Java/0. Java 프로그래밍 완벽 정복/7.2 ArrayLists.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.1 Collections - List.md",
+    "Java/0. Java 프로그래밍 완벽 정복/10.0 Generic.md",
+    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+    "Day Planners/2024-05-06.md",
+    "Java/0. Java 프로그래밍 완벽 정복/애너그램 검사기.md",
     "Java/0. Java 프로그래밍 완벽 정복/9.4 Collections - Map.md",
     "Java/0. Java 프로그래밍 완벽 정복/9.0 Collections.md",
-    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
-    "Java/0. Java 프로그래밍 완벽 정복/9.1 Collections - List.md",
     "Java/0. Java 프로그래밍 완벽 정복/9.3 Collections - Queue.md",
     "Java/0. Java 프로그래밍 완벽 정복/9.2 Collections - Set.md",
     "Excalidraw/Java.md",
@@ -185,16 +196,10 @@
     "Java/synchronized 키워드.md",
     "Java/ROI.md",
     "Java/ArrayList는 실제로 가변적인가? 내부적으로는 불변성을 가지고 있을 수 있다..md",
-    "Day Planners/2024-05-06.md",
     "Day Planners/2024-05-05.md",
     "Java/프로그래머가 알아야할 97가지.md",
     "Java/추상클래스와 인터페이스의 명확한 차이?.md",
     "Java/0. Java 프로그래밍 완벽 정복/8.2 상속.md",
-    "Java/0. Java 프로그래밍 완벽 정복/8.1 객체 구성 관계.md",
-    "Java/0. Java 프로그래밍 완벽 정복/6.0 자바의 자료형.md",
-    "Java/0. Java 프로그래밍 완벽 정복/8.0 OOP 설계.md",
-    "Java/0. Java 프로그래밍 완벽 정복/6.1 자바의 참조자료형.md",
-    "Java/0. Java 프로그래밍 완벽 정복/5.0 클래스.md",
     "Excalidraw/Untitled.canvas",
     "첨부파일/Pasted image 20240425215737.png",
     "첨부파일/Pasted image 20240425162345.png",
