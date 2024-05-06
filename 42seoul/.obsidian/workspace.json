@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/9.0 Collections.md",
+                "file": "Day Planners/2024-05-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/9.0 Collections.md",
+                "file": "Day Planners/2024-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/9.0 Collections.md",
+                "file": "Day Planners/2024-05-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/9.0 Collections.md"
+                "file": "Day Planners/2024-05-06.md"
               }
             }
           },
@@ -172,13 +172,25 @@
   },
   "active": "991b540ef23995dc",
   "lastOpenFiles": [
-    "Java/synchronized 키워드.md",
+    "Day Planners/2024-05-05.md",
+    "Day Planners/2024-05-06.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
+    "Java/스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
+    "Java/스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
+    "Java/Thinking in Java/0. Thinking in Java.md",
+    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+    "Java/0. Java 프로그래밍 완벽 정복/5.0 클래스.md",
+    "Java/0. Java 프로그래밍 완벽 정복/4.0 자바 프로젝트 구성.md",
+    "Java/0. Java 프로그래밍 완벽 정복/3.1 JDK vs JRE vs JVM.md",
+    "Java/0. Java 프로그래밍 완벽 정복/3.0 자바 플랫폼.md",
+    "Java/0. Java 프로그래밍 완벽 정복/2.0 자바 메서드.md",
+    "Java/0. Java 프로그래밍 완벽 정복/1.1 콘솔 출력.md",
+    "Java/0. Java 프로그래밍 완벽 정복/1.0 jshell이란?.md",
     "Java/0. Java 프로그래밍 완벽 정복/9.0 Collections.md",
+    "Java/synchronized 키워드.md",
     "Java/무제 파일.md",
     "Java/ArrayList는 실제로 가변적인가? 내부적으로는 불변성을 가지고 있을 수 있다..md",
-    "Day Planners/2024-05-05.md",
     "Day Planners/2024-05-04.md",
-    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
     "Java/0. Java 프로그래밍 완벽 정복/8.3 추상 클래스와 인터페이스.md",
     "Java/ROI.md",
     "Java/프로그래머가 알아야할 97가지.md",
@@ -186,18 +198,6 @@
     "Java/0. Java 프로그래밍 완벽 정복/8.2 상속.md",
     "Java/0. Java 프로그래밍 완벽 정복/8.1 객체 구성 관계.md",
     "Java/0. Java 프로그래밍 완벽 정복/8.0 OOP 설계.md",
-    "Java/0. Java 프로그래밍 완벽 정복/7.2 ArrayLists.md",
-    "Java/0. Java 프로그래밍 완벽 정복/7.1 가변적 매개변수.md",
-    "Java/0. Java 프로그래밍 완벽 정복/7.0 Arrays.md",
-    "Java/0. Java 프로그래밍 완벽 정복/6.3 자바의 참조자료형 - Dates.md",
-    "Java/0. Java 프로그래밍 완벽 정복/6.2 자바의 참조자료형 - Wrapper Class.md",
-    "Java/0. Java 프로그래밍 완벽 정복/6.1 자바의 참조자료형.md",
-    "Day Planners/2024-05-03.md",
-    "Day Planners/2024-05-02.md",
-    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/3.0 파기.md",
-    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.1.1 keypath.js 뜯어보기.md",
-    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.0.2 View.js 뜯어보기.md",
-    "archive(non_fixed)/heshin님 프레임워크 뜯어보기/2.0.1 config.js 파일.md",
     "Excalidraw/Untitled.canvas",
     "첨부파일/Pasted image 20240425215737.png",
     "첨부파일/Pasted image 20240425162345.png",

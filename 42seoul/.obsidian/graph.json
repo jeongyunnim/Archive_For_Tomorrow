@@ -15,14 +15,14 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#프로그래밍  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 4454769
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.701815274690734,
-  "close": true
+  "scale": 0.35844881491611824,
+  "close": false
 }
