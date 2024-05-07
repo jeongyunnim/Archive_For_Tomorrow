@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "-path:template  -path:\"Day Planners\"  -path:Excalidraw  ",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.48914107651265193,
+  "scale": 0.3339046843044329,
   "close": false
 }
