@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4b1b12339d112b59",
+        "id": "64d200f72b8b387a",
         "type": "tabs",
         "children": [
           {
-            "id": "653158319f673ea9",
+            "id": "07384fa7df8fef60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/5.8 6차 스프린트.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/11.4 메서드 참조.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "dadf006273b10a56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Pinting 설계.md"
               }
             }
           }
@@ -48,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bounded",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 281.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/5.8 6차 스프린트.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/11.4 메서드 참조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/5.8 6차 스프린트.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/11.4 메서드 참조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/5.8 6차 스프린트.md"
+                "file": "Java/0. Java 프로그래밍 완벽 정복/11.4 메서드 참조.md"
               }
             }
           },
@@ -157,60 +147,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "653158319f673ea9",
+  "active": "a69cded141b28ffc",
   "lastOpenFiles": [
-    "Excalidraw/Pinting 설계.md",
-    "Java/5.8 6차 스프린트.md",
-    "첨부파일/Pasted Image 20240508184636_882.png",
-    "첨부파일/Pasted Image 20240508184550_915.png",
-    "첨부파일/Pasted Image 20240508184534_908.png",
-    "첨부파일/Pasted Image 20240508184518_929.png",
-    "첨부파일/Pasted Image 20240508184502_909.png",
-    "첨부파일/Pasted Image 20240508184446_930.png",
-    "첨부파일/Pasted Image 20240508184430_906.png",
-    "첨부파일/Pasted Image 20240508184414_888.png",
-    "Excalidraw/Java.md",
-    "Java/0. Java 프로그래밍 완벽 정복/11.2 Optional.md",
+    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+    "Java/0. Java 프로그래밍 완벽 정복/11.4 메서드 참조.md",
     "Java/0. Java 프로그래밍 완벽 정복/11.3 함수형 인터페이스.md",
-    "Java/0. Java 프로그래밍 완벽 정복/11.0 함수형 프로그래밍.md",
-    "Java/0. Java 프로그래밍 완벽 정복/애너그램 검사기.md",
-    "archive(non_fixed)/Transcendence/Use Case Diagram.md",
-    "archive(non_fixed)/Transcendence/Stateless와 Stateful.md",
-    "archive(non_fixed)/Transcendence/SparseArray.md",
-    "archive(non_fixed)/Transcendence/Server-Side Rendering.md",
-    "archive(non_fixed)/Transcendence/SEO.md",
-    "archive(non_fixed)/Transcendence/replace 추가 정보.md",
-    "archive(non_fixed)/Transcendence/Rendering on the Web.md",
-    "archive(non_fixed)/Transcendence/Node.js.md",
-    "archive(non_fixed)/Transcendence/ft_transcendence.md",
-    "archive(non_fixed)/Transcendence/fallback.md",
-    "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
-    "archive(non_fixed)/Transcendence/트센 소프트웨어 설계.md",
-    "archive(non_fixed)/Transcendence/왜 WeakMap을 사용해야 하는가?.md",
-    "archive(non_fixed)/Transcendence/이미지에 PostgreSQL 적용시키기.md",
-    "archive(non_fixed)/Transcendence/옵저버 패턴.md",
-    "archive(non_fixed)/Transcendence/소프트웨어 아키텍처.md",
-    "archive(non_fixed)/MSA 패턴과 핵심기술/4.3.0 전략적 설계.md",
-    "archive(non_fixed)/MSA 패턴과 핵심기술/4.3 도메인 주도 설계의 세부 개념.md",
-    "archive(non_fixed)/협업/DDD.md",
+    "첨부파일/Pasted image 20240509130810.png",
+    "Java/5.8 6차 스프린트.md",
     "첨부파일/Pasted image 20240508015753.png",
     "첨부파일/Pasted image 20240508015719.png",
+    "첨부파일/Pasted Image 20240508184430_906.png",
+    "첨부파일/Pasted Image 20240508184550_915.png",
+    "첨부파일/Pasted Image 20240508184446_930.png",
+    "첨부파일/Pasted Image 20240508184502_909.png",
+    "첨부파일/Pasted Image 20240508184518_929.png",
+    "첨부파일/Pasted Image 20240508184534_908.png",
+    "첨부파일/Pasted Image 20240508184414_888.png",
+    "template/Thinking in Java Template.md",
+    "Excalidraw/Pinting 설계.md",
+    "Java/0. Java 프로그래밍 완벽 정복/11.2 Optional.md",
+    "Java/0. Java 프로그래밍 완벽 정복/11.0 함수형 프로그래밍.md",
+    "Java/0. Java 프로그래밍 완벽 정복/11.1 Stream.md",
+    "Java/0. Java 프로그래밍 완벽 정복/애너그램 검사기.md",
+    "Java/0. Java 프로그래밍 완벽 정복/10.0 Generic.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.4 Collections - Map.md",
+    "template/Zettelkasten.md",
+    "template/스프링 핵심 원리 - 기본편.md",
+    "template/Java 프로그래밍 완벽 정복.md",
+    "template/Daily Note Template.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.3 Collections - Queue.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.2 Collections - Set.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.1 Collections - List.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.0 Collections.md",
+    "Java/0. Java 프로그래밍 완벽 정복/8.3 추상 클래스와 인터페이스.md",
+    "Java/0. Java 프로그래밍 완벽 정복/8.2 상속.md",
+    "Java/0. Java 프로그래밍 완벽 정복/8.1 객체 구성 관계.md",
+    "Java/0. Java 프로그래밍 완벽 정복/8.0 OOP 설계.md",
+    "Java/0. Java 프로그래밍 완벽 정복/7.2 ArrayLists.md",
+    "Java/0. Java 프로그래밍 완벽 정복/7.1 가변적 매개변수.md",
     "Excalidraw/Untitled.canvas",
     "첨부파일(non_fixed)",
     "template",
     "archive(non_fixed)/협업",
     "작성 해야 함",
     "archive(non_fixed)/heshin님 프레임워크 뜯어보기",
+    "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "archive(non_fixed)/Transcendence",
     "archive(non_fixed)/Python/Python 100일 부트캠프",
     "archive(non_fixed)/Python",

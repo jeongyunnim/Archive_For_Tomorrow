@@ -482,17 +482,6 @@ Event Storming  ^lHnPU7cW
 유저 관리
 시스템 ^HwHeT8vv
 
-
-# Embedded files
-1b1c6ce5bea44a53cafbfa4b34a7f0b8bdd18acd: [[Pasted Image 20240508184414_888.png]]
-34e379002c299b1e2c1a584f06dd1199df2c43bf: [[Pasted Image 20240508184430_906.png]]
-13a889421d7468aabeb06b8c6d8b789ed4df47f8: [[Pasted Image 20240508184446_930.png]]
-26b5cd3dbac35d1341468a551c43f910cd219665: [[Pasted Image 20240508184502_909.png]]
-24e36e728b6740cbcdcfd5783b0affc448049b01: [[Pasted Image 20240508184518_929.png]]
-c0829950198f65b0c3fa225cc01169a26d83529c: [[Pasted Image 20240508184534_908.png]]
-c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]]
-6fa6aab579d1fee4d0becd37573ddee3252b51fe: [[Pasted Image 20240508184636_882.png]]
-
 %%
 # Drawing
 ```json
@@ -536,7 +525,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "Event Storming ",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -573,7 +562,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "1. 도메인 이벤트 정의",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -642,7 +631,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Gh7w3EYFRCUR9XtSeOfxZ",
 			"originalText": "로그인을 했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -711,7 +700,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "cIOnm7Z2uPLfpfizkPemQ",
 			"originalText": "게시판을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -780,7 +769,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "t5Qf8aMvp5Cof1wXj6Wim",
 			"originalText": "실시간 그림 공유를 했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -849,7 +838,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "6drc5g8ZZ4snKV4s4f0mp",
 			"originalText": "그림을 그렸다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -918,7 +907,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "JaKRGuXvdXI789PbX61KQ",
 			"originalText": "내 정보를 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -987,7 +976,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "lVO9JTZSj9g_cCcGXDRTl",
 			"originalText": "팔로우를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1056,7 +1045,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "yFXqK4_3hjBcHE2h1gOTa",
 			"originalText": "정보를 업데이트했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1125,7 +1114,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Y0S6BcAIqR6eoy_ObUgIK",
 			"originalText": "기명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1194,7 +1183,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Ga-vfWGYdjJnakJ9KP4Y4",
 			"originalText": "익명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1263,7 +1252,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "rdTl5jPKSR2YI00LYVFTg",
 			"originalText": "신고를 했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1332,7 +1321,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "vvyqwZUIeo1qIKFp7a65p",
 			"originalText": "그림을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1401,7 +1390,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "MD5iXgeq5PPy5HfwNGIQX",
 			"originalText": "로그아웃을 했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -1524,7 +1513,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "uX4-lxmAAqg5PfUrHD-p0",
 			"originalText": "-----\n-----\n---\n-----",
 			"lineHeight": 1.2,
-			"baseline": 91
+			"baseline": 92
 		},
 		{
 			"type": "rectangle",
@@ -1896,7 +1885,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "실시간",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1933,7 +1922,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "게시물",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2002,7 +1991,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "vEVTxd4GTV_c9unwxJu8a",
 			"originalText": "그림을 저장했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2071,7 +2060,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "qJnW-pSTiCID5hv7_z4ld",
 			"originalText": "그림을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2140,271 +2129,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "vyDyw4OEZEff9qS0jQKBd",
 			"originalText": "팔로우를 취소했다",
 			"lineHeight": 1.2,
-			"baseline": 19
-		},
-		{
-			"type": "image",
-			"version": 26,
-			"versionNonce": 1917161450,
-			"isDeleted": false,
-			"id": "fTzFxKoaF1UgJUtof41cI",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 941.1225797067618,
-			"y": -486.37478644565726,
-			"strokeColor": "transparent",
-			"backgroundColor": "#1e1e1e",
-			"width": 900.6060651240458,
-			"height": 737.3712158203125,
-			"seed": 812737654,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715164739897,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "1b1c6ce5bea44a53cafbfa4b34a7f0b8bdd18acd",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 54,
-			"versionNonce": 1787509686,
-			"isDeleted": false,
-			"id": "28WGs2Mx7kpc_c_CayAl7",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1925.245686249311,
-			"y": -482.74044956365947,
-			"strokeColor": "transparent",
-			"backgroundColor": "#1e1e1e",
-			"width": 989.575536608807,
-			"height": 737.3712158203125,
-			"seed": 2073915690,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715164739897,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "34e379002c299b1e2c1a584f06dd1199df2c43bf",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 72,
-			"versionNonce": 1134559914,
-			"isDeleted": false,
-			"id": "pf2xLb4IGfjM_99kRPvdp",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2997.1773828290097,
-			"y": -482.78263168570106,
-			"strokeColor": "transparent",
-			"backgroundColor": "#1e1e1e",
-			"width": 893.0315818177039,
-			"height": 737.3712158203125,
-			"seed": 1065300074,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715164739897,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "13a889421d7468aabeb06b8c6d8b789ed4df47f8",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 51,
-			"versionNonce": 1213617398,
-			"isDeleted": false,
-			"id": "iXSg2LUafxAhMUf7nPQsK",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 3942.343041417839,
-			"y": -476.5136475165518,
-			"strokeColor": "transparent",
-			"backgroundColor": "#1e1e1e",
-			"width": 730.2023289998373,
-			"height": 737.3712158203125,
-			"seed": 781497782,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715164739897,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "26b5cd3dbac35d1341468a551c43f910cd219665",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 62,
-			"versionNonce": 1318985066,
-			"isDeleted": false,
-			"id": "OSVBYC9iC0bJEVPKv4mlM",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 4712.487991925833,
-			"y": -486.40054957715734,
-			"strokeColor": "transparent",
-			"backgroundColor": "#1e1e1e",
-			"width": 811.1646682820856,
-			"height": 737.3712158203125,
-			"seed": 105574314,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715164739897,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "24e36e728b6740cbcdcfd5783b0affc448049b01",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 54,
-			"versionNonce": 132924982,
-			"isDeleted": false,
-			"id": "pABdocstxmOpIN_UUdCxI",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5570.9511973061035,
-			"y": -487.83340684929976,
-			"strokeColor": "transparent",
-			"backgroundColor": "#1e1e1e",
-			"width": 917.7308131212187,
-			"height": 737.3712158203125,
-			"seed": 203862134,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715164739897,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "c0829950198f65b0c3fa225cc01169a26d83529c",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 81,
-			"versionNonce": 1888149546,
-			"isDeleted": false,
-			"id": "zx0EHiiYTJD0QoEpOArCQ",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 6529.025048750996,
-			"y": -487.6080795644689,
-			"strokeColor": "transparent",
-			"backgroundColor": "#1e1e1e",
-			"width": 780.7459932215073,
-			"height": 737.3712158203125,
-			"seed": 155595690,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715164739897,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "c36ab7030006bc21d2392e5ec5981b37efef2e40",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 77,
-			"versionNonce": 1513230198,
-			"isDeleted": false,
-			"id": "nyQKqvvZ0GNgZIJoyTo3p",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2074.36361250081,
-			"y": 634.8068396651281,
-			"strokeColor": "transparent",
-			"backgroundColor": "#1e1e1e",
-			"width": 1440,
-			"height": 541,
-			"seed": 370939830,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715164739897,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "6fa6aab579d1fee4d0becd37573ddee3252b51fe",
-			"scale": [
-				1,
-				1
-			]
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -2441,7 +2166,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "3. 프로세스 그룹핑",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2510,7 +2235,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "l-_MdQR-2EHSTueqQ7Xci",
 			"originalText": "로그인을 했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2579,7 +2304,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "wL8BOE6YCckyyGFjkM7_Z",
 			"originalText": "게시판을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2648,7 +2373,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "ipG1lZ5oNHnDvXl0q2kb4",
 			"originalText": "실시간 그림 공유를 했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2717,7 +2442,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "SSS6GFHaAtDnmfnGpQDmr",
 			"originalText": "그림을 그렸다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2786,7 +2511,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "0YhoOtntiA-my0LQ1AdPd",
 			"originalText": "내 정보를 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2855,7 +2580,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "rWc8bVIMzEnm9eY36qcFM",
 			"originalText": "팔로우를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2924,7 +2649,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "jpnT5DYfFkgIbr-VraJBy",
 			"originalText": "정보를 업데이트했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -2993,7 +2718,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "zRhcYOD9q9Upm242Ysgis",
 			"originalText": "기명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -3062,7 +2787,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "0L4AmpRAleJvaUGfm2vMW",
 			"originalText": "익명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -3131,7 +2856,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "nOSWc0IQl8IzBfQWRKrPB",
 			"originalText": "댓글을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -3200,7 +2925,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "QY1D3RYmXm_M3GWukLV1r",
 			"originalText": "그림을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -3269,7 +2994,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "PFG335zA6wp-yuI-31ejq",
 			"originalText": "로그아웃을 했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -3338,7 +3063,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "u2s2ey2I6an01Qfcv5lZs",
 			"originalText": "그림을 저장했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -3407,7 +3132,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "7HzQX5UFn5sB1-yNOzBoe",
 			"originalText": "그림을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -3476,7 +3201,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "B1wcg-5w9CKvLDfrvQ0Dw",
 			"originalText": "팔로우를 취소했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -3513,7 +3238,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "인증/인가",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -3577,7 +3302,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "유저 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -3614,7 +3339,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "그림 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -3651,7 +3376,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "스트리밍",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -3720,7 +3445,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "dlFs51BBIizRjjJv4OuxC",
 			"originalText": "기명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -3789,7 +3514,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "XDrSn5Pl-LHB3k2JTjoG1",
 			"originalText": "익명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -3826,7 +3551,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "게시판 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -3922,7 +3647,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "TfgbozYu5DuO1jSzoRZlw",
 			"originalText": "댓글을 수정했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -3991,7 +3716,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "XJut5utejJc2-oBinKT9f",
 			"originalText": "댓글을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4060,7 +3785,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "wzYXgeE16EDrHcBJBNcRX",
 			"originalText": "댓글을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4129,7 +3854,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "MnYpUP7rG-Qid63ZydlvX",
 			"originalText": "게시물을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4198,7 +3923,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "tKRlb1spvgEB95aNqnY-0",
 			"originalText": "그리는 유저를 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -4316,7 +4041,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "3. Command 정의",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4385,7 +4110,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "3taE_hx9A9Rxhw949wZ3A",
 			"originalText": "로그인을 했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4454,7 +4179,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "zNb9OpcotE-nnJoNALmsL",
 			"originalText": "그림을 그렸다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4523,7 +4248,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "5GeNSXb6sZdBhCtQOF7Cd",
 			"originalText": "프로필을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4592,7 +4317,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Q_YBvCIyXrXq-ik_qkSoR",
 			"originalText": "팔로우를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4661,7 +4386,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "J3yoJTTjykfEgGpTpFJ7n",
 			"originalText": "프로필을 업데이트했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4730,7 +4455,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "1TsfLaxA_PugraU_lrQyz",
 			"originalText": "기명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4799,7 +4524,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "5rne8M-YNYBhihLC0-xYJ",
 			"originalText": "익명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4868,7 +4593,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "tX8lxaTM9l7RhYZQX1QBx",
 			"originalText": "댓글을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4937,7 +4662,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "RPmTxTrCYXjVQkj-pI6RU",
 			"originalText": "내 그림을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5006,7 +4731,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "J0ncyVY3SROm4lrcVpCVT",
 			"originalText": "로그아웃을 했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5075,7 +4800,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "F14f53e4AnKjgiA-IL77d",
 			"originalText": "그림을 저장했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5144,7 +4869,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "TuCFiYEBT88bqPOt2fSuI",
 			"originalText": "그림을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5213,7 +4938,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "0jfXCftTY-GjqcLmYkwvU",
 			"originalText": "팔로우를 취소했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -5250,7 +4975,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "인증/인가",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -5314,7 +5039,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "유저 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -5351,7 +5076,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "그림 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -5388,7 +5113,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "스트리밍",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5457,7 +5182,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Z2Kk1AifKm26UkuaNAJ3w",
 			"originalText": "기명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5526,7 +5251,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "If1NWhuKALe2sLWMikyz0",
 			"originalText": "익명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -5563,7 +5288,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "게시판 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5632,7 +5357,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "P4Z-Dqoxh1BnJNWSMGi2d",
 			"originalText": "댓글을 수정했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5701,7 +5426,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "31k8E1KX_QnTyX4Lq5Cfd",
 			"originalText": "댓글을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5770,7 +5495,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "1Dd3gKEQESv39t9Z3vQPy",
 			"originalText": "댓글을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5839,7 +5564,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "7Qt_sOaOor8Yx94Rx9o0l",
 			"originalText": "게시물을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5908,7 +5633,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "S26c08aeoHCI8CMk_ywVQ",
 			"originalText": "그리는 유저를 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -6085,7 +5810,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "g91aT4iDSipybdnPuN1dX",
 			"originalText": "로그인",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6154,7 +5879,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "De6oj0ggCJmnwOM77THtq",
 			"originalText": "로그아웃",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6223,7 +5948,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "6i6-cQ4o3Af-VCPzWD1z9",
 			"originalText": "그리기",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6292,7 +6017,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "0Hxa1d8ZzBKIp4cFph2zn",
 			"originalText": "게시물을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6361,7 +6086,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "IIQXi6bFNuaa5yv7UwLRb",
 			"originalText": "그림 저장",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6430,7 +6155,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Q_5rmA2_MKdrOIGY9NQt5",
 			"originalText": "내 그림 조회",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6499,7 +6224,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "vtyxocrd7xL7JF621_1LW",
 			"originalText": "그림 삭제",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6568,7 +6293,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "4k6eyE-j9--r5E4phHthq",
 			"originalText": "댓글 달기",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6637,7 +6362,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "JOjSeDs1tbv3zl7pNvp-K",
 			"originalText": "댓글 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6706,7 +6431,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "SEX6Z8rr9HGZ1GEa4RpRS",
 			"originalText": "유저 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6775,7 +6500,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "dmXtfyveZhZCzpb4hg5mV",
 			"originalText": "프로필 조회",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6844,7 +6569,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "028a1gGWZfD51Ow52ibOP",
 			"originalText": "프로필 수정",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6913,7 +6638,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "QHXNSFtj9syE03icYL3D7",
 			"originalText": "팔로우 추가",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6982,7 +6707,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "UFl3pJDd5onY8o2iBQrEk",
 			"originalText": "팔로우 취소",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7051,7 +6776,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "hdrW4GezrRtk134qXHu37",
 			"originalText": "게시물 클릭",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7120,7 +6845,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "LsNQuGo_ACqaQo-wvwNue",
 			"originalText": "댓글 달기",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7189,7 +6914,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "jgomx0wzGYYja0nLGMjHR",
 			"originalText": "댓글 수정",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7258,7 +6983,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Ck1EsuS9GpmB3eY1n4R-W",
 			"originalText": "댓글 삭제",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7327,7 +7052,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "ZLI-lJJ8Cdhe5lSxaqASp",
 			"originalText": "댓글 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7396,7 +7121,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "TwPIk47zc9lbbiqVjv4q7",
 			"originalText": "게시물 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7465,7 +7190,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Wf0CbCa1tmUNjGHRknb6U",
 			"originalText": "게시물을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7534,7 +7259,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "-Je3ZqbguwMryAO-DjB0k",
 			"originalText": "게시물 삭제",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7603,7 +7328,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Ph7ddZ1-6ZP3s4RyAC0qe",
 			"originalText": "그림을 업로드했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7672,40 +7397,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "tMGm2LDm5BmQsW4K4OeLb",
 			"originalText": "그림 업로드",
 			"lineHeight": 1.2,
-			"baseline": 19
-		},
-		{
-			"type": "image",
-			"version": 92,
-			"versionNonce": 554279862,
-			"isDeleted": false,
-			"id": "SnDk0ONCvV5tggSYSd1zP",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -3515.8373731289284,
-			"y": 4583.6884678005235,
-			"strokeColor": "transparent",
-			"backgroundColor": "#1e1e1e",
-			"width": 1084.6880646424652,
-			"height": 1095.3371760765426,
-			"seed": 4334314,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715166260512,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "26b5cd3dbac35d1341468a551c43f910cd219665",
-			"scale": [
-				1,
-				1
-			]
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -7742,7 +7434,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "4. 트리거 정의",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7811,7 +7503,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "sNhrGjw1DPBPJlBaXQpJ-",
 			"originalText": "로그인을 했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7880,7 +7572,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "xynZHr4rxn6asYxF6NF-v",
 			"originalText": "그림을 그렸다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7949,7 +7641,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "W0QPVzl-EgWI-mrKDR2FK",
 			"originalText": "프로필을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8018,7 +7710,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "9n66KVumHWrJH7hunxnqp",
 			"originalText": "팔로우를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8087,7 +7779,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "-EzkLmhyOIYKNeJWDIx-Z",
 			"originalText": "프로필을 업데이트했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8156,7 +7848,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "KrZGriWPyUOJSx5FfGOF_",
 			"originalText": "기명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8225,7 +7917,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Gn4DnZCCtDe_BoM-WQuCp",
 			"originalText": "익명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8294,7 +7986,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "O7OkIcre3roXCfp4S4tnz",
 			"originalText": "댓글을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8363,7 +8055,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Zg-hLk1DtWWNSc7CO2pBt",
 			"originalText": "내 그림을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8432,7 +8124,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "AOF6nPgjH6hjEi70Jq58h",
 			"originalText": "로그아웃을 했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8501,7 +8193,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "CI6pGHrJZsa14oTF5MolQ",
 			"originalText": "그림을 저장했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8570,7 +8262,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "U5EQ0miS9jMW7vx6pf0Vq",
 			"originalText": "그림을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8639,7 +8331,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Q6ix_cq01vJcbJrBdeZyH",
 			"originalText": "팔로우를 취소했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -8676,7 +8368,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "인증/인가",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -8740,7 +8432,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "유저 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -8777,7 +8469,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "그림 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -8814,7 +8506,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "스트리밍",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8883,7 +8575,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "AZrrS6qUyfuX_uYBbFdfL",
 			"originalText": "기명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8952,7 +8644,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "oZy_2rB-xF_5dkBWZJioy",
 			"originalText": "익명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -8989,7 +8681,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "게시판 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9058,7 +8750,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "38F_2P4cPD_lZHfgzVdK3",
 			"originalText": "댓글을 수정했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9127,7 +8819,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "q3FOsgj5UplMZd1ExzGjI",
 			"originalText": "댓글을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9196,7 +8888,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "NrTlkVDNmn6sgunYuBMMv",
 			"originalText": "댓글을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9265,7 +8957,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "RJ4rKU-S_YhwQKhO3qAyf",
 			"originalText": "게시물을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9334,7 +9026,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "tiCoOXKlh0XK38LfnMXvc",
 			"originalText": "그리는 유저를 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -9511,7 +9203,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "WzXdPDqsn-5VXLZTDI-ww",
 			"originalText": "로그인",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9580,7 +9272,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "6EhO7aMm1AZfvW41nwBdj",
 			"originalText": "로그아웃",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9649,7 +9341,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "2SBfmpBGSn12HsAKU7VaC",
 			"originalText": "그리기",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9718,7 +9410,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "KS16tUpjb-N1_O7SxVIZU",
 			"originalText": "게시물을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9787,7 +9479,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "OqbXs6fuZ-Yzokr7KEOTv",
 			"originalText": "그림 저장",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9856,7 +9548,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "BRFhv7xEidvMDAU6k3XKn",
 			"originalText": "내 그림 조회",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9925,7 +9617,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "63FjBwfhrCdhpVn5elbnO",
 			"originalText": "그림 삭제",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -9994,7 +9686,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Vtn4JlgQjFPoSuzmpJmJM",
 			"originalText": "댓글 달기",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10063,7 +9755,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "vrUDGhi52Gr_Nlr0jUf50",
 			"originalText": "댓글 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10132,7 +9824,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "iIofSNn4jLbO5IxTmx9EE",
 			"originalText": "유저 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10201,7 +9893,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "ayMGhRQzCbtPwB6CIm3LD",
 			"originalText": "프로필 조회",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10270,7 +9962,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "5i_0kPBdsNv8HZ6X9lptA",
 			"originalText": "프로필 수정",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10339,7 +10031,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "_MpQ-wbhiGdMRBLdcgzC9",
 			"originalText": "팔로우 추가",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10408,7 +10100,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "MoyFNTIB3lFRAoNTNhrsc",
 			"originalText": "팔로우 취소",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10477,7 +10169,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "M01jt4vzRqVXinTEAphTk",
 			"originalText": "게시물 클릭",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10546,7 +10238,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "P7v56w-h9LJKFap7P32js",
 			"originalText": "댓글 달기",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10615,7 +10307,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "ahR3eLIJHDIKlBHgRkdKy",
 			"originalText": "댓글 수정",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10684,7 +10376,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "rMJOfLboama0a-QoebEIw",
 			"originalText": "댓글 삭제",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10753,7 +10445,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "k01-Ud8v7Mw8oK2hudHO1",
 			"originalText": "댓글 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10822,7 +10514,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "BB29uZY1ki0LWARFUldlQ",
 			"originalText": "게시물 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10891,7 +10583,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "FOFo78txcI9W9ydPHGqcv",
 			"originalText": "게시물을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -10960,7 +10652,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "xtD1yLGGmrSe6uXR12FQu",
 			"originalText": "게시물 삭제",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -11029,7 +10721,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "vIquIy9OofgwWT8y1YO0x",
 			"originalText": "그림을 업로드했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -11098,7 +10790,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "6rydEyXFP0fEz6X0xjGjS",
 			"originalText": "그림 업로드",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -11167,7 +10859,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "mm66pFI9gqU9UuSczPCXk",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -11236,7 +10928,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "CNkB584e393_wxHaiX5x5",
 			"originalText": "게시물을 업로드했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -11305,7 +10997,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "_CRR7yj5ncIdOJGe2taT9",
 			"originalText": "게시물 업로드",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -11374,7 +11066,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "rPRLn3PQkFBRsyBUnN9q6",
 			"originalText": "게시물을 수정했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -11443,7 +11135,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "SvO49APrw68OsZehhi0jE",
 			"originalText": "게시물 수정",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -11512,7 +11204,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "CxJ-EHDFQIv3EWyOjYu2y",
 			"originalText": "내 게시물을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -11581,7 +11273,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "jMXrlare16pVo8coTeqgX",
 			"originalText": "내 게시물 조회",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -11617,8 +11309,8 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 		},
 		{
 			"type": "text",
-			"version": 196,
-			"versionNonce": 1273231914,
+			"version": 197,
+			"versionNonce": 796145733,
 			"isDeleted": false,
 			"id": "Zm0y9VaR",
 			"fillStyle": "solid",
@@ -11627,7 +11319,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -174.53683003729213,
+			"x": -174.53683003729216,
 			"y": 4484.63476252684,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#99e9f2",
@@ -11638,7 +11330,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715166263894,
+			"updated": 1715226947464,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11650,7 +11342,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "vdc-5_DBmwcITLy_d6Xgt",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -11719,7 +11411,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "zSeEF1lQKJ_kPDJk3zGVo",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -11755,8 +11447,8 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 		},
 		{
 			"type": "text",
-			"version": 289,
-			"versionNonce": 181860266,
+			"version": 290,
+			"versionNonce": 1530796683,
 			"isDeleted": false,
 			"id": "ucr7KRP9",
 			"fillStyle": "solid",
@@ -11765,7 +11457,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -158.3699545144317,
+			"x": -158.36995451443173,
 			"y": 5189.601649038944,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#99e9f2",
@@ -11776,7 +11468,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715166263894,
+			"updated": 1715226947467,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -11788,7 +11480,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "DKpUomy0UpdmvcEPc4Tow",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -11857,7 +11549,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Tp4CLI4qZHNK9NFACMJqR",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -11926,7 +11618,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "mG8OQ-kl65cJDXAShFhxx",
 			"originalText": "로그인\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -11995,7 +11687,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Rf8S7fzE8vJW9VhkfXAaq",
 			"originalText": "그림 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -12064,7 +11756,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "KdPAJSj_aPqReQM_N4y3Q",
 			"originalText": "스트리밍\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -12133,7 +11825,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "3EpyiePr1OHWoaMii7Xge",
 			"originalText": "그림을 업로드했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -12202,7 +11894,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "nHag3tutKXdKXE9wDi1e7",
 			"originalText": "그림 업로드",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -12298,7 +11990,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "WrGhEkNHOK5iqSzYas8nT",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -12335,7 +12027,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "댓글 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -12404,7 +12096,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "j5zmvI1A9VQKs_wOLioyL",
 			"originalText": "내 댓글을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -12473,7 +12165,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "WT25XiabRiF1PhtvPmLL-",
 			"originalText": "내 댓글 조회",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -12542,7 +12234,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "JQLuwH-qFUd7UikaLU1kU",
 			"originalText": "유저 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -12611,7 +12303,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "fOGynqe2hSUH7KO7w20nU",
 			"originalText": "그림을 그렸다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -12680,7 +12372,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "ZvtTeOJD7bOnt-tptDSgw",
 			"originalText": "프로필을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -12749,7 +12441,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "8AjBcy7PIWpvGz3CGZUTu",
 			"originalText": "팔로우를 추가했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -12818,7 +12510,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "iGB4UE8cLmgUbzbhteRQT",
 			"originalText": "프로필을 업데이트했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -12887,7 +12579,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "tfd11tkYHYB3acEstSkhy",
 			"originalText": "기명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -12956,7 +12648,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "lW7AnXfT5oktTTJSMudbV",
 			"originalText": "익명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -13025,7 +12717,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "6hNLoZZtSIBnpL_R6Pjs-",
 			"originalText": "댓글을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -13094,7 +12786,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "sjfplSgSGN75DVJIjuSQa",
 			"originalText": "내 그림을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -13163,7 +12855,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "rbI82QVrH-fZY9l4qCmES",
 			"originalText": "그림을 저장했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -13232,7 +12924,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "fEhIK4JkLBOzdRNBZ80Ft",
 			"originalText": "그림을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -13301,7 +12993,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "zUdCqyWUCDxOdS6RP5u9M",
 			"originalText": "팔로우를 취소했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -13338,7 +13030,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "유저 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -13375,7 +13067,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "그림 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -13412,7 +13104,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "스트리밍",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -13481,7 +13173,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "OIZEgeiI8j6PJ_IX0OjUI",
 			"originalText": "기명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -13550,7 +13242,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "xGxUNJ7lVhgAknxTFJwn_",
 			"originalText": "익명으로 댓글을 달았다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -13587,7 +13279,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "게시판 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -13656,7 +13348,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "wZrOSOHQZDdCr4NWetsX6",
 			"originalText": "댓글을 수정했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -13725,7 +13417,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "L6D4pm04akIy2R8J4CIC5",
 			"originalText": "댓글을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -13794,12 +13486,12 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "lP1hth3mkQpEvTjfpFEpY",
 			"originalText": "댓글을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 1522,
-			"versionNonce": 1502373098,
+			"version": 1523,
+			"versionNonce": 321841061,
 			"isDeleted": false,
 			"id": "DHOacj6Ri-HHmJrbonoOd",
 			"fillStyle": "solid",
@@ -13808,7 +13500,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 900.4320271778066,
+			"x": 900.4320271778065,
 			"y": 8202.390437740762,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fff9db",
@@ -13824,14 +13516,14 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 					"id": "2xMcix9g"
 				}
 			],
-			"updated": 1715165767193,
+			"updated": 1715226947499,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1834,
-			"versionNonce": 529020598,
+			"version": 1835,
+			"versionNonce": 693145899,
 			"isDeleted": false,
 			"id": "2xMcix9g",
 			"fillStyle": "hachure",
@@ -13840,8 +13532,8 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 921.3727010059316,
-			"y": 8219.390437740765,
+			"x": 921.3727010059315,
+			"y": 8219.390437740762,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 150.11865234375,
@@ -13851,7 +13543,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715165767193,
+			"updated": 1715226947500,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -13863,7 +13555,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "DHOacj6Ri-HHmJrbonoOd",
 			"originalText": "게시물을 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -13932,7 +13624,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "PKG8ziJ56TgbCQrVegnCM",
 			"originalText": "그리는 유저를 신고했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -14109,12 +13801,12 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "P0xhyH-liSZCaiOQgNppZ",
 			"originalText": "그리기",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 1354,
-			"versionNonce": 1778118646,
+			"version": 1355,
+			"versionNonce": 1050454789,
 			"isDeleted": false,
 			"id": "ho7ysEJ3X5BP4cJIdQb6h",
 			"fillStyle": "solid",
@@ -14123,7 +13815,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 910.9666257397922,
+			"x": 910.9666257397921,
 			"y": 8131.75314028404,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fff9db",
@@ -14139,14 +13831,14 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 					"id": "wiv5w0ir"
 				}
 			],
-			"updated": 1715165767193,
+			"updated": 1715226947503,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1488,
-			"versionNonce": 938717802,
+			"version": 1489,
+			"versionNonce": 119223243,
 			"isDeleted": false,
 			"id": "wiv5w0ir",
 			"fillStyle": "hachure",
@@ -14155,7 +13847,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 926.9072995679172,
+			"x": 926.9072995679171,
 			"y": 8148.75314028404,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -14166,7 +13858,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715165767193,
+			"updated": 1715226947503,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -14178,7 +13870,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "ho7ysEJ3X5BP4cJIdQb6h",
 			"originalText": "게시물을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -14247,7 +13939,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "K5UdIQU0z7fhPhfYpb9hx",
 			"originalText": "그림 저장",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -14316,7 +14008,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "D1k5h9yd_bvSPm2ClLxbM",
 			"originalText": "내 그림 조회",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -14385,7 +14077,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "KLejZvTFeom3gT6nzlkIX",
 			"originalText": "그림 삭제",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -14454,7 +14146,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "hG7cadK_OD25ONLMBh-OG",
 			"originalText": "댓글 달기",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -14523,7 +14215,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "T1xa-N1Vj2EmbS2IWz2M8",
 			"originalText": "댓글 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -14592,7 +14284,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "PH5iOr1Uk01lmDUCTbuLY",
 			"originalText": "유저 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -14661,7 +14353,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "0YpR_eZu5S3oHMmSTxt1O",
 			"originalText": "프로필 조회",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -14730,7 +14422,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "TAfkxXgbnQERbdWKVMMna",
 			"originalText": "프로필 수정",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -14799,7 +14491,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "NHb_1fXxpj2LhgpedeUaa",
 			"originalText": "팔로우 추가",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -14868,7 +14560,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "sFKEw436a0DzlQiwfA2Ml",
 			"originalText": "팔로우 취소",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -14937,7 +14629,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "hfluc3AID58wVheqhVKPP",
 			"originalText": "게시물 클릭",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -15006,7 +14698,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "h_Gz180kl8ayhC0AvRNuR",
 			"originalText": "댓글 달기",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -15075,7 +14767,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "ZLaoIlj4CIkihPuxJeykx",
 			"originalText": "댓글 수정",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -15144,7 +14836,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "BalCLn4SG9xBedCFC0aad",
 			"originalText": "댓글 삭제",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -15213,7 +14905,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "y0Ewt_OGXV1XNmFNF4QdK",
 			"originalText": "댓글 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -15249,8 +14941,8 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 		},
 		{
 			"type": "text",
-			"version": 1340,
-			"versionNonce": 1988713194,
+			"version": 1341,
+			"versionNonce": 1916469861,
 			"isDeleted": false,
 			"id": "6AxdS0Lm",
 			"fillStyle": "hachure",
@@ -15260,7 +14952,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 737.1149044605696,
-			"y": 8219.390437740765,
+			"y": 8219.390437740762,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 98.21868896484375,
@@ -15270,7 +14962,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715165767193,
+			"updated": 1715226947523,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15282,12 +14974,12 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "8QNVWDFeELASXmd_j6ZNt",
 			"originalText": "게시물 신고",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 1559,
-			"versionNonce": 360554678,
+			"version": 1560,
+			"versionNonce": 616071787,
 			"isDeleted": false,
 			"id": "JVzGS7xnfVCigne_5TGeJ",
 			"fillStyle": "solid",
@@ -15296,7 +14988,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 901.155251430892,
+			"x": 901.1552514308919,
 			"y": 8276.209846844655,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fff9db",
@@ -15312,14 +15004,14 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 					"id": "4AnLGO00"
 				}
 			],
-			"updated": 1715165767193,
+			"updated": 1715226947524,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1891,
-			"versionNonce": 1127378346,
+			"version": 1892,
+			"versionNonce": 47672773,
 			"isDeleted": false,
 			"id": "4AnLGO00",
 			"fillStyle": "hachure",
@@ -15328,7 +15020,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 922.095925259017,
+			"x": 922.0959252590169,
 			"y": 8293.209846844655,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -15339,7 +15031,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715165767193,
+			"updated": 1715226947524,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15351,7 +15043,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "JVzGS7xnfVCigne_5TGeJ",
 			"originalText": "게시물을 삭제했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -15420,7 +15112,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "7P_UNSFJnl1l6CFKH5ZOf",
 			"originalText": "게시물 삭제",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -15489,7 +15181,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "zXNO_1saqn1FjQ6XEApBq",
 			"originalText": "그림을 업로드했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -15558,12 +15250,12 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "l_6s6BZtq-3s02OSrJou2",
 			"originalText": "그림 업로드",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 1432,
-			"versionNonce": 1263102774,
+			"version": 1433,
+			"versionNonce": 1257438475,
 			"isDeleted": false,
 			"id": "BFEIBmK_hLm7qo11-YXCJ",
 			"fillStyle": "solid",
@@ -15572,7 +15264,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 913.4830523239626,
+			"x": 913.4830523239625,
 			"y": 7910.926578309927,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fff9db",
@@ -15588,14 +15280,14 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 					"id": "O2YPuZm8"
 				}
 			],
-			"updated": 1715165767193,
+			"updated": 1715226947529,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1610,
-			"versionNonce": 2025753386,
+			"version": 1611,
+			"versionNonce": 1334799653,
 			"isDeleted": false,
 			"id": "O2YPuZm8",
 			"fillStyle": "hachure",
@@ -15604,7 +15296,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 920.7737322556032,
+			"x": 920.7737322556031,
 			"y": 7927.926578309927,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -15615,7 +15307,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715165767193,
+			"updated": 1715226947529,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15627,7 +15319,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "BFEIBmK_hLm7qo11-YXCJ",
 			"originalText": "게시물을 업로드했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -15696,12 +15388,12 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "qSI5EIOUMs613uMijcwsa",
 			"originalText": "게시물 업로드",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 1478,
-			"versionNonce": 1535415734,
+			"version": 1479,
+			"versionNonce": 1162159019,
 			"isDeleted": false,
 			"id": "gDhxQmXFUHDsRycEcH1sB",
 			"fillStyle": "solid",
@@ -15710,7 +15402,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 916.2414687847587,
+			"x": 916.2414687847586,
 			"y": 7989.18149155585,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fff9db",
@@ -15726,14 +15418,14 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 					"id": "1soszJL2"
 				}
 			],
-			"updated": 1715165767193,
+			"updated": 1715226947531,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1662,
-			"versionNonce": 2097236138,
+			"version": 1663,
+			"versionNonce": 2010153093,
 			"isDeleted": false,
 			"id": "1soszJL2",
 			"fillStyle": "hachure",
@@ -15742,7 +15434,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 932.1821426128837,
+			"x": 932.1821426128836,
 			"y": 8006.18149155585,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -15753,7 +15445,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715165767193,
+			"updated": 1715226947532,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15765,7 +15457,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "gDhxQmXFUHDsRycEcH1sB",
 			"originalText": "게시물을 수정했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -15834,12 +15526,12 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "DwLJml5J8yyShcuGl67Pe",
 			"originalText": "게시물 수정",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
-			"version": 1529,
-			"versionNonce": 970399798,
+			"version": 1530,
+			"versionNonce": 198800971,
 			"isDeleted": false,
 			"id": "IcaodVAKCXyULdQxV7DPB",
 			"fillStyle": "solid",
@@ -15848,7 +15540,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 911.7112485537126,
+			"x": 911.7112485537127,
 			"y": 8060.7947999675835,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fff9db",
@@ -15864,14 +15556,14 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 					"id": "dh07HiNV"
 				}
 			],
-			"updated": 1715165767193,
+			"updated": 1715226947534,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1762,
-			"versionNonce": 1255319082,
+			"version": 1763,
+			"versionNonce": 1364731877,
 			"isDeleted": false,
 			"id": "dh07HiNV",
 			"fillStyle": "hachure",
@@ -15880,7 +15572,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 930.6425534853532,
+			"x": 930.6425534853533,
 			"y": 8077.7947999675835,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -15891,7 +15583,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715165767193,
+			"updated": 1715226947534,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -15903,7 +15595,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "IcaodVAKCXyULdQxV7DPB",
 			"originalText": "내 게시물을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -15972,7 +15664,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "rUWKqpdHCvtPWPEnbTiZq",
 			"originalText": "내 게시물 조회",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -16041,7 +15733,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "gxm4KrglTxGx3pMn6G_3K",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -16110,7 +15802,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "Y6DD7gV1tOEBsjZpe-Oct",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -16179,7 +15871,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "2U7mVXMAOvSry1c1OPuRc",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -16248,7 +15940,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "DujWOL9KHZtctQ7eXQzU2",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -16317,7 +16009,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "s_P31Me6IESHR1oV5uqSQ",
 			"originalText": "그림 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -16386,7 +16078,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "VJf0h8UBgkhaRrLvjqUL9",
 			"originalText": "스트리밍\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -16455,7 +16147,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "gzjq5JaU6K2kA2S-oKTNW",
 			"originalText": "그림을 업로드했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -16524,7 +16216,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "9vU9Y524_nnzn-opqhjkI",
 			"originalText": "그림 업로드",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -16620,7 +16312,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "eeKVdXhD9a9UmRPdrUIGQ",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -16657,7 +16349,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": null,
 			"originalText": "댓글 관리",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -16726,7 +16418,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "JMMEtJaIYiHdSYOkbuk7P",
 			"originalText": "내 댓글을 조회했다",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -16795,7 +16487,7 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "ML6SLv4eYp3QsblPe2ow4",
 			"originalText": "내 댓글 조회",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -16864,31 +16556,31 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"containerId": "O3ugmLfhTRwqyZQSF5ped",
 			"originalText": "유저 관리\n시스템",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
-			"id": "vFf-0isIX2eFkDf-MiTn6",
 			"type": "rectangle",
-			"x": -517.8259895383115,
-			"y": 7399.518063324915,
-			"width": 802.4577800854406,
-			"height": 746.1937833037578,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 218,
+			"versionNonce": 634145130,
+			"isDeleted": false,
+			"id": "vFf-0isIX2eFkDf-MiTn6",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -517.8259895383115,
+			"y": 7399.518063324915,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 802.4577800854406,
+			"height": 746.1937833037578,
+			"seed": 1408376758,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1408376758,
-			"version": 218,
-			"versionNonce": 634145130,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1715166125506,
 			"link": null,
 			"locked": false
@@ -16921,573 +16613,355 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 			"locked": false
 		},
 		{
-			"id": "hmtWTdZgh5cZ_FvXwOZqk",
 			"type": "rectangle",
-			"x": 339.3982560695449,
-			"y": 7571.656126662165,
-			"width": 2062.96827741346,
-			"height": 1018.6402771298654,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 103,
+			"versionNonce": 478532982,
+			"isDeleted": false,
+			"id": "hmtWTdZgh5cZ_FvXwOZqk",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 339.3982560695449,
+			"y": 7571.656126662165,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 2062.96827741346,
+			"height": 1018.6402771298654,
+			"seed": 1559352758,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1559352758,
-			"version": 103,
-			"versionNonce": 478532982,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1715166044030,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "TIMSWITxojB-ZcnkKjPjs",
 			"type": "rectangle",
-			"x": 1249.7687475777502,
-			"y": 6672.871320868277,
-			"width": 865.9819005059326,
-			"height": 823.8065961759621,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 154,
+			"versionNonce": 536259446,
+			"isDeleted": false,
+			"id": "TIMSWITxojB-ZcnkKjPjs",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1249.7687475777502,
+			"y": 6672.871320868277,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 865.9819005059326,
+			"height": 823.8065961759621,
+			"seed": 1250267510,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1250267510,
-			"version": 154,
-			"versionNonce": 536259446,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1715165810010,
 			"link": null,
 			"locked": false
 		},
 		{
-			"type": "text",
-			"version": 350,
-			"versionNonce": 611630314,
+			"type": "image",
+			"version": 27,
+			"versionNonce": 960810853,
 			"isDeleted": true,
-			"id": "DR3wUZ6k",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -13.180127282253352,
-			"y": 6780.342013466803,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 133.37493896484375,
-			"height": 24,
-			"seed": 9573174,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715166100802,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "4. 트리거 정의",
-			"rawText": "4. 트리거 정의",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "4. 트리거 정의",
-			"lineHeight": 1.2,
-			"baseline": 19
-		},
-		{
-			"type": "rectangle",
-			"version": 305,
-			"versionNonce": 1066954358,
-			"isDeleted": true,
-			"id": "y1EcDBeasYPWW8umBg8hP",
+			"id": "fTzFxKoaF1UgJUtof41cI",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -45.76184017256003,
-			"y": 7082.68855124427,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#fff9db",
-			"width": 159,
-			"height": 58,
-			"seed": 915815542,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "s9efpEL2"
-				}
-			],
-			"updated": 1715166034188,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 321,
-			"versionNonce": 2000968682,
-			"isDeleted": true,
-			"id": "s9efpEL2",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -24.021178551466278,
-			"y": 7099.68855124427,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 115.5186767578125,
-			"height": 24,
-			"seed": 79904182,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715166034188,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "로그인을 했다",
-			"rawText": "로그인을 했다",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "y1EcDBeasYPWW8umBg8hP",
-			"originalText": "로그인을 했다",
-			"lineHeight": 1.2,
-			"baseline": 19
-		},
-		{
-			"type": "rectangle",
-			"version": 422,
-			"versionNonce": 1387212726,
-			"isDeleted": true,
-			"id": "R_sdhYSXqAU7V_ykoqZQR",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -45.76184017256003,
-			"y": 7174.797838154676,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#fff9db",
-			"width": 159,
-			"height": 58,
-			"seed": 414608118,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "dcMVM47N"
-				}
-			],
-			"updated": 1715166034188,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 460,
-			"versionNonce": 1457868458,
-			"isDeleted": true,
-			"id": "dcMVM47N",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -32.67117244795065,
-			"y": 7191.797838154676,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 132.81866455078125,
-			"height": 24,
-			"seed": 1071225910,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715166034188,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "로그아웃을 했다",
-			"rawText": "로그아웃을 했다",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "R_sdhYSXqAU7V_ykoqZQR",
-			"originalText": "로그아웃을 했다",
-			"lineHeight": 1.2,
-			"baseline": 19
-		},
-		{
-			"type": "text",
-			"version": 239,
-			"versionNonce": 1876674806,
-			"isDeleted": true,
-			"id": "XRS0oGj1",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -73.97729199330865,
-			"y": 6947.613646212289,
-			"strokeColor": "#1e1e1e",
+			"x": 941.1225797067618,
+			"y": -486.37478644565726,
+			"strokeColor": "transparent",
 			"backgroundColor": "#1e1e1e",
-			"width": 80.918701171875,
-			"height": 24,
-			"seed": 1375966454,
+			"width": 900.6060651240458,
+			"height": 737.3712158203125,
+			"seed": 812737654,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715166034188,
+			"updated": 1715227003768,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "인증/인가",
-			"rawText": "인증/인가",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "인증/인가",
-			"lineHeight": 1.2,
-			"baseline": 19
+			"status": "pending",
+			"fileId": "1b1c6ce5bea44a53cafbfa4b34a7f0b8bdd18acd",
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
-			"type": "ellipse",
-			"version": 308,
-			"versionNonce": 1666836842,
+			"type": "image",
+			"version": 55,
+			"versionNonce": 96339307,
 			"isDeleted": true,
-			"id": "rHIaAHTuV7PIl-XPZADib",
+			"id": "28WGs2Mx7kpc_c_CayAl7",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -217.5396187683848,
-			"y": 6983.024198321009,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 383.07387479481974,
-			"height": 373.1961040833758,
-			"seed": 1777436214,
+			"x": 1925.245686249311,
+			"y": -482.74044956365947,
+			"strokeColor": "transparent",
+			"backgroundColor": "#1e1e1e",
+			"width": 989.575536608807,
+			"height": 737.3712158203125,
+			"seed": 2073915690,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715166034188,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "rectangle",
-			"version": 355,
-			"versionNonce": 111360566,
-			"isDeleted": true,
-			"id": "5HE9YVkP0aML9iYW6PPUi",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -165.9674789590664,
-			"y": 7081.035716372209,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
-			"width": 76,
-			"height": 58,
-			"seed": 1781469942,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "M34fMNPv"
-				}
-			],
-			"updated": 1715166034188,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 395,
-			"versionNonce": 334310442,
-			"isDeleted": true,
-			"id": "M34fMNPv",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -153.91746064851952,
-			"y": 7098.035716372209,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 51.89996337890625,
-			"height": 24,
-			"seed": 738018358,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715166034188,
+			"updated": 1715227003768,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "로그인",
-			"rawText": "로그인",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "5HE9YVkP0aML9iYW6PPUi",
-			"originalText": "로그인",
-			"lineHeight": 1.2,
-			"baseline": 19
+			"status": "pending",
+			"fileId": "34e379002c299b1e2c1a584f06dd1199df2c43bf",
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
-			"type": "rectangle",
-			"version": 391,
-			"versionNonce": 1307214710,
+			"type": "image",
+			"version": 73,
+			"versionNonce": 1092590277,
 			"isDeleted": true,
-			"id": "N5SVRHXw1msAsxV6Sobut",
+			"id": "pf2xLb4IGfjM_99kRPvdp",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -168.04213113463163,
-			"y": 7174.4246974942525,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
-			"width": 85,
-			"height": 58,
-			"seed": 259214710,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "5nosYDrw"
-				}
-			],
-			"updated": 1715166034188,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 460,
-			"versionNonce": 1049237226,
-			"isDeleted": true,
-			"id": "5nosYDrw",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -160.14210672056913,
-			"y": 7191.4246974942525,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 69.199951171875,
-			"height": 24,
-			"seed": 1104555702,
+			"x": 2997.1773828290097,
+			"y": -482.78263168570106,
+			"strokeColor": "transparent",
+			"backgroundColor": "#1e1e1e",
+			"width": 893.0315818177039,
+			"height": 737.3712158203125,
+			"seed": 1065300074,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715166034188,
+			"updated": 1715227003768,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "로그아웃",
-			"rawText": "로그아웃",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "N5SVRHXw1msAsxV6Sobut",
-			"originalText": "로그아웃",
-			"lineHeight": 1.2,
-			"baseline": 19
+			"status": "pending",
+			"fileId": "13a889421d7468aabeb06b8c6d8b789ed4df47f8",
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
-			"type": "ellipse",
-			"version": 173,
-			"versionNonce": 1475781814,
+			"type": "image",
+			"version": 52,
+			"versionNonce": 374349835,
 			"isDeleted": true,
-			"id": "9zXyrrOqwEQIBLCbQvHr4",
+			"id": "iXSg2LUafxAhMUf7nPQsK",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -204.00149764383013,
-			"y": 6931.112900408461,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#99e9f2",
-			"width": 114,
-			"height": 114,
-			"seed": 95948534,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "sTexei1X"
-				}
-			],
-			"updated": 1715166034188,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 158,
-			"versionNonce": 1136372138,
-			"isDeleted": true,
-			"id": "sTexei1X",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -172.75656586091645,
-			"y": 6976.307813880828,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#99e9f2",
-			"width": 51.89996337890625,
-			"height": 24,
-			"seed": 1694941238,
+			"x": 3942.343041417839,
+			"y": -476.5136475165518,
+			"strokeColor": "transparent",
+			"backgroundColor": "#1e1e1e",
+			"width": 730.2023289998373,
+			"height": 737.3712158203125,
+			"seed": 781497782,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715166034188,
+			"updated": 1715227003768,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "사용자",
-			"rawText": "사용자",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "9zXyrrOqwEQIBLCbQvHr4",
-			"originalText": "사용자",
-			"lineHeight": 1.2,
-			"baseline": 19
+			"status": "pending",
+			"fileId": "26b5cd3dbac35d1341468a551c43f910cd219665",
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
-			"type": "rectangle",
-			"version": 249,
-			"versionNonce": 644652534,
+			"type": "image",
+			"version": 63,
+			"versionNonce": 1313471013,
 			"isDeleted": true,
-			"id": "i4RqGoo4VibRh4uWIjz1R",
+			"id": "OSVBYC9iC0bJEVPKv4mlM",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 32.660076470377135,
-			"y": 6932.209966171416,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
-			"width": 88,
-			"height": 94,
-			"seed": 833827446,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "lVs3l6gr"
-				}
-			],
-			"updated": 1715166034188,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 220,
-			"versionNonce": 984409194,
-			"isDeleted": true,
-			"id": "lVs3l6gr",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 50.71009478092401,
-			"y": 6955.209966171416,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
-			"width": 51.89996337890625,
-			"height": 48,
-			"seed": 1020359606,
+			"x": 4712.487991925833,
+			"y": -486.40054957715734,
+			"strokeColor": "transparent",
+			"backgroundColor": "#1e1e1e",
+			"width": 811.1646682820856,
+			"height": 737.3712158203125,
+			"seed": 105574314,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715166034188,
+			"updated": 1715227003768,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "로그인\n시스템",
-			"rawText": "로그인\n시스템",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "i4RqGoo4VibRh4uWIjz1R",
-			"originalText": "로그인\n시스템",
-			"lineHeight": 1.2,
-			"baseline": 43
+			"status": "pending",
+			"fileId": "24e36e728b6740cbcdcfd5783b0affc448049b01",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 55,
+			"versionNonce": 252044971,
+			"isDeleted": true,
+			"id": "pABdocstxmOpIN_UUdCxI",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5570.9511973061035,
+			"y": -487.83340684929976,
+			"strokeColor": "transparent",
+			"backgroundColor": "#1e1e1e",
+			"width": 917.7308131212187,
+			"height": 737.3712158203125,
+			"seed": 203862134,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715227003768,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "c0829950198f65b0c3fa225cc01169a26d83529c",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 82,
+			"versionNonce": 967929221,
+			"isDeleted": true,
+			"id": "zx0EHiiYTJD0QoEpOArCQ",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6529.025048750996,
+			"y": -487.6080795644689,
+			"strokeColor": "transparent",
+			"backgroundColor": "#1e1e1e",
+			"width": 780.7459932215073,
+			"height": 737.3712158203125,
+			"seed": 155595690,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715227003768,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "c36ab7030006bc21d2392e5ec5981b37efef2e40",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 78,
+			"versionNonce": 109697355,
+			"isDeleted": true,
+			"id": "nyQKqvvZ0GNgZIJoyTo3p",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2074.36361250081,
+			"y": 634.8068396651281,
+			"strokeColor": "transparent",
+			"backgroundColor": "#1e1e1e",
+			"width": 1440,
+			"height": 541,
+			"seed": 370939830,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715227003768,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "6fa6aab579d1fee4d0becd37573ddee3252b51fe",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 96,
+			"versionNonce": 1127892939,
+			"isDeleted": true,
+			"id": "SnDk0ONCvV5tggSYSd1zP",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -3517.3738314622615,
+			"y": 4574.4697178005235,
+			"strokeColor": "transparent",
+			"backgroundColor": "#1e1e1e",
+			"width": 1084.6880646424652,
+			"height": 1095.3371760765426,
+			"seed": 4334314,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715226996737,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "26b5cd3dbac35d1341468a551c43f910cd219665",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -17505,8 +16979,8 @@ c36ab7030006bc21d2392e5ec5981b37efef2e40: [[Pasted Image 20240508184550_915.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 6152.7970244416965,
-		"scrollY": 1351.8292662059703,
+		"scrollX": 1455.6125404134436,
+		"scrollY": 4447.209732502826,
 		"zoom": {
 			"value": 0.1
 		},
