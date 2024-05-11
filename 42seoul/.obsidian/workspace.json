@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4b1b12339d112b59",
+        "id": "d81d0bb096581e8a",
         "type": "tabs",
         "children": [
           {
-            "id": "653158319f673ea9",
+            "id": "450fbe128b69ede7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive(non_fixed)/MSA 패턴과 핵심기술/2.0 MSA 도입 조건.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dadf006273b10a56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Pinting 설계.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Pinting 설계.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Pinting 설계.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Pinting 설계.md"
+                "file": "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md"
               }
             }
           },
@@ -168,19 +157,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dadf006273b10a56",
+  "active": "450fbe128b69ede7",
   "lastOpenFiles": [
+    "Java/12.2 Executor Service.md",
+    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+    "Java/0. Java 프로그래밍 완벽 정복/12.1 스레드의 상태.md",
+    "첨부파일/Pasted image 20240511190942.png",
+    "Day Planners/2024-05-11.md",
+    "Excalidraw/Pinting 설계.md",
     "archive(non_fixed)/MSA 패턴과 핵심기술/2.0 MSA 도입 조건.md",
     "archive(non_fixed)/MSA 패턴과 핵심기술/0. MSA 패턴과 핵심기술.md",
     "archive(non_fixed)/MSA 패턴과 핵심기술/2.1.2 지원 역량.md",
     "archive(non_fixed)/MSA 패턴과 핵심기술/2.1.0 핵심 역량.md",
     "archive(non_fixed)/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
     "archive(non_fixed)/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
-    "Excalidraw/Pinting 설계.md",
     "첨부파일/Pasted image 20240509130810.png",
     "Java/중간 연산 boxed().md",
     "Java/zipkin.md",
-    "Java/0. Java 프로그래밍 완벽 정복/12.1 스레드의 상태.md",
     "Java/0. Java 프로그래밍 완벽 정복/12.0 자바의 스레드와 동시성.md",
     "Java/0. Java 프로그래밍 완벽 정복/11.4 메서드 참조.md",
     "Day Planners/2024-05-10.md",
@@ -202,11 +195,7 @@
     "archive(non_fixed)/Transcendence/Use Case Diagram.md",
     "archive(non_fixed)/Transcendence/Stateless와 Stateful.md",
     "archive(non_fixed)/Transcendence/SparseArray.md",
-    "archive(non_fixed)/Transcendence/Server-Side Rendering.md",
-    "archive(non_fixed)/Transcendence/SEO.md",
-    "archive(non_fixed)/Transcendence/replace 추가 정보.md",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
-    "첨부파일/Pasted image 20240508015753.png",
     "Excalidraw/Untitled.canvas",
     "첨부파일(non_fixed)",
     "template",
