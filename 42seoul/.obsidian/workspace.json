@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
+                "file": "Java/16.2 접근 제어자.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
+                "file": "Java/16.2 접근 제어자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
+                "file": "Java/16.2 접근 제어자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md"
+                "file": "Java/16.2 접근 제어자.md"
               }
             }
           },
@@ -180,12 +180,15 @@
   },
   "active": "a04945f3ad785eb1",
   "lastOpenFiles": [
-    "Day Planners/2024-05-13.md",
+    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+    "Java/16.2 접근 제어자.md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.1 equals(), hashcode().md",
     "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.0 Import.md",
+    "Day Planners/2024-05-13.md",
     "Excalidraw/Java.md",
     "Java/0. Java 프로그래밍 완벽 정복/15.0 Synchronized.md",
     "Java/0. Java 프로그래밍 완벽 정복/9.4 Collections - Map.md",
-    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
     "첨부파일/Pasted image 20240513183424.png",
     "Java/0. Java 프로그래밍 완벽 정복/14.0 파일 IO.md",
     "Java/0. Java 프로그래밍 완벽 정복/11.3 함수형 인터페이스.md",
@@ -215,9 +218,6 @@
     "첨부파일(non_fixed)/Module09 ex00.md",
     "첨부파일(non_fixed)",
     "작성 해야 함/프로젝트 구성 참고하기.md",
-    "작성 해야 함/single-page application.md",
-    "작성 해야 함/scheme.md",
-    "작성 해야 함/gRPC.md",
     "작성 해야 함",
     "template",
     "archive(non_fixed)/협업",
