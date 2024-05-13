@@ -429,7 +429,7 @@
         "highlights": {
           "activeCodeblockLineColour": "--color-base-30",
           "activeEditorLineColour": "--color-base-20",
-          "defaultColour": "#FFD00030",
+          "defaultColour": "#FFD00024",
           "alternativeHighlights": {
             "error": "#7200005C"
           }
