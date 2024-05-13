@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/15.0 Synchronized.md",
+                "file": "Day Planners/2024-05-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a04945f3ad785eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/15.0 Synchronized.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/15.0 Synchronized.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/15.0 Synchronized.md"
+                "file": "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md"
               }
             }
           },
@@ -165,12 +178,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "a04945f3ad785eb1",
   "lastOpenFiles": [
-    "Java/0. Java 프로그래밍 완벽 정복/9.4 Collections - Map.md",
+    "Day Planners/2024-05-13.md",
     "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
-    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+    "Excalidraw/Java.md",
     "Java/0. Java 프로그래밍 완벽 정복/15.0 Synchronized.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.4 Collections - Map.md",
+    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
     "첨부파일/Pasted image 20240513183424.png",
     "Java/0. Java 프로그래밍 완벽 정복/14.0 파일 IO.md",
     "Java/0. Java 프로그래밍 완벽 정복/11.3 함수형 인터페이스.md",
@@ -203,8 +218,6 @@
     "작성 해야 함/single-page application.md",
     "작성 해야 함/scheme.md",
     "작성 해야 함/gRPC.md",
-    "작성 해야 함/Two Scoops of Django.md",
-    "작성 해야 함/REST.md",
     "작성 해야 함",
     "template",
     "archive(non_fixed)/협업",
