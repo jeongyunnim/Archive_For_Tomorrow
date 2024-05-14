@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "64d200f72b8b387a",
+        "id": "d81d0bb096581e8a",
         "type": "tabs",
         "children": [
           {
-            "id": "07384fa7df8fef60",
+            "id": "450fbe128b69ede7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2024-05-13.md",
+                "file": "Java/16.4 tip - 클래스.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a04945f3ad785eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/16.2 접근 제어자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93fe59ab70080dd9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "볼륨",
+                "query": "Bounded",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/16.2 접근 제어자.md",
+                "file": "Java/16.4 tip - 클래스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/16.2 접근 제어자.md",
+                "file": "Java/16.4 tip - 클래스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/16.2 접근 제어자.md"
+                "file": "Java/16.4 tip - 클래스.md"
               }
             }
           },
@@ -168,66 +147,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a04945f3ad785eb1",
+  "active": "450fbe128b69ede7",
   "lastOpenFiles": [
     "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
-    "Java/16.2 접근 제어자.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.1 equals(), hashcode().md",
-    "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.0 Import.md",
+    "Java/16.4 tip - 클래스.md",
+    "Java/16.3 tip - non-access modifier.md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.2 tip - 접근 제어자.md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.1 tip - equals(), hashCode().md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.0 tip - Import.md",
     "Day Planners/2024-05-13.md",
-    "Excalidraw/Java.md",
-    "Java/0. Java 프로그래밍 완벽 정복/15.0 Synchronized.md",
-    "Java/0. Java 프로그래밍 완벽 정복/9.4 Collections - Map.md",
-    "첨부파일/Pasted image 20240513183424.png",
-    "Java/0. Java 프로그래밍 완벽 정복/14.0 파일 IO.md",
-    "Java/0. Java 프로그래밍 완벽 정복/11.3 함수형 인터페이스.md",
-    "Java/0. Java 프로그래밍 완벽 정복/11.2 Optional.md",
-    "Java/0. Java 프로그래밍 완벽 정복/11.1 Stream.md",
-    "Java/0. Java 프로그래밍 완벽 정복/10.0 Generic.md",
-    "Java/0. Java 프로그래밍 완벽 정복/13.0 예외 처리.md",
-    "Java/0. Java 프로그래밍 완벽 정복/13.1 예외의 계층 관계.md",
-    "Java/0. Java 프로그래밍 완벽 정복/13.2 사용자 정의 예외.md",
-    "Java/0. Java 프로그래밍 완벽 정복/11.4 메서드 참조.md",
-    "작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
-    "template/스프링 핵심 원리 - 기본편.md",
     "Day Planners/2024-05-12.md",
     "Day Planners/2024-05-11.md",
-    "Day Planners/2024-05-10.md",
-    "Day Planners/2024-05-06.md",
+    "첨부파일/Pasted image 20240513183424.png",
     "첨부파일/Pasted image 20240512191340.png",
+    "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
+    "Java/0. Java 프로그래밍 완벽 정복/15.0 Synchronized.md",
+    "Java/0. Java 프로그래밍 완벽 정복/14.0 파일 IO.md",
+    "Java/0. Java 프로그래밍 완벽 정복/13.2 사용자 정의 예외.md",
+    "Java/0. Java 프로그래밍 완벽 정복/13.1 예외의 계층 관계.md",
+    "Java/0. Java 프로그래밍 완벽 정복/13.0 예외 처리.md",
+    "Java/0. Java 프로그래밍 완벽 정복/12.2 Executor Service.md",
+    "Java/12.2 Executor Service.md",
+    "Java/0. Java 프로그래밍 완벽 정복/12.1 스레드의 상태.md",
     "첨부파일/Pasted image 20240511190942.png",
+    "Excalidraw/Pinting 설계.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/2.0 MSA 도입 조건.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/0. MSA 패턴과 핵심기술.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/2.1.2 지원 역량.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/2.1.0 핵심 역량.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/2.1 MSA 역량 모델.md",
+    "archive(non_fixed)/MSA 패턴과 핵심기술/1.1 MSA 특징.md",
     "첨부파일/Pasted image 20240509130810.png",
-    "첨부파일/Pasted image 20240508015753.png",
-    "첨부파일/Pasted image 20240508015719.png",
-    "첨부파일/Pasted image 20240508015514.png",
-    "첨부파일/Pasted image 20240507223318.png",
-    "첨부파일/Pasted image 20240507223151.png",
-    "첨부파일/Pasted image 20240507222920.png",
-    "첨부파일",
-    "첨부파일(non_fixed)/Module09 ex00.md",
-    "첨부파일(non_fixed)",
-    "작성 해야 함/프로젝트 구성 참고하기.md",
-    "작성 해야 함",
-    "template",
-    "archive(non_fixed)/협업",
-    "archive(non_fixed)/알고리즘",
-    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스",
-    "archive(non_fixed)/inception/도커/Docker docs",
-    "archive(non_fixed)/inception/database/mysql doc 정리",
-    "archive(non_fixed)/inception/도커",
+    "Java/중간 연산 boxed().md",
+    "첨부파일/Pasted Image 20240508184636_882.png",
+    "첨부파일/Pasted Image 20240508184550_915.png",
+    "첨부파일/Pasted Image 20240508184534_908.png",
+    "첨부파일/Pasted Image 20240508184518_929.png",
+    "첨부파일/Pasted Image 20240508184502_909.png",
+    "첨부파일/Pasted Image 20240508184446_930.png",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
+    "첨부파일(non_fixed)",
+    "template",
+    "archive(non_fixed)/협업",
+    "작성 해야 함",
+    "archive(non_fixed)/heshin님 프레임워크 뜯어보기",
+    "archive(non_fixed)/Transcendence",
+    "archive(non_fixed)/Python/Python 100일 부트캠프",
+    "archive(non_fixed)/Python",
+    "archive(non_fixed)/MSA 패턴과 핵심기술",
+    "archive(non_fixed)/JavaScript/프레임워크 없는 프론트엔드 개발",
     "Transcendence/트센 캔버스.canvas",
     "무제 파일.canvas",
     "Untitled.canvas",
