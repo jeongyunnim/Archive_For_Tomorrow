@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "64d200f72b8b387a",
+        "id": "698db4e46983ea77",
         "type": "tabs",
         "children": [
           {
-            "id": "07384fa7df8fef60",
+            "id": "a244c4503f4e1df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2024-05-14.md",
+                "file": "Java/1.2 뷰 환경설정.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "93fe59ab70080dd9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2024-05-14.md",
+                "file": "Java/1.2 뷰 환경설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2024-05-14.md",
+                "file": "Java/1.2 뷰 환경설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2024-05-14.md"
+                "file": "Java/1.2 뷰 환경설정.md"
               }
             }
           },
@@ -165,44 +157,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "07384fa7df8fef60",
+  "active": "a244c4503f4e1df9",
   "lastOpenFiles": [
-    "Java/16.5 tip - enum.md",
+    "Java/1. 스프링 입문/0. 스프링 입문.md",
+    "Java/1.2 뷰 환경설정.md",
+    "Java/1.1 라이브러리 살펴보기.md",
+    "첨부파일/Pasted image 20240514212042.png",
+    "첨부파일/Pasted image 20240514211317.png",
+    "Java/1. 스프링 입문/1.0 프로젝트 생성.md",
+    "Java/스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md",
+    "첨부파일/Pasted image 20240514202349.png",
+    "Excalidraw/Java Spring.md",
+    "Java/스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
+    "Java/스프링 핵심 원리 - 기본편/1.1 스프링이란?.md",
+    "Java/스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
+    "Java/스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
     "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+    "template/스프링 입문.md",
+    "template/스프링 핵심 원리 - 기본편.md",
+    "template/Zettelkasten.md",
+    "template/Thinking in Java Template.md",
+    "template/Daily Note Template.md",
+    "template/Java 프로그래밍 완벽 정복.md",
+    "Java/1. 스프링 입문",
+    "Java/스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
+    "Java/스프링 핵심 원리 - 기본편/1.4 객체 지향 설계와 스프링.md",
+    "Java/스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
+    "Day Planners/2024-05-14.md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.5 tip - enum.md",
     "Java/0. Java 프로그래밍 완벽 정복/16.4 tip - 클래스.md",
     "Java/0. Java 프로그래밍 완벽 정복/16.3 tip - non-access modifier.md",
     "Java/0. Java 프로그래밍 완벽 정복/16.2 tip - 접근 제어자.md",
-    "Day Planners/2024-05-14.md",
     "Day Planners/2024-05-13.md",
-    "Java/16.2 접근 제어자.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.1 tip - equals(), hashCode().md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.0 tip - Import.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.1 equals(), hashcode().md",
-    "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.0 Import.md",
-    "Excalidraw/Java.md",
-    "Java/0. Java 프로그래밍 완벽 정복/15.0 Synchronized.md",
-    "Java/0. Java 프로그래밍 완벽 정복/9.4 Collections - Map.md",
     "첨부파일/Pasted image 20240513183424.png",
-    "Java/0. Java 프로그래밍 완벽 정복/14.0 파일 IO.md",
-    "Java/0. Java 프로그래밍 완벽 정복/11.3 함수형 인터페이스.md",
-    "Java/0. Java 프로그래밍 완벽 정복/11.2 Optional.md",
-    "Java/0. Java 프로그래밍 완벽 정복/11.1 Stream.md",
-    "Java/0. Java 프로그래밍 완벽 정복/10.0 Generic.md",
-    "Java/0. Java 프로그래밍 완벽 정복/13.0 예외 처리.md",
-    "Java/0. Java 프로그래밍 완벽 정복/13.1 예외의 계층 관계.md",
-    "Java/0. Java 프로그래밍 완벽 정복/13.2 사용자 정의 예외.md",
-    "Java/0. Java 프로그래밍 완벽 정복/11.4 메서드 참조.md",
-    "작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
     "첨부파일/Pasted image 20240512191340.png",
     "첨부파일/Pasted image 20240511190942.png",
     "첨부파일/Pasted image 20240509130810.png",
     "첨부파일/Pasted image 20240508015753.png",
     "첨부파일/Pasted image 20240508015719.png",
     "첨부파일/Pasted image 20240508015514.png",
-    "첨부파일/Pasted image 20240507223318.png",
-    "첨부파일/Pasted image 20240507223151.png",
-    "첨부파일/Pasted image 20240507222920.png",
     "첨부파일",
     "첨부파일(non_fixed)",
     "작성 해야 함",
@@ -212,7 +205,6 @@
     "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스",
     "archive(non_fixed)/inception/도커/Docker docs",
     "archive(non_fixed)/inception/database/mysql doc 정리",
-    "archive(non_fixed)/inception/도커",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
     "Transcendence/트센 캔버스.canvas",
