@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/1.2 뷰 환경설정.md",
+                "file": "Java/1. 스프링 입문/0. 스프링 입문.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8abf4626a55b69b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Java Spring.md"
               }
             }
           }
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/1.2 뷰 환경설정.md",
+                "file": "Java/1. 스프링 입문/0. 스프링 입문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/1.2 뷰 환경설정.md",
+                "file": "Java/1. 스프링 입문/0. 스프링 입문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/1.2 뷰 환경설정.md"
+                "file": "Java/1. 스프링 입문/0. 스프링 입문.md"
               }
             }
           },
@@ -159,15 +169,20 @@
   },
   "active": "a244c4503f4e1df9",
   "lastOpenFiles": [
+    "Java/1. 스프링 입문/2.2 API.md",
     "Java/1. 스프링 입문/0. 스프링 입문.md",
-    "Java/1.2 뷰 환경설정.md",
-    "Java/1.1 라이브러리 살펴보기.md",
+    "Java/1. 스프링 입문/2.1 MVC와 템플릿 엔진.md",
+    "Java/2.0 정적 컨텐츠.md",
+    "Java/1. 스프링 입문/1.3 빌드 및 실행.md",
+    "Java/1. 스프링 입문/1.2 뷰 환경설정.md",
+    "Java/1. 스프링 입문/1.1 라이브러리 살펴보기.md",
+    "Excalidraw/Java Spring.md",
+    "첨부파일/Pasted Image 20240515150343_393.png",
     "첨부파일/Pasted image 20240514212042.png",
     "첨부파일/Pasted image 20240514211317.png",
     "Java/1. 스프링 입문/1.0 프로젝트 생성.md",
     "Java/스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md",
     "첨부파일/Pasted image 20240514202349.png",
-    "Excalidraw/Java Spring.md",
     "Java/스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
     "Java/스프링 핵심 원리 - 기본편/1.1 스프링이란?.md",
     "Java/스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
@@ -185,17 +200,12 @@
     "Java/스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
     "Day Planners/2024-05-14.md",
     "Java/0. Java 프로그래밍 완벽 정복/16.5 tip - enum.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.4 tip - 클래스.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.3 tip - non-access modifier.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.2 tip - 접근 제어자.md",
-    "Day Planners/2024-05-13.md",
     "첨부파일/Pasted image 20240513183424.png",
     "첨부파일/Pasted image 20240512191340.png",
     "첨부파일/Pasted image 20240511190942.png",
     "첨부파일/Pasted image 20240509130810.png",
     "첨부파일/Pasted image 20240508015753.png",
     "첨부파일/Pasted image 20240508015719.png",
-    "첨부파일/Pasted image 20240508015514.png",
     "첨부파일",
     "첨부파일(non_fixed)",
     "작성 해야 함",
