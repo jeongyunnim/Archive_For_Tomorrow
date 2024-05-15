@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/1. 스프링 입문/0. 스프링 입문.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/16.5 tip - enum.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/1. 스프링 입문/0. 스프링 입문.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/16.5 tip - enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/1. 스프링 입문/0. 스프링 입문.md",
+                "file": "Java/0. Java 프로그래밍 완벽 정복/16.5 tip - enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/1. 스프링 입문/0. 스프링 입문.md"
+                "file": "Java/0. Java 프로그래밍 완벽 정복/16.5 tip - enum.md"
               }
             }
           },
@@ -169,37 +169,37 @@
   },
   "active": "a244c4503f4e1df9",
   "lastOpenFiles": [
-    "Java/1. 스프링 입문/2.2 API.md",
-    "Java/1. 스프링 입문/0. 스프링 입문.md",
-    "Java/1. 스프링 입문/2.1 MVC와 템플릿 엔진.md",
-    "Java/2.0 정적 컨텐츠.md",
-    "Java/1. 스프링 입문/1.3 빌드 및 실행.md",
-    "Java/1. 스프링 입문/1.2 뷰 환경설정.md",
-    "Java/1. 스프링 입문/1.1 라이브러리 살펴보기.md",
-    "Excalidraw/Java Spring.md",
+    "Java/0. Java 프로그래밍 완벽 정복/애너그램 검사기.md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.4 tip - 클래스.md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.3 tip - non-access modifier.md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.2 tip - 접근 제어자.md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.1 tip - equals(), hashCode().md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.0 tip - Import.md",
+    "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
+    "Java/0. Java 프로그래밍 완벽 정복/15.0 Synchronized.md",
+    "Java/0. Java 프로그래밍 완벽 정복/14.0 파일 IO.md",
+    "Java/0. Java 프로그래밍 완벽 정복/13.2 사용자 정의 예외.md",
+    "Java/0. Java 프로그래밍 완벽 정복/13.1 예외의 계층 관계.md",
+    "Java/0. Java 프로그래밍 완벽 정복/13.0 예외 처리.md",
+    "Java/0. Java 프로그래밍 완벽 정복/12.2 Executor Service.md",
+    "Java/0. Java 프로그래밍 완벽 정복/12.1 스레드의 상태.md",
+    "Java/0. Java 프로그래밍 완벽 정복/12.0 자바의 스레드와 동시성.md",
+    "Java/0. Java 프로그래밍 완벽 정복/11.4 메서드 참조.md",
+    "Java/0. Java 프로그래밍 완벽 정복/11.3 함수형 인터페이스.md",
+    "Java/0. Java 프로그래밍 완벽 정복/11.2 Optional.md",
+    "Java/0. Java 프로그래밍 완벽 정복/11.1 Stream.md",
+    "Java/0. Java 프로그래밍 완벽 정복/11.0 함수형 프로그래밍.md",
+    "Java/0. Java 프로그래밍 완벽 정복/10.0 Generic.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.4 Collections - Map.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.3 Collections - Queue.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.2 Collections - Set.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.1 Collections - List.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.0 Collections.md",
     "첨부파일/Pasted Image 20240515150343_393.png",
     "첨부파일/Pasted image 20240514212042.png",
     "첨부파일/Pasted image 20240514211317.png",
-    "Java/1. 스프링 입문/1.0 프로젝트 생성.md",
-    "Java/스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md",
     "첨부파일/Pasted image 20240514202349.png",
-    "Java/스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
-    "Java/스프링 핵심 원리 - 기본편/1.1 스프링이란?.md",
-    "Java/스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
-    "Java/스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
-    "template/스프링 입문.md",
-    "template/스프링 핵심 원리 - 기본편.md",
-    "template/Zettelkasten.md",
-    "template/Thinking in Java Template.md",
-    "template/Daily Note Template.md",
-    "template/Java 프로그래밍 완벽 정복.md",
     "Java/1. 스프링 입문",
-    "Java/스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
-    "Java/스프링 핵심 원리 - 기본편/1.4 객체 지향 설계와 스프링.md",
-    "Java/스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
-    "Day Planners/2024-05-14.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.5 tip - enum.md",
     "첨부파일/Pasted image 20240513183424.png",
     "첨부파일/Pasted image 20240512191340.png",
     "첨부파일/Pasted image 20240511190942.png",
