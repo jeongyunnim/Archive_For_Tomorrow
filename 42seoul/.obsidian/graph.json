@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "-path:template  -path:\"Day Planners\"  -path:Excalidraw  ",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -15,17 +15,24 @@
       }
     },
     {
-      "query": "tag:#프로그래밍  ",
-      "color": {
-        "a": 1,
-        "rgb": 4454769
-      }
-    },
-    {
       "query": "tag:#42subject  ",
       "color": {
         "a": 1,
         "rgb": 7387903
+      }
+    },
+    {
+      "query": "tag:#자바  ",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
+    },
+    {
+      "query": "tag:#프로그래밍  ",
+      "color": {
+        "a": 1,
+        "rgb": 8978247
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.12262178054535688,
+  "scale": 0.9431999187834424,
   "close": false
 }

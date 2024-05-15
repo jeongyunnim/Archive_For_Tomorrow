@@ -23,13 +23,12 @@
             "id": "8abf4626a55b69b3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Java Spring.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/16.5 tip - enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/16.5 tip - enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/16.5 tip - enum.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +162,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a244c4503f4e1df9",
+  "active": "8abf4626a55b69b3",
   "lastOpenFiles": [
+    "Excalidraw/Java Spring.md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.5 tip - enum.md",
     "Java/0. Java 프로그래밍 완벽 정복/애너그램 검사기.md",
     "Java/0. Java 프로그래밍 완벽 정복/16.4 tip - 클래스.md",
     "Java/0. Java 프로그래밍 완벽 정복/16.3 tip - non-access modifier.md",
@@ -193,8 +190,6 @@
     "Java/0. Java 프로그래밍 완벽 정복/9.4 Collections - Map.md",
     "Java/0. Java 프로그래밍 완벽 정복/9.3 Collections - Queue.md",
     "Java/0. Java 프로그래밍 완벽 정복/9.2 Collections - Set.md",
-    "Java/0. Java 프로그래밍 완벽 정복/9.1 Collections - List.md",
-    "Java/0. Java 프로그래밍 완벽 정복/9.0 Collections.md",
     "첨부파일/Pasted Image 20240515150343_393.png",
     "첨부파일/Pasted image 20240514212042.png",
     "첨부파일/Pasted image 20240514211317.png",
