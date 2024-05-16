@@ -31629,7 +31629,16 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Fixed vertical distance": {
+      "Prompt for spacing?": true,
+      "Default spacing": {
+        "value": 10,
+        "description": "Fixed vertical spacing between elements"
+      },
+      "Remember last spacing?": false
+    }
+  },
   "defaultTrayMode": true,
   "previousRelease": "1.9.8",
   "showReleaseNotes": true,

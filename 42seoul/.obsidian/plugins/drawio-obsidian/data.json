@@ -1,10 +1,10 @@
 {
   "welcomeComplete": true,
   "theme": {
-    "dark": null,
-    "layout": "full"
+    "dark": true,
+    "layout": "compact"
   },
   "drawing": {
-    "sketch": false
+    "sketch": true
   }
 }
