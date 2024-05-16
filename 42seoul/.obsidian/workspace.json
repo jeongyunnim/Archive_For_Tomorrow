@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/3.3 회원 서비스 개발.md",
+                "file": "Java/1. 스프링 입문/0. 스프링 입문.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dd5a8a958242610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/1. 스프링 입문/4.0 컴포넌트 스캔과 자동 의존관계 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "final ",
+                "query": "tag:#프로그래밍",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/3.3 회원 서비스 개발.md",
+                "file": "Java/1. 스프링 입문/4.0 컴포넌트 스캔과 자동 의존관계 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/3.3 회원 서비스 개발.md",
+                "file": "Java/1. 스프링 입문/4.0 컴포넌트 스캔과 자동 의존관계 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/3.3 회원 서비스 개발.md"
+                "file": "Java/1. 스프링 입문/4.0 컴포넌트 스캔과 자동 의존관계 설정.md"
               }
             }
           },
@@ -184,9 +196,11 @@
   },
   "active": "a69cded141b28ffc",
   "lastOpenFiles": [
-    "Java/0. Java 프로그래밍 완벽 정복/16.3 tip - non-access modifier.md",
-    "Java/3.3 회원 서비스 개발.md",
     "Java/1. 스프링 입문/0. 스프링 입문.md",
+    "Java/1. 스프링 입문/1.0 프로젝트 생성.md",
+    "Java/1. 스프링 입문/4.0 컴포넌트 스캔과 자동 의존관계 설정.md",
+    "Java/1. 스프링 입문/3.3 회원 서비스 개발, 테스트.md",
+    "Java/0. Java 프로그래밍 완벽 정복/16.3 tip - non-access modifier.md",
     "Java/1. 스프링 입문/3.2 테스트 케이스 작성.md",
     "Java/0. Java 프로그래밍 완벽 정복/4.0 자바 프로젝트 구성.md",
     "Java/1. 스프링 입문/3.1 회원과 레포지토리 구현.md",
@@ -216,8 +230,6 @@
     "Java/0. Java 프로그래밍 완벽 정복/16.2 tip - 접근 제어자.md",
     "Java/0. Java 프로그래밍 완벽 정복/16.1 tip - equals(), hashCode().md",
     "Java/0. Java 프로그래밍 완벽 정복/16.0 tip - Import.md",
-    "Java/0. Java 프로그래밍 완벽 정복/14.0 파일 IO.md",
-    "Java/0. Java 프로그래밍 완벽 정복/13.2 사용자 정의 예외.md",
     "첨부파일/Pasted Image 20240515150343_393.png",
     "첨부파일/Pasted image 20240514212042.png",
     "첨부파일/Pasted image 20240514211317.png",
