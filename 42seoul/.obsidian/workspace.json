@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/1. 스프링 입문/4.0 컴포넌트 스캔과 자동 의존관계 설정.md",
+                "file": "Java/4.30 5차 스프린트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f36c7c676b7afa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/5.16 7차 스프린트.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/1. 스프링 입문/4.0 컴포넌트 스캔과 자동 의존관계 설정.md",
+                "file": "Java/5.16 7차 스프린트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/1. 스프링 입문/4.0 컴포넌트 스캔과 자동 의존관계 설정.md",
+                "file": "Java/5.16 7차 스프린트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/1. 스프링 입문/4.0 컴포넌트 스캔과 자동 의존관계 설정.md"
+                "file": "Java/5.16 7차 스프린트.md"
               }
             }
           },
@@ -184,18 +196,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "7f36c7c676b7afa2",
   "lastOpenFiles": [
+    "Java/4.30 5차 스프린트.md",
+    "Java/5.16 7차 스프린트.md",
+    "Java/5.8 6차 스프린트.md",
+    "Day Planners/2024-05-17.md",
     "Java/1. 스프링 입문/0. 스프링 입문.md",
     "Java/1. 스프링 입문/1.0 프로젝트 생성.md",
     "Java/1. 스프링 입문/4.0 컴포넌트 스캔과 자동 의존관계 설정.md",
@@ -226,10 +242,6 @@
     "archive(non_fixed)/JavaScript/프레임워크 없는 프론트엔드 개발/0. 프레임워크 없는 프론트엔드 개발.md",
     "archive(non_fixed)/JavaScript/프레임워크 없는 프론트엔드 개발/1.0 렌더링 함수.md",
     "Java/0. Java 프로그래밍 완벽 정복/애너그램 검사기.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.4 tip - 클래스.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.2 tip - 접근 제어자.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.1 tip - equals(), hashCode().md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.0 tip - Import.md",
     "첨부파일/Pasted Image 20240515150343_393.png",
     "첨부파일/Pasted image 20240514212042.png",
     "첨부파일/Pasted image 20240514211317.png",
