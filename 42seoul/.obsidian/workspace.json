@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/6.3 스프링 JdbcTemplate.md",
+                "file": "Day Planners/2024-05-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/6.3 스프링 JdbcTemplate.md",
+                "file": "Day Planners/2024-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/6.3 스프링 JdbcTemplate.md",
+                "file": "Day Planners/2024-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/6.3 스프링 JdbcTemplate.md"
+                "file": "Day Planners/2024-05-22.md"
               }
             }
           },
@@ -209,8 +208,9 @@
   },
   "active": "6de4101c0e3725ea",
   "lastOpenFiles": [
-    "Java/1. 스프링 입문/0. 스프링 입문.md",
     "Java/6.3 스프링 JdbcTemplate.md",
+    "Day Planners/2024-05-22.md",
+    "Java/1. 스프링 입문/0. 스프링 입문.md",
     "Java/1. 스프링 입문/6.2 스프링 통합 테스트.md",
     "archive(non_fixed)/Django/핸즈 온 장고/2.1 장고의 모델.md",
     "Java/1. 스프링 입문/6.0 H2 데이터베이스 설치.md",
@@ -236,7 +236,6 @@
     "Java/0. Java 프로그래밍 완벽 정복/11.2 Optional.md",
     "Java/5.8 6차 스프린트.md",
     "Java/1. 스프링 입문/1.0 프로젝트 생성.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.3 tip - non-access modifier.md",
     "첨부파일/스프링 입문 - 클래스 의존 관계.svg",
     "첨부파일/스프링 입문 클래스 의존 관계 .svg",
     "첨부파일/demo.svg",
