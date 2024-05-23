@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/1. 스프링 입문/6.2 스프링 통합 테스트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "769270a9d2d40547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2024-05-22.md",
+                "file": "Java/6.4 스프링 데이터 JPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compose.yaml",
+                "query": "레포지",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2024-05-22.md",
+                "file": "Java/6.4 스프링 데이터 JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2024-05-22.md",
+                "file": "Java/6.4 스프링 데이터 JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2024-05-22.md"
+                "file": "Java/6.4 스프링 데이터 JPA.md"
               }
             }
           },
@@ -208,25 +196,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "769270a9d2d40547",
+  "active": "6de4101c0e3725ea",
   "lastOpenFiles": [
+    "Java/1. 스프링 입문/0. 스프링 입문.md",
+    "Java/6.4 스프링 데이터 JPA.md",
+    "Java/1. 스프링 입문/6.3 스프링 JdbcTemplate, JPA.md",
+    "Excalidraw/Java Spring.md",
+    "Java/1. 스프링 입문/3.0 비즈니스 요구사항.md",
+    "Java/1. 스프링 입문/3.3 회원 서비스 개발, 테스트.md",
+    "Java/1. 스프링 입문/4.1 자바 코드로 직접 스프링 빈 등록.md",
+    "Java/1. 스프링 입문/3.1 회원과 리포지토리 구현.md",
+    "archive(non_fixed)/Django/핸즈 온 장고/3.0 ORM.md",
+    "Java/1. 스프링 입문/6.2 스프링 통합 테스트.md",
+    "archive(non_fixed)/JavaScript/프레임워크 없는 프론트엔드 개발/2.0 YANGI 원칙.md",
+    "Day Planners/2024-05-22.md",
     "Day Planners/2024-05-23.md",
     "Java/2024.05.22 스프린트.md",
-    "Java/1. 스프링 입문/6.2 스프링 통합 테스트.md",
     "archive(non_fixed)/inception/도커/docker-compose.yml.md",
-    "Day Planners/2024-05-22.md",
-    "Java/6.3 스프링 JdbcTemplate.md",
-    "Java/1. 스프링 입문/0. 스프링 입문.md",
     "archive(non_fixed)/Django/핸즈 온 장고/2.1 장고의 모델.md",
     "Java/1. 스프링 입문/6.0 H2 데이터베이스 설치.md",
     "Day Planners/2024-05-19.md",
@@ -234,19 +230,11 @@
     "Java/6.1 순수 JDBC.md",
     "첨부파일/Pasted image 20240518181507.png",
     "Java/1. 스프링 입문/5.0 웹 MVC 개발.md",
-    "Java/1. 스프링 입문/3.3 회원 서비스 개발, 테스트.md",
-    "Java/1. 스프링 입문/4.1 자바 코드로 직접 스프링 빈 등록.md",
     "Java/1. 스프링 입문/4.0 컴포넌트 스캔과 자동 의존관계 설정.md",
     "Excalidraw/Pinting 설계.md",
     "Day Planners/2024-05-17.md",
     "Java/5.16 7차 스프린트.md",
     "Java/데이터 정규화.md",
-    "archive(non_fixed)/Django/핸즈 온 장고/2.2 장고의 필드.md",
-    "Java/1. 스프링 입문/3.0 비즈니스 요구사항.md",
-    "Java/Oracle cloud bucket.md",
-    "Java/Untitled.md",
-    "Java/4.30 5차 스프린트.md",
-    "Java/config 파일 분리.md",
     "첨부파일/Pasted image 20240517171710.png",
     "첨부파일/스프링 입문 - 클래스 의존 관계.svg",
     "첨부파일/스프링 입문 클래스 의존 관계 .svg",
