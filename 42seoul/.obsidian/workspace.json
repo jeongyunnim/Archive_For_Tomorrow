@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7db9b1340af77eee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9862491b8ae85f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/3.0 객체지향 원리 적용.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "842e4d5189efe7f4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Java Spring.md"
+              }
+            }
+          },
+          {
+            "id": "de872d69aa8eb337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/3.1 관심사의 분리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6c1b2ca6598be9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/3.1 관심사의 분리.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/3.0 객체지향 원리 적용.md",
+                "file": "Java/3.1 관심사의 분리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/3.0 객체지향 원리 적용.md",
+                "file": "Java/3.1 관심사의 분리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/3.0 객체지향 원리 적용.md"
+                "file": "Java/3.1 관심사의 분리.md"
               }
             }
           },
@@ -181,46 +181,46 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9862491b8ae85f4a",
+  "active": "de872d69aa8eb337",
   "lastOpenFiles": [
-    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "Java/3.0 객체지향 원리 적용.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/2.2 주문 할인과 도메인 설계.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
     "Excalidraw/Java Spring.md",
+    "Java/3.1 관심사의 분리.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
+    "첨부파일/Pasted Image 20240528173310_769.png",
+    "Java/2. 스프링 핵심 원리 - 기본편/3.0 객체지향 원리 적용.md",
+    "Java/Teach Yourself Programming in Ten Years.md",
+    "Pinting/디스코드 봇 만든 과정.md",
+    "Java/데이터 정규화.md",
+    "Java/경로가 다른 env 파일과 compose 연결.md",
+    "Java/zipkin.md",
+    "Java/webflux.md",
+    "Java/Untitled.md",
+    "Java/synchronized 키워드.md",
+    "Pinting/Oracle cloud bucket.md",
+    "Java/JPA.md",
+    "Java/JDBC.md",
+    "Java/getter를 쓰면 안된다?.md",
+    "Java/env 정책.md",
+    "Java/DAO.md",
+    "Java/config 파일 분리.md",
+    "Java/bucket.md",
+    "Java/ArrayList는 실제로 가변적인가? 내부적으로는 불변성을 가지고 있을 수 있다..md",
+    "Pinting/8회 스프린트.md",
+    "Pinting/4.30 5차 스프린트.md",
+    "Pinting",
+    "Java/2. 스프링 핵심 원리 - 기본편/2.2 주문 할인과 도메인 설계.md",
+    "Day Planners/2024-05-28.md",
+    "첨부파일/Pasted Image 20240528160305_080.png",
     "첨부파일/Pasted Image 20240528122302_887.png",
-    "Java/프로그래머가 알아야할 97가지.md",
-    "template/스프링 핵심 원리 - 기본편.md",
-    "Java/Oracle cloud bucket.md",
     "첨부파일/Pasted image 20240423201952.png",
     "첨부파일/order_class_diagram.svg",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
-    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Pinting 설계.md",
-    "archive(non_fixed)/협업/DDD.md",
-    "archive(non_fixed)/알고리즘/둘 이상의 파일들에 있는 항목들의 부합.md",
-    "archive(non_fixed)/알고리즘/병합에 의한 정렬.md",
-    "archive(non_fixed)/알고리즘/삽입을 이용한 정렬.md",
-    "archive(non_fixed)/알고리즘/순열의 조합 성질.md",
-    "archive(non_fixed)/알고리즘/알고리즘.md",
-    "archive(non_fixed)/알고리즘/야콥스탈 수.md",
-    "archive(non_fixed)/알고리즘/정렬.md",
-    "archive(non_fixed)/알고리즘/집계정렬.md",
-    "archive(non_fixed)/알고리즘/최소 비교 정렬.md",
-    "archive(non_fixed)/알고리즘/키 값으로 정보 검색.md",
-    "archive(non_fixed)/알고리즘/통일성 문제 풀기.md",
-    "template/스프링 입문.md",
-    "Day Planners/2024-05-25.md",
-    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
-    "Excalidraw/Java.md",
     "첨부파일/Pasted image 20240518181507.png",
     "첨부파일/Pasted image 20240517171710.png",
     "첨부파일/스프링 입문 - 클래스 의존 관계.svg",
-    "첨부파일/스프링 입문 클래스 의존 관계 .svg",
-    "첨부파일/demo.svg",
     "Java/1. 스프링 입문",
     "첨부파일",
     "첨부파일(non_fixed)",
@@ -228,7 +228,6 @@
     "template",
     "archive(non_fixed)/협업",
     "archive(non_fixed)/알고리즘",
-    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
     "Transcendence/트센 캔버스.canvas",
