@@ -40161,7 +40161,9 @@
   "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
-  "pinnedScripts": [],
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md"
+  ],
   "customPens": [
     {
       "type": "default",
