@@ -18,24 +18,24 @@
             }
           },
           {
-            "id": "de872d69aa8eb337",
+            "id": "a3f15e904f49d2ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/3.1 관심사의 분리.md",
+                "file": "Java/3.4 스프링으로 전환.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e6c1b2ca6598be9c",
+            "id": "e2767ea362c74783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/3.1 관심사의 분리.md",
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/3.1 관심사의 분리.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#내생각",
+                "query": "AppConfig.js",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/3.1 관심사의 분리.md",
+                "file": "Java/3.4 스프링으로 전환.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/3.1 관심사의 분리.md",
+                "file": "Java/3.4 스프링으로 전환.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/3.1 관심사의 분리.md"
+                "file": "Java/3.4 스프링으로 전환.md"
               }
             }
           },
@@ -181,13 +180,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "de872d69aa8eb337",
+  "active": "a3f15e904f49d2ec",
   "lastOpenFiles": [
-    "Excalidraw/Java Spring.md",
-    "Java/3.1 관심사의 분리.md",
     "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "첨부파일/Pasted Image 20240528173310_769.png",
+    "Java/2. 스프링 핵심 원리 - 기본편/3.1 관심사의 분리.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/3.2 SOLID 원칙 적용.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/3.3 IoC, DI, 컨테이너.md",
+    "Java/3.4 스프링으로 전환.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
+    "Excalidraw/Java Spring.md",
+    "첨부파일/Pasted Image 20240529125543_497.png",
+    "첨부파일/Pasted Image 20240529125328_471.png",
+    "Java/2. 스프링 핵심 원리 - 기본편/2.2 주문 할인과 도메인 설계.md",
     "Java/2. 스프링 핵심 원리 - 기본편/3.0 객체지향 원리 적용.md",
+    "Excalidraw/Java.md",
+    "첨부파일/Pasted Image 20240528173310_769.png",
     "Java/Teach Yourself Programming in Ten Years.md",
     "Pinting/디스코드 봇 만든 과정.md",
     "Java/데이터 정규화.md",
@@ -204,12 +211,7 @@
     "Java/DAO.md",
     "Java/config 파일 분리.md",
     "Java/bucket.md",
-    "Java/ArrayList는 실제로 가변적인가? 내부적으로는 불변성을 가지고 있을 수 있다..md",
-    "Pinting/8회 스프린트.md",
-    "Pinting/4.30 5차 스프린트.md",
     "Pinting",
-    "Java/2. 스프링 핵심 원리 - 기본편/2.2 주문 할인과 도메인 설계.md",
-    "Day Planners/2024-05-28.md",
     "첨부파일/Pasted Image 20240528160305_080.png",
     "첨부파일/Pasted Image 20240528122302_887.png",
     "첨부파일/Pasted image 20240423201952.png",
@@ -219,8 +221,6 @@
     "Excalidraw/Scripts",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
     "첨부파일/Pasted image 20240518181507.png",
-    "첨부파일/Pasted image 20240517171710.png",
-    "첨부파일/스프링 입문 - 클래스 의존 관계.svg",
     "Java/1. 스프링 입문",
     "첨부파일",
     "첨부파일(non_fixed)",
