@@ -367,12 +367,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "4SfRf3bCa-6P2XnEggzIH",
 			"originalText": "MemberService",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 187,
-			"versionNonce": 1061083472,
+			"version": 188,
+			"versionNonce": 33396190,
 			"isDeleted": false,
 			"id": "ZD5KDAorhe1fFsHAgH2-6",
 			"fillStyle": "hachure",
@@ -394,7 +394,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211337,
+			"updated": 1716975172340,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -496,7 +496,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "MAH7FAf1aJ1YriRGWmNil",
 			"originalText": "MemberRepository\nsave()",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -535,7 +535,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "save()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -612,7 +612,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "7wyvVz81n87P4b2lchz77",
 			"originalText": "Memory\nMemberRepository\n",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "text",
@@ -651,7 +651,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "save()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -728,7 +728,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "B71zr5EA9ZtwwAllGYBDN",
 			"originalText": "jdbc\nMemberRepository\n",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "text",
@@ -767,12 +767,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "save()",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 472,
-			"versionNonce": 1346176848,
+			"version": 476,
+			"versionNonce": 293714590,
 			"isDeleted": false,
 			"id": "TW4pqQy7WWummwU2e2AiN",
 			"fillStyle": "hachure",
@@ -794,7 +794,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211338,
+			"updated": 1716975172345,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -823,8 +823,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 509,
-			"versionNonce": 594924976,
+			"version": 513,
+			"versionNonce": 1693234910,
 			"isDeleted": false,
 			"id": "_z17veweU10Vf0XUqfIir",
 			"fillStyle": "hachure",
@@ -846,7 +846,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211338,
+			"updated": 1716975172347,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -908,7 +908,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "좋은 객체 지향 프로그래밍",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -1067,7 +1067,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "클라이언트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -1106,7 +1106,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "MemberRepository",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -1222,7 +1222,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "클라이언트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -1295,7 +1295,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "메모리",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -1411,7 +1411,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "클라이언트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -1484,7 +1484,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "JDBC",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -1523,7 +1523,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "서버",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -1562,7 +1562,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "서버",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -1643,7 +1643,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "회원 도메인 설계",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -1720,7 +1720,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "IFT3zm5NMG078zBLIMCKB",
 			"originalText": "클라이언트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -1801,7 +1801,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "B7XbT9I9uCb_a9T5qBFxk",
 			"originalText": "회원 서비스\n- 회원 가입\n- 회원 조회",
 			"lineHeight": 1.2,
-			"baseline": 53
+			"baseline": 54
 		},
 		{
 			"type": "rectangle",
@@ -1890,7 +1890,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "2Pb7UgR7MsbEC8zRAJ5B7",
 			"originalText": "회원 저장소",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -1967,7 +1967,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "Zq8Wlfa5Xogtuw-l4EkWl",
 			"originalText": "메모리\n회원 저장소",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -2044,7 +2044,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "WVofaS-VT7ttt3FUubMMf",
 			"originalText": "DB\n회원 저장소",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -2121,12 +2121,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "WoEx4iYEPhXeSv7VrzPHa",
 			"originalText": "외부 시스템 연동\n회원 저장소",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 411,
-			"versionNonce": 2117270864,
+			"version": 415,
+			"versionNonce": 397875038,
 			"isDeleted": false,
 			"id": "NYcw5xc1_Hm8SXdI4YxU_",
 			"fillStyle": "solid",
@@ -2148,7 +2148,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211338,
+			"updated": 1716975172351,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2177,8 +2177,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 509,
-			"versionNonce": 1887584176,
+			"version": 513,
+			"versionNonce": 1522751454,
 			"isDeleted": false,
 			"id": "MFnrO2hkQKd0P-3tBijgC",
 			"fillStyle": "solid",
@@ -2200,7 +2200,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211338,
+			"updated": 1716975172353,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2229,8 +2229,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 476,
-			"versionNonce": 2139542352,
+			"version": 480,
+			"versionNonce": 1942059230,
 			"isDeleted": false,
 			"id": "x7pRxJ6tsXwKeSqpErf_E",
 			"fillStyle": "solid",
@@ -2252,7 +2252,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211338,
+			"updated": 1716975172355,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2281,8 +2281,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 610,
-			"versionNonce": 1065273776,
+			"version": 614,
+			"versionNonce": 1707301214,
 			"isDeleted": false,
 			"id": "LPuR1mT-2KfnR5osql9NJ",
 			"fillStyle": "solid",
@@ -2304,7 +2304,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211338,
+			"updated": 1716975172359,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2333,8 +2333,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 567,
-			"versionNonce": 334489936,
+			"version": 571,
+			"versionNonce": 1562029342,
 			"isDeleted": false,
 			"id": "p0hG-oLUBYkiGbCyUp5Ij",
 			"fillStyle": "solid",
@@ -2356,7 +2356,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211338,
+			"updated": 1716975172357,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2614,12 +2614,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "5mAHWIwKpSQoC8yCNKs__",
 			"originalText": "<<interface>>\nMemberService",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 805,
-			"versionNonce": 2115677008,
+			"version": 809,
+			"versionNonce": 539433438,
 			"isDeleted": false,
 			"id": "ue80xVRonUFgRK2htJrOr",
 			"fillStyle": "solid",
@@ -2641,7 +2641,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211338,
+			"updated": 1716975172362,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2799,12 +2799,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "b5cu1y9Q0WFbaFcLIRtrR",
 			"originalText": "MemberServiceImpl",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 422,
-			"versionNonce": 1145313104,
+			"version": 423,
+			"versionNonce": 752253698,
 			"isDeleted": false,
 			"id": "oi7tQVHJKmwcmxhTSpNdm",
 			"fillStyle": "solid",
@@ -2826,7 +2826,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211338,
+			"updated": 1716975172362,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2928,7 +2928,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "5ub_J26TUBjEYW0njrJzf",
 			"originalText": "<<interface>>\nMemberRepository",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -3001,7 +3001,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "RvJ3XGNcP8j_q-7mxxuHr",
 			"originalText": "MemoryMemberRepository",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -3074,7 +3074,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "IRyQ_U4QIF4K2JsifRq1x",
 			"originalText": "DbMemberRepository",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -3307,7 +3307,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "-_z4LIFfzzyKkcVsnP0AS",
 			"originalText": "클라이언트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -3388,7 +3388,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "_LyJhePuDEr2yQT8C2bWp",
 			"originalText": "회원 서비스 Impl",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -3465,12 +3465,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "QB3qE0jSJTsUw_Efb4Mub",
 			"originalText": "메모리\n회원 저장소",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "arrow",
-			"version": 547,
-			"versionNonce": 138135376,
+			"version": 551,
+			"versionNonce": 1452352130,
 			"isDeleted": false,
 			"id": "jm7W4Ga1lWQ6JxX8CW9zA",
 			"fillStyle": "solid",
@@ -3492,7 +3492,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211339,
+			"updated": 1716975172369,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3521,8 +3521,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 647,
-			"versionNonce": 2143491504,
+			"version": 651,
+			"versionNonce": 1214769666,
 			"isDeleted": false,
 			"id": "0hI1yD8z6Vb0vA8vVQ5Qw",
 			"fillStyle": "solid",
@@ -3544,7 +3544,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211339,
+			"updated": 1716975172371,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4239,7 +4239,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "스프링 입문",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -4276,7 +4276,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "템플릿 엔진 동작",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -4349,7 +4349,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "8mmsb3nVFIHYRIxMFHsJ7",
 			"originalText": "브라우저",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -4417,7 +4417,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "스프링 부트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -4578,7 +4578,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "dpdtXVjttFqGfALUo_EJt",
 			"originalText": "톰캣",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "line",
@@ -4749,7 +4749,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "rflqCKqksETAK-8GytRSt",
 			"originalText": "helloController",
 			"lineHeight": 1.2,
-			"baseline": 7
+			"baseline": 6
 		},
 		{
 			"type": "rectangle",
@@ -4824,7 +4824,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "iC5YxMigVggTAUtYVhfvl",
 			"originalText": "viewResolver",
 			"lineHeight": 1.2,
-			"baseline": 7
+			"baseline": 6
 		},
 		{
 			"type": "line",
@@ -4955,7 +4955,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "템플릿 엔진이 처리",
 			"lineHeight": 1.2,
-			"baseline": 7
+			"baseline": 6
 		},
 		{
 			"type": "image",
@@ -5144,8 +5144,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "text",
-			"version": 439,
-			"versionNonce": 1403557200,
+			"version": 440,
+			"versionNonce": 1832793630,
 			"isDeleted": false,
 			"id": "yOHNamL8",
 			"fillStyle": "solid",
@@ -5168,7 +5168,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1717132605299,
 			"link": null,
 			"locked": false,
 			"fontSize": 9.988117088420701,
@@ -5328,7 +5328,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "key : value",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -5365,7 +5365,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "일반적인 웹 애플리케이션 계층 구조",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -5444,7 +5444,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "dI6feiBBcDO_7Gz5rMJkN",
 			"originalText": "컨트롤러",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -5527,7 +5527,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "2CPaGZFmDj7crgQf78RCb",
 			"originalText": "서비스",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -5610,7 +5610,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "aVDT-6aa7ZFmV5INVqeQn",
 			"originalText": "리포지토리",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -5693,7 +5693,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "3UKGHpkz24BdLWHGy4ZPB",
 			"originalText": "도메인",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -5927,12 +5927,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 325,
-			"versionNonce": 1296904528,
+			"version": 329,
+			"versionNonce": 30593410,
 			"isDeleted": false,
 			"id": "42LwFcy7FpO9CnxQqGnXP",
 			"fillStyle": "solid",
@@ -5956,7 +5956,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1716975172380,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5985,8 +5985,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 359,
-			"versionNonce": 1582648240,
+			"version": 363,
+			"versionNonce": 71948546,
 			"isDeleted": false,
 			"id": "WJrexSATxng26wNuR2U6W",
 			"fillStyle": "solid",
@@ -6010,7 +6010,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1716975172383,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6039,8 +6039,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 399,
-			"versionNonce": 1429899088,
+			"version": 401,
+			"versionNonce": 90925250,
 			"isDeleted": false,
 			"id": "XpUr8szUKbz5u2KESXWlb",
 			"fillStyle": "solid",
@@ -6064,7 +6064,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1716975172383,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6139,8 +6139,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 177,
-			"versionNonce": 1628249424,
+			"version": 178,
+			"versionNonce": 1743649886,
 			"isDeleted": false,
 			"id": "DTLo86jsw0qBC23hUQohR",
 			"fillStyle": "solid",
@@ -6164,7 +6164,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1716975172385,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6189,8 +6189,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 133,
-			"versionNonce": 1473912752,
+			"version": 134,
+			"versionNonce": 1397031042,
 			"isDeleted": false,
 			"id": "l66O9HqkWIhKl_H5TzEer",
 			"fillStyle": "solid",
@@ -6214,7 +6214,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1716975172385,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6312,12 +6312,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "R04WvtS9vSRSrH_iGwUJq",
 			"originalText": "MemberService",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 389,
-			"versionNonce": 1589774672,
+			"version": 393,
+			"versionNonce": 1261959106,
 			"isDeleted": false,
 			"id": "pi3YSMj8uc4uM37woc-IT",
 			"fillStyle": "hachure",
@@ -6339,7 +6339,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1716975172388,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6445,12 +6445,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "6WUpBwdwMtiGKgIgJ33Mz",
 			"originalText": "MemberRepository",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 731,
-			"versionNonce": 857734576,
+			"version": 735,
+			"versionNonce": 1856483202,
 			"isDeleted": false,
 			"id": "B6uZleDqFVILnRiVoK3nU",
 			"fillStyle": "hachure",
@@ -6472,7 +6472,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1716975172390,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6574,7 +6574,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "qldmkSuEg7LoK2lU-57VV",
 			"originalText": "Memory\nMemberRepository",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -6613,7 +6613,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "Interface",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -6650,7 +6650,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "주문 할인과 도메인 설계",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -6731,7 +6731,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "8_wosXCZyx3L7XlidTTJT",
 			"originalText": "클라이언트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -6820,7 +6820,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "qwjPTDP0Gteg1z00-DC0a",
 			"originalText": "주문 서비스 역할",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -6897,7 +6897,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "eXcrT_HhRf_GxXWivgeGR",
 			"originalText": "회원 저장소 역할",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -6974,12 +6974,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "N5hTfk5hNPL9uZ1oUV5WE",
 			"originalText": "할인 정책 역할",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 421,
-			"versionNonce": 807909712,
+			"version": 425,
+			"versionNonce": 717555394,
 			"isDeleted": false,
 			"id": "RYVbdqikHxI0fMDQqH1bn",
 			"fillStyle": "solid",
@@ -7001,7 +7001,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1716975172393,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7030,8 +7030,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 510,
-			"versionNonce": 306660272,
+			"version": 512,
+			"versionNonce": 972275422,
 			"isDeleted": false,
 			"id": "ztd3Ez_Eeg2PgXZdnO1lq",
 			"fillStyle": "solid",
@@ -7053,7 +7053,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1716975172395,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7090,8 +7090,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 644,
-			"versionNonce": 193204048,
+			"version": 646,
+			"versionNonce": 1599251970,
 			"isDeleted": false,
 			"id": "hRMgevnn1MAnb2nWLuuMt",
 			"fillStyle": "solid",
@@ -7113,7 +7113,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1716975172396,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7219,7 +7219,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "-4ierosR8i_-LOm9yCEDS",
 			"originalText": "2. 회원 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -7296,7 +7296,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "LmAmdaz8eH3Hs_wK2reQt",
 			"originalText": "3. 할인 적용",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -7335,12 +7335,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "LmAmdaz8eH3Hs_wK2reQt",
 			"originalText": "3. 할인 적용",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 301,
-			"versionNonce": 1545113936,
+			"version": 305,
+			"versionNonce": 1604304450,
 			"isDeleted": false,
 			"id": "MZeUS5me_M1vxfL37dVJo",
 			"fillStyle": "solid",
@@ -7362,7 +7362,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211340,
+			"updated": 1716975172393,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7426,7 +7426,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "4. 주문 결과 반환",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -7465,7 +7465,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "1. 주문 생성\n- 회원 ID\n- 상품 이름\n- 상품 가격",
 			"lineHeight": 1.2,
-			"baseline": 65
+			"baseline": 66
 		},
 		{
 			"type": "rectangle",
@@ -7548,7 +7548,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "AvaS2uGcmZaNhTLUDB2BB",
 			"originalText": "클라이언트",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -7639,7 +7639,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "I10CjlAOu3FUn2XaI46BZ",
 			"originalText": "주문 서비스 역할",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -7718,7 +7718,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "fUqm69NQ7voQViDC1bMTD",
 			"originalText": "회원 저장소 역할",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -7797,12 +7797,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "RwZ0q9SzSB6b55Ti0gENp",
 			"originalText": "할인 정책 역할",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 973,
-			"versionNonce": 211197360,
+			"version": 977,
+			"versionNonce": 1809157442,
 			"isDeleted": false,
 			"id": "jNVGWwu7cNggFds_QZIlS",
 			"fillStyle": "solid",
@@ -7825,7 +7825,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211341,
+			"updated": 1716975172402,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7854,8 +7854,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1062,
-			"versionNonce": 602887504,
+			"version": 1064,
+			"versionNonce": 624590942,
 			"isDeleted": false,
 			"id": "LayzRs1soyVuEegaf9HWX",
 			"fillStyle": "solid",
@@ -7878,7 +7878,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211341,
+			"updated": 1716975172406,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7915,8 +7915,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1196,
-			"versionNonce": 1431791536,
+			"version": 1198,
+			"versionNonce": 1106427010,
 			"isDeleted": false,
 			"id": "5nwuyN5StIc7BbyYrKs-O",
 			"fillStyle": "solid",
@@ -7939,7 +7939,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211341,
+			"updated": 1716975172408,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8047,7 +8047,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "smCv5XSimNjGPlOLnQT9Q",
 			"originalText": "2. 회원 조회",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -8126,7 +8126,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "K4D_Hpb5Elh4IOInCy9FP",
 			"originalText": "3. 할인 적용",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -8166,12 +8166,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "K4D_Hpb5Elh4IOInCy9FP",
 			"originalText": "3. 할인 적용",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 853,
-			"versionNonce": 792872368,
+			"version": 857,
+			"versionNonce": 1176544450,
 			"isDeleted": false,
 			"id": "gwB-8uSjdjr7XALXTltOF",
 			"fillStyle": "solid",
@@ -8194,7 +8194,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211341,
+			"updated": 1716975172403,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8259,7 +8259,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "4. 주문 결과 반환",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -8299,7 +8299,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "1. 주문 생성\n- 회원 ID\n- 상품 이름\n- 상품 가격",
 			"lineHeight": 1.2,
-			"baseline": 65
+			"baseline": 66
 		},
 		{
 			"type": "rectangle",
@@ -8372,7 +8372,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "F-lsXxnGPHig3tTo_j6Tn",
 			"originalText": "주문 서비스 구현체",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -8542,7 +8542,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "cM141WlNqYSxoIP1BSVh8",
 			"originalText": "메모리\n회원 저장소",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -8615,7 +8615,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "A93IGGfvVkdUsW_2tQdqp",
 			"originalText": "DB\n회원 저장소",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "line",
@@ -8837,7 +8837,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "V8QZ7b3PR7K9MBf1NQdBE",
 			"originalText": "정액\n할인 정책",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
@@ -8910,7 +8910,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "wpMre8wZfNW5l4D9WjJbc",
 			"originalText": "정률\n할인 정책",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "line",
@@ -9096,7 +9096,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "클래스 다이어그램",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "image",
@@ -9166,7 +9166,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "실제 의존관계",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "image",
@@ -9269,7 +9269,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "클래스 다이어그램",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -9346,7 +9346,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "BgOS2ZT8R4MLPixfo3a65",
 			"originalText": "memberServiceImpl",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -9423,7 +9423,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "xqMjY6onu-K9bvQNHwxvj",
 			"originalText": "memoryMemberRepository\n",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 35
 		},
 		{
 			"type": "text",
@@ -9462,7 +9462,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "x001",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "ellipse",
@@ -9543,12 +9543,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "SEW-NKoAFlgHHys_ChaWb",
 			"originalText": "appConfig",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 155,
-			"versionNonce": 643870640,
+			"version": 159,
+			"versionNonce": 426718146,
 			"isDeleted": false,
 			"id": "iidQjEzABxq2xYCZPlVXA",
 			"fillStyle": "solid",
@@ -9575,7 +9575,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 					"id": "DxZrTZAd"
 				}
 			],
-			"updated": 1716966211341,
+			"updated": 1716975172428,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9639,12 +9639,12 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "iidQjEzABxq2xYCZPlVXA",
 			"originalText": "2.생성 + 주입(       )",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
-			"version": 302,
-			"versionNonce": 269433264,
+			"version": 306,
+			"versionNonce": 1788308354,
 			"isDeleted": false,
 			"id": "ye8lx_jlaevsiAZRkCtZw",
 			"fillStyle": "solid",
@@ -9671,7 +9671,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 					"id": "DHAr8uQF"
 				}
 			],
-			"updated": 1716966211341,
+			"updated": 1716975172429,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9735,7 +9735,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "ye8lx_jlaevsiAZRkCtZw",
 			"originalText": "1.생성",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -9774,7 +9774,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "x001",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "image",
@@ -9811,8 +9811,8 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		},
 		{
 			"type": "text",
-			"version": 95,
-			"versionNonce": 443583920,
+			"version": 96,
+			"versionNonce": 897467074,
 			"isDeleted": false,
 			"id": "yteAtG7e",
 			"fillStyle": "solid",
@@ -9832,7 +9832,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716966211341,
+			"updated": 1717132605302,
 			"link": null,
 			"locked": false,
 			"fontSize": 27.833697990805945,
@@ -9844,7 +9844,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "사용, 구성의 분리",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "image",
@@ -9914,7 +9914,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "스프링 컨테이너 생성 과정",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -9951,7 +9951,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "AppConfig.class",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -9988,7 +9988,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "스프링 빈 저장소",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -10025,7 +10025,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "2. 구성 정보 활용",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10094,7 +10094,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "c_-bSHLHGEgQ1GlO4UMaw",
 			"originalText": "AppConfig.class",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10167,7 +10167,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "HfUuPBBA2wUNXAfrrvYgC",
 			"originalText": "빈 이름",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10240,7 +10240,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "QpEjPEvFYyfjAt5toKW8r",
 			"originalText": "빈 객체",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10567,7 +10567,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "1.스프링 컨테이너 생성",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "arrow",
@@ -10792,7 +10792,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "스프링 컨테이너",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -10829,7 +10829,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "스프링 빈 저장소",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -10893,7 +10893,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "스프링 컨테이너",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "rectangle",
@@ -11236,30 +11236,30 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "2. 스프링 빈에 등록",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
-			"id": "G0e-LEi72KIF7dS03lTZe",
 			"type": "image",
-			"x": 996.6473017687911,
-			"y": 1276.8178956367128,
-			"width": 533.1259173189823,
-			"height": 448.07128906249994,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 80,
+			"versionNonce": 1046125904,
+			"isDeleted": false,
+			"id": "G0e-LEi72KIF7dS03lTZe",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "dashed",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 996.6473017687911,
+			"y": 1276.8178956367128,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 533.1259173189823,
+			"height": 448.07128906249994,
+			"seed": 1901786960,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1901786960,
-			"version": 80,
-			"versionNonce": 1046125904,
-			"isDeleted": false,
 			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
@@ -11272,31 +11272,36 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			]
 		},
 		{
-			"id": "X4kyk7-grrRYsq2C4xoEf",
 			"type": "arrow",
-			"x": 1623.302074402473,
-			"y": 1479.7883618543772,
-			"width": 338.32656565190587,
-			"height": 105.0189239655374,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 83,
+			"versionNonce": 1613012912,
+			"isDeleted": false,
+			"id": "X4kyk7-grrRYsq2C4xoEf",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1623.302074402473,
+			"y": 1479.7883618543772,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 338.32656565190587,
+			"height": 105.0189239655374,
+			"seed": 1345759568,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1345759568,
-			"version": 83,
-			"versionNonce": 1613012912,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -11306,42 +11311,39 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 					-338.32656565190587,
 					-105.0189239655374
 				]
-			],
-			"lastCommittedPoint": [
-				-338.32656565190587,
-				-105.0189239655374
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "l9Jz688xIDvHDZDSpyTEJ",
 			"type": "arrow",
-			"x": 1623.6992530951072,
-			"y": 1518.9000110079824,
-			"width": 369.56083740160057,
-			"height": 39.34159471249859,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 56,
+			"versionNonce": 431649616,
+			"isDeleted": false,
+			"id": "l9Jz688xIDvHDZDSpyTEJ",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1623.6992530951072,
+			"y": 1518.9000110079824,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 369.56083740160057,
+			"height": 39.34159471249859,
+			"seed": 1334439344,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1334439344,
-			"version": 56,
-			"versionNonce": 431649616,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -11351,42 +11353,39 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 					-369.56083740160057,
 					-39.34159471249859
 				]
-			],
-			"lastCommittedPoint": [
-				-369.56083740160057,
-				-39.34159471249859
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "Q35CjsW8BVBzYPyeOqVBW",
 			"type": "arrow",
-			"x": 1623.3578187803864,
-			"y": 1559.039447129369,
-			"width": 304.7858702660378,
-			"height": 5.633666192889905,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 74,
+			"versionNonce": 1272261040,
+			"isDeleted": false,
+			"id": "Q35CjsW8BVBzYPyeOqVBW",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1623.3578187803864,
+			"y": 1559.039447129369,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 304.7858702660378,
+			"height": 5.633666192889905,
+			"seed": 217854384,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 217854384,
-			"version": 74,
-			"versionNonce": 1272261040,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -11396,42 +11395,39 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 					-304.7858702660378,
 					5.633666192889905
 				]
-			],
-			"lastCommittedPoint": [
-				-304.7858702660378,
-				5.633666192889905
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "msZiB01ynkwCzrkTciydB",
 			"type": "arrow",
-			"x": 1628.6012743278811,
-			"y": 1596.4439247093715,
-			"width": 339.48674551723207,
-			"height": 66.64937184290648,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 57,
+			"versionNonce": 1722779984,
+			"isDeleted": false,
+			"id": "msZiB01ynkwCzrkTciydB",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1628.6012743278811,
+			"y": 1596.4439247093715,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 339.48674551723207,
+			"height": 66.64937184290648,
+			"seed": 734564272,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 734564272,
-			"version": 57,
-			"versionNonce": 1722779984,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -11441,52 +11437,44 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 					-339.48674551723207,
 					66.64937184290648
 				]
-			],
-			"lastCommittedPoint": [
-				-339.48674551723207,
-				66.64937184290648
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "21DWeUhT",
 			"type": "text",
-			"x": 1110.3539005431687,
-			"y": 1855.7394485458312,
-			"width": 194.64996337890625,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 124,
+			"versionNonce": 1155822512,
+			"isDeleted": false,
+			"id": "21DWeUhT",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1110.3539005431687,
+			"y": 1855.7394485458312,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 194.64996337890625,
+			"height": 19.2,
+			"seed": 129413552,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 129413552,
-			"version": 124,
-			"versionNonce": 1155822512,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
 			"locked": false,
-			"text": "3. 스프링 빈 의존관계 설정",
-			"rawText": "3. 스프링 빈 의존관계 설정",
 			"fontSize": 16,
 			"fontFamily": 3,
+			"text": "3. 스프링 빈 의존관계 설정",
+			"rawText": "3. 스프링 빈 의존관계 설정",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 15,
 			"containerId": null,
 			"originalText": "3. 스프링 빈 의존관계 설정",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 16
 		},
 		{
 			"type": "image",
@@ -11583,30 +11571,30 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": null,
 			"originalText": "스프링 컨테이너",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
-			"id": "rkOhYN9ZVY3MwHV9otpe3",
 			"type": "ellipse",
-			"x": 1744.5074945153094,
-			"y": 2021.0416862051643,
-			"width": 191,
-			"height": 42,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
+			"version": 141,
+			"versionNonce": 2117638064,
+			"isDeleted": false,
+			"id": "rkOhYN9ZVY3MwHV9otpe3",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1744.5074945153094,
+			"y": 2021.0416862051643,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#b2f2bb",
+			"width": 191,
+			"height": 42,
+			"seed": 1513345968,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1513345968,
-			"version": 141,
-			"versionNonce": 2117638064,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -11618,41 +11606,41 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"locked": false
 		},
 		{
-			"id": "lJajHjKe",
 			"type": "text",
-			"x": 1779.041296911994,
-			"y": 2032.5924438002469,
-			"width": 121.875,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 141,
+			"versionNonce": 293489488,
+			"isDeleted": false,
+			"id": "lJajHjKe",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1779.041296911994,
+			"y": 2032.5924438002469,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 121.875,
+			"height": 19.2,
+			"seed": 641627056,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 641627056,
-			"version": 141,
-			"versionNonce": 293489488,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
 			"locked": false,
-			"text": "memberService",
-			"rawText": "memberService",
 			"fontSize": 16,
 			"fontFamily": 3,
+			"text": "memberService",
+			"rawText": "memberService",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 15,
 			"containerId": "rkOhYN9ZVY3MwHV9otpe3",
 			"originalText": "memberService",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -11725,7 +11713,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "RhF82Y0nWlb_Yv_k8v5rt",
 			"originalText": "memberRepository",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -11798,7 +11786,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "MOKVL18cuwxFBYFMNbWks",
 			"originalText": "orderService",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
 			"type": "ellipse",
@@ -11867,34 +11855,39 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 			"containerId": "YU3JEI1y9OZ8TZO-4thbl",
 			"originalText": "discountPolicy",
 			"lineHeight": 1.2,
-			"baseline": 15
+			"baseline": 16
 		},
 		{
-			"id": "4ozXNlyubpJ1JXsO1QLKV",
 			"type": "arrow",
-			"x": 1927.6267572266368,
-			"y": 2041.2831025179369,
-			"width": 51.656973649605334,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 86,
+			"versionNonce": 2090214224,
+			"isDeleted": false,
+			"id": "4ozXNlyubpJ1JXsO1QLKV",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1927.6267572266368,
+			"y": 2041.2831025179369,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 51.656973649605334,
+			"height": 0,
+			"seed": 1038529456,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1038529456,
-			"version": 86,
-			"versionNonce": 2090214224,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -11904,95 +11897,89 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 					51.656973649605334,
 					0
 				]
-			],
-			"lastCommittedPoint": [
-				51.656973649605334,
-				0
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "FgupQOQAcb8gOqm5YEnoH",
 			"type": "arrow",
-			"x": 1901.8445935911177,
-			"y": 2174.82954842312,
-			"width": 151.12609623828257,
-			"height": 105.77569392970645,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 71,
+			"versionNonce": 607122178,
+			"isDeleted": false,
+			"id": "FgupQOQAcb8gOqm5YEnoH",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1902.1677955608861,
+			"y": 2174.6033339341425,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 151.01375900379435,
+			"height": 105.69706721183411,
+			"seed": 359787440,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 359787440,
-			"version": 67,
-			"versionNonce": 1506572720,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1716966211342,
+			"boundElements": [],
+			"updated": 1716975172445,
 			"link": null,
 			"locked": false,
+			"startBinding": {
+				"elementId": "MOKVL18cuwxFBYFMNbWks",
+				"gap": 1,
+				"focus": 0.3161027795204079
+			},
+			"endBinding": {
+				"elementId": "RhF82Y0nWlb_Yv_k8v5rt",
+				"gap": 6.855715074314308,
+				"focus": -0.05590404811779552
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					151.12609623828257,
-					-105.77569392970645
+					151.01375900379435,
+					-105.69706721183411
 				]
-			],
-			"lastCommittedPoint": [
-				151.12609623828257,
-				-105.77569392970645
-			],
-			"startBinding": {
-				"elementId": "MOKVL18cuwxFBYFMNbWks",
-				"focus": 0.3161027795204079,
-				"gap": 1
-			},
-			"endBinding": {
-				"elementId": "RhF82Y0nWlb_Yv_k8v5rt",
-				"focus": -0.05590404811779552,
-				"gap": 6.855715074314308
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "I_IKX6G-Q4UgyYb14g7fk",
 			"type": "arrow",
-			"x": 1935.3296418446407,
-			"y": 2193.259560159496,
-			"width": 52.580128636041536,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 49,
+			"versionNonce": 1385511248,
+			"isDeleted": false,
+			"id": "I_IKX6G-Q4UgyYb14g7fk",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1935.3296418446407,
+			"y": 2193.259560159496,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 52.580128636041536,
+			"height": 0,
+			"seed": 916575664,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 916575664,
-			"version": 49,
-			"versionNonce": 1385511248,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -12002,42 +11989,39 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 					52.580128636041536,
 					0
 				]
-			],
-			"lastCommittedPoint": [
-				52.580128636041536,
-				0
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "rbmDsWyQ-9r6B2WAq2XjA",
 			"type": "arrow",
-			"x": 1501.2001243623947,
-			"y": 2139.01081550771,
-			"width": 211.2273954832217,
-			"height": 163.294820417545,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 171,
+			"versionNonce": 71405392,
+			"isDeleted": false,
+			"id": "rbmDsWyQ-9r6B2WAq2XjA",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1501.2001243623947,
+			"y": 2139.01081550771,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 211.2273954832217,
+			"height": 163.294820417545,
+			"seed": 717741392,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 717741392,
-			"version": 171,
-			"versionNonce": 71405392,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -12055,42 +12039,39 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 					-100.56657734764758,
 					163.294820417545
 				]
-			],
-			"lastCommittedPoint": [
-				-100.56657734764758,
-				163.294820417545
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "ZWrRUqOnpHB8uVuYtDXUP",
 			"type": "arrow",
-			"x": 1493.3005920562828,
-			"y": 2042.5110081578678,
-			"width": 131.9165165983843,
-			"height": 157.71118566106406,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 256,
+			"versionNonce": 98422192,
+			"isDeleted": false,
+			"id": "ZWrRUqOnpHB8uVuYtDXUP",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1493.3005920562828,
+			"y": 2042.5110081578678,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 131.9165165983843,
+			"height": 157.71118566106406,
+			"seed": 2002283344,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2002283344,
-			"version": 256,
-			"versionNonce": 98422192,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -12108,42 +12089,39 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 					-117.6409709933364,
 					157.71118566106406
 				]
-			],
-			"lastCommittedPoint": [
-				-117.6409709933364,
-				157.71118566106406
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "HZeOIF7BnWARYN_0Mtt_h",
 			"type": "arrow",
-			"x": 1362.7952127369974,
-			"y": 2136.8763817337963,
-			"width": 121.66272511307193,
-			"height": 61.52082212803134,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 73,
+			"versionNonce": 703800656,
+			"isDeleted": false,
+			"id": "HZeOIF7BnWARYN_0Mtt_h",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1362.7952127369974,
+			"y": 2136.8763817337963,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 121.66272511307193,
+			"height": 61.52082212803134,
+			"seed": 1165137232,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1165137232,
-			"version": 73,
-			"versionNonce": 703800656,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1716966211342,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -12161,117 +12139,7 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 					42.208928604664834,
 					61.52082212803134
 				]
-			],
-			"lastCommittedPoint": [
-				42.208928604664834,
-				61.52082212803134
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "upCDEQ7LZDP5OoN_6pjL9",
-			"type": "arrow",
-			"x": 1313.9702335907748,
-			"y": 1847.6885681043607,
-			"width": 0,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 244135248,
-			"version": 26,
-			"versionNonce": 784723888,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1716966211342,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0
-				]
-			],
-			"lastCommittedPoint": [
-				0,
-				0
-			],
-			"startBinding": {
-				"elementId": "21DWeUhT",
-				"focus": null,
-				"gap": 8.246099596308454
-			},
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "9V7BdLhwFksaxNYD8vx85",
-			"type": "line",
-			"x": 1503.3451948494671,
-			"y": 2139.7837499972666,
-			"width": 215.39698704156444,
-			"height": 157.85945999327714,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1174542768,
-			"version": 140,
-			"versionNonce": 930202544,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1716966211342,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					111.85922115149242,
-					0
-				],
-				[
-					52.71909598724346,
-					0
-				],
-				[
-					-103.53776589007202,
-					157.85945999327714
-				]
-			],
-			"lastCommittedPoint": [
-				-103.53776589007202,
-				157.85945999327714
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		}
 	],
 	"appState": {
@@ -12289,10 +12157,10 @@ e158085b4b4a901d02df55af4668710a45a8c0a6: [[Pasted Image 20240528122302_887.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1042.629527701936,
-		"scrollY": -1515.5100963695158,
+		"scrollX": 1582.3681981061702,
+		"scrollY": 2727.9208393696,
 		"zoom": {
-			"value": 0.8199993222371578
+			"value": 0.15000000000000002
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

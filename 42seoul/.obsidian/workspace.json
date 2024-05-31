@@ -8,53 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "842e4d5189efe7f4",
+            "id": "bd47d3a37b85833e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/4.1 스프링 빈에 등록된 빈 조회.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e8ec2317e843c57",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Java Spring.md"
+                "file": "Excalidraw/Pinting 설계.md"
               }
             }
           },
           {
-            "id": "a3f15e904f49d2ec",
+            "id": "bed58acb776d2594",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a10891a1bb3fbaee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/4.0 스프링 컨테이너 생성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2767ea362c74783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/3.1 관심사의 분리.md",
+                "file": "Java/9회 ( 2024.05.31).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/4.0 스프링 컨테이너 생성.md",
+                "file": "Excalidraw/Pinting 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/4.0 스프링 컨테이너 생성.md",
+                "file": "Excalidraw/Pinting 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/4.0 스프링 컨테이너 생성.md"
+                "file": "Excalidraw/Pinting 설계.md"
               }
             }
           },
@@ -183,27 +171,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a10891a1bb3fbaee",
+  "active": "0e8ec2317e843c57",
   "lastOpenFiles": [
-    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
+    "Java/9회 ( 2024.05.31).md",
+    "Excalidraw/Pinting 설계.md",
     "Excalidraw/Java Spring.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/4.1 스프링 빈에 등록된 빈 조회.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/3.1 관심사의 분리.md",
+    "Java/env 정책.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/4.0 스프링 컨테이너 생성.md",
+    "Java/ROI.md",
+    "Java/경로가 다른 env 파일과 compose 연결.md",
+    "Java/데이터 정규화.md",
     "첨부파일/Pasted Image 20240529155825_930.png",
     "첨부파일/Pasted Image 20240529155040_883.png",
-    "Java/2. 스프링 핵심 원리 - 기본편/4.0 스프링 컨테이너 생성.md",
     "기타/모둠 콜아웃.md",
     "기타",
     "Java/2. 스프링 핵심 원리 - 기본편/3.4 스프링으로 전환.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/3.1 관심사의 분리.md",
     "Java/2. 스프링 핵심 원리 - 기본편/3.2 SOLID 원칙 적용.md",
     "Java/2. 스프링 핵심 원리 - 기본편/3.3 IoC, DI, 컨테이너.md",
     "Java/2. 스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
@@ -215,17 +211,10 @@
     "첨부파일/Pasted Image 20240528173310_769.png",
     "Java/Teach Yourself Programming in Ten Years.md",
     "Pinting/디스코드 봇 만든 과정.md",
-    "Java/데이터 정규화.md",
-    "Java/경로가 다른 env 파일과 compose 연결.md",
     "Java/zipkin.md",
     "Java/webflux.md",
     "Java/Untitled.md",
     "Java/synchronized 키워드.md",
-    "Pinting/Oracle cloud bucket.md",
-    "Java/JPA.md",
-    "Java/JDBC.md",
-    "Java/getter를 쓰면 안된다?.md",
-    "Java/env 정책.md",
     "Pinting",
     "첨부파일/Pasted Image 20240528160305_080.png",
     "첨부파일/Pasted Image 20240528122302_887.png",
