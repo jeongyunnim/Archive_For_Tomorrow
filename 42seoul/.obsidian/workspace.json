@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/4.3 다양한 설정 형식.md",
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/4.3 다양한 설정 형식.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/4.3 다양한 설정 형식.md",
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/4.3 다양한 설정 형식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/4.3 다양한 설정 형식.md",
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/4.3 다양한 설정 형식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/4.3 다양한 설정 형식.md"
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/4.3 다양한 설정 형식.md"
               }
             }
           },
@@ -219,10 +219,11 @@
   },
   "active": "51155d979ba2c361",
   "lastOpenFiles": [
-    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "Java/4.3 다양한 설정 형식.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/4.2 BeanFactory와 ApplicationContext.md",
     "Excalidraw/Java Spring.md",
+    "첨부파일/Pasted Image 20240601182932_238.png",
+    "Java/2. 스프링 핵심 원리 - 기본편/4.3 다양한 설정 형식.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/4.2 BeanFactory와 ApplicationContext.md",
     "첨부파일/Pasted Image 20240601175653_040.png",
     "Java/9회 ( 2024.05.31).md",
     "첨부파일/Pasted Image 20240601174903_185.png",
@@ -253,10 +254,8 @@
     "Java/2. 스프링 핵심 원리 - 기본편/3.0 객체지향 원리 적용.md",
     "Excalidraw/Java.md",
     "첨부파일/Pasted Image 20240528173310_769.png",
-    "Java/Teach Yourself Programming in Ten Years.md",
     "Pinting",
     "첨부파일/Pasted Image 20240528160305_080.png",
-    "첨부파일/Pasted Image 20240528122302_887.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Java/1. 스프링 입문",
