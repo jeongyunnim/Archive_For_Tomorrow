@@ -74,7 +74,7 @@ Error response from daemon: driver failed programming external connectivity on e
 - 톰캣 서버 실행 시 default가 8080으로 실행되기 때문에 nginx로 열어놓은 8080과 충돌하는 오류가 발생했다.
 #### 해결
 - 포트를 변경하여 해결.
-### ✅redirect uri가 api로 이어지지 않아서 발생하는 오류
+### redirect uri가 api로 이어지지 않아서 발생하는 오류
 ![[Pasted image 20240602185517.png]]
 - Spring security가 진입점의 가장 앞단에 있기 때문에 어떤 API도 로그인으로 유도가 되고 있는 것같다.
 - redirect_uri를 `pinting.com/api`로 잘 전달하면 해결될 문제로 보인다.

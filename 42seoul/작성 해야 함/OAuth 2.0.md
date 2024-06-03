@@ -25,7 +25,7 @@ Open Authorization
 - 소비자: Consumer
 	- Open API인 OAuth를 사용하여 서비스 제공자에게 접근하는 웹 또는 app
 - 서비스 제공자: Service provide
-	- OAuth를 통해 접근을 지원하는 웹 어플리케이션
+	- OAuth를 통해 접근을 지원하는 웹 애플리케이션
 - 소비자 비밀번호: Consumer secret
 	- 서비스 제공자에서 소비자가 자신임을 인증하기 위한 키
 - 요청 토큰: Request token
