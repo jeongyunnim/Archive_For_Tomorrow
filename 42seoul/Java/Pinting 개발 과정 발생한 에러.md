@@ -78,6 +78,15 @@ Error response from daemon: driver failed programming external connectivity on e
 ![[Pasted image 20240602185517.png]]
 - Spring security가 진입점의 가장 앞단에 있기 때문에 어떤 API도 로그인으로 유도가 되고 있는 것같다.
 - redirect_uri를 `pinting.com/api`로 잘 전달하면 해결될 문제로 보인다.
+### 리다이렉트 시 포트가 누락되는 문제 발생
+- 위의 사진 처럼 gateway로는 연결이 들어가지만 포트번호가 누락되는 문제가 발생.
+- redirect를 모두 변경하여 요청해봤지만, 해결하지 못함.
+- nginx가 문제인 줄 알았지만, JWT doFilter 로직에서 null 체크를 해주니 문제가 다시 해결 됨.
+![[Pasted image 20240604205228.png]]
+
+> [!tip]
+> `<local6>`가 null이라는 예외가 자꾸 발생했는데, 이는 자바가 내부적으로 지역 변수를 이렇게 설정하고 있는 것이었다.
+
 ---
 ### 생각(파생된 질문/생각)
 
