@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/7.3 lombok과 최신 트렌드.md",
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "044ffe947708b273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/7.5 자동, 수동의 올바른 실무 운영 기준.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "usr",
+                "query": "모둠",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/7.3 lombok과 최신 트렌드.md",
+                "file": "Java/7.5 자동, 수동의 올바른 실무 운영 기준.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/7.3 lombok과 최신 트렌드.md",
+                "file": "Java/7.5 자동, 수동의 올바른 실무 운영 기준.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/7.3 lombok과 최신 트렌드.md"
+                "file": "Java/7.5 자동, 수동의 올바른 실무 운영 기준.md"
               }
             }
           },
@@ -207,12 +219,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fcfa645400ccd5c8",
+  "active": "044ffe947708b273",
   "lastOpenFiles": [
+    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
+    "Java/7.5 자동, 수동의 올바른 실무 운영 기준.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/7.4 조회 빈이 2개 이상인 문제.md",
+    "Java/7.5 애노테이션 직접 만들기.md",
+    "기타/모둠 콜아웃.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/7.3 lombok과 최신 트렌드.md",
     "첨부파일/Pasted image 20240607010829.png",
     "첨부파일/Pasted image 20240607010521.png",
-    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "Java/7.3 lombok과 최신 트렌드.md",
     "Java/2. 스프링 핵심 원리 - 기본편/7.2 생성자 주입을 선택하라.md",
     "Java/2. 스프링 핵심 원리 - 기본편/6.1 탐색 위치와 기본 스캔 대상.md",
     "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
@@ -230,16 +247,12 @@
     "Java/2. 스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
     "Java/2. 스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md",
     "Java/2. 스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/1.0 스프링의 역사.md",
     "Java/2. 스프링 핵심 원리 - 기본편/1.1 스프링이란?.md",
     "첨부파일/Pasted image 20240603154322.png",
     "Java/3. 스프링 부트와 JPA 활용/1.1 View 환경 설정.md",
     "Excalidraw/Java Spring.md",
     "Java/1. 스프링 입문/1.0 프로젝트 생성.md",
     "Java/3. 스프링 부트와 JPA 활용/2.0 요구사항 분석과 도메인 모델, 테이블 설계.md",
-    "Java/Pinting 개발 과정 발생한 에러.md",
-    "Java/ROI.md",
-    "Java/JDBC.md",
     "첨부파일/Pasted image 20240604205228.png",
     "첨부파일/Pasted image 20240604005728.png",
     "첨부파일/Pasted image 20240604004434.png",
@@ -247,7 +260,6 @@
     "Java/5. 스프링 DB 접근 기술",
     "Java/3. 스프링 부트와 JPA 활용/무제 폴더",
     "첨부파일/Pasted image 20240602192648.png",
-    "첨부파일/Pasted image 20240602185517.png",
     "Java/3. 스프링 부트와 JPA 활용",
     "기타",
     "Pinting",
