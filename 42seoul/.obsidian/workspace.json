@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e79059c9c479b8c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/9.2 웹 스코프.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7f64198bc0200ecf",
             "type": "leaf",
             "state": {
@@ -41,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/9.2 웹 스코프.md",
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/9.2 웹 스코프.md",
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/9.2 웹 스코프.md"
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md"
               }
             }
           },
@@ -181,12 +168,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e79059c9c479b8c4",
+  "active": "033b6b07900a0828",
   "lastOpenFiles": [
-    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "Java/9.2 웹 스코프.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/9.2 웹 스코프.md",
     "Excalidraw/Java Spring.md",
     "Java/2. 스프링 핵심 원리 - 기본편/9.1 프로토타입 스코프와 싱글톤 빈을 같이 사용할 경우.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
     "첨부파일/Pasted image 20240608180344.png",
     "첨부파일/Pasted image 20240608180323.png",
     "Java/2. 스프링 핵심 원리 - 기본편/9.0 빈 스코프.md",
