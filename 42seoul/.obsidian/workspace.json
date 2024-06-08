@@ -20,38 +20,24 @@
             }
           },
           {
+            "id": "e79059c9c479b8c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/9.2 웹 스코프.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7f64198bc0200ecf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Java/9.0 빈 스코프.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bc9504de6929d97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/8.0 빈 생명 주기 콜백.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61bff07870516f51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/6.1 탐색 위치와 기본 스캔 대상.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Java Spring.md"
               }
             }
           }
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/9.0 빈 스코프.md",
+                "file": "Java/9.2 웹 스코프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/9.0 빈 스코프.md",
+                "file": "Java/9.2 웹 스코프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/9.0 빈 스코프.md"
+                "file": "Java/9.2 웹 스코프.md"
               }
             }
           },
@@ -195,10 +181,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7f64198bc0200ecf",
+  "active": "e79059c9c479b8c4",
   "lastOpenFiles": [
     "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "Java/9.0 빈 스코프.md",
+    "Java/9.2 웹 스코프.md",
+    "Excalidraw/Java Spring.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/9.1 프로토타입 스코프와 싱글톤 빈을 같이 사용할 경우.md",
+    "첨부파일/Pasted image 20240608180344.png",
+    "첨부파일/Pasted image 20240608180323.png",
+    "Java/2. 스프링 핵심 원리 - 기본편/9.0 빈 스코프.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/6.1 탐색 위치와 기본 스캔 대상.md",
     "Java/2. 스프링 핵심 원리 - 기본편/8.0 빈 생명 주기 콜백.md",
     "첨부파일/Pasted image 20240608160846.png",
     "Java/무제 파일 1.md",
@@ -212,7 +204,6 @@
     "첨부파일/Pasted image 20240607010829.png",
     "첨부파일/Pasted image 20240607010521.png",
     "Java/2. 스프링 핵심 원리 - 기본편/7.2 생성자 주입을 선택하라.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/6.1 탐색 위치와 기본 스캔 대상.md",
     "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
     "Java/2. 스프링 핵심 원리 - 기본편/7.1 옵션 처리.md",
     "첨부파일/Pasted image 20240607003824.png",
@@ -226,13 +217,8 @@
     "Java/2. 스프링 핵심 원리 - 기본편/3.0 객체지향 원리 적용.md",
     "Java/2. 스프링 핵심 원리 - 기본편/2.2 주문 할인과 도메인 설계.md",
     "Java/2. 스프링 핵심 원리 - 기본편/2.1 비즈니스 요구사항과 설계.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/2.0 프로젝트 생성.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/1.1 스프링이란?.md",
     "첨부파일/Pasted image 20240603154322.png",
     "첨부파일/Pasted image 20240604205228.png",
-    "첨부파일/Pasted image 20240604005728.png",
-    "첨부파일/Pasted image 20240604004434.png",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍",
     "Java/5. 스프링 DB 접근 기술",
     "Java/3. 스프링 부트와 JPA 활용/무제 폴더",
