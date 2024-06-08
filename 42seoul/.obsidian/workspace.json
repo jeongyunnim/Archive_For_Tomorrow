@@ -20,48 +20,24 @@
             }
           },
           {
-            "id": "a016cc92696cf53a",
+            "id": "7f64198bc0200ecf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
+                "file": "Java/9.0 빈 스코프.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "284fa273b1e450cc",
+            "id": "5bc9504de6929d97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcfa645400ccd5c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "044ffe947708b273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/7.5 자동, 수동의 올바른 실무 운영 기준.md",
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/8.0 빈 생명 주기 콜백.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/7.5 자동, 수동의 올바른 실무 운영 기준.md",
+                "file": "Java/9.0 빈 스코프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/7.5 자동, 수동의 올바른 실무 운영 기준.md",
+                "file": "Java/9.0 빈 스코프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/7.5 자동, 수동의 올바른 실무 운영 기준.md"
+                "file": "Java/9.0 빈 스코프.md"
               }
             }
           },
@@ -219,10 +195,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "044ffe947708b273",
+  "active": "7f64198bc0200ecf",
   "lastOpenFiles": [
     "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "Java/7.5 자동, 수동의 올바른 실무 운영 기준.md",
+    "Java/9.0 빈 스코프.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/8.0 빈 생명 주기 콜백.md",
+    "첨부파일/Pasted image 20240608160846.png",
+    "Java/무제 파일 1.md",
+    "Java/무제 파일.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/7.5 자동, 수동의 올바른 실무 운영 기준.md",
     "Java/2. 스프링 핵심 원리 - 기본편/7.4 조회 빈이 2개 이상인 문제.md",
     "Java/7.5 애노테이션 직접 만들기.md",
     "기타/모둠 콜아웃.md",
@@ -249,17 +230,12 @@
     "Java/2. 스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란?.md",
     "Java/2. 스프링 핵심 원리 - 기본편/1.1 스프링이란?.md",
     "첨부파일/Pasted image 20240603154322.png",
-    "Java/3. 스프링 부트와 JPA 활용/1.1 View 환경 설정.md",
-    "Excalidraw/Java Spring.md",
-    "Java/1. 스프링 입문/1.0 프로젝트 생성.md",
-    "Java/3. 스프링 부트와 JPA 활용/2.0 요구사항 분석과 도메인 모델, 테이블 설계.md",
     "첨부파일/Pasted image 20240604205228.png",
     "첨부파일/Pasted image 20240604005728.png",
     "첨부파일/Pasted image 20240604004434.png",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍",
     "Java/5. 스프링 DB 접근 기술",
     "Java/3. 스프링 부트와 JPA 활용/무제 폴더",
-    "첨부파일/Pasted image 20240602192648.png",
     "Java/3. 스프링 부트와 JPA 활용",
     "기타",
     "Pinting",
