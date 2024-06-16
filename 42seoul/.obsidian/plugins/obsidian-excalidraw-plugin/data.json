@@ -8181,7 +8181,7 @@
             "containerId": null,
             "originalText": "DNS",
             "lineHeight": 1.5723270440251587,
-            "baseline": 76
+            "baseline": 77
           },
           {
             "type": "line",
@@ -19694,7 +19694,7 @@
             "containerId": null,
             "originalText": "Fast Path",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -19863,7 +19863,7 @@
             "containerId": null,
             "originalText": "Edge Node",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -19992,7 +19992,7 @@
             "containerId": null,
             "originalText": "Tier1",
             "lineHeight": 1.226215113297017,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "text",
@@ -20734,7 +20734,7 @@
             "containerId": null,
             "originalText": "Network",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -20773,7 +20773,7 @@
             "containerId": null,
             "originalText": "Network",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "KEAxEmrj1ni-zywIjdMIO",
@@ -20821,7 +20821,7 @@
             "containerId": null,
             "originalText": "Router",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -20991,7 +20991,7 @@
             "containerId": null,
             "originalText": "Tier #-sr",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -21393,7 +21393,7 @@
             "containerId": null,
             "originalText": "Tier #-dr",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -21857,7 +21857,7 @@
             "containerId": null,
             "originalText": "Desktop",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -22165,7 +22165,7 @@
             "containerId": null,
             "originalText": "Shield",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -22669,7 +22669,7 @@
             "containerId": null,
             "originalText": "Key",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -22994,7 +22994,7 @@
             "containerId": null,
             "originalText": "Lock",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -23240,7 +23240,7 @@
             "containerId": null,
             "originalText": "DNS",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "TPwu0Rb1bCt5KEBiEDavL",
@@ -23360,7 +23360,7 @@
             "containerId": null,
             "originalText": "VPN",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "3PFy5ZgH2ssQcECJ0mtTt",
@@ -23716,7 +23716,7 @@
             "containerId": null,
             "originalText": "LoadBalancer",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "jGsn97POKGqmj4inbvMe2",
@@ -26831,7 +26831,7 @@
             "containerId": null,
             "originalText": "SQL",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -38608,7 +38608,7 @@
             "containerId": null,
             "originalText": "Trunk",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "Fxox0XscV-4On-8cpYjZK",
@@ -38760,7 +38760,7 @@
             "containerId": null,
             "originalText": "web1",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -39318,7 +39318,7 @@
             "containerId": null,
             "originalText": "web2",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -40086,7 +40086,7 @@
             "containerId": null,
             "originalText": "P",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -40126,7 +40126,7 @@
             "containerId": null,
             "originalText": "V",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "slvi6IbUcMJKZoCK6Ql-W",
