@@ -3701,8 +3701,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1198,
-			"versionNonce": 1416248137,
+			"version": 1199,
+			"versionNonce": 1008107676,
 			"isDeleted": false,
 			"id": "XC_STcmUvy2Dywv9aQc3I",
 			"fillStyle": "solid",
@@ -3729,7 +3729,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "HS2ZKQrc"
 				}
 			],
-			"updated": 1714459533563,
+			"updated": 1718608836048,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3793,8 +3793,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2839,
-			"versionNonce": 492707399,
+			"version": 2843,
+			"versionNonce": 1154856228,
 			"isDeleted": false,
 			"id": "EZdBL6hE7vxXahet9IjpC",
 			"fillStyle": "solid",
@@ -3821,7 +3821,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "fzZVp4Tk"
 				}
 			],
-			"updated": 1714459533566,
+			"updated": 1718608836055,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3889,8 +3889,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2385,
-			"versionNonce": 398341097,
+			"version": 2389,
+			"versionNonce": 2037413404,
 			"isDeleted": false,
 			"id": "3tzKd1x_txJOKJJ0q3wLg",
 			"fillStyle": "solid",
@@ -3917,7 +3917,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "HZSJCYBi"
 				}
 			],
-			"updated": 1714459533564,
+			"updated": 1718608836051,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3985,8 +3985,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1434,
-			"versionNonce": 1901992743,
+			"version": 1435,
+			"versionNonce": 1821280676,
 			"isDeleted": false,
 			"id": "nHHqSLc-zcCprkjMKoXUX",
 			"fillStyle": "solid",
@@ -4013,7 +4013,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "OeXcGoWv"
 				}
 			],
-			"updated": 1714459533565,
+			"updated": 1718608836053,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6122,8 +6122,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1152,
-			"versionNonce": 97455529,
+			"version": 1153,
+			"versionNonce": 1684447004,
 			"isDeleted": false,
 			"id": "QK2SD_K4aDj-GZoj6dMTB",
 			"fillStyle": "solid",
@@ -6150,7 +6150,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "hcYAMWL2"
 				}
 			],
-			"updated": 1714459533571,
+			"updated": 1718608836071,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6214,8 +6214,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2772,
-			"versionNonce": 1572819431,
+			"version": 2776,
+			"versionNonce": 225181348,
 			"isDeleted": false,
 			"id": "_tNP7DVN7R1C-r8rbNwpy",
 			"fillStyle": "solid",
@@ -6242,7 +6242,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "7a4aGmti"
 				}
 			],
-			"updated": 1714459533574,
+			"updated": 1718608836078,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6310,8 +6310,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2017,
-			"versionNonce": 1693437863,
+			"version": 2018,
+			"versionNonce": 620402596,
 			"isDeleted": false,
 			"id": "5MHQLWg0llrKO7VIS3IMX",
 			"fillStyle": "solid",
@@ -6338,7 +6338,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "g05IKzT2"
 				}
 			],
-			"updated": 1714459533573,
+			"updated": 1718608836074,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6402,8 +6402,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2223,
-			"versionNonce": 231031495,
+			"version": 2227,
+			"versionNonce": 1888486180,
 			"isDeleted": false,
 			"id": "nOZd2SxGs8Cg7PYw3VCWN",
 			"fillStyle": "solid",
@@ -6430,7 +6430,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "eg2ARawu"
 				}
 			],
-			"updated": 1714459533573,
+			"updated": 1718608836076,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7257,8 +7257,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1216,
-			"versionNonce": 1577346057,
+			"version": 1217,
+			"versionNonce": 1314106780,
 			"isDeleted": false,
 			"id": "7u64WXDwMisA9BKzTYKuH",
 			"fillStyle": "solid",
@@ -7285,7 +7285,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "Kltz9woC"
 				}
 			],
-			"updated": 1714459533576,
+			"updated": 1718608836083,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7349,8 +7349,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1549,
-			"versionNonce": 1038777607,
+			"version": 1550,
+			"versionNonce": 876382756,
 			"isDeleted": false,
 			"id": "PZIoDppPTVDqWS_vgbk-Q",
 			"fillStyle": "solid",
@@ -7377,7 +7377,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "HnzNJaWz"
 				}
 			],
-			"updated": 1714459533577,
+			"updated": 1718608836085,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7441,8 +7441,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1395,
-			"versionNonce": 1238170345,
+			"version": 1396,
+			"versionNonce": 591632924,
 			"isDeleted": false,
 			"id": "aafqKH_cwgNrkf8ZDV7vi",
 			"fillStyle": "solid",
@@ -7469,7 +7469,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "1WUkGuSn"
 				}
 			],
-			"updated": 1714459533578,
+			"updated": 1718608836087,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -10477,8 +10477,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1589,
-			"versionNonce": 1140647305,
+			"version": 1593,
+			"versionNonce": 1118914460,
 			"isDeleted": false,
 			"id": "AMNoyFvMSNnwcKRmjaAUw",
 			"fillStyle": "solid",
@@ -10498,7 +10498,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714459533703,
+			"updated": 1718608836408,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10527,8 +10527,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 3251,
-			"versionNonce": 2070200809,
+			"version": 3255,
+			"versionNonce": 749911580,
 			"isDeleted": false,
 			"id": "_rD1CgWZ7vZHqcY30DygH",
 			"fillStyle": "solid",
@@ -10538,11 +10538,11 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 5011.339430281387,
-			"y": 2165.2851018201263,
+			"y": 2165.2850995897534,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 193.62625177750851,
-			"height": 2.1712308835403746,
+			"height": 2.1712323665419717,
 			"seed": 257263711,
 			"groupIds": [],
 			"frameId": null,
@@ -10553,7 +10553,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "lj2O8EcZ"
 				}
 			],
-			"updated": 1714459533584,
+			"updated": 1718608836103,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10576,7 +10576,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 				],
 				[
 					-193.62625177750851,
-					2.1712308835403746
+					2.1712323665419717
 				]
 			]
 		},
@@ -10619,8 +10619,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2520,
-			"versionNonce": 1623788297,
+			"version": 2524,
+			"versionNonce": 2144817564,
 			"isDeleted": false,
 			"id": "OVbdMCUJuvpaZ-Ddjseo9",
 			"fillStyle": "solid",
@@ -10629,12 +10629,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5081.087918440968,
+			"x": 5081.087918638389,
 			"y": 2105.8516260089077,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 113.93781198862507,
-			"height": 209.77451227825463,
+			"width": 113.93781214121555,
+			"height": 209.7745122782544,
 			"seed": 764076255,
 			"groupIds": [],
 			"frameId": null,
@@ -10645,7 +10645,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "o526v8e1"
 				}
 			],
-			"updated": 1714459533583,
+			"updated": 1718608836101,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10667,8 +10667,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					0
 				],
 				[
-					-113.93781198862507,
-					-209.77451227825463
+					-113.93781214121555,
+					-209.7745122782544
 				]
 			]
 		},
@@ -11083,8 +11083,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 996,
-			"versionNonce": 2066128073,
+			"version": 1000,
+			"versionNonce": 1953274524,
 			"isDeleted": false,
 			"id": "MWT7H0G-X3OOQwIrGHpQf",
 			"fillStyle": "solid",
@@ -11093,12 +11093,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5014.060579522411,
-			"y": 2107.5832061987944,
+			"x": 5014.060579522463,
+			"y": 2107.583206198772,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 636.6945932094222,
-			"height": 341.9207991300625,
+			"width": 636.694593209465,
+			"height": 341.9207991300402,
 			"seed": 874121073,
 			"groupIds": [],
 			"frameId": null,
@@ -11111,7 +11111,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "kMzDaSac"
 				}
 			],
-			"updated": 1714459533586,
+			"updated": 1718608836109,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11133,8 +11133,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					0
 				],
 				[
-					-636.6945932094222,
-					-341.9207991300625
+					-636.694593209465,
+					-341.9207991300402
 				]
 			]
 		},
@@ -11210,7 +11210,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "OAuth2.0",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 36
 		},
 		{
 			"type": "rectangle",
@@ -11666,8 +11666,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1337,
-			"versionNonce": 632631367,
+			"version": 1338,
+			"versionNonce": 1244982564,
 			"isDeleted": false,
 			"id": "ateC_s8fGoqEyMVmkThuU",
 			"fillStyle": "solid",
@@ -11694,7 +11694,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "o9QhW0eh"
 				}
 			],
-			"updated": 1714459533587,
+			"updated": 1718608836111,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11758,8 +11758,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 3296,
-			"versionNonce": 285430983,
+			"version": 3300,
+			"versionNonce": 278084388,
 			"isDeleted": false,
 			"id": "wNits7mavkXzCaOQ4bI7V",
 			"fillStyle": "solid",
@@ -11786,7 +11786,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "zZLK0FW9"
 				}
 			],
-			"updated": 1714459533590,
+			"updated": 1718608836117,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11946,8 +11946,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2503,
-			"versionNonce": 1795695015,
+			"version": 2507,
+			"versionNonce": 319082404,
 			"isDeleted": false,
 			"id": "vpMGAFoqiaJqSZa-p0rez",
 			"fillStyle": "solid",
@@ -11974,7 +11974,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "728c90aZ"
 				}
 			],
-			"updated": 1714459533589,
+			"updated": 1718608836116,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -12434,8 +12434,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 844,
-			"versionNonce": 1931378473,
+			"version": 845,
+			"versionNonce": 1638693148,
 			"isDeleted": false,
 			"id": "YzfoR_MUomZyjAgS_KImd",
 			"fillStyle": "solid",
@@ -12464,7 +12464,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"id": "ge5YUoRO"
 				}
 			],
-			"updated": 1714459533592,
+			"updated": 1718608836123,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -12563,7 +12563,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "OAuth2.0",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 36
 		},
 		{
 			"type": "text",
@@ -12753,7 +12753,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "0.설계",
 			"lineHeight": 1.2,
-			"baseline": 90
+			"baseline": 89
 		},
 		{
 			"type": "rectangle",
@@ -12876,7 +12876,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "yIfyMPOY_gelXFP_Kfoa5",
 			"originalText": "-\n-\n-\n-\n-\n-",
 			"lineHeight": 1.2,
-			"baseline": 111
+			"baseline": 112
 		},
 		{
 			"type": "ellipse",
@@ -14738,7 +14738,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "VS",
 			"lineHeight": 1.2,
-			"baseline": 38
+			"baseline": 37
 		},
 		{
 			"type": "rectangle",
@@ -15927,7 +15927,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "게임 로직",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "rectangle",
@@ -16033,7 +16033,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "다중 플레이어",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "rectangle",
@@ -16139,7 +16139,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "UI",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "rectangle",
@@ -16245,7 +16245,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "애니메이션",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "rectangle",
@@ -16378,7 +16378,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "인증",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "rectangle",
@@ -16484,7 +16484,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "사용자 관리",
 			"lineHeight": 1.2,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "rectangle",
@@ -18576,7 +18576,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "인증/인가",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -18640,7 +18640,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "사용자 관리",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -18704,7 +18704,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "프로필 관리",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -18768,7 +18768,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "게임",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -27121,7 +27121,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "LSy_R_7caFg11c5vaocYL",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -27194,7 +27194,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Y0kblFtP_zQEptpJSB3Jp",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -27267,7 +27267,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ZrsUfJJC8nmw7aa18Zdg-",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -27340,7 +27340,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "VSbqpIiIyDatKbHOxIaU6",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -27413,7 +27413,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "kU3-IyHlhVAbKQm__tWe6",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -27486,7 +27486,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "eL1BhHttp3g_zES3Rp0Mq",
 			"originalText": "모드\n정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -27559,7 +27559,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "U-AGi_IDFtnO6ixzvCBJX",
 			"originalText": "모드\n정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -29492,7 +29492,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "ZWorJ2KI_Fbr-vZ3UJtHU",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -29565,7 +29565,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "7vbUug9CZ2vxUi1uHvtaH",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -29638,7 +29638,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "wL2x_iWUSkBrnS300jF0l",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -29711,7 +29711,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "NRiIq_sTOptdi4FX2jh52",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -29784,7 +29784,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "c0rRHCTf_SmDQ68ursxim",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -29857,7 +29857,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "1k8jxKcUhB9_dSU86p_TK",
 			"originalText": "모드\n정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -29930,7 +29930,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "faipCnZnE57AT8ygHYW8T",
 			"originalText": "모드\n정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -30343,8 +30343,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2437,
-			"versionNonce": 862659559,
+			"version": 2438,
+			"versionNonce": 944256676,
 			"isDeleted": false,
 			"id": "LjcLwF2h2sssnbMIJRHPv",
 			"fillStyle": "solid",
@@ -30364,7 +30364,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714459533690,
+			"updated": 1718608836392,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -30389,8 +30389,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2771,
-			"versionNonce": 1380716295,
+			"version": 2773,
+			"versionNonce": 651280932,
 			"isDeleted": false,
 			"id": "mQvOn0pnQGMxMbtntsd7z",
 			"fillStyle": "solid",
@@ -30410,7 +30410,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714459533690,
+			"updated": 1718608836392,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -30508,7 +30508,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "SnyGkMNDhcxwhx5I1WlC4",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -30618,7 +30618,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "lR8y6VVLdwG9AMoUR-Bci",
 			"originalText": "사용자 정보",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -30760,8 +30760,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 668,
-			"versionNonce": 941790759,
+			"version": 670,
+			"versionNonce": 857595300,
 			"isDeleted": false,
 			"id": "Cd_NC0ycDUNM-B7CuJg5c",
 			"fillStyle": "solid",
@@ -30781,7 +30781,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714459533693,
+			"updated": 1718608836394,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -31603,8 +31603,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 622,
-			"versionNonce": 735787335,
+			"version": 624,
+			"versionNonce": 643467556,
 			"isDeleted": false,
 			"id": "ofyzzH0vUNGJOmbTN61MI",
 			"fillStyle": "solid",
@@ -31624,7 +31624,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714459533693,
+			"updated": 1718608836394,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -32251,7 +32251,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "YyQIpKPLuyUwD7TCUx7ij",
 			"originalText": "친구추가",
 			"lineHeight": 1.2,
-			"baseline": 14
+			"baseline": 13
 		},
 		{
 			"type": "rectangle",
@@ -32320,7 +32320,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "YNtqwXHPjKJ09R8_M5Llk",
 			"originalText": "친구삭제",
 			"lineHeight": 1.2,
-			"baseline": 14
+			"baseline": 13
 		},
 		{
 			"type": "rectangle",
@@ -32648,7 +32648,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "👥",
 			"lineHeight": 1.2,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "ellipse",
@@ -33782,7 +33782,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "q3jKonIJQXG3nIpM0CPfh",
 			"originalText": "상태 메시지를 입력해주세요",
 			"lineHeight": 1.2,
-			"baseline": 28
+			"baseline": 29
 		},
 		{
 			"type": "image",
@@ -37083,7 +37083,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "(위,아래) 1p(w,s) : 2p(o,l)",
 			"lineHeight": 1.2,
-			"baseline": 28
+			"baseline": 27
 		},
 		{
 			"type": "rectangle",
@@ -37869,7 +37869,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "(위,아래) 1p(w,s) : 2p(o,l)",
 			"lineHeight": 1.2,
-			"baseline": 28
+			"baseline": 27
 		},
 		{
 			"type": "rectangle",
@@ -42478,7 +42478,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "패배",
 			"lineHeight": 1.2,
-			"baseline": 95
+			"baseline": 96
 		},
 		{
 			"type": "ellipse",
@@ -48684,7 +48684,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "heshin님 프레임워크 뜯어보기",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "rectangle",
@@ -48924,7 +48924,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "👥",
 			"lineHeight": 1.2,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "ellipse",
@@ -49370,7 +49370,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "친구 검색",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "rectangle",
@@ -50161,7 +50161,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "👥",
 			"lineHeight": 1.2,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "ellipse",
@@ -50407,8 +50407,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1252,
-			"versionNonce": 1044903977,
+			"version": 1256,
+			"versionNonce": 82335004,
 			"isDeleted": false,
 			"id": "LENiO2n4GnTGa13FOTtVp",
 			"fillStyle": "solid",
@@ -50430,7 +50430,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714459533582,
+			"updated": 1718608836099,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -50563,8 +50563,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 491,
-			"versionNonce": 2105877161,
+			"version": 492,
+			"versionNonce": 1766394652,
 			"isDeleted": false,
 			"id": "DoKq5CFCaza0ZWUcTyaVs",
 			"fillStyle": "solid",
@@ -50584,7 +50584,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714459533703,
+			"updated": 1718608836408,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -50642,7 +50642,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "OAuth2.0",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "rectangle",
@@ -50715,7 +50715,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "4gmVrEqBj60tod0pL_bOo",
 			"originalText": "사용자",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "rectangle",
@@ -50788,7 +50788,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Sxv-_CPZc8ph8_nVzoeGg",
 			"originalText": "서비스",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "rectangle",
@@ -50861,7 +50861,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "A9kFtdFZITMainVlxFwWP",
 			"originalText": "Authorization\nServer",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 60
 		},
 		{
 			"type": "rectangle",
@@ -50934,7 +50934,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "39rLGVtxhorb7sGeLS_4T",
 			"originalText": "Resource\nServer",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 60
 		},
 		{
 			"type": "line",
@@ -51198,7 +51198,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "VMCL6T4JeJH9zF6ldeIkV",
 			"originalText": "서비스 접근",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "arrow",
@@ -51286,7 +51286,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "SNMHTxwhF71mjE-GvmGr-",
 			"originalText": "uid\nredirect URI",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 60
 		},
 		{
 			"type": "arrow",
@@ -51374,7 +51374,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "W29Js4RxENpOWGIznoWGf",
 			"originalText": "로그인 페이지 요청\nuid, redirect URI",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 60
 		},
 		{
 			"type": "arrow",
@@ -51462,7 +51462,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "_JhInbjxx4NdAzWxsaE9q",
 			"originalText": "로그인 페이지 제공",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "arrow",
@@ -51550,7 +51550,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Un6VWJPP7z9SCEN_6PpMl",
 			"originalText": "ID/PW 입력",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "arrow",
@@ -51638,7 +51638,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "QvtEuGY30PRDwL_UZnPpw",
 			"originalText": "Authorization code 발급",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "arrow",
@@ -51814,7 +51814,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "OIAmxoWzJc8Pr5Fqggtrp",
 			"originalText": "code로 Access 토큰 요청",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 60
 		},
 		{
 			"type": "arrow",
@@ -51902,7 +51902,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "BsU2xrQX60HUsEfrSH6p7",
 			"originalText": "Access 토근 발급",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "arrow",
@@ -51990,7 +51990,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "EehocxUc3VgW9JGLraStB",
 			"originalText": "인증 완료\n(로그인 성공)",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 60
 		},
 		{
 			"type": "arrow",
@@ -52078,7 +52078,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "n5U6s6NmFv-PXW8Vakcgd",
 			"originalText": "서비스 요청",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "arrow",
@@ -52166,7 +52166,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "F4MmmNDM6nXVil8l0qmx7",
 			"originalText": "Access Token으로 API 호출",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "arrow",
@@ -52254,7 +52254,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "Z34fIra1IHAldVki-ySLo",
 			"originalText": "Authorization code 검증, 서비스 제공",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "arrow",
@@ -52342,7 +52342,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": "3FSFza1WJOLbTu82XKlAJ",
 			"originalText": "서비스 제공",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "rectangle",
@@ -52560,7 +52560,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "start",
 			"lineHeight": 1.2,
-			"baseline": 10
+			"baseline": 9
 		},
 		{
 			"type": "rectangle",
@@ -52836,7 +52836,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "1. 서비스 접근 및 이용 시도\n2. client ID, Redirect URI\n3. 로그인 페이지 요청 client ID, Redirect URI\n4. 로그인 페이지 제공\n5. ID/PW 입력\n6. Authorization code 발급\n7. Redirect URI로 Authorization code 전달\n8. Authorization code 으로 Access Token 요청\n9. Access Token 발급\n10. 인증 완료 및 로그인 성공\n11. 서비스 요청\n12. Access Token으로 API 호출\n13. Authorization code 검증 및 서비스 제공\n14. 서비스 제공",
 			"lineHeight": 1.2,
-			"baseline": 301
+			"baseline": 300
 		},
 		{
 			"type": "text",
@@ -52915,12 +52915,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Client id\nRedirect URI",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 60
 		},
 		{
 			"type": "arrow",
-			"version": 177,
-			"versionNonce": 809061481,
+			"version": 179,
+			"versionNonce": 752743452,
 			"isDeleted": false,
 			"id": "Q-MSkdSLqEdEEaVw9GuOh",
 			"fillStyle": "solid",
@@ -52940,7 +52940,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714459533706,
+			"updated": 1718608836412,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -53002,7 +53002,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Client",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -53039,7 +53039,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -53076,12 +53076,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Resource Server\nAuthorization Server",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 60
 		},
 		{
 			"type": "arrow",
-			"version": 261,
-			"versionNonce": 2060967559,
+			"version": 265,
+			"versionNonce": 1903636252,
 			"isDeleted": false,
 			"id": "EZyDOK3aJrwEao0BQG97J",
 			"fillStyle": "solid",
@@ -53091,17 +53091,17 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 17170.73514923781,
-			"y": 555.1067693117731,
+			"y": 597.5577484308212,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 0,
-			"height": 214.30866649142718,
+			"height": 171.18836645891736,
 			"seed": 1739366087,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1712727762499,
+			"updated": 1718608875134,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -53124,7 +53124,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 				],
 				[
 					0,
-					214.30866649142718
+					171.18836645891736
 				]
 			]
 		},
@@ -53172,8 +53172,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 713,
-			"versionNonce": 227046823,
+			"version": 715,
+			"versionNonce": 315824156,
 			"isDeleted": false,
 			"id": "WeyXUNBotg19YvbYoj4z5",
 			"fillStyle": "solid",
@@ -53183,17 +53183,17 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 17429.226826073555,
-			"y": 861.0082920665618,
+			"y": 860.6736316098311,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 0,
-			"height": 485.61313174834964,
+			"height": 485.278471291619,
 			"seed": 318227015,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1712727762499,
+			"updated": 1718608902054,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -53216,14 +53216,14 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 				],
 				[
 					0,
-					-485.61313174834964
+					-485.278471291619
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 841,
-			"versionNonce": 1168137289,
+			"version": 842,
+			"versionNonce": 1769663388,
 			"isDeleted": false,
 			"id": "hIQ1y9og",
 			"fillStyle": "solid",
@@ -53233,7 +53233,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 17074.100166531498,
-			"y": 872.0469474020847,
+			"y": 871.712286945354,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"width": 853.21875,
@@ -53248,7 +53248,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1712727762499,
+			"updated": 1718608902054,
 			"link": "http://resource_server/?client_id=....&uri=client/callback",
 			"locked": false,
 			"fontSize": 24.405933163605845,
@@ -53260,7 +53260,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "🌐http://resource_server/?client_id=....&uri=client/callback",
 			"lineHeight": 1.2,
-			"baseline": 23
+			"baseline": 24
 		},
 		{
 			"type": "arrow",
@@ -54074,12 +54074,12 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "cors 에러 발생",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 337,
-			"versionNonce": 456768489,
+			"version": 339,
+			"versionNonce": 1486217884,
 			"isDeleted": false,
 			"id": "A9X3oiOU",
 			"fillStyle": "solid",
@@ -54089,7 +54089,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 17105.81332286354,
-			"y": 777.5461210099775,
+			"y": 776.8768000965158,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#ffec99",
 			"width": 306.861328125,
@@ -54104,7 +54104,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1712727762500,
+			"updated": 1718608875134,
 			"link": null,
 			"locked": false,
 			"fontSize": 22.77319375739931,
@@ -54116,7 +54116,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "status_code == 30X\nlocation == http://....",
 			"lineHeight": 1.2,
-			"baseline": 49
+			"baseline": 48
 		},
 		{
 			"type": "text",
@@ -55394,7 +55394,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "start",
 			"lineHeight": 1.2,
-			"baseline": 10
+			"baseline": 9
 		},
 		{
 			"type": "rectangle",
@@ -55660,7 +55660,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Client id\nRedirect URI",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 60
 		},
 		{
 			"type": "text",
@@ -55697,7 +55697,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Client",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -55734,7 +55734,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -55771,7 +55771,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "Resource Server\nAuthorization Server",
 			"lineHeight": 1.2,
-			"baseline": 61
+			"baseline": 60
 		},
 		{
 			"type": "line",
@@ -55905,7 +55905,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "🌐http://resource_server/?client_id=....&uri=client/callback",
 			"lineHeight": 1.2,
-			"baseline": 23
+			"baseline": 24
 		},
 		{
 			"type": "arrow",
@@ -56450,7 +56450,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"containerId": null,
 			"originalText": "status_code == 30X\nlocation == http://....",
 			"lineHeight": 1.2,
-			"baseline": 49
+			"baseline": 48
 		},
 		{
 			"type": "text",
@@ -57564,8 +57564,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "arrow",
-			"version": 154,
-			"versionNonce": 1778767689,
+			"version": 156,
+			"versionNonce": 1975586972,
 			"isDeleted": false,
 			"id": "QwVX9Mo7JneRHMutDtbOd",
 			"fillStyle": "solid",
@@ -57574,18 +57574,18 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 18401.214407099684,
-			"y": 1801.1286202493388,
+			"x": 18401.214525409825,
+			"y": 1801.128620249339,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 0.13523476523550926,
-			"height": 215.38214746058202,
+			"width": 0.13512983552573132,
+			"height": 215.38215125254942,
 			"seed": 1015321257,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714459533708,
+			"updated": 1718608836416,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -57607,8 +57607,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					0
 				],
 				[
-					0.13523476523550926,
-					-215.38214746058202
+					0.13512983552573132,
+					-215.38215125254942
 				]
 			]
 		},
@@ -57693,8 +57693,8 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 312,
-			"versionNonce": 56417735,
+			"version": 313,
+			"versionNonce": 252368676,
 			"isDeleted": false,
 			"id": "TuOJvFBmdHIXXMwj4DJ2G",
 			"fillStyle": "solid",
@@ -57704,7 +57704,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 1.2946406149279586,
 			"x": 18290.0102571823,
-			"y": 1343.0997958623027,
+			"y": 1343.0997958623043,
 			"strokeColor": "transparent",
 			"backgroundColor": "#ffc9c933",
 			"width": 68,
@@ -57723,14 +57723,14 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714459533708,
+			"updated": 1718608836416,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 291,
-			"versionNonce": 331220521,
+			"version": 292,
+			"versionNonce": 1561107740,
 			"isDeleted": false,
 			"id": "wQUZnz9f",
 			"fillStyle": "solid",
@@ -57740,7 +57740,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"opacity": 100,
 			"angle": 1.2946406149279586,
 			"x": 18309.9477571823,
-			"y": 1558.4997958623028,
+			"y": 1558.4997958623044,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 28.125,
@@ -57750,7 +57750,7 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714459533708,
+			"updated": 1718608836416,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -58007,43 +58007,6 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 			"updated": 1713246355663,
 			"link": null,
 			"locked": false
-		},
-		{
-			"id": "GewjzynO",
-			"type": "text",
-			"x": 13051.783204104675,
-			"y": 3155.629158513708,
-			"width": 9.375,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c933",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 704698215,
-			"version": 2,
-			"versionNonce": 346551945,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1714459629389,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.2
 		}
 	],
 	"appState": {
@@ -58061,10 +58024,10 @@ ebb4d458f73968950fe0298d356b2575f67b8026: [[Pasted Image 20240303174053_559.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -13607.022670526594,
-		"scrollY": -0.9190101456835009,
+		"scrollX": -16619.470667505062,
+		"scrollY": 202.76820263663063,
 		"zoom": {
-			"value": 0.5730883650761919
+			"value": 0.65
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
