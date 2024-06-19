@@ -705,6 +705,8 @@ GET api/posts?size=9 ^excMPYs6
 
 GET api/posts/3 ^QxQJp77J
 
+3 ^DRfhfFbo
+
 %%
 # Drawing
 ```json
@@ -32496,8 +32498,8 @@ GET api/posts/3 ^QxQJp77J
 		},
 		{
 			"type": "rectangle",
-			"version": 123,
-			"versionNonce": 921278876,
+			"version": 126,
+			"versionNonce": 1700241692,
 			"isDeleted": false,
 			"id": "BfsNoarEesHUnu3kTIJaJ",
 			"fillStyle": "solid",
@@ -32506,20 +32508,62 @@ GET api/posts/3 ^QxQJp77J
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7142.180490376634,
-			"y": 8411.469932084203,
+			"x": 7141.941927425913,
+			"y": 8410.493965850728,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#ffc9c922",
-			"width": 481.5228740985576,
-			"height": 242.13571401742774,
+			"width": 482,
+			"height": 243,
 			"seed": 778081956,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1718619687834,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "DRfhfFbo"
+				}
+			],
+			"updated": 1718689839951,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "DRfhfFbo",
+			"type": "text",
+			"x": 7372.395052425913,
+			"y": 8510.393965850728,
+			"width": 21.09375,
+			"height": 43.199999999999996,
+			"angle": 0,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "#ffc9c922",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1189825572,
+			"version": 4,
+			"versionNonce": 1984138916,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718689839952,
+			"link": null,
+			"locked": false,
+			"text": "3",
+			"rawText": "3",
+			"fontSize": 36,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 35,
+			"containerId": "BfsNoarEesHUnu3kTIJaJ",
+			"originalText": "3",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "line",
@@ -32702,10 +32746,10 @@ GET api/posts/3 ^QxQJp77J
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -5478.407769833179,
-		"scrollY": -7637.500682804581,
+		"scrollX": -5192.069794437129,
+		"scrollY": -5202.382450198637,
 		"zoom": {
-			"value": 0.6
+			"value": 0.44999999999999996
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

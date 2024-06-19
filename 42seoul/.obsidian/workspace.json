@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a000786c1482535f",
+        "id": "8dd9e752a29f3dc9",
         "type": "tabs",
         "children": [
           {
-            "id": "033b6b07900a0828",
+            "id": "dfd703ec4d0e2853",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/7.5 자동, 수동의 올바른 실무 운영 기준.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7f64198bc0200ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/6.0 컴포넌트 스캔과 의존관계 자동 주입.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e3f75eb003439db",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Pinting 설계.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "http",
+                "query": "predicate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Pinting 설계.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Pinting 설계.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Pinting 설계.md"
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md"
               }
             }
           },
@@ -181,34 +158,37 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6e3f75eb003439db",
+  "active": "dfd703ec4d0e2853",
   "lastOpenFiles": [
-    "Java/11회 (2024.06.17).md",
+    "Excalidraw/Java JPA.md",
+    "Excalidraw/Java Spring.md",
+    "Excalidraw/Java.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/1.0 JPA 소개.md",
+    "Java/0. Java 프로그래밍 완벽 정복/13.0 예외 처리.md",
+    "Java/0. Java 프로그래밍 완벽 정복/11.3 함수형 인터페이스.md",
+    "Java/0. Java 프로그래밍 완벽 정복/14.0 파일 IO.md",
+    "Java/0. Java 프로그래밍 완벽 정복/3.0 자바 플랫폼.md",
+    "첨부파일/Pasted image 20240618154721.png",
+    "Java/데이터베이스 JOIN.md",
+    "첨부파일/Pasted image 20240618153330.png",
+    "Java/3. 스프링 부트와 JPA 활용/2.0 요구사항 분석과 도메인 모델, 테이블 설계.md",
+    "Java/3. 스프링 부트와 JPA 활용/1.3 JPA와 DB 설정 동작 확인.md",
+    "Java/3. 스프링 부트와 JPA 활용/1.1 View 환경 설정.md",
+    "Java/3. 스프링 부트와 JPA 활용/1.0 프로젝트 생성.md",
+    "Java/3. 스프링 부트와 JPA 활용/0. 스프링 부트와 JPA 활용.md",
     "Excalidraw/Pinting 설계.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/7.5 자동, 수동의 올바른 실무 운영 기준.md",
     "Java/2. 스프링 핵심 원리 - 기본편/6.0 컴포넌트 스캔과 의존관계 자동 주입.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/7.5 자동, 수동의 올바른 실무 운영 기준.md",
+    "Java/11회 (2024.06.17).md",
     "Excalidraw(non_fixed)/ft_transcendence.excalidraw.md",
     "Java/10회 (2024.06.11).md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
-    "Excalidraw/Java.md",
-    "Excalidraw/Java Spring.md",
     "Excalidraw(non_fixed)/inception.excalidraw.md",
     "Excalidraw(non_fixed)/JavaScript.excalidraw.md",
     "Excalidraw(non_fixed)/MSA.excalidraw.md",
-    "Java/변경 감지와 병합.md",
-    "Java/test.md",
-    "Java/CSRF, XSS, SF.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/7.4 조회 빈이 2개 이상인 문제.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/8.0 빈 생명 주기 콜백.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/7.3 lombok과 최신 트렌드.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/7.2 생성자 주입을 선택하라.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/7.1 옵션 처리.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/7.0 의존관계 주입 방법.md",
-    "Java/env 정책.md",
-    "Java/0. Java 프로그래밍 완벽 정복/16.2 tip - 접근 제어자.md",
-    "Java/0. Java 프로그래밍 완벽 정복/10.0 Generic.md",
-    "Java/0. Java 프로그래밍 완벽 정복/8.2 상속.md",
     "첨부파일/Pasted image 20240608180344.png",
     "첨부파일/Pasted image 20240608180323.png",
     "첨부파일/Pasted image 20240608160846.png",
@@ -216,8 +196,6 @@
     "첨부파일/Pasted image 20240607010521.png",
     "첨부파일/Pasted image 20240607003824.png",
     "첨부파일/Pasted image 20240606162752.png",
-    "첨부파일/Pasted image 20240606162338.png",
-    "첨부파일/Pasted image 20240603154322.png",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍",
     "Java/5. 스프링 DB 접근 기술",
     "Java/3. 스프링 부트와 JPA 활용/무제 폴더",
