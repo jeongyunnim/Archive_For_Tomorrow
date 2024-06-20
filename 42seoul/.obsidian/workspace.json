@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfd703ec4d0e2853",
+            "id": "f4b86f72051e3fb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md"
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md"
               }
             }
           },
@@ -158,13 +158,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dfd703ec4d0e2853",
+  "active": "f4b86f72051e3fb5",
   "lastOpenFiles": [
     "Excalidraw/Java JPA.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
     "Excalidraw/Java Spring.md",
     "Excalidraw/Java.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/1.0 JPA 소개.md",
     "Java/0. Java 프로그래밍 완벽 정복/13.0 예외 처리.md",
     "Java/0. Java 프로그래밍 완벽 정복/11.3 함수형 인터페이스.md",
@@ -188,7 +189,6 @@
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw(non_fixed)/inception.excalidraw.md",
     "Excalidraw(non_fixed)/JavaScript.excalidraw.md",
-    "Excalidraw(non_fixed)/MSA.excalidraw.md",
     "첨부파일/Pasted image 20240608180344.png",
     "첨부파일/Pasted image 20240608180323.png",
     "첨부파일/Pasted image 20240608160846.png",
