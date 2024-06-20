@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "fd65836e1eb6b106",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Java JPA.md"
               }
             }
           }
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md"
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md"
               }
             }
           },
@@ -160,8 +170,8 @@
   },
   "active": "f4b86f72051e3fb5",
   "lastOpenFiles": [
-    "Excalidraw/Java JPA.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md",
+    "Excalidraw/Java JPA.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
     "Excalidraw/Java Spring.md",
