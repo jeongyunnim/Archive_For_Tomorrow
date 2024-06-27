@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19e66bbf0e0a6fdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7feb9616dfb0058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ee1d777f4caeb34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6777a258dd6c226d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/2. 스프링 핵심 원리 - 기본편/4.2 BeanFactory와 ApplicationContext.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b1b9e31f271ac56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.5 JPQL 문법 - 타입 표현과 기타식.md",
+                "file": "Day Planners/2024-06-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.5 JPQL 문법 - 타입 표현과 기타식.md",
+                "file": "Day Planners/2024-06-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.5 JPQL 문법 - 타입 표현과 기타식.md",
+                "file": "Day Planners/2024-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.5 JPQL 문법 - 타입 표현과 기타식.md"
+                "file": "Day Planners/2024-06-28.md"
               }
             }
           },
@@ -219,12 +170,15 @@
   },
   "active": "9b1b9e31f271ac56",
   "lastOpenFiles": [
-    "Excalidraw/Java Spring.md",
+    "Java/0. Java 프로그래밍 완벽 정복/6.2 자바의 참조자료형 - Wrapper Class.md",
+    "Day Planners/2024-06-28.md",
+    "Java/0. Java 프로그래밍 완벽 정복/6.0 자바의 자료형.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.5 JPQL 문법 - 타입 표현과 기타식.md",
     "Java/2. 스프링 핵심 원리 - 기본편/4.2 BeanFactory와 ApplicationContext.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
+    "Excalidraw/Java Spring.md",
     "Java/3. 스프링 부트와 JPA 활용/2.0 요구사항 분석과 도메인 모델, 테이블 설계.md",
     "Java/3. 스프링 부트와 JPA 활용/1.2 h2 데이터베이스 설치.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.5 JPQL 문법 - 타입 표현과 기타식.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.4 JPQL 문법 - 조인.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.3 JPQL 문법 - 서브쿼리.md",
     "첨부파일/Pasted image 20240624203649.png",
@@ -245,9 +199,6 @@
     "Java/bucket.md",
     "Java/ArrayList는 실제로 가변적인가? 내부적으로는 불변성을 가지고 있을 수 있다..md",
     "Java/학자형과 야생형.md",
-    "Java/프로그래머가 알아야할 97가지.md",
-    "Java/추상클래스와 인터페이스의 명확한 차이?.md",
-    "Java/중간 연산 boxed().md",
     "첨부파일/Pasted Image 20240623194525_065.png",
     "첨부파일/Pasted Image 20240623181032_005.png",
     "첨부파일/Pasted Image 20240623180539_727.png",
