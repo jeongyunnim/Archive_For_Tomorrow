@@ -4,28 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "150a931e2095f553",
+        "id": "8ee23f6e74443e12",
         "type": "tabs",
         "children": [
           {
-            "id": "9b1b9e31f271ac56",
+            "id": "b94933f0ab49b311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2024-06-28.md",
+                "file": "Java/6. 스프링 클라우드 MSA/2.0 Config 서버 설정.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "06360598ee579883",
+            "id": "81c636cc668aecfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/6. 스프링 클라우드 MSA/0. 스프링 클라우드 MSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcac2fbbdfb09c55",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Java JPA.md"
+                "file": "Excalidraw/Java.md"
+              }
+            }
+          },
+          {
+            "id": "01bce932b33aab5d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Java MSA.md"
               }
             }
           }
@@ -96,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2024-06-28.md",
+                "file": "Java/6. 스프링 클라우드 MSA/2.0 Config 서버 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2024-06-28.md",
+                "file": "Java/6. 스프링 클라우드 MSA/2.0 Config 서버 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2024-06-28.md"
+                "file": "Java/6. 스프링 클라우드 MSA/2.0 Config 서버 설정.md"
               }
             }
           },
@@ -168,44 +190,46 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9b1b9e31f271ac56",
+  "active": "b94933f0ab49b311",
   "lastOpenFiles": [
-    "Java/0. Java 프로그래밍 완벽 정복/6.2 자바의 참조자료형 - Wrapper Class.md",
-    "Day Planners/2024-06-28.md",
-    "Java/0. Java 프로그래밍 완벽 정복/6.0 자바의 자료형.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.5 JPQL 문법 - 타입 표현과 기타식.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/4.2 BeanFactory와 ApplicationContext.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
+    "첨부파일/Pasted image 20240701020358.png",
+    "Java/6. 스프링 클라우드 MSA/0. 스프링 클라우드 MSA.md",
+    "Java/6. 스프링 클라우드 MSA/2.0 Config 서버 설정.md",
+    "기타/모둠 콜아웃.md",
+    "첨부파일/Pasted image 20240701010014.png",
+    "첨부파일/Pasted image 20240701004512.png",
+    "Java/5. 스프링 DB 접근 기술/1.0 프로젝트 생성.md",
+    "Excalidraw/Java MSA.md",
+    "Excalidraw/Drawing 2024-07-01 00.31.57.excalidraw.md",
+    "Excalidraw/Java.md",
     "Excalidraw/Java Spring.md",
-    "Java/3. 스프링 부트와 JPA 활용/2.0 요구사항 분석과 도메인 모델, 테이블 설계.md",
-    "Java/3. 스프링 부트와 JPA 활용/1.2 h2 데이터베이스 설치.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.4 JPQL 문법 - 조인.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.3 JPQL 문법 - 서브쿼리.md",
-    "첨부파일/Pasted image 20240624203649.png",
-    "Java/11회 (2024.06.17).md",
-    "Java/경로가 다른 env 파일과 compose 연결.md",
-    "Java/9회 ( 2024.05.31).md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.2 JPQL 문법 - 프로젝션, 페이징.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.1 JPQL.md",
+    "template/스프링 클라우드 MSA.md",
+    "template/스프링 부트와 JPA 활용1.md",
+    "Java/6. 스프링 클라우드 MSA",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.5 JPQL 문법 - 타입 표현과 기타식.md",
     "Excalidraw/Java JPA.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.0 JPA의 다양한 쿼리 방법.md",
-    "Java/1. 스프링 입문/1.0 프로젝트 생성.md",
+    "Java/무제 폴더",
+    "Java/2. 스프링 핵심 원리 - 기본편/7.0 의존관계 주입 방법.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/7.2 생성자 주입을 선택하라.md",
+    "Day Planners/2024-06-28.md",
+    "Java/12회 ( 2024.06.28).md",
+    "archive(non_fixed)/inception/도커/Docker docs/2. Dockerfile.md",
+    "archive(non_fixed)/inception/도커/Docker docs/1-10. What's Next.md",
+    "archive(non_fixed)/inception/도커/Docker docs/1-7. Multi container apps.md",
+    "archive(non_fixed)/inception/도커/Docker docs/1-5. Persist the DB.md",
+    "archive(non_fixed)/inception/도커/Docker docs/1-4. Share the application.md",
+    "Java/obtional.md",
+    "Java/0. Java 프로그래밍 완벽 정복/6.2 자바의 참조자료형 - Wrapper Class.md",
+    "Java/0. Java 프로그래밍 완벽 정복/6.0 자바의 자료형.md",
+    "첨부파일/Pasted image 20240624203649.png",
     "첨부파일/Pasted Image 20240624172313_429.png",
     "첨부파일/Pasted Image 20240624172206_330.png",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/5.1 양방향 연관관계와 연관관계의 주인.md",
-    "Java/CSRF, XSS, SF.md",
-    "Java/config 파일 분리.md",
-    "Day Planners/2024-06-24.md",
-    "Java/bucket.md",
-    "Java/ArrayList는 실제로 가변적인가? 내부적으로는 불변성을 가지고 있을 수 있다..md",
-    "Java/학자형과 야생형.md",
     "첨부파일/Pasted Image 20240623194525_065.png",
     "첨부파일/Pasted Image 20240623181032_005.png",
     "첨부파일/Pasted Image 20240623180539_727.png",
     "첨부파일/Pasted Image 20240623174642_737.png",
     "첨부파일/Pasted image 20240623162952.png",
-    "첨부파일/Pasted Image 20240623162757_230.png",
-    "첨부파일/Pasted image 20240618154721.png",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍",
     "Java/5. 스프링 DB 접근 기술",
     "Java/3. 스프링 부트와 JPA 활용/무제 폴더",
@@ -214,8 +238,6 @@
     "Pinting",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Java/1. 스프링 입문",
-    "첨부파일",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
     "Transcendence/트센 캔버스.canvas",
