@@ -8,72 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b94933f0ab49b311",
+            "id": "92f38f1a50304b82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/6. 스프링 클라우드 MSA/0. 스프링 클라우드 MSA.md",
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/4.0 클라우드 네이티브 애플리케이션.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f06774158cb1d365",
+            "id": "060e2a6d4833962b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/6. 스프링 클라우드 MSA/0. 스프링 클라우드 MSA.md",
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/1.0  RESTful API.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b746c7b61d582916",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. 스프링 클라우드 MSA/0. 스프링 클라우드 MSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb3bbdd6edaaa0c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. 스프링 클라우드 MSA/5.0 게이트웨이 글로벌 필터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81c636cc668aecfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. 스프링 클라우드 MSA/0. 스프링 클라우드 MSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcac2fbbdfb09c55",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Java.md"
               }
             }
           },
@@ -87,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,12 +60,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "predicate",
+                "query": "dto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -155,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/6. 스프링 클라우드 MSA/5.0 게이트웨이 글로벌 필터.md",
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/4.0 클라우드 네이티브 애플리케이션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/6. 스프링 클라우드 MSA/5.0 게이트웨이 글로벌 필터.md",
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/4.0 클라우드 네이티브 애플리케이션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/6. 스프링 클라우드 MSA/5.0 게이트웨이 글로벌 필터.md"
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/4.0 클라우드 네이티브 애플리케이션.md"
               }
             }
           },
@@ -227,54 +180,54 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "92f38f1a50304b82",
   "lastOpenFiles": [
-    "Java/6. 스프링 클라우드 MSA/0. 스프링 클라우드 MSA.md",
-    "Java/6. 스프링 클라우드 MSA/5.0 게이트웨이 글로벌 필터.md",
-    "Java/6. 스프링 클라우드 MSA/4.0 스프링 클라우드 게이트웨이.md",
-    "첨부파일/Pasted image 20240702194136.png",
-    "첨부파일/Pasted image 20240702154738.png",
-    "Java/6. 스프링 클라우드 MSA/3.0 Eureka 서버 구축.md",
-    "첨부파일/Pasted image 20240701134216.png",
-    "Java/6. 스프링 클라우드 MSA/2.0 Config 서버 설정.md",
-    "첨부파일/Pasted image 20240701020358.png",
-    "기타/모둠 콜아웃.md",
-    "첨부파일/Pasted image 20240701010014.png",
-    "첨부파일/Pasted image 20240701004512.png",
-    "Java/5. 스프링 DB 접근 기술/1.0 프로젝트 생성.md",
+    "첨부파일/Pasted image 20240713153734.png",
+    "첨부파일/Pasted image 20240713152803.png",
+    "첨부파일/Pasted image 20240713151814.png",
+    "첨부파일/Pasted image 20240712211943.png",
     "Excalidraw/Java MSA.md",
-    "Excalidraw/Drawing 2024-07-01 00.31.57.excalidraw.md",
-    "Excalidraw/Java.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/4.0 클라우드 네이티브 애플리케이션.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
     "Excalidraw/Java Spring.md",
-    "template/스프링 클라우드 MSA.md",
-    "template/스프링 부트와 JPA 활용1.md",
-    "Java/6. 스프링 클라우드 MSA",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.5 JPQL 문법 - 타입 표현과 기타식.md",
-    "Excalidraw/Java JPA.md",
-    "Java/무제 폴더",
-    "Java/2. 스프링 핵심 원리 - 기본편/7.0 의존관계 주입 방법.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/0. 스프링 핵심 원리.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/7.2 생성자 주입을 선택하라.md",
-    "Day Planners/2024-06-28.md",
-    "Java/12회 ( 2024.06.28).md",
-    "archive(non_fixed)/inception/도커/Docker docs/2. Dockerfile.md",
-    "archive(non_fixed)/inception/도커/Docker docs/1-10. What's Next.md",
-    "archive(non_fixed)/inception/도커/Docker docs/1-7. Multi container apps.md",
-    "archive(non_fixed)/inception/도커/Docker docs/1-5. Persist the DB.md",
-    "archive(non_fixed)/inception/도커/Docker docs/1-4. Share the application.md",
-    "Java/obtional.md",
-    "첨부파일/Pasted image 20240624203649.png",
-    "첨부파일/Pasted Image 20240624172313_429.png",
-    "첨부파일/Pasted Image 20240624172206_330.png",
-    "첨부파일/Pasted Image 20240623194525_065.png",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/3.0 도커 이미지 생성.md",
+    "Java/zipkin.md",
+    "Java/API 문서를 어떻게 작성할 것인가?.md",
+    "Java/test.md",
+    "Java/webflux.md",
+    "작성 해야 함/REST.md",
+    "Java/Untitled Diagram.svg",
+    "작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
+    "작성 해야 함/API 문서 작성.md",
+    "첨부파일/Pasted image 20240711182715.png",
+    "첨부파일/Pasted image 20240711182535.png",
+    "첨부파일/Pasted Image 20240711165628_986.png",
+    "첨부파일/Pasted Image 20240711163913_622.png",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/1.2 REST 서비스 구축을 지원하는 애노테이션 및 클래스.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/1.0  RESTful API.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/1.1 프로젝트 생성.md",
+    "첨부파일/Pasted image 20240711143231.png",
+    "첨부파일/Pasted image 20240711143036.png",
+    "archive(non_fixed)/Transcendence/<번역>ft_transcendence.md",
+    "archive(non_fixed)/Transcendence/계층형 아키텍처.md",
+    "작성 해야 함/DTO.md",
+    "Java/10회 (2024.06.11).md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.2 JPQL 문법 - 프로젝션, 페이징.md",
+    "Java/11회 (2024.06.17).md",
+    "Java/0. Java 프로그래밍 완벽 정복/11.0 함수형 프로그래밍.md",
+    "Java/0. Java 프로그래밍 완벽 정복/9.2 Collections - Set.md",
+    "Java/Pinting 개발 과정 발생한 에러.md",
+    "Java/13회 ( 2024.07.04).md",
+    "Java/6. 스프링 클라우드 마이크로서비스/무제 폴더",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터",
+    "Java/무제 폴더/무제 폴더",
+    "Java/5. 스프링 클라우드 MSA(개발자 유미)",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍",
     "Java/5. 스프링 DB 접근 기술",
     "Java/3. 스프링 부트와 JPA 활용/무제 폴더",
     "Java/3. 스프링 부트와 JPA 활용",
     "기타",
     "Pinting",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
     "Transcendence/트센 캔버스.canvas",

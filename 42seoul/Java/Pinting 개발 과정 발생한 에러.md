@@ -87,6 +87,18 @@ Error response from daemon: driver failed programming external connectivity on e
 > [!tip]
 > `<local6>`가 null이라는 예외가 자꾸 발생했는데, 이는 자바가 내부적으로 지역 변수를 이렇게 설정하고 있는 것이었다.
 
+### like를 엔티티 이름으로 사용할 수 없는 오류
+```log
+could not execute statement [ERROR: syntax error at or near "like"
+  Position: 55] [/* insert for pinting.board.domain.Like */insert into like (member_id,post_id,like_id) values (?,?,?)]
+org.hibernate.exception.SQLGrammarException: could not execute statement [ERROR: syntax error at or near "like"
+  Position: 55] [/* insert for pinting.board.domain.Like */insert into like (member_id,post_id,like_id) values (?,?,?)]
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:91)
+	...
+```
+- like에 대한 문법 오류가 났다고 해서 Entity의 이름을 SQL 예약어로 사용할 수 없다는 것을 떠올렸다.
+- @Table(name = "likes")로 문제를 회피해야 한다.
+
 ---
 ### 생각(파생된 질문/생각)
 

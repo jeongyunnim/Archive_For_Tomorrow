@@ -17,10 +17,10 @@ aliases:
 # DTO
 Data Transfer Object
 
-
 ---
 ### 생각(파생된 질문/생각)
 
 ### 출처
+- [마틴 파울러 DTO 패턴](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
 
 ### 연결 문서 (연결 이유)
