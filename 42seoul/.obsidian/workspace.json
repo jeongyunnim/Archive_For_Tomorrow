@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.50390243530273
+    "width": 200
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -182,12 +182,14 @@
   },
   "active": "92f38f1a50304b82",
   "lastOpenFiles": [
+    "Excalidraw/Java MSA.md",
+    "첨부파일/Pasted Image 20240715151303_495.png",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/4.0 클라우드 네이티브 애플리케이션.md",
+    "첨부파일/Pasted image 20240715151248.png",
     "첨부파일/Pasted image 20240713153734.png",
     "첨부파일/Pasted image 20240713152803.png",
     "첨부파일/Pasted image 20240713151814.png",
     "첨부파일/Pasted image 20240712211943.png",
-    "Excalidraw/Java MSA.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/4.0 클라우드 네이티브 애플리케이션.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
     "Excalidraw/Java Spring.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/3.0 도커 이미지 생성.md",
@@ -202,12 +204,9 @@
     "첨부파일/Pasted image 20240711182715.png",
     "첨부파일/Pasted image 20240711182535.png",
     "첨부파일/Pasted Image 20240711165628_986.png",
-    "첨부파일/Pasted Image 20240711163913_622.png",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/1.2 REST 서비스 구축을 지원하는 애노테이션 및 클래스.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/1.0  RESTful API.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/1.1 프로젝트 생성.md",
-    "첨부파일/Pasted image 20240711143231.png",
-    "첨부파일/Pasted image 20240711143036.png",
     "archive(non_fixed)/Transcendence/<번역>ft_transcendence.md",
     "archive(non_fixed)/Transcendence/계층형 아키텍처.md",
     "작성 해야 함/DTO.md",
