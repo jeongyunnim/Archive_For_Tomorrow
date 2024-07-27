@@ -98,6 +98,27 @@ org.hibernate.exception.SQLGrammarException: could not execute statement [ERROR:
 ```
 - like에 대한 문법 오류가 났다고 해서 Entity의 이름을 SQL 예약어로 사용할 수 없다는 것을 떠올렸다.
 - @Table(name = "likes")로 문제를 회피해야 한다.
+---
+## compose 파일 설정 - 데이터베이스
+![[Pasted image 20240723203705.png]]
+- role 또는 database가 없음.
+- 포트번호 5432(디폴트)로 연결했는지 확인해야 함.
+	- 바인딩만 다르게 한 경우..
+- pg_isready는 옵션 먹통임 이상함. 환경변수만 따라감.
+		- `PGUSER`, `PGDATABASE`
+- application에서 yaml 중복되는 게 있다면 컴파일 오류 발생한다.
+- postgres는 dialect 설정을 해주지 않아도 된다.
+---
+# JIB
+### 변경 사항이 적용 안 되는 문제
+detail: 변경사항을 넣어서 빌드를 했지만 시도한 모든 방법이 모두 이전과 같은 결과를 내었다.
+설마 이미지 파일이 업데이트 되고 있지 않은 것은 아닌가 것인가 싶어서 다시 빌드를 했더니 문제가 이미 해결이 되어있었다.
+- 결론 
+	- 빌드를 새로해야 한다면 이미지도 지우자.
+	- 만약 이미지가 문제가 아니더라도, 문제의 여지를 최소화하는 것이 좋을 것 같다.
+![[Pasted image 20240723231732.png]]
+[이미지 출처](https://github.com/GoogleContainerTools/jib/issues/413)
+
 
 ---
 ### 생각(파생된 질문/생각)
