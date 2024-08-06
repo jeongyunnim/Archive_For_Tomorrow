@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/9.8 Bulkhead 패턴 적용하기.md",
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe1b85a34162877e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fca88b95d464a2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/10.1 마이크로서비스의 로그 중앙화.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -75,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dto",
+                "query": "tenant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/9.8 Bulkhead 패턴 적용하기.md",
+                "file": "Java/10.1 마이크로서비스의 로그 중앙화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/9.8 Bulkhead 패턴 적용하기.md",
+                "file": "Java/10.1 마이크로서비스의 로그 중앙화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/9.8 Bulkhead 패턴 적용하기.md"
+                "file": "Java/10.1 마이크로서비스의 로그 중앙화.md"
               }
             }
           },
@@ -195,11 +218,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8e52ed07283e1644",
+  "active": "fca88b95d464a2d9",
   "lastOpenFiles": [
-    "첨부파일/Pasted image 20240806141754.png",
+    "Java/Tenant.md",
+    "Java/10.1 마이크로서비스의 로그 중앙화.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
-    "Java/9.8 Bulkhead 패턴 적용하기.md",
+    "Java/10.0 마이크로서비스의 가시성과 모니터링.md",
+    "Java/Metric.md",
+    "Java/9.9 Resilience Compose file 구성.md",
+    "첨부파일/Pasted image 20240806151622.png",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/9.8 Bulkhead 패턴 적용하기.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/9.0 복원력 있는 마이크로서비스 구현하기.md",
+    "첨부파일/Pasted image 20240806143253.png",
+    "첨부파일/Pasted image 20240806141754.png",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/9.7 Rate Limitter 패턴 적용하기.md",
     "첨부파일/Pasted image 20240806141113.png",
     "첨부파일/Pasted image 20240806140657.png",
@@ -212,7 +243,6 @@
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/7.5 Client-side 디스커버리 및 로드밸런싱.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/7.3 유레카 클라이언트 설정.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/7.2 유레카 서버 프로젝트 생성.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/9.0 복원력 있는 마이크로서비스 구현하기.md",
     "Java/apache benchmark.md",
     "Excalidraw/Pinting 설계.md",
     "첨부파일/Pasted image 20240805150644.png",
@@ -225,14 +255,7 @@
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/3.0 도커 이미지 생성.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/4.0 클라우드 네이티브 애플리케이션.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/5.5 Liveness와 Readiness.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/5.4 Compose 파일 수정 - Config 서버.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/5.3 actuator를 이용한 설정 동적 변경.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/5.0 마이크로서비스 구성하기.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/5.2 스프링 클라우드 config 서버 구성하기.md",
     "첨부파일/Pasted image 20240731164833.png",
-    "첨부파일/Pasted Image 20240731155704_188.png",
-    "첨부파일/Pasted image 20240731160102.png",
-    "첨부파일/Pasted Image 20240731155633_629.png",
     "Java/6. 스프링 클라우드 마이크로서비스/무제 폴더",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터",
     "Java/무제 폴더/무제 폴더",
