@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7182855e0126828e",
+            "id": "850fdc19682f80a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,48 +20,12 @@
             }
           },
           {
-            "id": "9bbc9fa6adb73e71",
+            "id": "a760c75005bbd6ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e52ed07283e1644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe1b85a34162877e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fca88b95d464a2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/10.1 마이크로서비스의 로그 중앙화.md",
+                "file": "Pinting/4.30 5차 스프린트.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/10.1 마이크로서비스의 로그 중앙화.md",
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/10.1 마이크로서비스의 로그 중앙화.md",
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/10.1 마이크로서비스의 로그 중앙화.md"
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md"
               }
             }
           },
@@ -218,44 +182,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fca88b95d464a2d9",
+  "active": "850fdc19682f80a9",
   "lastOpenFiles": [
-    "Java/Tenant.md",
-    "Java/10.1 마이크로서비스의 로그 중앙화.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
-    "Java/10.0 마이크로서비스의 가시성과 모니터링.md",
-    "Java/Metric.md",
-    "Java/9.9 Resilience Compose file 구성.md",
-    "첨부파일/Pasted image 20240806151622.png",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/9.8 Bulkhead 패턴 적용하기.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/9.0 복원력 있는 마이크로서비스 구현하기.md",
-    "첨부파일/Pasted image 20240806143253.png",
-    "첨부파일/Pasted image 20240806141754.png",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/9.7 Rate Limitter 패턴 적용하기.md",
-    "첨부파일/Pasted image 20240806141113.png",
-    "첨부파일/Pasted image 20240806140657.png",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/9.6 Retry 패턴 적용하기.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/9.5 Http Timeout 구성.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/9.1 서킷 브레이커 패턴.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/8.1 Spring Cloud Gateway.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/8.2 Gateway를 사용한 Logging.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/8.0 게이트웨이의 필요성.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/7.5 Client-side 디스커버리 및 로드밸런싱.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/7.3 유레카 클라이언트 설정.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/7.2 유레카 서버 프로젝트 생성.md",
-    "Java/apache benchmark.md",
-    "Excalidraw/Pinting 설계.md",
-    "첨부파일/Pasted image 20240805150644.png",
-    "첨부파일/Pasted image 20240805150506.png",
-    "Java/해결해야 함.md",
-    "첨부파일/Pasted image 20240802140036.png",
-    "첨부파일/Pasted image 20240802135529.png",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/1.1 프로젝트 생성.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/1.2 REST 서비스 구축을 지원하는 애노테이션 및 클래스.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/3.0 도커 이미지 생성.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/4.0 클라우드 네이티브 애플리케이션.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/5.5 Liveness와 Readiness.md",
-    "첨부파일/Pasted image 20240731164833.png",
+    "archive(non_fixed)/Transcendence/트센 소프트웨어 설계.md",
+    "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
+    "Java/ROI.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/16.0 HTTP로 작업하기.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/14.1 숫자 심화.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/13.0 고급 함수 개념.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/8.2 객체의 this.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/7.2 Maps & Sets.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/6.2 노드와 요소.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/6.3 속성과 프로퍼티.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/15.1 프로미스.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/15.0 비동기 javaScript 프로미스, 콜백.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/0. JavaScript 완벽 가이드.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/13.1 순수 함수와 비순수 함수.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/2-1. HTML 속성에 import 하기.md",
+    "Java/1. 스프링 입문/1.0 프로젝트 생성.md",
+    "Java/1. 스프링 입문/0. 스프링 입문.md",
+    "Java/0. Java 프로그래밍 완벽 정복/14.0 파일 IO.md",
+    "Java/0. Java 프로그래밍 완벽 정복/13.2 사용자 정의 예외.md",
+    "Java/0. Java 프로그래밍 완벽 정복/13.1 예외의 계층 관계.md",
+    "Java/0. Java 프로그래밍 완벽 정복/12.0 자바의 스레드와 동시성.md",
+    "Java/0. Java 프로그래밍 완벽 정복/12.1 스레드의 상태.md",
+    "Java/0. Java 프로그래밍 완벽 정복/15.1 Concurrent Collections.md",
+    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
+    "Java/0. Java 프로그래밍 완벽 정복/1.0 jshell이란?.md",
+    "Excalidraw/Java MSA.md",
+    "Excalidraw/Java Spring.md",
+    "첨부파일/Pasted image 20240809213443.png",
+    "첨부파일/Pasted image 20240808153637.png",
+    "첨부파일/Pasted Image 20240807153142_753.png",
+    "첨부파일/Pasted image 20240807151209.png",
+    "첨부파일/Pasted image 20240807151043.png",
+    "첨부파일/Pasted image 20240807144309.png",
+    "첨부파일/Pasted image 20240807143921.png",
+    "첨부파일(non_fixed)/Pasted Image 20240228192906_309.png",
+    "첨부파일(non_fixed)/Pasted Image 20240303173524_338.png",
+    "첨부파일(non_fixed)/Pasted Image 20240303174053_559.png",
     "Java/6. 스프링 클라우드 마이크로서비스/무제 폴더",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터",
     "Java/무제 폴더/무제 폴더",
@@ -266,7 +231,6 @@
     "Java/3. 스프링 부트와 JPA 활용",
     "기타",
     "Pinting",
-    "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
     "Transcendence/트센 캔버스.canvas",
     "무제 파일.canvas",
