@@ -124,6 +124,16 @@ detail: 변경사항을 넣어서 빌드를 했지만 시도한 모든 방법이
 - m1 에서는 amd64 플랫폼을 주석처리하고 돌리면 문제가 해결이된다.
 	- 근본적인 문제를 해결하기 위해서는 도커 이미지 빌드를 멀티 플랫폼을 지원하도록 하는 것이 좋을 것 같다.
 	- [[멀티 플랫폼에서 도커 이미지 빌드]]
+### Grafana loki gateway(Nginx) `docker-entrypoint.sh` not found 에러
+- latest는 해당 파일이 없다.
+	- 1.25.5 버전을 직접 지정해주어야 한다.
+	- 업데이트할 때 무엇이 바뀌었는지는 나중에 알아보자.
+### Grafana javaagent dependency 추가 에러
+- 공식 홈페이지에서는 dependency 정보를 제공하지 않는다.
+	- Maven repository에서 opentelemetry javaagent를 검색하여 찾아야한다.
+	- 어떤 레퍼런스에서 이 정보를 제공하는지 알아봐야 한다.
+	- 공식 홈페이지에서는 jar를 직접 받아서 이미지에 COPY해 넣는 것을 추천하고 있다.
+
 ---
 ### 생각(파생된 질문/생각)
 
