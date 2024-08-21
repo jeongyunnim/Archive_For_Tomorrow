@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85988ac8e7d6d2ee",
+        "id": "9c9b04854ce03fee",
         "type": "tabs",
         "children": [
           {
-            "id": "031d0852f2a1518d",
+            "id": "ea4faa8c9645abd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,84 +20,12 @@
             }
           },
           {
-            "id": "6a2c6178451c164d",
+            "id": "47e622988fac796d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.7 Grafana를 이용하여 경고와 알림 보내기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1991af3f40e2f8cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Pinting 개발 과정 발생한 에러.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c511b1bbad9c5737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Cloud Native Computing Foundation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "670ac839618db6ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.8 마이크로서비스의 분산 추적.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2185ca2ebab5645c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.5 데모에 Metric 추가.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a760c75005bbd6ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pinting/4.30 5차 스프린트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c024d96f18826281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/apache benchmark.md",
+                "file": "Java/11.2 OpenID Connect란.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tenant",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -171,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.7 Grafana를 이용하여 경고와 알림 보내기.md",
+                "file": "Java/11.2 OpenID Connect란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.7 Grafana를 이용하여 경고와 알림 보내기.md",
+                "file": "Java/11.2 OpenID Connect란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.7 Grafana를 이용하여 경고와 알림 보내기.md"
+                "file": "Java/11.2 OpenID Connect란.md"
               }
             }
           },
@@ -243,44 +172,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "47e622988fac796d",
   "lastOpenFiles": [
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
+    "Java/11.2 OpenID Connect란.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.1 마이크로서비스와 OAuth2.0.md",
+    "Java/apache benchmark.md",
+    "Pinting/4.30 5차 스프린트.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.5 데모에 Metric 추가.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.8 마이크로서비스의 분산 추적.md",
+    "Java/Cloud Native Computing Foundation.md",
+    "Java/Pinting 개발 과정 발생한 에러.md",
+    "작성 해야 함/OAuth 2.0.md",
+    "Java/DAO.md",
+    "Java/zipkin.md",
+    "Java/webflux.md",
+    "Java/Teach Yourself Programming in Ten Years.md",
+    "Java/Tenant.md",
+    "Java/obtional.md",
+    "Java/Metric.md",
+    "Java/bucket.md",
+    "Pinting/15회 (2024.08.16).md",
+    "첨부파일/Pasted image 20240816175944.png",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.9 분산 추적을 위한 OpenTelemetry 적용.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.0 마이크로서비스 보안.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.4 Metric과 모니터링.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.3 로깅 데모.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.2 로그 관리 툴 - Grafana, Loki, Promtail.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.7 Grafana를 이용하여 경고와 알림 보내기.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.6 grafana 대시보드 데모.md",
     "첨부파일/Pasted image 20240813180149.png",
     "첨부파일/Pasted image 20240813175930.png",
     "첨부파일/Pasted image 20240813174944.png",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
-    "Java/Pinting 개발 과정 발생한 에러.md",
     "첨부파일/Pasted image 20240813142130.png",
-    "Java/Cloud Native Computing Foundation.md",
     "첨부파일/Pasted image 20240813013807.png",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.8 마이크로서비스의 분산 추적.md",
     "첨부파일/Pasted image 20240813011824.png",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.7 Grafana를 이용하여 경고와 알림 보내기.md",
     "첨부파일/Pasted image 20240813002547.png",
     "첨부파일/Pasted image 20240813001937.png",
     "첨부파일/Pasted image 20240813001818.png",
-    "첨부파일/Pasted image 20240813001525.png",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.6 grafana 대시보드 데모.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.5 데모에 Metric 추가.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.4 Metric과 모니터링.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.3 로깅 데모.md",
-    "Excalidraw/Pinting 설계.md",
-    "archive(non_fixed)/inception/database/mysql doc 정리/mysql data 디렉토리.md",
-    "archive(non_fixed)/inception/database/mysql doc 정리/information_schema.md",
-    "archive(non_fixed)/inception/database/mysql 설정 쉘 스크립트 설명.md",
-    "archive(non_fixed)/inception/database/mysql 기본 database.md",
-    "archive(non_fixed)/inception/database/mariadb 에러.md",
-    "archive(non_fixed)/Transcendence/트센 소프트웨어 설계.md",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
-    "Java/ROI.md",
-    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/16.0 HTTP로 작업하기.md",
-    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/14.1 숫자 심화.md",
-    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/13.0 고급 함수 개념.md",
-    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/8.2 객체의 this.md",
-    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/7.2 Maps & Sets.md",
-    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/6.2 노드와 요소.md",
-    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/6.3 속성과 프로퍼티.md",
     "Java/6. 스프링 클라우드 마이크로서비스/무제 폴더",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터",
     "Java/무제 폴더/무제 폴더",
