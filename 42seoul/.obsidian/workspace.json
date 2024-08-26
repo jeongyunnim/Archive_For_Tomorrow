@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3ea2e22cef8a7f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "609ec0dcfc7d8259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Java/11.5 KeyCloak을 이용하여 인증 서버 설정하기.md",
                 "mode": "source",
                 "source": false
@@ -44,53 +20,19 @@
             }
           },
           {
-            "id": "91150b2064d7ed8e",
+            "id": "82a7e0ab2db8a23d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.4 클라이언트 자격 증명 흐름.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb482bac6048e63e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Java MSA.md"
-              }
-            }
-          },
-          {
-            "id": "d857d34bfbfbe090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.3 KeyCloak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47e622988fac796d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.2 OpenID Connect란.md",
+                "file": "Java/11.6 리소스 서버로서의 게이트웨이 보안.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -157,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/11.5 KeyCloak을 이용하여 인증 서버 설정하기.md",
+                "file": "Java/11.6 리소스 서버로서의 게이트웨이 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/11.5 KeyCloak을 이용하여 인증 서버 설정하기.md",
+                "file": "Java/11.6 리소스 서버로서의 게이트웨이 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/11.5 KeyCloak을 이용하여 인증 서버 설정하기.md"
+                "file": "Java/11.6 리소스 서버로서의 게이트웨이 보안.md"
               }
             }
           },
@@ -229,22 +172,25 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "609ec0dcfc7d8259",
+  "active": "82a7e0ab2db8a23d",
   "lastOpenFiles": [
+    "Java/11.5 KeyCloak을 이용하여 인증 서버 설정하기.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
+    "Java/11.6 리소스 서버로서의 게이트웨이 보안.md",
+    "첨부파일/Pasted image 20240826205802.png",
+    "Excalidraw/Java MSA.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.4 클라이언트 자격 증명 흐름.md",
+    "Excalidraw(non_fixed)/JavaScript.excalidraw.md",
     "첨부파일/Pasted image 20240822180803.png",
     "첨부파일/Pasted image 20240822174305.png",
     "첨부파일/Pasted image 20240822174132.png",
     "첨부파일/Pasted image 20240822173719.png",
     "첨부파일/Pasted image 20240822173557.png",
-    "Java/11.5 KeyCloak을 이용하여 인증 서버 설정하기.md",
     "첨부파일/Pasted image 20240822173127.png",
     "첨부파일/Pasted image 20240822171737.png",
     "첨부파일/Pasted image 20240822171510.png",
     "첨부파일/Pasted image 20240822162944.png",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.4 클라이언트 자격 증명 흐름.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.2 OpenID Connect란.md",
-    "Excalidraw/Java MSA.md",
     "Excalidraw/Java Spring.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.3 KeyCloak.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.1 마이크로서비스와 OAuth2.0.md",
@@ -263,10 +209,6 @@
     "Java/obtional.md",
     "Java/Metric.md",
     "Java/bucket.md",
-    "Pinting/15회 (2024.08.16).md",
-    "첨부파일/Pasted image 20240816175944.png",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.9 분산 추적을 위한 OpenTelemetry 적용.md",
-    "첨부파일/Pasted image 20240813180149.png",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Java/6. 스프링 클라우드 마이크로서비스/무제 폴더",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터",
