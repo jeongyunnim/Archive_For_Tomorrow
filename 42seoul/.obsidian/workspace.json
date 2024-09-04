@@ -8,31 +8,62 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea4faa8c9645abd2",
+            "id": "81653ba0f6252eb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/11.5 KeyCloak을 이용하여 인증 서버 설정하기.md",
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.3 Spring Cloud Stream.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82a7e0ab2db8a23d",
+            "id": "d877e5a21a3f501a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Java MSA.md"
+              }
+            }
+          },
+          {
+            "id": "77799141840bb45d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/11.6 리소스 서버로서의 게이트웨이 보안.md",
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.0 Event-driven 마이크로서비스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7ce6299bca61694",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Java MSA.md"
+              }
+            }
+          },
+          {
+            "id": "a107d1658461222d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pinting/16회 ( 2024.08.26).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -100,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/11.6 리소스 서버로서의 게이트웨이 보안.md",
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.3 Spring Cloud Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/11.6 리소스 서버로서의 게이트웨이 보안.md",
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.3 Spring Cloud Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/11.6 리소스 서버로서의 게이트웨이 보안.md"
+                "file": "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.3 Spring Cloud Stream.md"
               }
             }
           },
@@ -172,24 +202,34 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "82a7e0ab2db8a23d",
+  "active": "81653ba0f6252eb4",
   "lastOpenFiles": [
-    "Java/11.5 KeyCloak을 이용하여 인증 서버 설정하기.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
-    "Java/11.6 리소스 서버로서의 게이트웨이 보안.md",
-    "첨부파일/Pasted image 20240826205802.png",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.1 publisher subscriber model 구현과 RabbitMQ.md",
     "Excalidraw/Java MSA.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.3 Spring Cloud Stream.md",
+    "첨부파일/Pasted image 20240904234950.png",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/0. 스프링 클라우드 마이크로서비스 (유데미).md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.6 리소스 서버로서의 게이트웨이 보안.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.7 Authorization code grant flow.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.5 KeyCloak을 이용하여 인증 서버 설정하기.md",
+    "첨부파일/Pasted image 20240904232517.png",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.2 Spring Cloud Function.md",
+    "첨부파일/Pasted image 20240904230027.png",
+    "첨부파일/Pasted image 20240904225443.png",
+    "첨부파일/Pasted image 20240901000033.png",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.0 Event-driven 마이크로서비스.md",
+    "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.8 마이크로서비스 보안 컨테이너에 적용하기.md",
+    "Java/경로가 다른 env 파일과 compose 연결.md",
+    "Java/데이터 정규화.md",
+    "첨부파일/Pasted image 20240831224843.png",
+    "첨부파일/Pasted image 20240828174850.png",
+    "첨부파일/Pasted image 20240828172313.png",
+    "첨부파일/Pasted image 20240828172214.png",
+    "첨부파일/Pasted image 20240828171941.png",
+    "Java/KeyCloak가 발급한 JWT 뜯어보기.md",
+    "Pinting/16회 ( 2024.08.26).md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.4 클라이언트 자격 증명 흐름.md",
     "Excalidraw(non_fixed)/JavaScript.excalidraw.md",
-    "첨부파일/Pasted image 20240822180803.png",
-    "첨부파일/Pasted image 20240822174305.png",
-    "첨부파일/Pasted image 20240822174132.png",
-    "첨부파일/Pasted image 20240822173719.png",
-    "첨부파일/Pasted image 20240822173557.png",
-    "첨부파일/Pasted image 20240822173127.png",
-    "첨부파일/Pasted image 20240822171737.png",
-    "첨부파일/Pasted image 20240822171510.png",
-    "첨부파일/Pasted image 20240822162944.png",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.2 OpenID Connect란.md",
     "Excalidraw/Java Spring.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.3 KeyCloak.md",
@@ -199,16 +239,6 @@
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.5 데모에 Metric 추가.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/10.8 마이크로서비스의 분산 추적.md",
     "Java/Cloud Native Computing Foundation.md",
-    "Java/Pinting 개발 과정 발생한 에러.md",
-    "작성 해야 함/OAuth 2.0.md",
-    "Java/DAO.md",
-    "Java/zipkin.md",
-    "Java/webflux.md",
-    "Java/Teach Yourself Programming in Ten Years.md",
-    "Java/Tenant.md",
-    "Java/obtional.md",
-    "Java/Metric.md",
-    "Java/bucket.md",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Java/6. 스프링 클라우드 마이크로서비스/무제 폴더",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터",
