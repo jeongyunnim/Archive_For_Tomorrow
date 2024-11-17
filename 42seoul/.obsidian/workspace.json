@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "17c53f7d8a97dd20",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SQL.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "SQL"
+            }
+          },
+          {
             "id": "4a5b7414e251e3b1",
             "type": "leaf",
             "state": {
@@ -107,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -207,9 +220,17 @@
   },
   "active": "3f679afd44f99d98",
   "lastOpenFiles": [
+    "Excalidraw/SQL.md",
+    "첨부파일/Pasted Image 20241116205133_303.png",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/4. JOINS.md",
+    "첨부파일/Pasted Image 20241116204237_075.png",
+    "첨부파일/Pasted image 20241116203515.png",
+    "첨부파일/Pasted Image 20241116202855_502.png",
+    "첨부파일/Pasted Image 20241116184902_039.png",
+    "첨부파일/Pasted Image 20241116184715_852.png",
+    "Java/무제 파일 3.md",
     "첨부파일/Pasted image 20241116024552.png",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/3. 평가시험1.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/4. JOINS.md",
     "Java/무제 파일 2.md",
     "첨부파일/Pasted image 20241113191838.png",
     "첨부파일/Pasted image 20241113191454.png",
@@ -217,14 +238,7 @@
     "첨부파일/Pasted image 20241113191142.png",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/2. GROUP BY.md",
     "Java/무제 파일 1.md",
-    "첨부파일/Pasted image 20241113190847.png",
-    "첨부파일/Pasted image 20241113190416.png",
-    "첨부파일/Pasted image 20241113184634.png",
-    "첨부파일/Pasted image 20241113015146.png",
-    "첨부파일/Pasted image 20241113014806.png",
-    "첨부파일/Pasted image 20241113014227.png",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/0. 데이터 역량 강화를 위한 SQL 부트캠프.md",
-    "첨부파일/Pasted image 20241113013632.png",
     "Java/jib을 쓰느냐, Dockerfile을 작성하느냐.md",
     "Java/0. Java 프로그래밍 완벽 정복/3.0 자바 플랫폼.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/3.0 도커 이미지 생성.md",
@@ -242,8 +256,6 @@
     "template/스프링 클라우드 MSA(유데미).md",
     "template/스프링 부트와 JPA 활용1.md",
     "template/자바 ORM 표준 JPA 프로그래밍 - 기본편.md",
-    "template/Pinting 회의록 템플릿.md",
-    "template/Zettelkasten.md",
     "database",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Java/6. 스프링 클라우드 마이크로서비스/무제 폴더",
