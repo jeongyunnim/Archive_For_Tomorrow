@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -220,9 +219,12 @@
   },
   "active": "3f679afd44f99d98",
   "lastOpenFiles": [
+    "첨부파일/Pasted image 20241118220524.png",
+    "첨부파일/Pasted image 20241118215331.png",
     "Excalidraw/SQL.md",
-    "첨부파일/Pasted Image 20241116205133_303.png",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/4. JOINS.md",
+    "첨부파일/Pasted Image 20241118021201_501.png",
+    "첨부파일/Pasted Image 20241116205133_303.png",
     "첨부파일/Pasted Image 20241116204237_075.png",
     "첨부파일/Pasted image 20241116203515.png",
     "첨부파일/Pasted Image 20241116202855_502.png",
@@ -233,9 +235,7 @@
     "database/데이터 역량 강화를 위한 SQL 부트캠프/3. 평가시험1.md",
     "Java/무제 파일 2.md",
     "첨부파일/Pasted image 20241113191838.png",
-    "첨부파일/Pasted image 20241113191454.png",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/1. SQL 기본 문법.md",
-    "첨부파일/Pasted image 20241113191142.png",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/2. GROUP BY.md",
     "Java/무제 파일 1.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/0. 데이터 역량 강화를 위한 SQL 부트캠프.md",
