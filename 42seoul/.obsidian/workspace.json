@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1f0d75c562c5618b",
+        "id": "2ac965a69569091b",
         "type": "tabs",
         "children": [
           {
-            "id": "4c15116084a5a813",
+            "id": "0bfe660ece662d05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
+                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/3.0 평가시험 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.0 JPA 시작하기"
-            }
-          },
-          {
-            "id": "3f679afd44f99d98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/4. JOINS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. JOINS"
-            }
-          },
-          {
-            "id": "17c53f7d8a97dd20",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/SQL.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "SQL"
-            }
-          },
-          {
-            "id": "4a5b7414e251e3b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.1 플러시.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.1 플러시"
+              "title": "3.0 평가시험 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,45 +176,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3f679afd44f99d98",
+  "active": "0bfe660ece662d05",
   "lastOpenFiles": [
-    "첨부파일/Pasted image 20241118220524.png",
-    "첨부파일/Pasted image 20241118215331.png",
-    "Excalidraw/SQL.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/4. JOINS.md",
-    "첨부파일/Pasted Image 20241118021201_501.png",
-    "첨부파일/Pasted Image 20241116205133_303.png",
-    "첨부파일/Pasted Image 20241116204237_075.png",
-    "첨부파일/Pasted image 20241116203515.png",
-    "첨부파일/Pasted Image 20241116202855_502.png",
-    "첨부파일/Pasted Image 20241116184902_039.png",
-    "첨부파일/Pasted Image 20241116184715_852.png",
-    "Java/무제 파일 3.md",
-    "첨부파일/Pasted image 20241116024552.png",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/3. 평가시험1.md",
-    "Java/무제 파일 2.md",
-    "첨부파일/Pasted image 20241113191838.png",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/1. SQL 기본 문법.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/2. GROUP BY.md",
-    "Java/무제 파일 1.md",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/6. 평가 시험 2.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/0. 데이터 역량 강화를 위한 SQL 부트캠프.md",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/5.3 셀프 조인.md",
+    "첨부파일/Pasted image 20241120002216.png",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/5.2 서브쿼리.md",
+    "Day Planners/2024-07-31.md",
+    "Day Planners/2024-06-02.md",
+    "Day Planners/2024-05-16.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.1 플러시.md",
+    "Excalidraw/SQL.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
+    "첨부파일/Pasted image 20241119234319.png",
+    "첨부파일/Pasted image 20241119233646.png",
+    "첨부파일/Pasted image 20241119233013.png",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/5.1 수학, 문자열 함수와 연산자.md",
+    "첨부파일/Pasted image 20241119230910.png",
+    "첨부파일/Pasted image 20241119230616.png",
+    "첨부파일/Pasted image 20241119225859.png",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/1.0 SQL 기본 문법.md",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/5.0 고급 SQL 명령.md",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/4.0 JOINS.md",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/3.0 평가시험 1.md",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/2.0 GROUP BY.md",
+    "첨부파일/Pasted image 20241119222652.png",
+    "Excalidraw/Pinting 설계.md",
+    "첨부파일/Pasted image 20241119220405.png",
+    "첨부파일/Pasted image 20241119213401.png",
+    "Java/무제 파일 3.md",
+    "Java/무제 파일 2.md",
+    "Java/무제 파일 1.md",
     "Java/jib을 쓰느냐, Dockerfile을 작성하느냐.md",
     "Java/0. Java 프로그래밍 완벽 정복/3.0 자바 플랫폼.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/3.0 도커 이미지 생성.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.3 Spring Cloud Stream.md",
     "Excalidraw/Java Spring.md",
     "Java/Pinting 개발 과정 발생한 에러.md",
-    "Java/0. Java 프로그래밍 완벽 정복/3.1 JDK vs JRE vs JVM.md",
-    "Java/무제 파일.md",
-    "Java/0. Java 프로그래밍 완벽 정복/1.1 콘솔 출력.md",
-    "Java/0. Java 프로그래밍 완벽 정복/1.0 jshell이란?.md",
-    "Java/0. Java 프로그래밍 완벽 정복/0.  Java 프로그래밍 완벽 정복.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.1 플러시.md",
-    "template/데이터 역량 강화를 위한 SQL 부트캠프 template.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프",
-    "template/스프링 클라우드 MSA(유데미).md",
-    "template/스프링 부트와 JPA 활용1.md",
-    "template/자바 ORM 표준 JPA 프로그래밍 - 기본편.md",
     "database",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Java/6. 스프링 클라우드 마이크로서비스/무제 폴더",
