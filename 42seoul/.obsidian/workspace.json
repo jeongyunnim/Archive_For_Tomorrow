@@ -125,16 +125,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/9.0 조건식과 프로시저.md",
+                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/9.1 CASE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.0 조건식과 프로시저"
+              "title": "9.1 CASE"
+            }
+          },
+          {
+            "id": "ef3b55572cba4d7e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -289,10 +301,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "ef3b55572cba4d7e",
   "lastOpenFiles": [
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.1 CASE.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/9.0 조건식과 프로시저.md",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.1 CASE.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/0. 데이터 역량 강화를 위한 SQL 부트캠프.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/8.0 평가 시험 3.md",
     "첨부파일/Pasted image 20241123010257.png",
