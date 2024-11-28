@@ -8,105 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51e2c6d5fe8e2407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/7.0 데이터베이스와 테이블 생성하기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.0 데이터베이스와 테이블 생성하기"
-            }
-          },
-          {
             "id": "feb8d66f5efd4eea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/7.0 데이터베이스와 테이블 생성하기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.0 데이터베이스와 테이블 생성하기"
-            }
-          },
-          {
-            "id": "653c7745de1fd5b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/7.0 데이터베이스와 테이블 생성하기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.0 데이터베이스와 테이블 생성하기"
-            }
-          },
-          {
-            "id": "1c1ecc940576bacf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/7.0 데이터베이스와 테이블 생성하기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.0 데이터베이스와 테이블 생성하기"
-            }
-          },
-          {
-            "id": "2b3143226fa4a780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/7.0 데이터베이스와 테이블 생성하기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.0 데이터베이스와 테이블 생성하기"
-            }
-          },
-          {
-            "id": "42effeacdb4b5420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/0. 데이터 역량 강화를 위한 SQL 부트캠프.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. 데이터 역량 강화를 위한 SQL 부트캠프"
-            }
-          },
-          {
-            "id": "8dd85d3d817b0d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/0. 데이터 역량 강화를 위한 SQL 부트캠프.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. 데이터 역량 강화를 위한 SQL 부트캠프"
-            }
-          },
-          {
-            "id": "b05c8924083e06e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,33 +22,21 @@
             }
           },
           {
-            "id": "5c98456eb3b18434",
+            "id": "fa342bc8f7fb9174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/9.1 CASE.md",
+                "file": "Java/9.2 COALESCE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.1 CASE"
-            }
-          },
-          {
-            "id": "ef3b55572cba4d7e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "9.2 COALESCE"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -301,11 +192,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ef3b55572cba4d7e",
+  "active": "fa342bc8f7fb9174",
   "lastOpenFiles": [
     "database/데이터 역량 강화를 위한 SQL 부트캠프/9.0 조건식과 프로시저.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.1 CASE.md",
+    "Java/9.2 COALESCE.md",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.0 데이터베이스와 테이블 생성하기.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/0. 데이터 역량 강화를 위한 SQL 부트캠프.md",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.1 CASE.md",
+    "첨부파일/Pasted image 20241128171556.png",
+    "첨부파일/Pasted image 20241128170845.png",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/8.0 평가 시험 3.md",
     "첨부파일/Pasted image 20241123010257.png",
     "첨부파일/Pasted image 20241123010214.png",
@@ -318,9 +213,6 @@
     "첨부파일/Pasted image 20241122231600.png",
     "첨부파일/Pasted image 20241122230357.png",
     "첨부파일/Pasted image 20241122230223.png",
-    "첨부파일/Pasted image 20241122230143.png",
-    "첨부파일/Pasted image 20241122225632.png",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.0 데이터베이스와 테이블 생성하기.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/7.7 DELETE.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/7.6 UPDATE.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/7.5 INSERT.md",
@@ -338,7 +230,6 @@
     "database/데이터 역량 강화를 위한 SQL 부트캠프/7.2 Primary Key 와 Foreign key.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/6.0 평가 시험 2.md",
     "Day Planners/2024-11-21.md",
-    "Day Planners/2024-11-20.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프",
     "database",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
