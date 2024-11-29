@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "feb8d66f5efd4eea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/9.0 조건식과 프로시저.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9.0 조건식과 프로시저"
-            }
-          },
-          {
             "id": "96c6bdeedbeedab5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/데이터 역량 강화를 위한 SQL 부트캠프/9.0 조건식과 프로시저.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/2.0 JPA 시작하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.0 조건식과 프로시저"
+              "title": "2.0 JPA 시작하기"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "9.2 COALESCE"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,41 +192,42 @@
   },
   "active": "96c6bdeedbeedab5",
   "lastOpenFiles": [
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/8.0 평가 시험 3.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.5 Views.md",
+    "첨부파일/Pasted image 20241129180155.png",
+    "Pinting/PostgreSQL 컨테이너와 PGadmin 연결.md",
+    "첨부파일/Pasted image 20241129171928.png",
+    "첨부파일/Pasted image 20241129171835.png",
+    "첨부파일/Pasted image 20241129171518.png",
+    "Pinting/Pinting 개발 과정 발생한 에러.md",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.0 조건식과 프로시저.md",
+    "archive(non_fixed)/Transcendence/Rendering on the Web.md",
+    "archive(non_fixed)/inception/database/mariadb 에러.md",
+    "archive(non_fixed)/inception/Inception.md",
+    "archive(non_fixed)/inception/HAProxy.md",
+    "archive(non_fixed)/inception/SaaS.md",
+    "archive(non_fixed)/inception/PGID, 프로세스 그룹 아이디.md",
+    "archive(non_fixed)/inception/RSA 인증서와 전자서명의 원리.md",
+    "archive(non_fixed)/inception/OpenSSL.md",
+    "archive(non_fixed)/inception/NGINX 쿡북.md",
+    "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
+    "archive(non_fixed)/inception/컨테이너 환경을 위한 초기화 시스템.md",
+    "archive(non_fixed)/inception/<Inception> Error log.md",
+    "archive(non_fixed)/inception/도커/컨테이너 오케스트레이션.md",
+    "archive(non_fixed)/inception/도커/chroot.md",
+    "archive(non_fixed)/inception/도커/pull_policy.md",
+    "archive(non_fixed)/inception/도커/namespace.md",
+    "archive(non_fixed)/inception/도커/2. docker-compose WordPress 세팅.md",
+    "archive(non_fixed)/inception/도커/도커엔진.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/6.0 실전에 활용 가능한 컨테이너 사용법.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.2 워드프레스 및 MySQL 컨테이너 생성과 연동.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.1 워드프레스 구축.md",
+    "archive(non_fixed)/inception/도커/그림과 실습으로 배우는 도커&쿠버네티스/5.0 여러 개의 컨테이너를 연동해 실행해보자.md",
     "첨부파일/Pasted image 20241129015154.png",
     "첨부파일/Pasted image 20241129015053.png",
     "첨부파일/Pasted image 20241129014829.png",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.0 조건식과 프로시저.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.4 NULLIF.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.10 CHECK 제약 조건.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.8 ALTER Table.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.2 COALESCE.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.3 CAST.md",
-    "Java/경로가 다른 env 파일과 compose 연결.md",
     "첨부파일/Pasted image 20241129013805.png",
     "첨부파일/Pasted image 20241129005231.png",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.0 데이터베이스와 테이블 생성하기.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/0. 데이터 역량 강화를 위한 SQL 부트캠프.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.1 CASE.md",
     "첨부파일/Pasted image 20241128171556.png",
     "첨부파일/Pasted image 20241128170845.png",
-    "첨부파일/Pasted image 20241123010257.png",
-    "첨부파일/Pasted image 20241123010214.png",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.9 DROP.md",
-    "첨부파일/Pasted image 20241122232748.png",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.7 DELETE.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.6 UPDATE.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.5 INSERT.md",
-    "Java/무제 파일 2.md",
-    "Java/무제 파일 3.md",
-    "Java/무제 파일 1.md",
-    "Java/무제 파일.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.4 테이블 생성하기.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.3 제약 조건.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.1 데이터 유형.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/5.3 셀프 조인.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/5.2 서브쿼리.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프",
     "database",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
