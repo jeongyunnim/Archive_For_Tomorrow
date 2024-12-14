@@ -8,63 +8,103 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa342bc8f7fb9174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터베이스 엔지니어링 마스터/0. 데이터베이스 엔지니어링 마스터.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. 데이터베이스 엔지니어링 마스터"
-            }
-          },
-          {
-            "id": "ba924f754fec946c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터베이스 엔지니어링 마스터/0. 데이터베이스 엔지니어링 마스터.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. 데이터베이스 엔지니어링 마스터"
-            }
-          },
-          {
-            "id": "282ab0a0be8a9285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/데이터베이스 엔지니어링 마스터/0. 데이터베이스 엔지니어링 마스터.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. 데이터베이스 엔지니어링 마스터"
-            }
-          },
-          {
             "id": "51834da959e43f47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/데이터베이스 엔지니어링 마스터/1.2 Atomicity 원자성.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Atomicity 원자성"
+              "title": "0. 자바 ORM 표준 JPA 프로그래밍"
+            }
+          },
+          {
+            "id": "8e66d08614a98af3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Java JPA.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Java JPA"
+            }
+          },
+          {
+            "id": "05ebaeef7ee4d01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. 자바 ORM 표준 JPA 프로그래밍"
+            }
+          },
+          {
+            "id": "5950eb29bb5d4f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. 자바 ORM 표준 JPA 프로그래밍"
+            }
+          },
+          {
+            "id": "35e88b20d9531a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. 자바 ORM 표준 JPA 프로그래밍"
+            }
+          },
+          {
+            "id": "92e8bb3875f16f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/6.3 일대일 1n1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.3 일대일 1n1"
+            }
+          },
+          {
+            "id": "7564b56919dbb360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.0 JPA의 다양한 쿼리 방법.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.0 JPA의 다양한 쿼리 방법"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -219,45 +259,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a69cded141b28ffc",
+  "active": "92e8bb3875f16f2e",
   "lastOpenFiles": [
-    "database/데이터베이스 엔지니어링 마스터/0. 데이터베이스 엔지니어링 마스터.md",
-    "database/데이터베이스 엔지니어링 마스터/1.2 Atomicity 원자성.md",
-    "database/데이터베이스 엔지니어링 마스터/1.1 트랜잭션이란?.md",
-    "database/데이터베이스 엔지니어링 마스터/1.0 ACID란?.md",
-    "template/데이터 엔지니어링 마스터.md",
-    "template/Zettelkasten.md",
-    "template/데이터 역량 강화를 위한 SQL 부트캠프 template.md",
-    "template/Daily Note Template.md",
-    "template/Pinting 회의록 템플릿.md",
-    "template/자바 ORM 표준 JPA 프로그래밍 - 기본편.md",
-    "template/스프링 클라우드 MSA(유데미).md",
-    "template/스프링 부트와 JPA 활용1.md",
-    "Pinting/2차 백엔드 회의(2024.12.10).md",
-    "database/데이터베이스 엔지니어링 마스터",
-    "첨부파일/Pasted image 20241210210131.png",
-    "Pinting/1차 백엔드 회의(2024.09.22).md",
-    "Pinting/19회 ( 2024.10.30).md",
-    "Pinting/8회 스프린트.md",
-    "Pinting/5.16 7차 스프린트.md",
-    "Pinting/4.30 5차 스프린트.md",
-    "Day Planners/2024-12-04.md",
-    "database/데이터 역량 강화를 위한 SQL 부트캠프/9.2 COALESCE.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/5.0 객체지향 모델링 - 단방향 연관관계.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/4.3 요구사항 분석.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/4.2 기본 키 매핑.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/4.1 필드와 컬럼 매핑.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/4.0 객체와 테이블 매핑.md",
-    "첨부파일/Pasted image 20241129180155.png",
-    "첨부파일/Pasted image 20241129171928.png",
-    "첨부파일/Pasted image 20241129171835.png",
-    "첨부파일/Pasted image 20241129171518.png",
-    "첨부파일/Pasted image 20241129015154.png",
+    "Java/6.3 일대일 1n1.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/6.2 일대다 1nN.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/6.1 다대일 Nn1.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/6.0 다양한 연관관계 매핑.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.0 JPA의 다양한 쿼리 방법.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/5.0 객체지향 모델링 - 단방향 연관관계.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/5.1 양방향 연관관계와 연관관계의 주인.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/5.2 실전 예제 - 연관관계 매핑.md",
+    "database/데이터 역량 강화를 위한 SQL 부트캠프/7.6 UPDATE.md",
+    "Excalidraw/Java JPA.md",
+    "첨부파일/Pasted Image 20241214182000_498.png",
+    "첨부파일/Pasted Image 20241214181346_954.png",
+    "Excalidraw/Java MSA.md",
+    "template/자바 ORM 표준 JPA 프로그래밍 - 기본편.md",
+    "첨부파일/Pasted Image 20241214164648_416.png",
+    "database/데이터베이스 엔지니어링 마스터/0. 데이터베이스 엔지니어링 마스터.md",
     "첨부파일/Pasted image 20241129015053.png",
-    "첨부파일/Pasted image 20241129014829.png",
-    "첨부파일/Pasted image 20241129013805.png",
-    "첨부파일/Pasted image 20241129005231.png",
+    "첨부파일/Pasted image 20241129171518.png",
+    "첨부파일/Pasted image 20241129171835.png",
+    "첨부파일/Pasted image 20241129171928.png",
+    "첨부파일/Pasted image 20241129180155.png",
+    "첨부파일/Pasted image 20241210210131.png",
+    "첨부파일/Pasted image 20241214164229.png",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.5 JPQL 문법 - 타입 표현과 기타식.md",
+    "Pinting/디스코드 봇 만든 과정.md",
+    "template/스프링 부트와 JPA 활용1.md",
+    "Java/경로가 다른 env 파일과 compose 연결.md",
+    "Java/데이터 정규화.md",
+    "Java/멀티 테넌시.md",
+    "Java/멀티 플랫폼에서 도커 이미지 빌드.md",
+    "Java/데이터베이스 JOIN.md",
+    "Java/스프링 부트를 왜 쓰는가?.md",
+    "Java/중간 연산 boxed().md",
+    "Java/추상클래스와 인터페이스의 명확한 차이?.md",
+    "Java/API 문서를 어떻게 작성할 것인가?.md",
+    "database/데이터베이스 엔지니어링 마스터",
     "database/데이터 역량 강화를 위한 SQL 부트캠프",
     "database",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",

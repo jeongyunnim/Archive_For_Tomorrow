@@ -239,14 +239,20 @@ UPDATE A ^id4UjSr3
 
 DB 모델 ^aXOVRaYp
 
+[다대일 단방향 연관관계] ^zlEU202x
+
+[다대일 양방향 연관관계] ^OkiqfcaO
+
 
 # Embedded files
-0071e807b0340aa2c620516fb1d103e39cc5397e: [[Pasted Image 20240623162757_230.png]]
 41e59151a881a1fd676f43bff2eb290123649062: [[Pasted Image 20240623174642_737.png]]
 83dc612be2f19cd4115fa7cfe58d3b762224472f: [[Pasted Image 20240623181032_005.png]]
 ae94bf8172e242bc80e0500d13d44347333ab36f: [[Pasted Image 20240623194525_065.png]]
 22ffe71f13ff714804dd11e64b9dc07f4bff9663: [[Pasted Image 20240624172206_330.png]]
 dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]]
+a287d814662295503c862e61e04a51393efc385e: [[Pasted Image 20241214164648_416.png]]
+c5cc3520821c6d4bff47c4ff9e570fa92c614820: [[Pasted Image 20241214181346_954.png]]
+acf5bee49f109e9024eaa65368736d02b35cbafa: [[Pasted Image 20241214182000_498.png]]
 
 %%
 # Drawing
@@ -291,7 +297,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "JPA 구동방식",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -364,7 +370,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "GqxSijp4CufJGzBIqa7bO",
 			"originalText": "Persistence",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -441,7 +447,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "HvS_A-KN-arkmIlGb01T8",
 			"originalText": "META-INF/\npersistence.xml",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -518,7 +524,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "Qk8zINgEIqFq9c8CJclSu",
 			"originalText": "EntitymanagerFactory",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -597,7 +603,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "_3jACxc7Frc9UwbocWHMC",
 			"originalText": "Entitymanager",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -672,7 +678,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "CVzeiWxtfruB5twyiKjrL",
 			"originalText": "Entitymanager",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -747,12 +753,12 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "rlBKy4c08XQCUwFTBhIUD",
 			"originalText": "Entitymanager",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 137,
-			"versionNonce": 723473501,
+			"version": 144,
+			"versionNonce": 1566944769,
 			"isDeleted": false,
 			"id": "kTo_uhWx7VwL76cWstsre",
 			"fillStyle": "solid",
@@ -781,7 +787,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 					"id": "kx0BURG6"
 				}
 			],
-			"updated": 1719217393500,
+			"updated": 1734168006743,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -841,12 +847,12 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "kTo_uhWx7VwL76cWstsre",
 			"originalText": "1.설정 정보 조회",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 145,
-			"versionNonce": 410282995,
+			"version": 152,
+			"versionNonce": 1469378191,
 			"isDeleted": false,
 			"id": "ozcocSU8-RICexTAhtAPj",
 			"fillStyle": "solid",
@@ -875,7 +881,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 					"id": "ARHQbQGH"
 				}
 			],
-			"updated": 1719217393502,
+			"updated": 1734168006746,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -935,12 +941,12 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "ozcocSU8-RICexTAhtAPj",
 			"originalText": "2.생성",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
-			"version": 159,
-			"versionNonce": 676249789,
+			"version": 166,
+			"versionNonce": 1264731617,
 			"isDeleted": false,
 			"id": "XmiyKoiMazsSLZO7PK_I5",
 			"fillStyle": "solid",
@@ -969,7 +975,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 					"id": "HouOghJF"
 				}
 			],
-			"updated": 1719217393503,
+			"updated": 1734168006749,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1029,7 +1035,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "XmiyKoiMazsSLZO7PK_I5",
 			"originalText": "3.생성",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1068,7 +1074,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
@@ -1307,7 +1313,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "웹 어플리케이션",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1346,7 +1352,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "User",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
@@ -1594,7 +1600,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "rLf3-tPl9YBSjGEoBB1fA",
 			"originalText": "EntityManager1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
@@ -1677,7 +1683,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "20Fsp5ygi4t6xnsSPKHLj",
 			"originalText": "EntityManager2",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
@@ -1752,7 +1758,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "qnn8oO99CUG30SSdXs7TA",
 			"originalText": "EntityManager\nFactory",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -1822,12 +1828,12 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "커넥션 풀",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 149,
-			"versionNonce": 1502115219,
+			"version": 156,
+			"versionNonce": 1194738863,
 			"isDeleted": false,
 			"id": "Yukswmt5Etjt73CZxDF_p",
 			"fillStyle": "solid",
@@ -1851,7 +1857,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1719217393506,
+			"updated": 1734168006753,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1876,8 +1882,8 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 		},
 		{
 			"type": "arrow",
-			"version": 195,
-			"versionNonce": 965845277,
+			"version": 202,
+			"versionNonce": 566288833,
 			"isDeleted": false,
 			"id": "SijVwBZarhIs9n2WShEeV",
 			"fillStyle": "solid",
@@ -1901,7 +1907,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1719217393507,
+			"updated": 1734168006754,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1961,7 +1967,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "생성",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -2000,7 +2006,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "생성",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2075,7 +2081,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "dK_WAwV5EST1_NPVjvOpO",
 			"originalText": "conn",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2150,7 +2156,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "LMZKM41YVRW0dP3n2MzRn",
 			"originalText": "conn",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2229,7 +2235,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "3Zvv5gVhCYg38fIJs_pcs",
 			"originalText": "conn",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
@@ -2458,7 +2464,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -2554,8 +2560,8 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 		},
 		{
 			"type": "arrow",
-			"version": 256,
-			"versionNonce": 1139260893,
+			"version": 284,
+			"versionNonce": 1815225729,
 			"isDeleted": false,
 			"id": "71DeGR-Eh5izDk4O0Q8j-",
 			"fillStyle": "solid",
@@ -2577,7 +2583,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719217393510,
+			"updated": 1734168006758,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2641,7 +2647,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "사용",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -2768,7 +2774,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "요청1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -2807,7 +2813,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "요청2",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
@@ -2888,7 +2894,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "tQw5mL4_Lo8U2KaxeUjys",
 			"originalText": "EntityManager",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -2965,12 +2971,12 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "dY4upVg4DmEbVvbv3WJCw",
 			"originalText": "PersistenceContext",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 239,
-			"versionNonce": 1601022621,
+			"version": 267,
+			"versionNonce": 443906369,
 			"isDeleted": false,
 			"id": "s1GqoxtZjJguQEikHc1Tx",
 			"fillStyle": "solid",
@@ -2992,7 +2998,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719217393511,
+			"updated": 1734168006759,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3056,7 +3062,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "1:1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -3095,7 +3101,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "엔티티 매니저와 영속성 컨텍스트가 1:1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
@@ -3172,7 +3178,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "xSEs-pcnVyDXW1JXabvt2",
 			"originalText": "EntityManager",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -3257,12 +3263,12 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "sg7iCt6AflIozdnDOJv6m",
 			"originalText": "PersistenceContext",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 448,
-			"versionNonce": 505705405,
+			"version": 476,
+			"versionNonce": 1665504481,
 			"isDeleted": false,
 			"id": "c_EfLbj6FvPwuD1y4cQ21",
 			"fillStyle": "solid",
@@ -3284,7 +3290,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719217393514,
+			"updated": 1734168006761,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3348,7 +3354,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "N:1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -3387,7 +3393,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "J2EE, 스프링 프레임워크 등의 컨테이너 환경",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -3426,7 +3432,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "엔티티 매니저와 영속성 컨텍스트가 N:1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -3465,7 +3471,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "J2SE 환경",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -3546,7 +3552,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "MZdaIQFK_NM4yIZvghRRS",
 			"originalText": "EntityManager",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "ellipse",
@@ -3623,12 +3629,12 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "EBuq7H6E29DEOLVUa1q1n",
 			"originalText": "EntityManager",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 109,
-			"versionNonce": 1085664083,
+			"version": 116,
+			"versionNonce": 2048701807,
 			"isDeleted": false,
 			"id": "5u5c1EcJuvC3l8kyKtRg9",
 			"fillStyle": "solid",
@@ -3650,7 +3656,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719217393513,
+			"updated": 1734168006761,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3675,8 +3681,8 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 		},
 		{
 			"type": "arrow",
-			"version": 110,
-			"versionNonce": 1047488349,
+			"version": 117,
+			"versionNonce": 1262935297,
 			"isDeleted": false,
 			"id": "iIZmSdF9rq0w9R2shT-Ps",
 			"fillStyle": "solid",
@@ -3698,7 +3704,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719217393513,
+			"updated": 1734168006761,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3829,7 +3835,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "VgtCnocDcC_8fTjrMoCTv",
 			"originalText": "Member\n(영속상태)",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "text",
@@ -3868,7 +3874,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "영속 컨텍스트",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -3947,12 +3953,12 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "Q180yFTbxFO7EdocikC28",
 			"originalText": "Member\n(비영속상태)",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
 			"type": "arrow",
-			"version": 481,
-			"versionNonce": 547252349,
+			"version": 509,
+			"versionNonce": 1916571809,
 			"isDeleted": false,
 			"id": "3MOD62OjT84MzBNrNGilC",
 			"fillStyle": "solid",
@@ -3976,7 +3982,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1719217393516,
+			"updated": 1734168006763,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4040,7 +4046,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "em.persist()",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4110,7 +4116,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "영속성 컨텍스트",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -4149,7 +4155,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "1차 캐시",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4222,7 +4228,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "8fcbzk2hL9KznNYQz6fD9",
 			"originalText": "@Id",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4295,7 +4301,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "iTZez8JZN6Nn8-t14TL6V",
 			"originalText": "Entity",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4368,7 +4374,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "t5SUc9a3br9JfUrQlzD0k",
 			"originalText": "\"member1\"",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4441,7 +4447,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "MjYDoV2u46CpVzHM9qe1p",
 			"originalText": "member",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4553,7 +4559,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "find(\"member1\")",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "arrow",
@@ -4701,7 +4707,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "member",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4771,7 +4777,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "영속성 컨텍스트",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -4810,7 +4816,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "1차 캐시",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4887,7 +4893,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "vrUTi-lUDsvent8eDoFO9",
 			"originalText": "@Id",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -4960,7 +4966,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "aMlRXQ6O83XaQZEZYk3ev",
 			"originalText": "Entity",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5037,7 +5043,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "gYE3xixHgBHJecCRCEj64",
 			"originalText": "\"member1\"",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5110,7 +5116,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "iBLUIpIx6IzbgrhQ4Pn31",
 			"originalText": "memberA",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -5475,7 +5481,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "KcjXQT9MWVYqVxAAL9lZm",
 			"originalText": "SQL\nINSERT A",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -5514,7 +5520,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "em.persist(memberA);",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -5597,7 +5603,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "sji6vX1uL9-yPFczMZmtX",
 			"originalText": "memberA",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -5647,8 +5653,8 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 		},
 		{
 			"type": "arrow",
-			"version": 468,
-			"versionNonce": 1235993085,
+			"version": 496,
+			"versionNonce": 1639102497,
 			"isDeleted": false,
 			"id": "yfrmxPUHlqLXmo2cxxSaw",
 			"fillStyle": "solid",
@@ -5672,7 +5678,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1719217393524,
+			"updated": 1734168006769,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5701,8 +5707,8 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 		},
 		{
 			"type": "arrow",
-			"version": 695,
-			"versionNonce": 1515421085,
+			"version": 723,
+			"versionNonce": 795306049,
 			"isDeleted": false,
 			"id": "tOXx3VM2C9gNGJfRTPx4e",
 			"fillStyle": "solid",
@@ -5726,7 +5732,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1719217393523,
+			"updated": 1734168006769,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5986,7 +5992,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -6056,7 +6062,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "영속성 컨텍스트",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -6095,7 +6101,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "1차 캐시",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6172,7 +6178,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "Q1cKLwzLB05dyYpbSwKfF",
 			"originalText": "@Id",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6245,7 +6251,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "Rerv6vLxvS0e7wLozBuDS",
 			"originalText": "Entity",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6322,7 +6328,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "N-nMxO79yK-NaF_zO5Odc",
 			"originalText": "\"member1\"",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -6395,7 +6401,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "JSKWu2_C2ywUDtl2i7mCZ",
 			"originalText": "memberA",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -6702,7 +6708,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "51beEQgbQ2w4UfKv1oTuo",
 			"originalText": "SQL\nINSERT B",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -6741,7 +6747,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "em.persist(memberB);",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -6824,7 +6830,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "oIHt2cx9y2I_qy1o6o2hW",
 			"originalText": "memberB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -6874,8 +6880,8 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 		},
 		{
 			"type": "arrow",
-			"version": 668,
-			"versionNonce": 1384143741,
+			"version": 696,
+			"versionNonce": 1729699745,
 			"isDeleted": false,
 			"id": "Kg13Y_R3ncReCjT1nG8-f",
 			"fillStyle": "solid",
@@ -6899,7 +6905,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1719217393529,
+			"updated": 1734168006773,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6928,8 +6934,8 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 		},
 		{
 			"type": "arrow",
-			"version": 939,
-			"versionNonce": 1826039485,
+			"version": 967,
+			"versionNonce": 2007622625,
 			"isDeleted": false,
 			"id": "1S9VRQBPvrmAsGUWK85rl",
 			"fillStyle": "solid",
@@ -6953,7 +6959,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1719217393528,
+			"updated": 1734168006772,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7213,7 +7219,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -7292,7 +7298,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "l0XTQjB_p9Hy7zj4y4wBI",
 			"originalText": "SQL\nINSERT B",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "rectangle",
@@ -7365,7 +7371,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "vbjyPxqOWcUsls3sL9Uwv",
 			"originalText": "\"member2\"",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7438,7 +7444,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "qWD-5QXGUivnuJLsQjCcJ",
 			"originalText": "memberB",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7508,7 +7514,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "영속성 컨텍스트",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -7547,7 +7553,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "1차 캐시",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7620,7 +7626,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "KONfCutUDiR3MTjDqC7Pl",
 			"originalText": "@Id",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7693,7 +7699,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "ZcXHTIuPz07t9wJPKYZu-",
 			"originalText": "Entity",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7766,7 +7772,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "3tK493zAh8x1GBOWtnA0k",
 			"originalText": "\"member1\"",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -7839,7 +7845,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "5lEE4ql9nqmfyRzzXvUFF",
 			"originalText": "memberA",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "ellipse",
@@ -8155,7 +8161,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "OaLfFTPeqdVanSO9nNQUp",
 			"originalText": "SQL\nUPDATE A",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "ellipse",
@@ -8400,7 +8406,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "DB",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -8473,7 +8479,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "lQDrrdUa-kFArCT6TGOtM",
 			"originalText": "\"member2\"",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8546,7 +8552,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "EiEZgKdvJ2M92pCgQJvCY",
 			"originalText": "memberB",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -8590,7 +8596,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "1.flush()",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
@@ -8717,7 +8723,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "3rRiF09tTr3MKifE_Nd-U",
 			"originalText": "스냅샷",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -8814,7 +8820,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "memberA\nSNAPSHOT",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 22
 		},
 		{
 			"type": "text",
@@ -8853,7 +8859,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "memberB\nSNAPSHOT",
 			"lineHeight": 1.2,
-			"baseline": 21
+			"baseline": 22
 		},
 		{
 			"type": "line",
@@ -8909,8 +8915,8 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 		},
 		{
 			"type": "arrow",
-			"version": 328,
-			"versionNonce": 1491265235,
+			"version": 335,
+			"versionNonce": 172156655,
 			"isDeleted": false,
 			"id": "ivaebXyByqB7hx35DV02B",
 			"fillStyle": "solid",
@@ -8932,7 +8938,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719217393533,
+			"updated": 1734168006776,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8997,7 +9003,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "3.UPDATE SQL 생성",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -9041,12 +9047,12 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "2. entity와 스냅샷 비교",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 254,
-			"versionNonce": 1076139123,
+			"version": 268,
+			"versionNonce": 1984311567,
 			"isDeleted": false,
 			"id": "9HvGh1ySdTCRH85BYmqRQ",
 			"fillStyle": "solid",
@@ -9068,7 +9074,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719217393535,
+			"updated": 1734168006778,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9176,7 +9182,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "tGemqr1SKvdXYDIUA51Bz",
 			"originalText": "SQL\nUPDATE A",
 			"lineHeight": 1.2,
-			"baseline": 35
+			"baseline": 34
 		},
 		{
 			"type": "text",
@@ -9215,12 +9221,12 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "4.flush",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
-			"version": 93,
-			"versionNonce": 1512017427,
+			"version": 107,
+			"versionNonce": 865810223,
 			"isDeleted": false,
 			"id": "df8CgyhbCe5Ux2VCq2a1e",
 			"fillStyle": "solid",
@@ -9242,7 +9248,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719217393535,
+			"updated": 1734168006778,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9306,7 +9312,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "5.commit",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -9343,7 +9349,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "도메인 모델 분석",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -9416,7 +9422,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "0VhEo9nrF_AMEa2ToYvHL",
 			"originalText": "회원",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -9489,7 +9495,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "udoSXvTuTAL8vSSbBrA-b",
 			"originalText": "주문",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -9562,7 +9568,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "x0jjiLxDqeSoCzQj2s6wT",
 			"originalText": "주문 상품",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -9635,7 +9641,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": "kOkx_-1pWwEvvo5G5EKLQ",
 			"originalText": "상품(물품)",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "line",
@@ -9806,7 +9812,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -9845,7 +9851,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -9884,7 +9890,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "1",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -9923,7 +9929,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "*",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -9962,7 +9968,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "*",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -10001,40 +10007,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "*",
 			"lineHeight": 1.2,
-			"baseline": 16
-		},
-		{
-			"type": "image",
-			"version": 43,
-			"versionNonce": 650392605,
-			"isDeleted": false,
-			"id": "E4cINmnHm_IJmoxyrxVo6",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1097.2767768633653,
-			"y": -135.22877643986396,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 854.74869081975,
-			"height": 509.2877616134343,
-			"seed": 1745827325,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1719127673799,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "0071e807b0340aa2c620516fb1d103e39cc5397e",
-			"scale": [
-				1,
-				1
-			]
+			"baseline": 15
 		},
 		{
 			"type": "image",
@@ -10170,7 +10143,7 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "양방향 연관관계",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -10207,31 +10180,31 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"containerId": null,
 			"originalText": "단방향 연관관계",
 			"lineHeight": 1.2,
-			"baseline": 16
+			"baseline": 15
 		},
 		{
-			"id": "6TW2FoempUIfSZ7Sh_Mey",
 			"type": "image",
-			"x": 2439.3932862664287,
-			"y": -309.39564873763584,
-			"width": 912.4009195963542,
-			"height": 408.6795785692004,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 82,
+			"versionNonce": 955386643,
+			"isDeleted": false,
+			"id": "6TW2FoempUIfSZ7Sh_Mey",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2439.3932862664287,
+			"y": -309.39564873763584,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 912.4009195963542,
+			"height": 408.6795785692004,
+			"seed": 761442707,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 761442707,
-			"version": 82,
-			"versionNonce": 955386643,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1719224868645,
 			"link": null,
 			"locked": false,
@@ -10243,65 +10216,65 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			]
 		},
 		{
-			"id": "FWb7zEZ0",
 			"type": "text",
-			"x": 2455.774639458591,
-			"y": -346.5139424073068,
-			"width": 64.7349853515625,
-			"height": 19.2,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 832593085,
 			"version": 27,
 			"versionNonce": 709335453,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1719217332656,
-			"link": null,
-			"locked": false,
-			"text": "객체 모델",
-			"rawText": "객체 모델",
-			"fontSize": 16,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "객체 모델",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "hDzXIZxDVMYsp8L5z29oX",
-			"type": "image",
-			"x": 2407.1421372089626,
-			"y": 219.96568355659963,
-			"width": 873.39701017888,
-			"height": 404.55264290924515,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"id": "FWb7zEZ0",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2455.774639458591,
+			"y": -346.5139424073068,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 64.7349853515625,
+			"height": 19.2,
+			"seed": 832593085,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1795689171,
+			"boundElements": [],
+			"updated": 1719217332656,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "객체 모델",
+			"rawText": "객체 모델",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "객체 모델",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "image",
 			"version": 113,
 			"versionNonce": 2144297277,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "hDzXIZxDVMYsp8L5z29oX",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2407.1421372089626,
+			"y": 219.96568355659966,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 873.39701017888,
+			"height": 404.5526429092451,
+			"seed": 1795689171,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1719217382598,
 			"link": null,
 			"locked": false,
@@ -10313,11 +10286,81 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			]
 		},
 		{
-			"id": "aXOVRaYp",
 			"type": "text",
+			"version": 28,
+			"versionNonce": 1615124381,
+			"isDeleted": false,
+			"id": "aXOVRaYp",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
 			"x": 2427.131577155385,
 			"y": 182.2774963313322,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
 			"width": 55.80499267578125,
+			"height": 19.2,
+			"seed": 1519399411,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1719217391455,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "DB 모델",
+			"rawText": "DB 모델",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "DB 모델",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"type": "image",
+			"version": 96,
+			"versionNonce": 1497113583,
+			"isDeleted": false,
+			"id": "Ah3Khk5pPdJ4KKY_gbkmC",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 998.7632529046854,
+			"y": -129.7654742352422,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 890.2747646921102,
+			"height": 530.455380629049,
+			"seed": 603601057,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1734162404053,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "a287d814662295503c862e61e04a51393efc385e",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "zlEU202x",
+			"type": "text",
+			"x": 2406.8601707526764,
+			"y": 721.867350973809,
+			"width": 175.89996337890625,
 			"height": 19.2,
 			"angle": 0,
 			"strokeColor": "#1971c2",
@@ -10330,30 +10373,133 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1519399411,
-			"version": 28,
-			"versionNonce": 1615124381,
+			"seed": 490659297,
+			"version": 59,
+			"versionNonce": 166545345,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719217391455,
+			"updated": 1734167999447,
 			"link": null,
 			"locked": false,
-			"text": "DB 모델",
-			"rawText": "DB 모델",
+			"text": "[다대일 단방향 연관관계]",
+			"rawText": "[다대일 단방향 연관관계]",
 			"fontSize": 16,
 			"fontFamily": 3,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 16,
+			"baseline": 15,
 			"containerId": null,
-			"originalText": "DB 모델",
+			"originalText": "[다대일 단방향 연관관계]",
 			"lineHeight": 1.2
 		},
 		{
-			"id": "BoFq312q",
+			"id": "vE58pxL4vbZr0O8wcnRH-",
+			"type": "image",
+			"x": 2380.569404112269,
+			"y": 779.159676712256,
+			"width": 729.2657591225144,
+			"height": 409.7055549514681,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 775148289,
+			"version": 126,
+			"versionNonce": 1545600641,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1734167627993,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "c5cc3520821c6d4bff47c4ff9e570fa92c614820",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "u7JVGu7BjEfGV4NqzldXz",
+			"type": "image",
+			"x": 2312.1295269214897,
+			"y": 1449.534887009396,
+			"width": 898.0141672783116,
+			"height": 504.5093481445514,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 259950177,
+			"version": 39,
+			"versionNonce": 466208751,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1734168012113,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "acf5bee49f109e9024eaa65368736d02b35cbafa",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
 			"type": "text",
-			"x": 3134.74712620029,
-			"y": -12.461387738246572,
+			"version": 109,
+			"versionNonce": 868757185,
+			"isDeleted": false,
+			"id": "OkiqfcaO",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2412.708964531675,
+			"y": 1419.7968063425283,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 175.89996337890625,
+			"height": 19.2,
+			"seed": 1062250401,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1734168010941,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "[다대일 양방향 연관관계]",
+			"rawText": "[다대일 양방향 연관관계]",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "[다대일 양방향 연관관계]",
+			"lineHeight": 1.2,
+			"baseline": 15
+		},
+		{
+			"id": "dD2z1b2F",
+			"type": "text",
+			"x": 2485.003146186099,
+			"y": 718.7582140202245,
 			"width": 9.375,
 			"height": 19.2,
 			"angle": 0,
@@ -10367,12 +10513,12 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1814389299,
+			"seed": 1861984417,
 			"version": 2,
-			"versionNonce": 1560235645,
+			"versionNonce": 1216673263,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1719222962811,
+			"updated": 1734167615286,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -10381,7 +10527,44 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 			"fontFamily": 3,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 16,
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "9cTHOKQE",
+			"type": "text",
+			"x": 2476.712114309874,
+			"y": 717.1000076449794,
+			"width": 9.375,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1172669999,
+			"version": 2,
+			"versionNonce": 432044097,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1734167616270,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.2
@@ -10402,10 +10585,10 @@ dddb39785f9d9d1858e82993c0dde8c199e12b7a: [[Pasted Image 20240624172313_429.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2328.072657760153,
-		"scrollY": 478.19242571264465,
+		"scrollX": -1653.4126490007066,
+		"scrollY": -334.90934762560863,
 		"zoom": {
-			"value": 1.0372864205580372
+			"value": 0.6030612443232342
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
