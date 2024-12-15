@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51834da959e43f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. 자바 ORM 표준 JPA 프로그래밍"
-            }
-          },
-          {
-            "id": "8e66d08614a98af3",
+            "id": "92e8bb3875f16f2e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -34,77 +20,49 @@
             }
           },
           {
-            "id": "05ebaeef7ee4d01d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. 자바 ORM 표준 JPA 프로그래밍"
-            }
-          },
-          {
-            "id": "5950eb29bb5d4f09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. 자바 ORM 표준 JPA 프로그래밍"
-            }
-          },
-          {
-            "id": "35e88b20d9531a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. 자바 ORM 표준 JPA 프로그래밍"
-            }
-          },
-          {
-            "id": "92e8bb3875f16f2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6.3 일대일 1n1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.3 일대일 1n1"
-            }
-          },
-          {
             "id": "7564b56919dbb360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.0 JPA의 다양한 쿼리 방법.md",
+                "file": "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.0 JPA의 다양한 쿼리 방법"
+              "title": "0. 자바 ORM 표준 JPA 프로그래밍"
+            }
+          },
+          {
+            "id": "665919bb6438a442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/6.5 실전예제 - 다양한 연관관계 매핑.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.5 실전예제 - 다양한 연관관계 매핑"
+            }
+          },
+          {
+            "id": "1fcb3c06069c9dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/6.4 다대다 NnM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.4 다대다 NnM"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -259,19 +218,24 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "92e8bb3875f16f2e",
+  "active": "665919bb6438a442",
   "lastOpenFiles": [
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
-    "Java/6.3 일대일 1n1.md",
+    "Java/6.5 실전예제 - 다양한 연관관계 매핑.md",
+    "Java/6.4 다대다 NnM.md",
+    "Excalidraw/Java JPA.md",
+    "첨부파일/Pasted Image 20241216170813_395.png",
+    "첨부파일/Pasted Image 20241216162740_503.png",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/6.3 일대일 1n1.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/6.2 일대다 1nN.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.0 JPA의 다양한 쿼리 방법.md",
+    "첨부파일/Pasted Image 20241216153456_270.png",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/6.1 다대일 Nn1.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/6.0 다양한 연관관계 매핑.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.0 JPA의 다양한 쿼리 방법.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/5.0 객체지향 모델링 - 단방향 연관관계.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/5.1 양방향 연관관계와 연관관계의 주인.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/5.2 실전 예제 - 연관관계 매핑.md",
     "database/데이터 역량 강화를 위한 SQL 부트캠프/7.6 UPDATE.md",
-    "Excalidraw/Java JPA.md",
     "첨부파일/Pasted Image 20241214182000_498.png",
     "첨부파일/Pasted Image 20241214181346_954.png",
     "Excalidraw/Java MSA.md",
@@ -282,9 +246,6 @@
     "첨부파일/Pasted image 20241129171518.png",
     "첨부파일/Pasted image 20241129171835.png",
     "첨부파일/Pasted image 20241129171928.png",
-    "첨부파일/Pasted image 20241129180155.png",
-    "첨부파일/Pasted image 20241210210131.png",
-    "첨부파일/Pasted image 20241214164229.png",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/10.5 JPQL 문법 - 타입 표현과 기타식.md",
     "Pinting/디스코드 봇 만든 과정.md",
     "template/스프링 부트와 JPA 활용1.md",
@@ -295,8 +256,6 @@
     "Java/데이터베이스 JOIN.md",
     "Java/스프링 부트를 왜 쓰는가?.md",
     "Java/중간 연산 boxed().md",
-    "Java/추상클래스와 인터페이스의 명확한 차이?.md",
-    "Java/API 문서를 어떻게 작성할 것인가?.md",
     "database/데이터베이스 엔지니어링 마스터",
     "database/데이터 역량 강화를 위한 SQL 부트캠프",
     "database",
