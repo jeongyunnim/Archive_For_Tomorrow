@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#프로그래밍/도커  ",
@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "tag:#프로그래밍  ",
+      "query": "tag:#프로그래밍/임베디드  ",
       "color": {
         "a": 1,
-        "rgb": 8978247
+        "rgb": 65450
+      }
+    },
+    {
+      "query": "tag:#프로그래밍",
+      "color": {
+        "a": 1,
+        "rgb": 1205064
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 8,
+  "scale": 1.0484782134737167,
   "close": false
 }
