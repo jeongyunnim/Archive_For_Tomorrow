@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d474fe2a3221bea",
+            "id": "6e3f3dc56aa5a71c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Programming/PCIE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PCIE"
+            }
+          },
+          {
+            "id": "dd2d2608d917eae8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,90 +36,33 @@
             }
           },
           {
-            "id": "dac965636df0bf34",
+            "id": "de079c4c728bf755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Programming/1.0 방위 산업의 이해.md",
+                "file": "Embedded Programming/1.1 연구 개발 프로세스 실습.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0 방위 산업의 이해"
+              "title": "1.1 연구 개발 프로세스 실습"
             }
           },
           {
-            "id": "98bd49bfabc23247",
+            "id": "1f3e997c71eef39b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Embedded Programming/SE(체계 공학).md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/LIG Nex1.md"
               },
-              "icon": "lucide-file",
-              "title": "SE(체계 공학)"
-            }
-          },
-          {
-            "id": "7da40e29abeb0622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The_SSEN/0.0 OT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0.0 OT"
-            }
-          },
-          {
-            "id": "73bf59e3b1260ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The_SSEN/0.0 OT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0.0 OT"
-            }
-          },
-          {
-            "id": "79608368c1096971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archive(non_fixed)/Transcendence/거버넌스.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "거버넌스"
-            }
-          },
-          {
-            "id": "5e597ac8cdc6e87e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "작성 해야 함/엠바고.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "엠바고"
+              "icon": "excalidraw-icon",
+              "title": "LIG Nex1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,17 +227,30 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8d474fe2a3221bea",
+  "active": "de079c4c728bf755",
   "lastOpenFiles": [
-    "Embedded Programming/1.0 방위 산업의 이해.md",
+    "Excalidraw/LIG Nex1.md",
+    "Embedded Programming/1.1 연구 개발 프로세스 실습.md",
     "The_SSEN/0. The_SSEN.md",
+    "첨부파일/Pasted image 20241224164623.png",
+    "첨부파일/Pasted image 20241224164540.png",
+    "The_SSEN/1.0 방위 산업의 이해.md",
+    "Embedded Programming/PCIE.md",
+    "첨부파일/Pasted image 20241224154229.png",
+    "첨부파일/Pasted image 20241224152809.png",
+    "Embedded Programming/RF.md",
     "The_SSEN/0.0 OT.md",
+    "Embedded Programming/MOU.md",
+    "Embedded Programming/야전(野戰).md",
+    "Excalidraw/Drawing 2024-12-21 19.57.04.excalidraw.md",
+    "Embedded Programming/UAM.md",
+    "template/The SSEN template 방위 산업의 이해.md",
+    "template/The SSEN template.md",
     "Embedded Programming/SE(체계 공학).md",
     "archive(non_fixed)/Transcendence/거버넌스.md",
     "Embedded Programming/ESG.md",
     "작성 해야 함/MUM T.md",
     "작성 해야 함/엠바고.md",
-    "template/The SSEN template.md",
     "The_SSEN",
     "Embedded Programming/RESOLVED/Arm Cortex-M Processors/0. Arm Cortex-M processors.md",
     "Embedded Programming/RESOLVED/Arm Cortex-M Processors/1.0 Arm Introduction.md",
@@ -289,16 +259,6 @@
     "template/처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
     "Embedded Programming/0. 처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
     "Embedded Programming/0. Embedded Programming.md",
-    "Embedded Programming/TODO LISTS/SoC(System on Chip).md",
-    "Embedded Programming/TODO LISTS/SIMD(Single instruction Multiple Data).md",
-    "Embedded Programming/TODO LISTS/DSP(Digital Signal Processor).md",
-    "Embedded Programming/TODO LISTS/주기함수.md",
-    "Embedded Programming/TODO LISTS/반도체 IP(Intellectual Property).md",
-    "Excalidraw/Drawing 2024-12-21 19.57.04.excalidraw.md",
-    "template/Daily Note Template.md",
-    "template/자바 ORM 표준 JPA 프로그래밍 - 기본편.md",
-    "template/스프링 부트와 JPA 활용.md",
-    "template/Pinting 회의록 템플릿.md",
     "Embedded Programming/RESOLVED",
     "첨부파일/Pasted image 20241219213751.png",
     "첨부파일/Pasted image 20241219210601.png",
@@ -310,10 +270,6 @@
     "첨부파일/Pasted Image 20241217161153_560.png",
     "첨부파일/Pasted Image 20241216170813_395.png",
     "첨부파일/Pasted Image 20241216162740_503.png",
-    "첨부파일/Pasted Image 20241216153456_270.png",
-    "첨부파일/Pasted Image 20241214182000_498.png",
-    "첨부파일/Pasted Image 20241214181346_954.png",
-    "첨부파일/Pasted Image 20241214164648_416.png",
     "database/데이터베이스 엔지니어링 마스터",
     "database/데이터 역량 강화를 위한 SQL 부트캠프",
     "database",
