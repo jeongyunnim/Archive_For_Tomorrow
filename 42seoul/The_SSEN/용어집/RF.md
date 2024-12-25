@@ -15,7 +15,7 @@ aliases:
 ### 원문
 ---
 # RF
-- radio frecuency
+- radio frequency
 
 
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Programming/PCIE.md",
+                "file": "The_SSEN/용어집/PCIE.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/0. The_SSEN.md",
+                "file": "The_SSEN/1.2 연구 개발 프로세스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. The_SSEN"
+              "title": "1.2 연구 개발 프로세스"
             }
           },
           {
-            "id": "de079c4c728bf755",
+            "id": "43b5cc6f08c4aa48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Programming/1.1 연구 개발 프로세스 실습.md",
+                "file": "The_SSEN/1.0 방위 산업의 이해.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 연구 개발 프로세스 실습"
+              "title": "1.0 방위 산업의 이해"
             }
           },
           {
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,28 +227,35 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "de079c4c728bf755",
+  "active": "dd2d2608d917eae8",
   "lastOpenFiles": [
-    "Excalidraw/LIG Nex1.md",
-    "Embedded Programming/1.1 연구 개발 프로세스 실습.md",
+    "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서/0. 처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
+    "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서",
+    "Embedded Programming/0. Embedded Programming.md",
+    "The_SSEN/용어집/UAM.md",
+    "The_SSEN/1.1 연구 개발 분야.md",
+    "The_SSEN/용어집",
     "The_SSEN/0. The_SSEN.md",
+    "The_SSEN/용어집/RF.md",
+    "The_SSEN/1.0 방위 산업의 이해.md",
+    "The_SSEN/1.2 연구 개발 프로세스.md",
+    "The_SSEN/0.0 OT.md",
+    "첨부파일/Pasted image 20241225193030.png",
+    "첨부파일/Pasted image 20241225192731.png",
+    "Excalidraw/LIG Nex1.md",
     "첨부파일/Pasted image 20241224164623.png",
     "첨부파일/Pasted image 20241224164540.png",
-    "The_SSEN/1.0 방위 산업의 이해.md",
-    "Embedded Programming/PCIE.md",
+    "The_SSEN/용어집/PCIE.md",
     "첨부파일/Pasted image 20241224154229.png",
     "첨부파일/Pasted image 20241224152809.png",
-    "Embedded Programming/RF.md",
-    "The_SSEN/0.0 OT.md",
-    "Embedded Programming/MOU.md",
-    "Embedded Programming/야전(野戰).md",
+    "The_SSEN/용어집/MOU.md",
+    "The_SSEN/용어집/야전(野戰).md",
     "Excalidraw/Drawing 2024-12-21 19.57.04.excalidraw.md",
-    "Embedded Programming/UAM.md",
     "template/The SSEN template 방위 산업의 이해.md",
     "template/The SSEN template.md",
-    "Embedded Programming/SE(체계 공학).md",
+    "The_SSEN/용어집/SE(체계 공학).md",
     "archive(non_fixed)/Transcendence/거버넌스.md",
-    "Embedded Programming/ESG.md",
+    "The_SSEN/용어집/ESG.md",
     "작성 해야 함/MUM T.md",
     "작성 해야 함/엠바고.md",
     "The_SSEN",
@@ -257,8 +264,6 @@
     "Embedded Programming/RESOLVED/Arm Cortex-M Processors/1.1 Arm resources and support.md",
     "Embedded Programming/RESOLVED/Arm Cortex-M Processors/2.0 Cortex-M 개요.md",
     "template/처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
-    "Embedded Programming/0. 처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
-    "Embedded Programming/0. Embedded Programming.md",
     "Embedded Programming/RESOLVED",
     "첨부파일/Pasted image 20241219213751.png",
     "첨부파일/Pasted image 20241219210601.png",
@@ -268,13 +273,9 @@
     "Embedded Programming",
     "첨부파일/Pasted Image 20241217163003_095.png",
     "첨부파일/Pasted Image 20241217161153_560.png",
-    "첨부파일/Pasted Image 20241216170813_395.png",
-    "첨부파일/Pasted Image 20241216162740_503.png",
     "database/데이터베이스 엔지니어링 마스터",
     "database/데이터 역량 강화를 위한 SQL 부트캠프",
-    "database",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
-    "Java/6. 스프링 클라우드 마이크로서비스/무제 폴더",
     "Excalidraw/Untitled.canvas",
     "Transcendence/트센 캔버스.canvas",
     "무제 파일.canvas",
