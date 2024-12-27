@@ -17,6 +17,7 @@ aliases:
 # ADC
 - Data Converter, 데이터 변환기, 컨버터
 - http://www.ktword.co.kr/test/view/view.php?no=978
+- https://dewesoft.com/blog/what-is-adc-converter
 
 ---
 ### 생각(파생된 질문/생각)
