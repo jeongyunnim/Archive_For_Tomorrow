@@ -11,73 +11,30 @@
             "id": "4f28a00a1ffe1871",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "The_SSEN/2.1 프로그램과 소프트웨어.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/LIG Nex1.md"
               },
-              "icon": "lucide-file",
-              "title": "2.1 프로그램과 소프트웨어"
+              "icon": "excalidraw-icon",
+              "title": "LIG Nex1"
             }
           },
           {
-            "id": "53e343d7de34828d",
+            "id": "88f49c508e372029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Programming/Pipeline.md",
+                "file": "The_SSEN/2.2 컴퓨터 발전과 기반지식.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipeline"
-            }
-          },
-          {
-            "id": "84e35fe584bf7f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded Programming/MUX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MUX"
-            }
-          },
-          {
-            "id": "2154fb08a59530fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded Programming/ALU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ALU"
-            }
-          },
-          {
-            "id": "8b83b4ca4dc39bf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded Programming/MMIO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MMIO"
+              "title": "2.2 컴퓨터 발전과 기반지식"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,45 +199,44 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4f28a00a1ffe1871",
+  "active": "88f49c508e372029",
   "lastOpenFiles": [
-    "The_SSEN/Curious/SRAM 과 DRAM.md",
-    "Embedded Programming/Flip-flop.md",
-    "The_SSEN/2.1 프로그램과 소프트웨어.md",
-    "The_SSEN/Curious",
-    "Embedded Programming/Pipeline.md",
-    "Embedded Programming/MUX.md",
-    "The_SSEN/용어집/ADC.md",
-    "Embedded Programming/ALU.md",
-    "Embedded Programming/MMIO.md",
+    "The_SSEN/2.3 컴퓨터 시스템의 구조.md",
+    "Excalidraw/LIG Nex1.md",
+    "첨부파일/Pasted Image 20241230165055_115.png",
+    "첨부파일/Pasted image 20241230164039.png",
+    "첨부파일/Pasted Image 20241230163118_299.png",
+    "첨부파일/Pasted Image 20241230163045_056.png",
+    "첨부파일/Pasted image 20241230152952.png",
+    "The_SSEN/용어집/코프로세서.md",
+    "The_SSEN/용어집/CMOS.md",
     "Embedded Programming/Software Engineering - A practitioner's Approach.md",
+    "The_SSEN/2.0 컴퓨터 구조 및 운영체제.md",
+    "The_SSEN/2.2 컴퓨터 발전과 기반지식.md",
+    "첨부파일/Pasted image 20241230123536.png",
+    "The_SSEN/용어집/ALU.md",
+    "The_SSEN/용어집/LSB(Least Significant Bit).md",
+    "Java/DDL.md",
+    "The_SSEN/2.1 프로그램과 소프트웨어.md",
+    "The_SSEN/Curious/SRAM 과 DRAM.md",
+    "The_SSEN/용어집/Flip-flop.md",
+    "The_SSEN/Curious",
+    "The_SSEN/용어집/Pipeline.md",
+    "The_SSEN/용어집/MUX.md",
+    "The_SSEN/용어집/ADC.md",
+    "The_SSEN/용어집/MMIO.md",
     "첨부파일/Pasted image 20241230000812.png",
     "첨부파일/Pasted image 20241228153923.png",
     "첨부파일/Pasted image 20241228152440.png",
     "첨부파일/Pasted image 20241227151039.png",
-    "Excalidraw/LIG Nex1.md",
-    "첨부파일/Pasted image 20241227123646.png",
-    "첨부파일/Pasted image 20241227112753.png",
-    "첨부파일/Pasted image 20241226145117.png",
-    "첨부파일/Pasted image 20241227103012.png",
-    "첨부파일/Pasted Image 20241227101007_144.png",
-    "첨부파일/Pasted image 20241227100758.png",
     "The_SSEN/용어집/PBS.md",
     "The_SSEN/용어집/C runtime Environment.md",
     "The_SSEN/용어집/GPIO.md",
-    "The_SSEN/2.0 컴퓨터 구조 및 운영체제.md",
     "The_SSEN/1.1 당사 개발 분야 및 직무별 업무 소개.md",
     "The_SSEN/용어집/FPGA.md",
     "The_SSEN/1.0 방위 산업의 이해.md",
     "The_SSEN/용어집/UAM.md",
     "The_SSEN/0. The_SSEN.md",
-    "The_SSEN/1.4 챕터 마무리.md",
-    "The_SSEN/1.3.2 소프트웨어 개발 단계별 방법 및 절차.md",
-    "The_SSEN/1.3.1 소프트웨어 개발 프로세스 개념 및 규정.md",
-    "The_SSEN/1.3 SW 개발 실무.md",
-    "The_SSEN/1.2 방위산업 연구 개발 프로세스 소개.md",
-    "The_SSEN/용어집/VV&A.md",
-    "The_SSEN/0.0 OT.md",
     "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서",
     "The_SSEN/용어집",
     "The_SSEN",
