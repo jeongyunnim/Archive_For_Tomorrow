@@ -16,7 +16,7 @@ aliases:
 ---
 # SRAM 과 DRAM
 Static RAM과 Dynamic RAM
-[[Flip-flop]](F/F)과 축전기(Capacitor, CAP)
+[[Flip-Flop]](F/F)과 축전기(Capacitor, CAP)
 https://m.blog.naver.com/ycpiglet/221984934010
 
 ---

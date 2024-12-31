@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "  -path:template  -path:\"Day Planners\"  -path:Excalidraw ",
+  "search": "-path:template  -path:\"Day Planners\"  -path:Excalidraw ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,7 +11,7 @@
       "query": "tag:#프로그래밍/도커  ",
       "color": {
         "a": 1,
-        "rgb": 5399264
+        "rgb": 9082868
       }
     },
     {
@@ -32,14 +32,14 @@
       "query": "tag:#프로그래밍/임베디드  ",
       "color": {
         "a": 1,
-        "rgb": 65450
+        "rgb": 7733099
       }
     },
     {
       "query": "tag:#프로그래밍",
       "color": {
         "a": 1,
-        "rgb": 1205064
+        "rgb": 2794106
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5517575066436907,
+  "scale": 0.3121475384849849,
   "close": false
 }
