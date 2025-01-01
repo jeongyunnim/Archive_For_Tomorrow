@@ -17,6 +17,7 @@ aliases:
 # CMOS
 complement
 N.MOS + C.MOS
+[[TODO]]
 
 ---
 ### 생각(파생된 질문/생각)
@@ -24,3 +25,4 @@ N.MOS + C.MOS
 ### 출처
 
 ### 연결 문서 (연결 이유)
+[[NMOS]]

@@ -15,7 +15,10 @@ aliases:
 ### 원문
 ---
 # SMP
+: Symmetric(대칭적인) multiprocessing
+![[Pasted image 20250102010922.png]]
 https://en.wikipedia.org/wiki/Symmetric_multiprocessing
+
 ---
 ### 생각(파생된 질문/생각)
 

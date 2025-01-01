@@ -14,7 +14,7 @@ aliases:
 
 ### 원문
 ---
-# micom
+# MICOM
 
 - https://www.controlmart.co.kr/shop/sub/catalog.php?CatNo=4255
 ---
