@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive(non_fixed)/Transcendence/ft_transcendence(번역).md",
+                "file": "archive(non_fixed)/inception/(Inception) Error log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ft_transcendence(번역)"
+              "title": "(Inception) Error log"
             }
           },
           {
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ince",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,8 +198,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "37ed8c2373dcbb85",
+  "active": "23cb2cfd055106cb",
   "lastOpenFiles": [
+    "archive(non_fixed)/Transcendence/ft_transcendence(번역).md",
     "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/5.1 arrow 함수.md",
     "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
     "Java/getter를 쓰면 안된다.md",
@@ -225,7 +226,6 @@
     "The_SSEN/1.0 방위 산업의 이해.md",
     "The_SSEN/용어집/저전력 운영 모드.md",
     "The_SSEN/용어집/CMOS.md",
-    "Java/webflux.md",
     "첨부파일/Pasted image 20250102010922.png",
     "첨부파일/Pasted image 20250102003808.png",
     "첨부파일/Pasted image 20250101192833.png",
