@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/getter를 쓰면 안된다.md",
+                "file": "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/5.1 arrow 함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "getter를 쓰면 안된다"
+              "title": "5.1 arrow 함수"
             }
           },
           {
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:?",
+                "query": "path: =>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,8 +198,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "37ed8c2373dcbb85",
+  "active": "23cb2cfd055106cb",
   "lastOpenFiles": [
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
+    "Java/getter를 쓰면 안된다.md",
     "Java/ArrayList는 실제로 가변적인가. 내부적으로는 불변성을 가지고 있을 수 있다..md",
     "Java/API 문서를 어떻게 작성할 것인가.md",
     "Java/추상클래스와 인터페이스의 명확한 차이.md",
@@ -215,7 +217,6 @@
     "archive(non_fixed)/Django/핸즈 온 장고/1.0 장고란.md",
     "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/1. JavaScript란.md",
     "The_SSEN/용어집/FPGA.md",
-    "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
     "The_SSEN/용어집/Deep sleep mode.md",
     "Excalidraw/LIG Nex1.md",
     "The_SSEN/0.0 The_SSEN.md",
@@ -225,7 +226,6 @@
     "The_SSEN/용어집/CMOS.md",
     "Java/webflux.md",
     "작성 해야 함/Two Scoops of Django.md",
-    "Java/프로그래머가 알아야할 97가지.md",
     "첨부파일/Pasted image 20250102010922.png",
     "첨부파일/Pasted image 20250102003808.png",
     "첨부파일/Pasted image 20250101192833.png",
