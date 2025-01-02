@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive(non_fixed)/inception/(Inception) Error log.md",
+                "file": "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Inception) Error log"
+              "title": "3.0 임베디드 소프트웨어 개발 C"
             }
           },
           {
-            "id": "b21b0b62207d4927",
+            "id": "d840d9238c1b93ab",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/LIG Nex1.md"
+                "file": "Embedded Programming/WINDOW 세팅.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "LIG Nex1"
+              "icon": "lucide-file",
+              "title": "WINDOW 세팅"
             }
           },
           {
@@ -72,7 +74,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -94,10 +96,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,8 +178,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -188,21 +191,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "23cb2cfd055106cb",
   "lastOpenFiles": [
+    "첨부파일/Pasted image 20250102172210.png",
+    "Embedded Programming/WINDOW 세팅.md",
+    "첨부파일/Pasted image 20250102165612.png",
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
+    "첨부파일/Pasted image 20250102163945.png",
+    "The_SSEN/0.0 The_SSEN.md",
+    "The_SSEN/용어집/C runtime Environment.md",
+    "Excalidraw/LIG Nex1.md",
+    "archive(non_fixed)/inception/(Inception) Error log.md",
     "archive(non_fixed)/Transcendence/ft_transcendence(번역).md",
     "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/5.1 arrow 함수.md",
-    "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
     "Java/getter를 쓰면 안된다.md",
     "Java/ArrayList는 실제로 가변적인가. 내부적으로는 불변성을 가지고 있을 수 있다..md",
     "Java/API 문서를 어떻게 작성할 것인가.md",
@@ -220,12 +231,6 @@
     "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/1. JavaScript란.md",
     "The_SSEN/용어집/FPGA.md",
     "The_SSEN/용어집/Deep sleep mode.md",
-    "Excalidraw/LIG Nex1.md",
-    "The_SSEN/0.0 The_SSEN.md",
-    "The_SSEN/0.1 OT.md",
-    "The_SSEN/1.0 방위 산업의 이해.md",
-    "The_SSEN/용어집/저전력 운영 모드.md",
-    "The_SSEN/용어집/CMOS.md",
     "첨부파일/Pasted image 20250102010922.png",
     "첨부파일/Pasted image 20250102003808.png",
     "첨부파일/Pasted image 20250101192833.png",
@@ -234,8 +239,6 @@
     "첨부파일/Pasted image 20250101192022.png",
     "첨부파일/Pasted image 20250101121050.png",
     "첨부파일/Pasted image 20250101120428.png",
-    "첨부파일/Pasted image 20250101120121.png",
-    "첨부파일/Pasted image 20241231172207.png",
     "무제 파일.canvas",
     "The_SSEN/Curious",
     "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서",

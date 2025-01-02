@@ -16,6 +16,7 @@ aliases:
 ---
 # C runtime Environment
 
+[[TODO]]
 
 ---
 ### 생각(파생된 질문/생각)
