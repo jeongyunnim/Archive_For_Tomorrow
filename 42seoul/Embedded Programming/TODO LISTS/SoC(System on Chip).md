@@ -20,7 +20,7 @@ aliases:
 
 ### SoC의 종류
 다양한 [[반도체 IP(Intellectual Property)]]가 집적화된다.
-- [[MPU(microprocessor)]]
+- [[MPU]]
 - 디지털 신호 처리기
 - 정보를 저장하는 메모리
 - 아날로그 신호 처리기

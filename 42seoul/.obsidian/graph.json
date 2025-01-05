@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:template  -path:\"Day Planners\"  -path:Excalidraw ",
+  "search": "임베디드 -path:template  -path:\"Day Planners\"  -path:Excalidraw ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.9789540781077353,
+  "scale": 2.4484070845017647,
   "close": false
 }
