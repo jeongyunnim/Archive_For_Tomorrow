@@ -100,7 +100,6 @@ void send_byte(char c) {
 - 원자성 보장되지 않음.
 	- 멀티스레드 환경에서 데이터 레이스가 일어날 수 있다.
 	- 추가적인 동기화 매커니즘이 필요하다.
-
 ---
 ### 생각(파생된 질문/생각)
 
@@ -108,3 +107,4 @@ void send_byte(char c) {
 - [재능넷](https://www.jaenung.net/tree/1214?srsltid=AfmBOopje-naPtX3CQ2isJGi46XrJFz7z-kLAMjPdI1Ja75NJyjl9k3d)
 
 ### 연결 문서 (연결 이유)
+- [[디바운싱]]

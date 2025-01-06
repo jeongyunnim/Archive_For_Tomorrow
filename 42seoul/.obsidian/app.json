@@ -3,5 +3,12 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "Embedded Programming",
-  "attachmentFolderPath": "첨부파일"
+  "attachmentFolderPath": "첨부파일",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
