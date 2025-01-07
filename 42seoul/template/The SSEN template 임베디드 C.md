@@ -3,8 +3,7 @@
 넘버: 
 태그: 프로그래밍/임베디드
 출처: LIG Nex1 The SSEN Embedded SW School
-강사: 문호선
-교재: 인공지능 시대의 컴퓨터 개론
+강사: 윤소영
 aliases:
 ---
 ### 날짜: {{date: YYYY-MM-DD}} {{time}}
