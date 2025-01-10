@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "임베디드 -path:template  -path:\"Day Planners\"  -path:Excalidraw ",
+  "search": "TODO 임베디드 -path:template  -path:\"Day Planners\"  -path:Excalidraw ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7208329508569213,
-  "close": true
+  "scale": 0.8754942168448911,
+  "close": false
 }

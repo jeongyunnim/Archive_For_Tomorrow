@@ -17,7 +17,7 @@ aliases:
 # SRAM
 : Static RAM
 - [[DRAM]]과 달리 기억 장치에 전원이 공급되는 한 그 내용이 계속 보존된다.
-- [[NAND]]로 만든다.
+- [[NAND와 DRAM]]로 만든다.
 
 
 ---
