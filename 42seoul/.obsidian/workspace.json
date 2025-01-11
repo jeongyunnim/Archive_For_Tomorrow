@@ -11,14 +11,26 @@
             "id": "cc653136ffe67639",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/LIG Nex1_방산의_이해_OS.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "LIG Nex1_방산의_이해_OS"
+            }
+          },
+          {
+            "id": "3d244417318707ed",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
+                "file": "Embedded Programming/1.0 How Transistors run code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.0 임베디드 소프트웨어 개발 C"
+              "title": "1.0 How Transistors run code"
             }
           },
           {
@@ -34,22 +46,9 @@
               "icon": "lucide-file",
               "title": "NAND와 DRAM"
             }
-          },
-          {
-            "id": "3d244417318707ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded Programming/메모리 반도체.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "메모리 반도체"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           }
         ],
@@ -193,53 +192,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "cc653136ffe67639",
+  "active": "3d244417318707ed",
   "lastOpenFiles": [
-    "The_SSEN/3.7 포인터.md",
-    "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
+    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
+    "Embedded Programming/1.0 How Transistors run code.md",
     "The_SSEN/용어집/NAND와 DRAM.md",
     "Embedded Programming/메모리 반도체.md",
+    "Embedded Programming/computer Architecture/0. Computer Architecture.md",
+    "Embedded Programming/RESOLVED/Software Engineering - A practitioner's Approach.md",
+    "template/Computer Architecture.md",
+    "template/The SSEN template.md",
+    "Embedded Programming/0. Embedded Programming.md",
+    "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서/0. 처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
+    "Embedded Programming/RTOS 코드를 까보자.md",
+    "The_SSEN/용어집/CMOS.md",
+    "The_SSEN/용어집/LSB(Least Significant Bit).md",
+    "The_SSEN/용어집/MICOM.md",
+    "The_SSEN/용어집/MMIO.md",
+    "The_SSEN/용어집/MOU.md",
+    "The_SSEN/용어집/MPU.md",
+    "The_SSEN/용어집/VCC.md",
+    "The_SSEN/용어집/VV&A.md",
+    "The_SSEN/Curious/SRAM 과 DRAM.md",
+    "The_SSEN/Curious/주소는 4바이트인가 8바이트인가.md",
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
+    "Embedded Programming/computer Architecture",
+    "The_SSEN/3.7 포인터.md",
     "첨부파일/Pasted image 20250110172622.png",
     "The_SSEN/용어집/MUX.md",
-    "The_SSEN/용어집/MPU.md",
     "The_SSEN/용어집/FPGA.md",
     "The_SSEN/용어집/Flip-flop.md",
-    "The_SSEN/용어집/Latch.md",
-    "Excalidraw/LIG Nex1_embedded_C.md",
     "첨부파일/Pasted image 20250110115058.png",
-    "The_SSEN/3.7.1 포인터 문제 풀이.md",
-    "Embedded Programming/WINDOW 세팅.md",
     "첨부파일/Pasted image 20250110092051.png",
     "첨부파일/Pasted image 20250110091435.png",
     "첨부파일/Pasted image 20250110091239.png",
-    "The_SSEN/3.8 C 프로세스의 메모리 사용.md",
-    "The_SSEN/2.1 프로그램과 소프트웨어.md",
-    "The_SSEN/3.6 배열.md",
     "첨부파일/Pasted image 20250109152858.png",
     "첨부파일/Pasted image 20250109152834.png",
-    "Excalidraw/Java Spring.md",
-    "Excalidraw/Pinting 설계.md",
-    "Excalidraw/SQL.md",
-    "Excalidraw/Java JPA.md",
-    "Excalidraw/Java.md",
-    "Excalidraw/Java MSA.md",
-    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
-    "The_SSEN/3.1 변수.md",
     "첨부파일/Pasted Image 20250108180316_820.png",
     "첨부파일/Pasted Image 20250108162758_688.png",
     "첨부파일/Pasted image 20250108155239.png",
-    "template/The SSEN template 임베디드 C.md",
-    "The_SSEN/3.5 제어문과 함수.md",
     "무제 파일.canvas",
     "The_SSEN/Curious",
     "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서",
@@ -250,7 +251,6 @@
     "Embedded Programming/RESOLVED/Arm Cortex-M Processors",
     "Embedded Programming/Introduction of Microprocessor",
     "Embedded Programming",
-    "database/데이터베이스 엔지니어링 마스터",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
     "Transcendence/트센 캔버스.canvas",
