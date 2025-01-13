@@ -11,12 +11,42 @@
             "id": "cc653136ffe67639",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/LIG Nex1_방산의_이해_OS.md"
+                "file": "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "LIG Nex1_방산의_이해_OS"
+              "icon": "lucide-file",
+              "title": "3.0 임베디드 소프트웨어 개발 C"
+            }
+          },
+          {
+            "id": "d5d7fad8d3a87ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_SSEN/3.2 표준 입력.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.2 표준 입력"
+            }
+          },
+          {
+            "id": "cab2acca7e206e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Programming/3.9 구조체.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.9 구조체"
             }
           },
           {
@@ -34,63 +64,21 @@
             }
           },
           {
-            "id": "e4a6a36edbee1c97",
+            "id": "3d244417318707ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/3.8 C 프로세스의 메모리 사용.md",
+                "file": "Embedded Programming/메모리 반도체.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.8 C 프로세스의 메모리 사용"
-            }
-          },
-          {
-            "id": "689734c5f094b637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pinting/Pinting 개발 과정 발생한 에러.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pinting 개발 과정 발생한 에러"
-            }
-          },
-          {
-            "id": "544b8dc0a607e507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded Programming/문자열 loop, 널 문자 검사냐 사이즈 검사냐.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "문자열 loop, 널 문자 검사냐 사이즈 검사냐"
-            }
-          },
-          {
-            "id": "dd6fb5ae12576b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded Programming/2.0 How Transistors remember data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.0 How Transistors remember data"
+              "title": "메모리 반도체"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +105,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -139,10 +127,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -233,55 +222,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "689734c5f094b637",
+  "active": "cab2acca7e206e63",
   "lastOpenFiles": [
-    "The_SSEN/용어집/NMOS와 CMOS.md",
-    "The_SSEN/용어집/FPGA.md",
-    "The_SSEN/용어집/C runtime Environment.md",
-    "The_SSEN/3.8 C 프로세스의 메모리 사용.md",
+    "첨부파일/Pasted image 20250113173810.png",
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
+    "Embedded Programming/3.9 구조체.md",
+    "The_SSEN/3.2 표준 입력.md",
     "The_SSEN/3.7 포인터.md",
-    "The_SSEN/3.6 배열.md",
-    "Embedded Programming/문자열 loop, 널 문자 검사냐 사이즈 검사냐.md",
-    "The_SSEN/3.4 자동 형변환.md",
-    "Embedded Programming/const 선언 시 컴파일 방식.md",
-    "archive(non_fixed)/JavaScript/프레임워크 없는 프론트엔드 개발/4.2 HTTP 요청 예제.md",
+    "첨부파일/Pasted image 20250113093955.png",
     "The_SSEN/3.7.1 포인터 문제 풀이.md",
-    "The_SSEN/2.1 프로그램과 소프트웨어.md",
-    "Embedded Programming/computer Architecture/0. Computer Architecture.md",
-    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
-    "Embedded Programming/BIOS.md",
-    "The_SSEN/1.0 방위 산업의 이해.md",
-    "The_SSEN/용어집/NAND와 DRAM.md",
-    "Embedded Programming/TTL 논리 소자.md",
-    "Embedded Programming/FET.md",
     "첨부파일/Pasted image 20250113003841.png",
-    "The_SSEN/용어집/NVIC.md",
-    "The_SSEN/용어집/MPU.md",
-    "The_SSEN/용어집/MOU.md",
-    "The_SSEN/용어집/MICOM.md",
-    "The_SSEN/용어집/LSB(Least Significant Bit).md",
-    "The_SSEN/용어집/LNA.md",
-    "The_SSEN/용어집/ALU.md",
     "첨부파일/Pasted image 20250112181610.png",
     "첨부파일/Pasted image 20250112181606.png",
     "첨부파일/Pasted image 20250112014503.png",
     "첨부파일/Pasted image 20250112014242.png",
     "첨부파일/Pasted image 20250112013219.png",
     "첨부파일/Pasted image 20250112013022.png",
+    "template/Computer Architecture.md",
+    "The_SSEN/용어집/NMOS와 CMOS.md",
+    "Embedded Programming/문자열 loop, 널 문자 검사냐 사이즈 검사냐.md",
+    "Embedded Programming/const 선언 시 컴파일 방식.md",
+    "Embedded Programming/computer Architecture/1.0 How Transistors run code.md",
+    "Embedded Programming/computer Architecture/0. Computer Architecture.md",
     "Embedded Programming/computer Architecture",
+    "Embedded Programming/TTL 논리 소자.md",
+    "Embedded Programming/RTOS 코드를 까보자.md",
+    "Embedded Programming/FET.md",
+    "Embedded Programming/BIOS.md",
+    "Embedded Programming/2.0 How Transistors remember data.md",
+    "The_SSEN/용어집/NAND와 DRAM.md",
+    "Embedded Programming/메모리 반도체.md",
     "첨부파일/Pasted image 20250110172622.png",
+    "The_SSEN/용어집/MUX.md",
+    "The_SSEN/용어집/MPU.md",
+    "The_SSEN/용어집/FPGA.md",
+    "The_SSEN/용어집/Flip-flop.md",
+    "The_SSEN/용어집/Latch.md",
+    "Excalidraw/LIG Nex1_embedded_C.md",
     "첨부파일/Pasted image 20250110115058.png",
-    "첨부파일/Pasted image 20250110092051.png",
+    "Embedded Programming/WINDOW 세팅.md",
     "무제 파일.canvas",
     "The_SSEN/Curious",
     "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서",
