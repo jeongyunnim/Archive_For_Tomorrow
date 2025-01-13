@@ -1,80 +1,52 @@
 {
   "main": {
-    "id": "66c2ed00aec5fbbe",
+    "id": "7ef28d0b882aea33",
     "type": "split",
     "children": [
       {
-        "id": "7972dc2867d8244d",
+        "id": "f35f57c22e9e8909",
         "type": "tabs",
         "children": [
           {
-            "id": "cc653136ffe67639",
+            "id": "2951defa10d5258d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
+                "file": "The_SSEN/용어집/시리얼 통신.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.0 임베디드 소프트웨어 개발 C"
+              "title": "시리얼 통신"
             }
           },
           {
-            "id": "d5d7fad8d3a87ab6",
+            "id": "c0af6aa13dc98f5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/3.2 표준 입력.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.2 표준 입력"
-            }
-          },
-          {
-            "id": "cab2acca7e206e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded Programming/3.9 구조체.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.9 구조체"
-            }
-          },
-          {
-            "id": "bf438b52cccc4a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The_SSEN/용어집/NAND와 DRAM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NAND와 DRAM"
-            }
-          },
-          {
-            "id": "3d244417318707ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded Programming/메모리 반도체.md",
+                "file": "The_SSEN/용어집/메모리 반도체.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "메모리 반도체"
+            }
+          },
+          {
+            "id": "f5b1240eeee117c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_SSEN/용어집/MUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MUX"
             }
           }
         ],
@@ -84,42 +56,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "87ad4fada0abb5fc",
+    "id": "8d5d19492780a50b",
     "type": "split",
     "children": [
       {
-        "id": "c4c366e13bf6bde8",
+        "id": "accc10b12c900468",
         "type": "tabs",
         "children": [
           {
-            "id": "37ed8c2373dcbb85",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "TODO",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "1bf0b5be906acd83",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "a69cded141b28ffc",
+            "id": "c3245b45956c2501",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -127,31 +72,57 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "57bac5c0ee564d5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "c8a2216fdcddc26a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 300
   },
   "right": {
-    "id": "bffa1c894dbf14a2",
+    "id": "3fca430eeb61ca28",
     "type": "split",
     "children": [
       {
-        "id": "13c47f50e209800b",
+        "id": "b34aca4d99ac4448",
         "type": "tabs",
         "children": [
           {
-            "id": "7a981a2b4aa352a9",
+            "id": "874f5df904f085b6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The_SSEN/용어집/CMOS.md",
+                "file": "The_SSEN/용어집/MUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,25 +132,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CMOS의 백링크"
+              "title": "MUX의 백링크"
             }
           },
           {
-            "id": "8a2df6e4a140e40f",
+            "id": "c2a0fbcc67909260",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The_SSEN/용어집/CMOS.md",
+                "file": "The_SSEN/용어집/MUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CMOS의 나가는 링크"
+              "title": "MUX의 나가는 링크"
             }
           },
           {
-            "id": "55403797762fde2b",
+            "id": "a4545701b6b274a8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -192,25 +163,25 @@
             }
           },
           {
-            "id": "00c1b26f30692f92",
+            "id": "dc528f5c002f9cf5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/0. Java 프로그래밍 완벽 정복/11.0 함수형 프로그래밍.md"
+                "file": "The_SSEN/용어집/MUX.md"
               },
               "icon": "lucide-list",
-              "title": "11.0 함수형 프로그래밍 개요"
+              "title": "MUX 개요"
             }
           },
           {
-            "id": "c5a7a5c05cda7e15",
+            "id": "43b05357b7407f52",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -222,71 +193,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "cab2acca7e206e63",
+  "active": "f5b1240eeee117c7",
   "lastOpenFiles": [
-    "첨부파일/Pasted image 20250113173810.png",
-    "The_SSEN/3.0 임베디드 소프트웨어 개발 C.md",
-    "Embedded Programming/3.9 구조체.md",
-    "The_SSEN/3.2 표준 입력.md",
-    "The_SSEN/3.7 포인터.md",
-    "첨부파일/Pasted image 20250113093955.png",
-    "The_SSEN/3.7.1 포인터 문제 풀이.md",
-    "첨부파일/Pasted image 20250113003841.png",
-    "첨부파일/Pasted image 20250112181610.png",
-    "첨부파일/Pasted image 20250112181606.png",
-    "첨부파일/Pasted image 20250112014503.png",
-    "첨부파일/Pasted image 20250112014242.png",
-    "첨부파일/Pasted image 20250112013219.png",
-    "첨부파일/Pasted image 20250112013022.png",
-    "template/Computer Architecture.md",
-    "The_SSEN/용어집/NMOS와 CMOS.md",
-    "Embedded Programming/문자열 loop, 널 문자 검사냐 사이즈 검사냐.md",
-    "Embedded Programming/const 선언 시 컴파일 방식.md",
+    "The_SSEN/2.2 컴퓨터 발전과 기반지식.md",
     "Embedded Programming/computer Architecture/1.0 How Transistors run code.md",
-    "Embedded Programming/computer Architecture/0. Computer Architecture.md",
-    "Embedded Programming/computer Architecture",
-    "Embedded Programming/TTL 논리 소자.md",
-    "Embedded Programming/RTOS 코드를 까보자.md",
-    "Embedded Programming/FET.md",
-    "Embedded Programming/BIOS.md",
-    "Embedded Programming/2.0 How Transistors remember data.md",
-    "The_SSEN/용어집/NAND와 DRAM.md",
-    "Embedded Programming/메모리 반도체.md",
-    "첨부파일/Pasted image 20250110172622.png",
-    "The_SSEN/용어집/MUX.md",
-    "The_SSEN/용어집/MPU.md",
-    "The_SSEN/용어집/FPGA.md",
-    "The_SSEN/용어집/Flip-flop.md",
-    "The_SSEN/용어집/Latch.md",
-    "Excalidraw/LIG Nex1_embedded_C.md",
-    "첨부파일/Pasted image 20250110115058.png",
-    "Embedded Programming/WINDOW 세팅.md",
-    "무제 파일.canvas",
-    "The_SSEN/Curious",
-    "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서",
-    "The_SSEN/용어집",
-    "The_SSEN",
-    "Embedded Programming/RESOLVED",
-    "Embedded Programming/TODO LISTS",
-    "Embedded Programming/RESOLVED/Arm Cortex-M Processors",
-    "Embedded Programming/Introduction of Microprocessor",
-    "Embedded Programming",
-    "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
-    "Excalidraw/Untitled.canvas",
-    "Transcendence/트센 캔버스.canvas",
-    "Untitled.canvas",
-    "Untitled 1/Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas"
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.3 연산자.md",
+    "Embedded Programming/TODO LISTS/SIMD(Single instruction Multiple Data).md",
+    "Embedded Programming/TODO LISTS/주기함수.md",
+    "Embedded Programming/TODO LISTS/DSP(Digital Signal Processor).md",
+    "Embedded Programming/TODO LISTS/반도체 IP(Intellectual Property).md",
+    "작성 해야 함/엠바고.md",
+    "The_SSEN/2.4 컴퓨터 운영의 지휘자 운영체제.md",
+    "The_SSEN/용어집/시리얼 통신.md",
+    "The_SSEN/용어집/C runtime Environment.md",
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.7 포인터.md",
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.6 배열.md",
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.9 구조체.md",
+    "Embedded Programming/printf()에서 double을 f로 읽기 가능한가.md",
+    "The_SSEN/2.5 컴퓨터 통신과 인터넷.md",
+    "The_SSEN/용어집/MUM T.md",
+    "작성 해야 함/Microservices.md",
+    "작성 해야 함/JS에서 객체가 힙메모리에 저장되는 방식.md",
+    "작성 해야 함/WINDOW 세팅.md",
+    "The_SSEN/용어집/BIOS.md",
+    "The_SSEN/용어집/메모리 반도체.md",
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.0 임베디드 소프트웨어 개발 C.md",
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C",
+    "The_SSEN/Untitled.md",
+    "The_SSEN/Curious/RTOS 코드를 까보자.md",
+    "The_SSEN/2.0 How Transistors remember data.md"
   ]
 }
