@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.8 C 프로세스의 메모리 사용.md",
+                "file": "The_SSEN/0.0 The_SSEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.8 C 프로세스의 메모리 사용"
+              "title": "0.0 The_SSEN"
+            }
+          },
+          {
+            "id": "b5b66165c0efadc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Programming/4.0 자료구조와 알고리즘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.0 자료구조와 알고리즘"
             }
           },
           {
@@ -45,7 +59,8 @@
               "title": "LIG Nex1_방산의_이해_OS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,9 +214,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bf438b52cccc4a89",
+  "active": "b5b66165c0efadc8",
   "lastOpenFiles": [
+    "The_SSEN/0.0 The_SSEN.md",
+    "Embedded Programming/4.0 자료구조와 알고리즘.md",
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.0 임베디드 소프트웨어 개발 C.md",
     "Excalidraw/LIG Nex1_방산의_이해_OS.md",
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.9 구조체.md",
+    "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.8 C 프로세스의 메모리 사용.md",
     "첨부파일/Pasted image 20250113093955.png",
     "첨부파일/Pasted image 20250112013219.png",
     "첨부파일/Pasted image 20241227162055.png",
@@ -224,9 +244,6 @@
     "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.7 포인터.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/7.1 서비스 검색 및 등록 - 서비스 디스커버리 패턴.md",
     "Embedded Programming/Little endian VS Big endian.md",
-    "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.8 C 프로세스의 메모리 사용.md",
-    "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.9 구조체.md",
-    "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.0 임베디드 소프트웨어 개발 C.md",
     "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.7.1 포인터 문제 풀이.md",
     "Excalidraw/LIG Nex1_embedded_C.md",
     "The_SSEN/3.0 임베디드 소프트웨어 개발 C/3.6 배열.md",
@@ -235,7 +252,6 @@
     "The_SSEN/0.1 용어집/MMIO.md",
     "Embedded Programming/PS.md",
     "Embedded Programming/RISC.md",
-    "The_SSEN/0.1 용어집/NAND와 DRAM.md",
     "The_SSEN/3.0 임베디드 소프트웨어 개발 C",
     "Embedded Programming/computer Architecture",
     "무제 파일.canvas",
