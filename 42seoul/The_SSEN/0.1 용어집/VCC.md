@@ -20,5 +20,5 @@ aliases:
 ### 생각(파생된 질문/생각)
 
 ### 출처
-
+- https://www.y-ic.kr/blog/power-supply-voltage-abbreviation-vcc-vdd-vee-vss-gnd.html
 ### 연결 문서 (연결 이유)
