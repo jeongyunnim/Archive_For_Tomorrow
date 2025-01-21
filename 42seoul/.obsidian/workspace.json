@@ -25,14 +25,12 @@
             "id": "33042b7f29452fda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "The_SSEN/4.0 자료구조와 알고리즘.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/최신 디지털 공학.md"
               },
-              "icon": "lucide-file",
-              "title": "4.0 자료구조와 알고리즘"
+              "icon": "excalidraw-icon",
+              "title": "최신 디지털 공학"
             }
           },
           {
@@ -41,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Programming/이분탐색 - 닫힌구간과 열린구간.md",
+                "file": "The_SSEN/0.2 Curious/이분탐색 - 닫힌구간과 열린구간.md",
                 "mode": "source",
                 "source": false
               },
@@ -88,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,25 +240,28 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33042b7f29452fda",
+  "active": "e886c004ae1bff83",
   "lastOpenFiles": [
-    "Embedded Programming/이분탐색 - 닫힌구간과 열린구간.md",
-    "The_SSEN/4.0 자료구조와 알고리즘.md",
+    "Embedded Programming/computer Architecture/2.0 How Transistors Remember Data.md",
     "Excalidraw/LIG Nex1_embedded_C.md",
+    "Excalidraw/최신 디지털 공학.md",
+    "The_SSEN/0.2 Curious/이분탐색 - 닫힌구간과 열린구간.md",
+    "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서/0. 처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
+    "Embedded Programming/최신 디지털 공학/1.2 2진수, 논리 레벨, 디지털 파형.md",
+    "The_SSEN/0.2 Curious/Pointer base Linked List VS Dummy Node Linked List.md",
+    "The_SSEN/4.0 자료구조와 알고리즘.md",
+    "Embedded Programming/0. Embedded Programming.md",
+    "Embedded Programming/최신 디지털 공학/0.1 용어집",
     "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.10 FILE 입출력.md",
     "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.0 임베디드 소프트웨어 개발 C.md",
     "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.9 구조체.md",
-    "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서/0. 처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
-    "Embedded Programming/최신 디지털 공학/1.2 2진수, 논리 레벨, 디지털 파형.md",
-    "Embedded Programming/computer Architecture/2.0 How Transistors Remember Data.md",
     "Excalidraw/LIG Nex1_방산의_이해_OS.md",
-    "Excalidraw/최신 디지털 공학.md",
     "Excalidraw/Drawing 2025-01-20 16.47.17.excalidraw.md",
     "Embedded Programming/최신 디지털 공학/1.0 기본 개념.md",
     "Embedded Programming/computer Architecture/0. Computer Architecture.md",
     "Embedded Programming/2.0 How Transistors remember data.md",
     "Embedded Programming/computer Architecture/1.0 How Transistors run code.md",
-    "Embedded Programming/양자화.md",
+    "Embedded Programming/최신 디지털 공학/0.1 용어집/양자화.md",
     "Embedded Programming/최신 디지털 공학/1.1 디지털과 아날로그 양.md",
     "Embedded Programming/최신 디지털 공학/0. 최신 디지털 공학.md",
     "template/처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
@@ -268,10 +269,8 @@
     "template/최신 디지털 공학.md",
     "template/Zettelkasten.md",
     "첨부파일/Pasted image 20250117165240.png",
-    "Embedded Programming/Pointer base Linked List VS Dummy Node Linked List.md",
     "Embedded Programming/최신 디지털 공학",
     "The_SSEN/0.1 용어집/pullup pulldown 저항.md",
-    "The_SSEN/0.2 Curious/SRAM 과 DRAM.md",
     "첨부파일/Pasted image 20250116185009.png",
     "The_SSEN/2.0/Untitled",
     "The_SSEN/2. 컴퓨터 구조 및 운영체제",
@@ -290,7 +289,6 @@
     "The_SSEN/0.2 Curious",
     "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서",
     "The_SSEN/0.1 용어집",
-    "The_SSEN",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
     "Transcendence/트센 캔버스.canvas",
