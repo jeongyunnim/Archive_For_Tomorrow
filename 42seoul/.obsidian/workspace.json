@@ -13,24 +13,80 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서/0. 처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
+                "file": "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.0 임베디드 소프트웨어 개발 C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. 처음 배우는 Arm Cortex-M 마이크로컨트롤러"
+              "title": "5.0 임베디드 소프트웨어 개발 C++"
             }
           },
           {
-            "id": "33042b7f29452fda",
+            "id": "0cdc6e9a1a712b34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.1 C++ 입문.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1 C++ 입문"
+            }
+          },
+          {
+            "id": "14d9ce1f207825b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Programming/5.3 클래스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3 클래스"
+            }
+          },
+          {
+            "id": "59f5a986050e3160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.1 C++ 입문.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1 C++ 입문"
+            }
+          },
+          {
+            "id": "68edb11a7c64cd74",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/최신 디지털 공학.md"
+                "file": "Excalidraw/LIG Nex1_embedded_C.md"
               },
               "icon": "excalidraw-icon",
-              "title": "최신 디지털 공학"
+              "title": "LIG Nex1_embedded_C"
+            }
+          },
+          {
+            "id": "2165d760e2e606e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/2. 스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID)"
             }
           },
           {
@@ -48,29 +104,17 @@
             }
           },
           {
-            "id": "32e845f11591d6fa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/LIG Nex1_embedded_C.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "LIG Nex1_embedded_C"
-            }
-          },
-          {
             "id": "f920d379b9a5a7eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Programming/computer Architecture/2.0 How Transistors Remember Data.md",
+                "file": "Day Planners/2024-12-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.0 How Transistors Remember Data"
+              "title": "2024-12-27"
             }
           },
           {
@@ -86,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,37 +284,39 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e886c004ae1bff83",
+  "active": "14d9ce1f207825b4",
   "lastOpenFiles": [
-    "Embedded Programming/computer Architecture/2.0 How Transistors Remember Data.md",
+    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/8.0 객체란 무엇인가.md",
+    "Embedded Programming/5.3 클래스.md",
+    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.1 C++ 입문.md",
+    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.2 참조자.md",
+    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.0 임베디드 소프트웨어 개발 C++.md",
+    "The_SSEN/0.0 The_SSEN.md",
     "Excalidraw/LIG Nex1_embedded_C.md",
+    "The_SSEN/0.1 용어집/C runtime Environment.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
     "Excalidraw/최신 디지털 공학.md",
+    "The_SSEN/2. 컴퓨터 구조 및 운영체제/2.0 컴퓨터 구조 및 운영체제.md",
+    "The_SSEN/2. 컴퓨터 구조 및 운영체제/2.1 프로그램과 소프트웨어.md",
+    "Day Planners/2024-12-27.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/1.2 좋은 객체 지향 프로그래밍이란.md",
+    "Java/멀티 테넌시.md",
+    "Java/API 문서를 어떻게 작성할 것인가.md",
+    "Java/JDBC.md",
+    "The_SSEN/gRPC.md",
     "The_SSEN/0.2 Curious/이분탐색 - 닫힌구간과 열린구간.md",
+    "Java/4. 자바 ORM 표준 JPA 프로그래밍/0. 자바 ORM 표준 JPA 프로그래밍.md",
     "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서/0. 처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
-    "Embedded Programming/최신 디지털 공학/1.2 2진수, 논리 레벨, 디지털 파형.md",
-    "The_SSEN/0.2 Curious/Pointer base Linked List VS Dummy Node Linked List.md",
-    "The_SSEN/4.0 자료구조와 알고리즘.md",
-    "Embedded Programming/0. Embedded Programming.md",
+    "Day Planners/2024-06-24.md",
+    "Day Planners/2024-05-09.md",
+    "Day Planners/2024-06-01.md",
+    "Day Planners/2024-06-02.md",
+    "Day Planners/2024-12-04.md",
+    "The_SSEN/5. 임베디드 소프트웨어 개발 C++",
+    "The_SSEN/4. 자료구조와 알고리즘",
     "Embedded Programming/최신 디지털 공학/0.1 용어집",
-    "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.10 FILE 입출력.md",
-    "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.0 임베디드 소프트웨어 개발 C.md",
-    "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.9 구조체.md",
-    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
-    "Excalidraw/Drawing 2025-01-20 16.47.17.excalidraw.md",
-    "Embedded Programming/최신 디지털 공학/1.0 기본 개념.md",
-    "Embedded Programming/computer Architecture/0. Computer Architecture.md",
-    "Embedded Programming/2.0 How Transistors remember data.md",
-    "Embedded Programming/computer Architecture/1.0 How Transistors run code.md",
-    "Embedded Programming/최신 디지털 공학/0.1 용어집/양자화.md",
-    "Embedded Programming/최신 디지털 공학/1.1 디지털과 아날로그 양.md",
-    "Embedded Programming/최신 디지털 공학/0. 최신 디지털 공학.md",
-    "template/처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
-    "template/자바 ORM 표준 JPA 프로그래밍 - 기본편.md",
-    "template/최신 디지털 공학.md",
-    "template/Zettelkasten.md",
     "첨부파일/Pasted image 20250117165240.png",
     "Embedded Programming/최신 디지털 공학",
-    "The_SSEN/0.1 용어집/pullup pulldown 저항.md",
     "첨부파일/Pasted image 20250116185009.png",
     "The_SSEN/2.0/Untitled",
     "The_SSEN/2. 컴퓨터 구조 및 운영체제",
@@ -287,8 +333,6 @@
     "Embedded Programming/computer Architecture",
     "무제 파일.canvas",
     "The_SSEN/0.2 Curious",
-    "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서",
-    "The_SSEN/0.1 용어집",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
     "Transcendence/트센 캔버스.canvas",

@@ -4,6 +4,7 @@
 태그: 프로그래밍
 출처: 
 aliases:
+  - Startup Code
 ---
 ### 날짜:  2024-12-27 10:58
 
@@ -15,8 +16,11 @@ aliases:
 ### 원문
 ---
 # C runtime Environment
+- 컴파일러가 만들어주는 코드
 
 [[TODO]]
+- https://en.wikipedia.org/wiki/Runtime_system
+- 
 
 ---
 ### 생각(파생된 질문/생각)
