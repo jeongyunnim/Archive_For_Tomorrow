@@ -4,121 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7972dc2867d8244d",
+        "id": "fed8ee7dd3619f26",
         "type": "tabs",
         "children": [
           {
-            "id": "bf438b52cccc4a89",
+            "id": "23ffc13af2f9fe3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.4 객체지향 프로그래밍.md",
+                "file": "Embedded Programming/임베디드 레시피/0. 임베디드 레시피.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.4 객체지향 프로그래밍"
-            }
-          },
-          {
-            "id": "d2cd0b52a623f348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.0 임베디드 소프트웨어 개발 C++.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.0 임베디드 소프트웨어 개발 C++"
-            }
-          },
-          {
-            "id": "14d9ce1f207825b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.0 임베디드 소프트웨어 개발 C++.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.0 임베디드 소프트웨어 개발 C++"
-            }
-          },
-          {
-            "id": "c6371488339a23ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.5 상속.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.5 상속"
-            }
-          },
-          {
-            "id": "3ab49b610d629e97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded Programming/5.6 다형성.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.6 다형성"
-            }
-          },
-          {
-            "id": "3cb944cecdcf3738",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/LIG Nex1_embedded_C.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "LIG Nex1_embedded_C"
-            }
-          },
-          {
-            "id": "68edb11a7c64cd74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The_SSEN/0.1 용어집/C runtime Environment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C runtime Environment"
-            }
-          },
-          {
-            "id": "8f7218b0eb771c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The_SSEN/0.2 Curious/이분탐색 - 닫힌구간과 열린구간.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "이분탐색 - 닫힌구간과 열린구간"
+              "title": "0. 임베디드 레시피"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +48,7 @@
                 "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -167,7 +70,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           }
         ],
@@ -262,48 +165,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3ab49b610d629e97",
+  "active": "23ffc13af2f9fe3a",
   "lastOpenFiles": [
-    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.5 상속.md",
-    "Embedded Programming/5.6 다형성.md",
+    "template/임베디드 레시피 template.md",
+    "Embedded Programming/임베디드 레시피",
+    "template/board study template.md",
+    "template/Computer Architecture.md",
+    "template/The SSEN template.md",
+    "template/The SSEN template 임베디드 C++.md",
+    "template/Zettelkasten.md",
+    "Embedded Programming/임베디드 레시피/0. 임베디드 레시피.md",
+    "Embedded Programming/처음 배우는 Arm Cortex-M 마이크로프로세서/0. 처음 배우는 Arm Cortex-M 마이크로컨트롤러.md",
+    "Embedded Programming/최신 디지털 공학/1.1 디지털과 아날로그 양.md",
+    "Embedded Programming/최신 디지털 공학/1.2 2진수, 논리 레벨, 디지털 파형.md",
+    "Embedded Programming/computer Architecture/0. Computer Architecture.md",
+    "The_SSEN/0.2 Curious/이분탐색 - 닫힌구간과 열린구간.md",
+    "The_SSEN/0.1 용어집/C runtime Environment.md",
+    "Excalidraw/LIG Nex1_embedded_C.md",
+    "The_SSEN/0.1 용어집/FPGA.md",
+    "The_SSEN/4. 자료구조와 알고리즘/4.0 자료구조와 알고리즘.md",
     "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.0 임베디드 소프트웨어 개발 C++.md",
+    "Embedded Programming/TODO LISTS/반도체 IP(Intellectual Property).md",
+    "Embedded Programming/TODO LISTS/주기함수.md",
+    "작성 해야 함/gRPC.md",
+    "The_SSEN/0.1 용어집/gRPC.md",
+    "Embedded Programming/5.6 다형성.md",
+    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.5 상속.md",
     "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.4 객체지향 프로그래밍.md",
     "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.3 클래스.md",
-    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.2 참조자.md",
-    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.1 C++ 입문.md",
-    "The_SSEN/2. 컴퓨터 구조 및 운영체제/2.2 컴퓨터 발전과 기반지식.md",
-    "The_SSEN/4. 자료구조와 알고리즘/4.0 자료구조와 알고리즘.md",
-    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
-    "Java/DDL.md",
-    "The_SSEN/2. 컴퓨터 구조 및 운영체제/2.3 컴퓨터 시스템의 구조.md",
-    "Embedded Programming/최신 디지털 공학/1.2 2진수, 논리 레벨, 디지털 파형.md",
-    "Embedded Programming/board study/1회.md",
     "첨부파일/Pasted image 20250123194035.png",
     "첨부파일/Pasted image 20250123192950.png",
     "첨부파일/Pasted image 20250123190708.png",
-    "Excalidraw/LIG Nex1_embedded_C.md",
-    "template/The SSEN template 임베디드 C++.md",
-    "Embedded Programming/RESOLVED/Software Engineering - A practitioner's Approach.md",
-    "template/The SSEN template.md",
-    "The_SSEN/0.1 용어집/C runtime Environment.md",
-    "template/board study template.md",
-    "template/Zettelkasten.md",
-    "template/최신 디지털 공학.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
     "Embedded Programming/board study",
-    "The_SSEN/0.2 Curious/이분탐색 - 닫힌구간과 열린구간.md",
-    "Excalidraw/최신 디지털 공학.md",
-    "archive(non_fixed)/JavaScript/JavaScript 완벽 가이드/8.0 객체란 무엇인가.md",
     "The_SSEN/5. 임베디드 소프트웨어 개발 C++",
     "The_SSEN/4. 자료구조와 알고리즘",
     "Embedded Programming/최신 디지털 공학/0.1 용어집",
@@ -319,7 +222,6 @@
     "첨부파일/Pasted image 20241226114538.png",
     "첨부파일/Pasted Image 20241217161153_560.png",
     "The_SSEN/3. 임베디드 소프트웨어 개발 C",
-    "Embedded Programming/computer Architecture",
     "무제 파일.canvas",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
