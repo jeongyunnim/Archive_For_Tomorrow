@@ -1,48 +1,12 @@
 {
   "collapse-filter": false,
   "search": "TODO 임베디드  -path:template  -path:\"Day Planners\"  -path:Excalidraw ",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#프로그래밍/도커  ",
-      "color": {
-        "a": 1,
-        "rgb": 9082868
-      }
-    },
-    {
-      "query": "tag:#42subject  ",
-      "color": {
-        "a": 1,
-        "rgb": 7387903
-      }
-    },
-    {
-      "query": "tag:#자바  ",
-      "color": {
-        "a": 1,
-        "rgb": 16756224
-      }
-    },
-    {
-      "query": "tag:#프로그래밍/임베디드  ",
-      "color": {
-        "a": 1,
-        "rgb": 7733099
-      }
-    },
-    {
-      "query": "tag:#프로그래밍",
-      "color": {
-        "a": 1,
-        "rgb": 2794106
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -53,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.3066069133541862,
+  "scale": 0.664751796948974,
   "close": false
 }

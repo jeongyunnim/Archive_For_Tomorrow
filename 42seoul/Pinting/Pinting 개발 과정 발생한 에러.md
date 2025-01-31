@@ -56,7 +56,7 @@ ARG JAR_FILE=build/libs/*.jar
 - FE-PINTING에 Dockerfile이 없어서 생기는 오류였다.
 #### 해결
 - FE-PINTING을 제외하고 컨테이너를 올려서 해결.
-- TODO: 이후 프론트 쪽 Dockerfile이 업로드 되면 추가해야 함.
+- 이후 프론트 쪽 Dockerfile이 업로드 되면 추가해야 함.
 ### ✅컨테이너를 찾지 못하는 오류
 ```
 nginx: [emerg] host not found in upstream "gateway" in /etc/nginx/http.d/default.conf:14

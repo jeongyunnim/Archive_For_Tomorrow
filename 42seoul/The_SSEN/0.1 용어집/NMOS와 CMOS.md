@@ -25,7 +25,7 @@ aliases:
 	- 산소와 다른 원소의 화합물
 - [[conductor]]: 전도체 < - > [[insulator]]: 절연체 
 - COS-MOS라고도 한다.
-	- complementary -symmetry metal-oxide-semiconductor
+	- complementary-symmetry metal-oxide-semiconductor
 ### 특징
 - [[집적 회로(IC)]]의 한 종류, [[MPU]]또는 [[SRAM]] 등의 디지털 회로를 구성하는 데 사용된다.
 - 전원이 꺼져도 정보를 유지할 수 있다.

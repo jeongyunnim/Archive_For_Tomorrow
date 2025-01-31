@@ -98,13 +98,15 @@ Micro Controller Unit
 	- 분리되어서 동작할 수도 있다.
 ![[Pasted image 20250123192950.png]]
 ![[Pasted image 20250123194035.png]]
-- DMA
+- [[DMA]]
 	- 어떤 메모리에서 어떤 메모리로 복사할지
 	- 주변장치에서 통신 정보를 받아서 올릴 때?
-- GPIO
-- NVIC
+- [[GPIO]]
+- [[NVIC]]
 	- 인터럽트 설정
 	- 동시에 발생 시, 우선순위 설정 등
+- [[RCC]]
+- [[WWDG]]
 - [[HAL 라이브러리]]
 
 
