@@ -33,7 +33,7 @@ io 핀의 출력이 high일 때 LE에 빛이 들어온다.
 ### Floating 상태
 - 입력되는 저항이 0도 아니고 1도 아닌 상태
 - 예상치 못한 결과를 초래할 수 있다.
-- 동작방식이 AL, AH인지에 따라 [[pullup pulldown 저항]]을 걸어준다.
+- 동작방식이 AL, AH인지에 따라 [[pull-up pull-down 저항]]을 걸어준다.
 
 ---
 ### 생각(파생된 질문/생각)
@@ -43,4 +43,4 @@ io 핀의 출력이 high일 때 LE에 빛이 들어온다.
 
 ### 연결 문서 (연결 이유)
 - [[Floating 상태]]
-- [[pullup pulldown 저항]]
+- [[pull-up pull-down 저항]]
