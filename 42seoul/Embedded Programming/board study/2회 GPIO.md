@@ -15,6 +15,8 @@ aliases:
 ### 원문
 ---
 # 2회 GPIO
+### Memory mapped
+
 
 ### GPIO
 - input driver
@@ -65,6 +67,10 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 }
 ```
 ### CPU는 실제 인터럽트를 어떻게 찾아가는가?
+- NVIC에 인터럽트 신호가 들어온 칩에 해당하는 인터럽트 핸들러를 호출
+	- 인터럽트 테이블을 가지고 있다.
+	- 활성화된 인터럽트에 해당하는 로직을 실행한다.
+	- [ ] CPU가 인터럽트를 찾아가는 과정 
 ```c
 static int pr_reg = 0;
 

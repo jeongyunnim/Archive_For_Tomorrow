@@ -26,7 +26,7 @@ aliases:
 	- 볼륨 마운트를 사용하기.
 ---
 ### mariadb 문법 오류
-- [ ] 해결 여부
+- [x] 해결 여부 ✅ 2025-02-04
 ```error
 ERROR: 1064  You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;' at line 1
 ```

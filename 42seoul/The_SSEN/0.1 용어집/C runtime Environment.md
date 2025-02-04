@@ -37,7 +37,7 @@ aliases:
 
 Runtime environment setup code는 자동으로 애플리케이션과 연결된다.
 [[crt0]](.s 또는 .o)
-[[TODO]]
+- [ ] crt0에 대해 정리하기
 
 ### startup code
 - 자동으로 startup code를 삽입한다.
