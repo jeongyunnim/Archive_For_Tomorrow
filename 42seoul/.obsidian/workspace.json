@@ -25,24 +25,14 @@
             "id": "2219f3ef5d86e3bd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/LIG Nex1_embedded_C.md"
+                "file": "The_SSEN/6. C sharp/6.0 C sharp.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "LIG Nex1_embedded_C"
-            }
-          },
-          {
-            "id": "b7bdefbedda02ba4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Board Study.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Board Study"
+              "icon": "lucide-file",
+              "title": "6.0 C sharp"
             }
           },
           {
@@ -51,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "작성 해야 함/0. TODO LIST.md",
+                "file": "The_SSEN/6. C sharp/6.0 C sharp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. TODO LIST"
+              "title": "6.0 C sharp"
             }
           }
         ]
@@ -117,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -215,11 +204,63 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
+  "floating": {
+    "id": "24236c781285a832",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6869c7c910e5e79a",
+        "type": "window",
+        "children": [
+          {
+            "id": "140124778ce40fc4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "da47f47fee91ff29",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The_SSEN/6. C sharp/6.0 C sharp.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "6.0 C sharp"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "8cafefcf9b27f89e",
   "lastOpenFiles": [
-    "작성 해야 함/0. TODO LIST.md",
-    "archive(non_fixed)/inception/(Inception) Error log.md",
+    "The_SSEN/0.1 용어집/UART.md",
+    "Embedded Programming/board study/2회 GPIO.md",
+    "The_SSEN/6. C sharp/6.0 C sharp.md",
+    "첨부파일/Pasted image 20250204174905.png",
+    "Excalidraw/Board Study.md",
+    "The_SSEN/0.1 용어집/NVIC.md",
+    "첨부파일/Pasted image 20250204135935.png",
+    "첨부파일/Pasted image 20250204134238.png",
+    "첨부파일/Pasted image 20250204134210.png",
+    "Embedded Programming/3.0 GPIO 사용 방법.md",
+    "The_SSEN/0 TODO LIST.md",
+    "Day Planners/2025-02-04.md",
+    "The_SSEN/0.0 The_SSEN.md",
+    "Excalidraw/LIG Nex1_embedded_C.md",
     "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.8 C 프로세스의 메모리 사용.md",
+    "archive(non_fixed)/inception/(Inception) Error log.md",
     "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md",
     "The_SSEN/0.1 용어집/FPGA.md",
     "The_SSEN/0.1 용어집/RISC.md",
@@ -234,15 +275,6 @@
     "The_SSEN/0.1 용어집/C runtime Environment.md",
     "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.3 연산자.md",
     "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.4 자동 형변환.md",
-    "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.7 포인터.md",
-    "The_SSEN/2. 컴퓨터 구조 및 운영체제/2.4 컴퓨터 운영의 지휘자 운영체제.md",
-    "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.9 구조체.md",
-    "The_SSEN/0.1 용어집/NMOS와 CMOS.md",
-    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.0 임베디드 소프트웨어 개발 C++.md",
-    "The_SSEN/2. 컴퓨터 구조 및 운영체제/2.2 컴퓨터 발전과 기반지식.md",
-    "The_SSEN/2. 컴퓨터 구조 및 운영체제/2.3 컴퓨터 시스템의 구조.md",
-    "Embedded Programming/3.0 GPIO 사용 방법.md",
-    "The_SSEN/6. C sharp/6.0 C sharp.md",
     "첨부파일/Pasted image 20250203184144.png",
     "첨부파일/Pasted image 20250203170829.png",
     "첨부파일/Pasted image 20250203164307.png",
@@ -251,10 +283,6 @@
     "첨부파일/Pasted image 20250203094445.png",
     "The_SSEN/6. C sharp",
     "Embedded Programming/임종수의 STM32 Cortex-M",
-    "첨부파일/Pasted image 20250131163158.png",
-    "첨부파일/Pasted image 20250131121841.png",
-    "첨부파일/Pasted image 20250131002955.png",
-    "첨부파일/Pasted image 20250131002627.png",
     "Embedded Programming/임베디드 레시피",
     "Embedded Programming/board study",
     "The_SSEN/5. 임베디드 소프트웨어 개발 C++",
