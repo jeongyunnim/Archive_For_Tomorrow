@@ -66,11 +66,20 @@ short a = *((unsigned short*)0x40010808);
 
 
 ### 실습
+#### 실습환경 준비
 - CubeIDE에서 STM32 project 생성
-	- F103RB 
-- GPIO 13번 핀
+	- F103RB 검색
+![[Pasted image 20250205085109.png]]
+
+- GPIO 13번 핀(유저 버튼)을 EXTI13으로 변경한다.
 ![[Pasted image 20250203184144.png]]
 - PA 이름의 정체
+	- **P**in GPIO**A**
+- 어떤 메뉴얼을 보아야 하는가?
+	- 칩 제조사 메뉴얼(rm...)
+		- 칩 내부의 페리페럴(GPIO, timer 등)의 정보를 확인할 수 있다.
+	- 보드 제조사 메뉴얼(stm...)
+		- 칩 바깥 보드와 칩의 연동 정보를 확인할 수 있다.
 #### LED 제어하기
 - PC-TAMPER-RTC
 	- falling edge

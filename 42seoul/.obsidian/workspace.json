@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Programming/3.0 GPIO 사용 방법.md",
+                "file": "Embedded Programming/임종수의 STM32 Cortex-M/3.0 GPIO 사용 방법.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/6. C sharp/6.0 C sharp.md",
+                "file": "Embedded Programming/board study/2회 GPIO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.0 C sharp"
+              "title": "2회 GPIO"
             }
           },
           {
@@ -47,6 +47,18 @@
               },
               "icon": "lucide-file",
               "title": "6.0 C sharp"
+            }
+          },
+          {
+            "id": "095d776a47295052",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/LIG Nex1_방산의_이해_OS.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "LIG Nex1_방산의_이해_OS"
             }
           }
         ]
@@ -68,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO",
+                "query": "DMA",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -204,93 +217,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "floating": {
-    "id": "24236c781285a832",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6869c7c910e5e79a",
-        "type": "window",
-        "children": [
-          {
-            "id": "140124778ce40fc4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "da47f47fee91ff29",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The_SSEN/6. C sharp/6.0 C sharp.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "6.0 C sharp"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "8cafefcf9b27f89e",
   "lastOpenFiles": [
-    "The_SSEN/0.1 용어집/UART.md",
-    "Embedded Programming/board study/2회 GPIO.md",
     "The_SSEN/6. C sharp/6.0 C sharp.md",
-    "첨부파일/Pasted image 20250204174905.png",
-    "Excalidraw/Board Study.md",
-    "The_SSEN/0.1 용어집/NVIC.md",
-    "첨부파일/Pasted image 20250204135935.png",
-    "첨부파일/Pasted image 20250204134238.png",
-    "첨부파일/Pasted image 20250204134210.png",
-    "Embedded Programming/3.0 GPIO 사용 방법.md",
-    "The_SSEN/0 TODO LIST.md",
-    "Day Planners/2025-02-04.md",
-    "The_SSEN/0.0 The_SSEN.md",
-    "Excalidraw/LIG Nex1_embedded_C.md",
-    "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.8 C 프로세스의 메모리 사용.md",
-    "archive(non_fixed)/inception/(Inception) Error log.md",
-    "Java/4. 자바 ORM 표준 JPA 프로그래밍/3.0 영속성 컨텍스트.md",
-    "The_SSEN/0.1 용어집/FPGA.md",
-    "The_SSEN/0.1 용어집/RISC.md",
-    "The_SSEN/4. 자료구조와 알고리즘/4.0 자료구조와 알고리즘.md",
-    "Embedded Programming/최신 디지털 공학/1.5 프로그램 가능한 논리의 소개.md",
-    "The_SSEN/2. 컴퓨터 구조 및 운영체제/2.1 프로그램과 소프트웨어.md",
-    "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.1 변수.md",
-    "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.2 표준 입력.md",
-    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.9 예외처리.md",
-    "Embedded Programming/최신 디지털 공학/1.7 테스트 및 계측 장비.md",
-    "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.0 임베디드 소프트웨어 개발 C.md",
-    "The_SSEN/0.1 용어집/C runtime Environment.md",
-    "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.3 연산자.md",
-    "The_SSEN/3. 임베디드 소프트웨어 개발 C/3.4 자동 형변환.md",
-    "첨부파일/Pasted image 20250203184144.png",
-    "첨부파일/Pasted image 20250203170829.png",
-    "첨부파일/Pasted image 20250203164307.png",
-    "첨부파일/Pasted image 20250203150129.png",
-    "첨부파일/Pasted image 20250203144709.png",
-    "첨부파일/Pasted image 20250203094445.png",
+    "Embedded Programming/임종수의 STM32 Cortex-M/3.0 GPIO 사용 방법.md",
+    "첨부파일/Pasted image 20250205171147.png",
+    "첨부파일/Pasted image 20250205164405.png",
+    "첨부파일/Pasted image 20250205163859.png",
+    "네트워크/윤성우의 열혈 TCP IP 소켓 프로그래밍/7-1 L5수준 소켓 옵션.md",
+    "네트워크/윤성우의 열혈 TCP IP 소켓 프로그래밍/6. Chapter08 도메인 이름과 인터넷 주소.md",
+    "네트워크/윤성우의 열혈 TCP IP 소켓 프로그래밍/5. Chapter07 소켓의 우아한 연결종료.md",
+    "네트워크/윤성우의 열혈 TCP IP 소켓 프로그래밍/4. Chapter04,05 TCP 기반 서버와 클라이언트.md",
+    "네트워크/윤성우의 열혈 TCP IP 소켓 프로그래밍/4-3 TCP소켓의 입출력 버퍼.md",
+    "네트워크/윤성우의 열혈 TCP IP 소켓 프로그래밍/4-1 연결 대기 상태.md",
+    "네트워크/외워서 끝내는 네트워크 핵심이론-기초/5-1. IP주소.md",
+    "Embedded Programming/board study/2회 GPIO.md",
+    "네트워크/외워서 끝내는 네트워크 핵심이론-기초/1. OSI 7Layer.md",
+    "네트워크/외워서 끝내는 네트워크 핵심이론-기초/5-2. L3 IP Packet.md",
+    "네트워크/외워서 끝내는 네트워크 핵심이론-기초/4. L2 수준에서 외워야할 것.md",
+    "네트워크/외워서 끝내는 네트워크 핵심이론-기초/3. Switch는 무엇인가.md",
+    "네트워크/외워서 끝내는 네트워크 핵심이론-기초/2. Host란 무엇인가.md",
+    "네트워크/윤성우의 열혈 TCP IP 소켓 프로그래밍/1-2 윈도우 기반 소켓 관련 함수.md",
+    "네트워크/윤성우의 열혈 TCP IP 소켓 프로그래밍/1-1 윈도우 소켓 프로그래밍.md",
+    "네트워크/window 소켓 프로그래밍 입문에서 고성능 서버까지!/8. 대표적인 TCP 장애유형.md",
+    "네트워크/window 소켓 프로그래밍 입문에서 고성능 서버까지!/7. 파일 송수신.md",
+    "네트워크/window 소켓 프로그래밍 입문에서 고성능 서버까지!/1. 소켓의 본질에 대한 이해.md",
+    "네트워크/window 소켓 프로그래밍 입문에서 고성능 서버까지!/3. TCP 에코 서비스 전체 흐름.md",
+    "네트워크/첨부파일/그림 1-9 HTTP 네트워크 프로토콜 스택.png",
+    "네트워크/첨부파일/Pasted image 20230919204939.png",
+    "네트워크/첨부파일/Pasted image 20230919204716.png",
+    "네트워크/첨부파일/Pasted image 20230919193331.png",
+    "네트워크/첨부파일/Pasted image 20230910212248.png",
+    "네트워크/첨부파일/Pasted image 20230919172257.png",
+    "네트워크/첨부파일/Pasted image 20230919165356.png",
+    "네트워크/첨부파일/Drawing 2023-07-23 17.10.10.excalidraw.md",
+    "네트워크/첨부파일",
+    "네트워크/webserv/RFC 문서 정리.md",
+    "네트워크",
+    "네트워크/webserv/RFC 9110.md",
+    "네트워크/webserv/Non blocking IO.md",
+    "네트워크/외워서 끝내는 네트워크 핵심이론-기초",
+    "네트워크/window 소켓 프로그래밍 입문에서 고성능 서버까지!",
+    "네트워크/webserv",
+    "네트워크/HTTP 완벽 가이드",
+    "네트워크/윤성우의 열혈 TCP IP 소켓 프로그래밍",
     "The_SSEN/6. C sharp",
     "Embedded Programming/임종수의 STM32 Cortex-M",
     "Embedded Programming/임베디드 레시피",
-    "Embedded Programming/board study",
-    "The_SSEN/5. 임베디드 소프트웨어 개발 C++",
-    "The_SSEN/4. 자료구조와 알고리즘",
-    "Embedded Programming/최신 디지털 공학/0.1 용어집",
-    "Embedded Programming/최신 디지털 공학",
-    "The_SSEN/2.0/Untitled",
-    "The_SSEN/2. 컴퓨터 구조 및 운영체제",
     "무제 파일.canvas",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
