@@ -13,36 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "네트워크/webserv/RFC 9110.md",
+                "file": "Embedded Programming/임종수의 STM32 Cortex-M/5.0 전원과 Clock 설정 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RFC 9110"
+              "title": "5.0 전원과 Clock 설정 방법"
             }
           },
           {
-            "id": "dcad8da8da00b7f7",
+            "id": "a0c14583bb06e4fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.0 방산 SW 요구사항 분석설계.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.0 방산 SW 요구사항 분석설계"
+            }
+          },
+          {
+            "id": "daafb74b90d2d8f9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw(non_fixed)/ft_transcendence.excalidraw.md"
+                "file": "Excalidraw/LIG Nex1 방산 소프트웨어.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ft_transcendence.excalidraw"
-            }
-          },
-          {
-            "id": "bedcff39201d570d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Board Study.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Board Study"
+              "title": "LIG Nex1 방산 소프트웨어"
             }
           },
           {
@@ -60,20 +62,6 @@
             }
           },
           {
-            "id": "5b0b5b634505ff04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The_SSEN/6. C sharp/6.0 C sharp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.0 C sharp"
-            }
-          },
-          {
             "id": "095d776a47295052",
             "type": "leaf",
             "state": {
@@ -85,8 +73,7 @@
               "title": "LIG Nex1_방산의_이해_OS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +123,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           }
         ],
@@ -144,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5024719238281
+    "width": 265.5110321044922
   },
   "right": {
     "id": "bffa1c894dbf14a2",
@@ -231,54 +218,138 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bedcff39201d570d",
+  "floating": {
+    "id": "97268bf307f4b4a2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "588fa1216270e6c6",
+        "type": "window",
+        "children": [
+          {
+            "id": "e83d59d845ffc4c7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "24e4f24bd3028edb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.0 방산 SW 요구사항 분석설계.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "7.0 방산 SW 요구사항 분석설계"
+                }
+              },
+              {
+                "id": "f62df739437374cd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded Programming/KAMD.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "KAMD"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": -0.5
+      },
+      {
+        "id": "02b4ed476e836b17",
+        "type": "window",
+        "children": [
+          {
+            "id": "9dd16752df08bd78",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0965eebe223c07e9",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/LIG Nex1 방산 소프트웨어.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "LIG Nex1 방산 소프트웨어"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -960,
+        "y": -123,
+        "width": 960,
+        "height": 1152,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "8cafefcf9b27f89e",
   "lastOpenFiles": [
-    "Embedded Programming/board study/2회 GPIO.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.0 방산 SW 요구사항 분석설계.md",
+    "Excalidraw/LIG Nex1 방산 소프트웨어.md",
+    "Embedded Programming/임종수의 STM32 Cortex-M/5.0 전원과 Clock 설정 방법.md",
+    "첨부파일/Pasted Image 20250210140623_204.png",
+    "첨부파일/Pasted Image 20250210122617_204.png",
+    "첨부파일/Pasted Image 20250210122430_214.png",
+    "첨부파일/Pasted Image 20250210104214_276.png",
+    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
+    "Excalidraw/SQL.md",
+    "Excalidraw/Pinting 설계.md",
+    "Excalidraw/LIG Nex1_embedded_C.md",
+    "Excalidraw/Drawing 2025-02-10 10.29.29.excalidraw.md",
+    "Embedded Programming/KAMD.md",
+    "첨부파일/Pasted image 20250210093102.png",
+    "template/The SSEN template 방산 설계.md",
+    "첨부파일/Pasted image 20250210090035.png",
+    "The_SSEN/0.0 The_SSEN.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계",
+    "네트워크/webserv/RFC 9110.md",
     "Excalidraw/Board Study.md",
     "Excalidraw(non_fixed)/ft_transcendence.excalidraw.md",
+    "Embedded Programming/board study/2회 GPIO.md",
     "Excalidraw/웹의 구조.md",
-    "네트워크/webserv/RFC 9110.md",
     "네트워크/webserv/RFC 2119.md",
     "네트워크/webserv/kqueue.md",
     "네트워크/webserv/kevent.md",
-    "Embedded Programming/임종수의 STM32 Cortex-M/5.0 전원과 Clock 설정 방법.md",
     "Embedded Programming/임종수의 STM32 Cortex-M/0. 임종수의 STM32 Cortex-M.md",
     "Embedded Programming/임종수의 STM32 Cortex-M/4.0 Interrupt 소개와 외부 Interrupt 처리 방법.md",
     "Embedded Programming/최신 디지털 공학/1.7 테스트 및 계측 장비.md",
     "Embedded Programming/임종수의 STM32 Cortex-M/8.0 UART 사용 방법과 전송 규격 작성 방법.md",
     "The_SSEN/6. C sharp/WPF.md",
     "The_SSEN/6. C sharp/6.0 C sharp.md",
-    "네트워크/webserv/캐시 가능.md",
-    "네트워크/webserv/웹서브.md",
-    "Embedded Programming/board study/3회 UART.md",
     "첨부파일/Pasted image 20250208181319.png",
     "첨부파일/Pasted image 20250208180323.png",
     "첨부파일/Pasted image 20250208175720.png",
     "첨부파일/Pasted image 20250208174651.png",
-    "Embedded Programming/최신 디지털 공학/1.2 2진수, 논리 레벨, 디지털 파형.md",
-    "Embedded Programming/최신 디지털 공학/1.4 조합 논리 함수와 순차 논리 함수.md",
-    "Embedded Programming/최신 디지털 공학/1.1 디지털과 아날로그 양.md",
-    "Embedded Programming/최신 디지털 공학/1.0 기본 개념.md",
-    "첨부파일/Pasted image 20250207191452.png",
-    "첨부파일/Pasted image 20250206200133.png",
-    "첨부파일/Pasted image 20250206191150.png",
-    "첨부파일/Pasted image 20250206170242.png",
-    "첨부파일/Pasted image 20250206153607.png",
-    "첨부파일/Pasted image 20250206143457.png",
-    "Embedded Programming/임종수의 STM32 Cortex-M/3.0 GPIO 사용 방법.md",
-    "Embedded Programming/APB2 clock cycle.md",
-    "Excalidraw/동기와 비동기(kqueue).md",
-    "네트워크/윤성우의 열혈 TCP IP 소켓 프로그래밍/7-1 L5수준 소켓 옵션.md",
     "네트워크/첨부파일",
     "네트워크",
     "네트워크/외워서 끝내는 네트워크 핵심이론-기초",
@@ -288,7 +359,6 @@
     "네트워크/윤성우의 열혈 TCP IP 소켓 프로그래밍",
     "The_SSEN/6. C sharp",
     "Embedded Programming/임종수의 STM32 Cortex-M",
-    "Embedded Programming/임베디드 레시피",
     "무제 파일.canvas",
     "archive(non_fixed)/Transcendence/트센 캔버스.canvas",
     "Excalidraw/Untitled.canvas",
