@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Programming/임종수의 STM32 Cortex-M/5.0 전원과 Clock 설정 방법.md",
+                "file": "Embedded Programming/임종수의 STM32 Cortex-M/0. 임종수의 STM32 Cortex-M.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.0 전원과 Clock 설정 방법"
+              "title": "0. 임종수의 STM32 Cortex-M"
+            }
+          },
+          {
+            "id": "ed248d2eca03a820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Programming/임종수의 STM32 Cortex-M/6.0 Timer와 WatchDog Timer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.0 Timer와 WatchDog Timer"
             }
           },
           {
@@ -27,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.0 방산 SW 요구사항 분석설계.md",
+                "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.0 방산 SW 요구사항 분석설계"
+              "title": "7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험"
             }
           },
           {
@@ -73,7 +87,8 @@
               "title": "LIG Nex1_방산의_이해_OS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,62 +248,29 @@
     "type": "floating",
     "children": [
       {
-        "id": "588fa1216270e6c6",
+        "id": "79adb5b6156d141f",
         "type": "window",
         "children": [
           {
-            "id": "e83d59d845ffc4c7",
+            "id": "af1abf98150d5aec",
             "type": "tabs",
             "children": [
               {
-                "id": "24e4f24bd3028edb",
+                "id": "e71dcdc6607a5b79",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.0 방산 SW 요구사항 분석설계.md",
+                    "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "7.0 방산 SW 요구사항 분석설계"
+                  "title": "7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험"
                 }
               },
               {
-                "id": "f62df739437374cd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded Programming/KAMD.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "KAMD"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": -0.5
-      },
-      {
-        "id": "02b4ed476e836b17",
-        "type": "window",
-        "children": [
-          {
-            "id": "9dd16752df08bd78",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0965eebe223c07e9",
+                "id": "2a9b070b92450ece",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -299,37 +281,52 @@
                   "title": "LIG Nex1 방산 소프트웨어"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": -960,
-        "y": -123,
+        "x": 960,
+        "y": 0,
         "width": 960,
-        "height": 1152,
+        "height": 516,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "8cafefcf9b27f89e",
+  "active": "a69cded141b28ffc",
   "lastOpenFiles": [
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.0 방산 SW 요구사항 분석설계.md",
     "Excalidraw/LIG Nex1 방산 소프트웨어.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험.md",
+    "Embedded Programming/임종수의 STM32 Cortex-M/6.0 Timer와 WatchDog Timer.md",
+    "Embedded Programming/임종수의 STM32 Cortex-M/0. 임종수의 STM32 Cortex-M.md",
     "Embedded Programming/임종수의 STM32 Cortex-M/5.0 전원과 Clock 설정 방법.md",
+    "첨부파일/Pasted image 20250211152726.png",
+    "첨부파일/Pasted image 20250211140848.png",
+    "첨부파일/Pasted image 20250211114233.png",
+    "첨부파일/Pasted image 20250211114026.png",
+    "The_SSEN/채용 설명.md",
+    "The_SSEN/1. 방위 산업의 이해/1.0 방위 산업의 이해.md",
+    "The_SSEN/1. 방위 산업의 이해/1.1 당사 개발 분야 및 직무별 업무 소개.md",
+    "The_SSEN/1. 방위 산업의 이해/1.2 방위산업 연구 개발 프로세스 소개.md",
+    "The_SSEN/1. 방위 산업의 이해/1.3 SW 개발 실무.md",
+    "The_SSEN/1. 방위 산업의 이해/1.3.1 소프트웨어 개발 프로세스 개념 및 규정.md",
+    "The_SSEN/1. 방위 산업의 이해/1.3.2 소프트웨어 개발 단계별 방법 및 절차.md",
+    "첨부파일/Pasted image 20250211100104.png",
+    "첨부파일/Pasted image 20250211091307.png",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.0 방산 SW 요구사항 분석설계.md",
+    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
     "첨부파일/Pasted Image 20250210140623_204.png",
     "첨부파일/Pasted Image 20250210122617_204.png",
     "첨부파일/Pasted Image 20250210122430_214.png",
     "첨부파일/Pasted Image 20250210104214_276.png",
-    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
     "Excalidraw/SQL.md",
     "Excalidraw/Pinting 설계.md",
     "Excalidraw/LIG Nex1_embedded_C.md",
     "Excalidraw/Drawing 2025-02-10 10.29.29.excalidraw.md",
     "Embedded Programming/KAMD.md",
-    "첨부파일/Pasted image 20250210093102.png",
     "template/The SSEN template 방산 설계.md",
-    "첨부파일/Pasted image 20250210090035.png",
     "The_SSEN/0.0 The_SSEN.md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계",
     "네트워크/webserv/RFC 9110.md",
@@ -337,19 +334,6 @@
     "Excalidraw(non_fixed)/ft_transcendence.excalidraw.md",
     "Embedded Programming/board study/2회 GPIO.md",
     "Excalidraw/웹의 구조.md",
-    "네트워크/webserv/RFC 2119.md",
-    "네트워크/webserv/kqueue.md",
-    "네트워크/webserv/kevent.md",
-    "Embedded Programming/임종수의 STM32 Cortex-M/0. 임종수의 STM32 Cortex-M.md",
-    "Embedded Programming/임종수의 STM32 Cortex-M/4.0 Interrupt 소개와 외부 Interrupt 처리 방법.md",
-    "Embedded Programming/최신 디지털 공학/1.7 테스트 및 계측 장비.md",
-    "Embedded Programming/임종수의 STM32 Cortex-M/8.0 UART 사용 방법과 전송 규격 작성 방법.md",
-    "The_SSEN/6. C sharp/WPF.md",
-    "The_SSEN/6. C sharp/6.0 C sharp.md",
-    "첨부파일/Pasted image 20250208181319.png",
-    "첨부파일/Pasted image 20250208180323.png",
-    "첨부파일/Pasted image 20250208175720.png",
-    "첨부파일/Pasted image 20250208174651.png",
     "네트워크/첨부파일",
     "네트워크",
     "네트워크/외워서 끝내는 네트워크 핵심이론-기초",
