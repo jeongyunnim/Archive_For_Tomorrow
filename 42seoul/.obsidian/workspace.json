@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Programming/임종수의 STM32 Cortex-M/6.0 Timer와 WatchDog Timer.md",
+                "file": "Embedded Programming/board study/4회 DMA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.0 Timer와 WatchDog Timer"
+              "title": "4회 DMA"
             }
           },
           {
@@ -295,11 +295,14 @@
       }
     ]
   },
-  "active": "a69cded141b28ffc",
+  "active": "ed248d2eca03a820",
   "lastOpenFiles": [
+    "Embedded Programming/computer Architecture/0. Computer Architecture.md",
+    "Embedded Programming/board study/4회 DMA.md",
+    "Embedded Programming/임종수의 STM32 Cortex-M/6.0 Timer와 WatchDog Timer.md",
+    "첨부파일/Pasted image 20250211194918.png",
     "Excalidraw/LIG Nex1 방산 소프트웨어.md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계/7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험.md",
-    "Embedded Programming/임종수의 STM32 Cortex-M/6.0 Timer와 WatchDog Timer.md",
     "Embedded Programming/임종수의 STM32 Cortex-M/0. 임종수의 STM32 Cortex-M.md",
     "Embedded Programming/임종수의 STM32 Cortex-M/5.0 전원과 Clock 설정 방법.md",
     "첨부파일/Pasted image 20250211152726.png",
@@ -320,7 +323,6 @@
     "첨부파일/Pasted Image 20250210140623_204.png",
     "첨부파일/Pasted Image 20250210122617_204.png",
     "첨부파일/Pasted Image 20250210122430_214.png",
-    "첨부파일/Pasted Image 20250210104214_276.png",
     "Excalidraw/SQL.md",
     "Excalidraw/Pinting 설계.md",
     "Excalidraw/LIG Nex1_embedded_C.md",
@@ -332,8 +334,6 @@
     "네트워크/webserv/RFC 9110.md",
     "Excalidraw/Board Study.md",
     "Excalidraw(non_fixed)/ft_transcendence.excalidraw.md",
-    "Embedded Programming/board study/2회 GPIO.md",
-    "Excalidraw/웹의 구조.md",
     "네트워크/첨부파일",
     "네트워크",
     "네트워크/외워서 끝내는 네트워크 핵심이론-기초",
