@@ -3,6 +3,7 @@
 넘버: 
 태그: 프로그래밍/임베디드
 출처: LIG Nex1 The SSEN Embedded SW School
+강사: 
 aliases:
 ---
 ### 날짜: {{date: YYYY-MM-DD}} {{time}}
