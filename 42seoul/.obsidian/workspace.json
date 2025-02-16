@@ -8,17 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed248d2eca03a820",
+            "id": "8dea9989c6537d2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3 SW 설계 기본.md",
+                "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.0 SW 설계 기본.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.3 SW 설계 기본"
+              "title": "7.3.0 SW 설계 기본"
+            }
+          },
+          {
+            "id": "c6605ba8a8d9ef85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Programming/Capture Compare register.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capture Compare register"
+            }
+          },
+          {
+            "id": "ccc7b83db5318a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Programming/Repetition Counter register.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Repetition Counter register"
+            }
+          },
+          {
+            "id": "ece252c462d0b3b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Programming/prescaler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "prescaler"
             }
           },
           {
@@ -92,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "마틴",
+                "query": "듀티",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +142,7 @@
                 "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -123,7 +165,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           }
         ],
@@ -218,152 +260,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "floating": {
-    "id": "97268bf307f4b4a2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "62da63c019c951fb",
-        "type": "window",
-        "children": [
-          {
-            "id": "c8bd575b833bf6c6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2a9b070b92450ece",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/LIG Nex1 방산 소프트웨어.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "LIG Nex1 방산 소프트웨어"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -960,
-        "y": -123,
-        "width": 960,
-        "height": 1152,
-        "maximize": false,
-        "zoom": -0.5
-      },
-      {
-        "id": "e3020766a2b5cb92",
-        "type": "window",
-        "children": [
-          {
-            "id": "f760b3dec94dffa0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cc367b021eaf5569",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/객체지향 설계를 위한 UML.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "객체지향 설계를 위한 UML"
-                }
-              },
-              {
-                "id": "efce8aaa04d68e18",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험"
-                }
-              },
-              {
-                "id": "627835cc82347320",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Java/2. 스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "ed248d2eca03a820",
+  "active": "8dea9989c6537d2d",
   "lastOpenFiles": [
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/객체지향 설계를 위한 UML.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
-    "Embedded Programming/GoF의 design pattern.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3 SW 설계 기본.md",
-    "Excalidraw/LIG Nex1 방산 소프트웨어.md",
-    "Excalidraw/Board Study.md",
-    "Embedded Programming/board study/5회 프로젝트 설계.md",
-    "첨부파일/Pasted image 20250214150651.png",
-    "첨부파일/Pasted image 20250214145814.png",
-    "Embedded Programming/임종수의 STM32 Cortex-M/6.0 Timer와 WatchDog Timer.md",
-    "Embedded Programming/임종수의 STM32 Cortex-M/5.0 전원과 Clock 설정 방법.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.0 방산 SW 요구사항 분석설계.md",
-    "작성 해야 함/DTO.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.2 지능형시스템을 위한 SW개발방법론.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.3 객체지향 설계를 위한 UML.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.0 SW 설계 기본.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.2 객체지향 설계 기본.md",
+    "Embedded Programming/Capture Compare register.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.1 소프트웨어 개발 개요.md",
+    "The_SSEN/0.0 The_SSEN.md",
+    "The_SSEN/0 TODO LIST.md",
+    "The_SSEN/0.1 OT.md",
     "Embedded Programming/임종수의 STM32 Cortex-M/8.0 UART 사용 방법과 전송 규격 작성 방법.md",
-    "Embedded Programming/board study/2회 GPIO.md",
-    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/3.2 SOLID 원칙 적용.md",
-    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.0 임베디드 소프트웨어 개발 C++.md",
-    "Embedded Programming/GoF.md",
+    "Embedded Programming/임종수의 STM32 Cortex-M/7.0 PWM 생성 및 사용 방법.md",
+    "첨부파일/Pasted image 20250216225045.png",
+    "첨부파일/Pasted image 20250216223529.png",
+    "첨부파일/Pasted image 20250216222143.png",
+    "Embedded Programming/duty cycle.md",
+    "첨부파일/Pasted image 20250216221824.png",
+    "첨부파일/Pasted image 20250216221650.png",
+    "첨부파일/Pasted image 20250216221412.png",
+    "첨부파일/Pasted image 20250216212510.png",
+    "Embedded Programming/임종수의 STM32 Cortex-M/6.0 Timer와 WatchDog Timer.md",
+    "첨부파일/Pasted image 20250216210011.png",
+    "Embedded Programming/최신 디지털 공학/1.7 테스트 및 계측 장비.md",
+    "Embedded Programming/최신 디지털 공학/1.2 2진수, 논리 레벨, 디지털 파형.md",
+    "Embedded Programming/최신 디지털 공학/1.0 기본 개념.md",
+    "Embedded Programming/Repetition Counter register.md",
+    "Embedded Programming/Auto-reload register.md",
+    "template/Zettelkasten.md",
+    "template/임베디드.md",
     "template/The SSEN template 방산 설계.md",
-    "The_SSEN/1. 방위 산업의 이해/1.1 당사 개발 분야 및 직무별 업무 소개.md",
-    "The_SSEN/1. 방위 산업의 이해/1.2 방위산업 연구 개발 프로세스 소개.md",
     "template/The SSEN template.md",
-    "The_SSEN/0.1 용어집/MUM-T.md",
-    "첨부파일/Pasted image 20250212122313.png",
-    "첨부파일/Pasted image 20250212122848.png",
-    "첨부파일/Pasted Image 20250212122400_205.png",
-    "첨부파일/Pasted Image 20250212095915_206.png",
-    "첨부파일/Pasted image 20250212095756.png",
-    "첨부파일/Pasted image 20250212094944.png",
-    "첨부파일/Pasted Image 20250212093409_209.png",
-    "Embedded Programming/board study/4회 DMA.md",
-    "첨부파일/Pasted Image 20250212090337_829.png",
-    "Embedded Programming/임종수의 STM32 Cortex-M/0. 임종수의 STM32 Cortex-M.md",
+    "Embedded Programming/prescaler.md",
+    "Embedded Programming/PSC.md",
+    "첨부파일/Pasted image 20250216202756.png",
+    "Embedded Programming/APB.md",
+    "첨부파일/Pasted image 20250216202447.png",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.2 지능형시스템을 위한 SW개발방법론.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험.md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계",
     "네트워크/첨부파일",
     "네트워크",
