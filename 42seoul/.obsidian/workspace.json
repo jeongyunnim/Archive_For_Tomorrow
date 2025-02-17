@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8dea9989c6537d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.2 객체지향 설계 기본.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.3.2 객체지향 설계 기본"
-            }
-          },
-          {
-            "id": "c6605ba8a8d9ef85",
+            "id": "a0c14583bb06e4fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,8 +20,77 @@
               "icon": "lucide-file",
               "title": "13.0 ADC와 내부 온도센서, NTC 사용 방법"
             }
+          },
+          {
+            "id": "6b0f2a0ef97ec200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.4.5 디자인 패턴 기본.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.4.5 디자인 패턴 기본"
+            }
+          },
+          {
+            "id": "95783b570b3f6231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.0 SW 설계 기본.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.3.0 SW 설계 기본"
+            }
+          },
+          {
+            "id": "cf394cde42a7bf87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Programming/Software architecture in practice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software architecture in practice"
+            }
+          },
+          {
+            "id": "2219f3ef5d86e3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Programming/board study/2회 GPIO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2회 GPIO"
+            }
+          },
+          {
+            "id": "095d776a47295052",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/LIG Nex1_방산의_이해_OS.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "LIG Nex1_방산의_이해_OS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "객체와",
+                "query": "RAII",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +117,7 @@
                 "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -85,7 +140,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           }
         ],
@@ -180,53 +235,136 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8dea9989c6537d2d",
+  "floating": {
+    "id": "2ce2d91e48214f1a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1fcf109305b49eff",
+        "type": "window",
+        "children": [
+          {
+            "id": "f431d0ed164785e5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "daafb74b90d2d8f9",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/LIG Nex1 방산 소프트웨어.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "LIG Nex1 방산 소프트웨어"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -960,
+        "y": -123,
+        "width": 960,
+        "height": 1152,
+        "maximize": false,
+        "zoom": -0.5
+      },
+      {
+        "id": "5d261f30ac5cb728",
+        "type": "window",
+        "children": [
+          {
+            "id": "234e8649d5e90d4e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "63b0ccbcd1afe936",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded Programming/임종수의 STM32 Cortex-M/13.0 ADC와 내부 온도센서, NTC 사용 방법.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "13.0 ADC와 내부 온도센서, NTC 사용 방법"
+                }
+              },
+              {
+                "id": "2133495ad7b7d1cb",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Board Study.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Board Study"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "6b0f2a0ef97ec200",
   "lastOpenFiles": [
+    "Excalidraw/LIG Nex1 방산 소프트웨어.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.4.5 디자인 패턴 기본.md",
+    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.4 객체지향 프로그래밍.md",
     "Embedded Programming/임종수의 STM32 Cortex-M/13.0 ADC와 내부 온도센서, NTC 사용 방법.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.0 SW 설계 기본.md",
+    "첨부파일/Pasted image 20250217152519.png",
+    "첨부파일/Pasted image 20250217152246.png",
+    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.1 소프트웨어 개발 개요.md",
+    "Excalidraw/Board Study.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.4 객체지향 설계 방법.md",
+    "Embedded Programming/Software architecture in practice.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.0 방산 SW 요구사항 분석설계.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.3 객체지향 설계를 위한 UML.md",
+    "Embedded Programming/board study/5회 프로젝트 설계.md",
     "첨부파일/Pasted image 20250217021232.png",
     "첨부파일/Pasted image 20250217015111.png",
-    "Embedded Programming/임종수의 STM32 Cortex-M/8.0 UART 사용 방법과 전송 규격 작성 방법.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3 SW 설계 기본.md",
     "첨부파일/Pasted image 20250217013517.png",
-    "Embedded Programming/Capture Compare register.md",
-    "Embedded Programming/prescaler.md",
-    "Embedded Programming/board study/5회 프로젝트 설계.md",
-    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.2 객체지향 설계 기본.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.1 소프트웨어 개발 개요.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.0 SW 설계 기본.md",
-    "The_SSEN/0 TODO LIST.md",
-    "The_SSEN/0.0 The_SSEN.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.3 객체지향 설계를 위한 UML.md",
-    "The_SSEN/0.1 OT.md",
-    "Embedded Programming/임종수의 STM32 Cortex-M/7.0 PWM 생성 및 사용 방법.md",
     "첨부파일/Pasted image 20250216225045.png",
     "첨부파일/Pasted image 20250216223529.png",
     "첨부파일/Pasted image 20250216222143.png",
-    "Embedded Programming/duty cycle.md",
     "첨부파일/Pasted image 20250216221824.png",
     "첨부파일/Pasted image 20250216221650.png",
-    "첨부파일/Pasted image 20250216221412.png",
-    "첨부파일/Pasted image 20250216212510.png",
-    "Embedded Programming/임종수의 STM32 Cortex-M/6.0 Timer와 WatchDog Timer.md",
-    "Embedded Programming/최신 디지털 공학/1.7 테스트 및 계측 장비.md",
-    "Embedded Programming/최신 디지털 공학/1.2 2진수, 논리 레벨, 디지털 파형.md",
-    "Embedded Programming/최신 디지털 공학/1.0 기본 개념.md",
-    "Embedded Programming/Repetition Counter register.md",
-    "Embedded Programming/Auto-reload register.md",
-    "template/Zettelkasten.md",
     "template/임베디드.md",
-    "template/The SSEN template 방산 설계.md",
-    "template/The SSEN template.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.2 객체지향 설계 기본.md",
+    "Embedded Programming/임종수의 STM32 Cortex-M/7.0 PWM 생성 및 사용 방법.md",
+    "Embedded Programming/prescaler.md",
+    "Embedded Programming/duty cycle.md",
+    "Embedded Programming/Repetition Counter register.md",
+    "Embedded Programming/Capture Compare register.md",
+    "Embedded Programming/Auto-reload register.md",
+    "Embedded Programming/APB.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/객체지향 설계를 위한 UML.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험.md",
+    "Java/2. 스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계",
     "네트워크/첨부파일",
     "네트워크",
