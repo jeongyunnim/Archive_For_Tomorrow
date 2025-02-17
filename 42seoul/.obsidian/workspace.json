@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Programming/임종수의 STM32 Cortex-M/13.0 ADC와 내부 온도센서, NTC 사용 방법.md",
+                "file": "Embedded Programming/board study/5회 프로젝트 설계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.0 ADC와 내부 온도센서, NTC 사용 방법"
+              "title": "5회 프로젝트 설계"
+            }
+          },
+          {
+            "id": "1205f89d169a231e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Board Study.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Board Study"
             }
           },
           {
@@ -27,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.4.5 디자인 패턴 기본.md",
+                "file": "Embedded Programming/임종수의 STM32 Cortex-M/6.0 Timer와 WatchDog Timer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.4.5 디자인 패턴 기본"
+              "title": "6.0 Timer와 WatchDog Timer"
             }
           },
           {
@@ -89,8 +101,7 @@
               "title": "LIG Nex1_방산의_이해_OS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -327,23 +338,28 @@
       }
     ]
   },
-  "active": "6b0f2a0ef97ec200",
+  "active": "a0c14583bb06e4fc",
   "lastOpenFiles": [
-    "Excalidraw/LIG Nex1 방산 소프트웨어.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.4.5 디자인 패턴 기본.md",
-    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.4 객체지향 프로그래밍.md",
-    "Embedded Programming/임종수의 STM32 Cortex-M/13.0 ADC와 내부 온도센서, NTC 사용 방법.md",
+    "Embedded Programming/board study/6회 TIMER.md",
+    "Embedded Programming/board study/5회 프로젝트 설계.md",
+    "Embedded Programming/board study/1회 overview.md",
+    "Embedded Programming/임종수의 STM32 Cortex-M/6.0 Timer와 WatchDog Timer.md",
+    "Excalidraw/Board Study.md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.0 SW 설계 기본.md",
+    "Embedded Programming/Software architecture in practice.md",
+    "Embedded Programming/board study/2회 GPIO.md",
+    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
+    "Embedded Programming/임종수의 STM32 Cortex-M/13.0 ADC와 내부 온도센서, NTC 사용 방법.md",
+    "Embedded Programming/임종수의 STM32 Cortex-M/7.0 PWM 생성 및 사용 방법.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.4.5 디자인 패턴 기본.md",
+    "Excalidraw/LIG Nex1 방산 소프트웨어.md",
+    "The_SSEN/5. 임베디드 소프트웨어 개발 C++/5.4 객체지향 프로그래밍.md",
     "첨부파일/Pasted image 20250217152519.png",
     "첨부파일/Pasted image 20250217152246.png",
-    "Excalidraw/LIG Nex1_방산의_이해_OS.md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.1 소프트웨어 개발 개요.md",
-    "Excalidraw/Board Study.md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.4 객체지향 설계 방법.md",
-    "Embedded Programming/Software architecture in practice.md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계/7.0 방산 SW 요구사항 분석설계.md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.3 객체지향 설계를 위한 UML.md",
-    "Embedded Programming/board study/5회 프로젝트 설계.md",
     "첨부파일/Pasted image 20250217021232.png",
     "첨부파일/Pasted image 20250217015111.png",
     "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3 SW 설계 기본.md",
@@ -355,16 +371,11 @@
     "첨부파일/Pasted image 20250216221650.png",
     "template/임베디드.md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.2 객체지향 설계 기본.md",
-    "Embedded Programming/임종수의 STM32 Cortex-M/7.0 PWM 생성 및 사용 방법.md",
     "Embedded Programming/prescaler.md",
     "Embedded Programming/duty cycle.md",
     "Embedded Programming/Repetition Counter register.md",
     "Embedded Programming/Capture Compare register.md",
     "Embedded Programming/Auto-reload register.md",
-    "Embedded Programming/APB.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/객체지향 설계를 위한 UML.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.1 무기체계 SW 테스팅 및 SW 신뢰성 시험.md",
-    "Java/2. 스프링 핵심 원리 - 기본편/1.3 좋은 객체 지향 설계의 5가지 원칙 (SOLID).md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계",
     "네트워크/첨부파일",
     "네트워크",
