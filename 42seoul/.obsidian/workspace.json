@@ -301,31 +301,17 @@
                 }
               },
               {
-                "id": "a5493188219df3c8",
+                "id": "409de7013c37c7a7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded Programming/aliasing.md",
+                    "file": "Embedded Programming/sampling rate.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "aliasing"
-                }
-              },
-              {
-                "id": "ad44b8232f558022",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded Programming/decimation.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "decimation"
+                  "title": "sampling rate"
                 }
               },
               {
@@ -355,12 +341,20 @@
   },
   "active": "63b0ccbcd1afe936",
   "lastOpenFiles": [
+    "Embedded Programming/noise shaping filter.md",
+    "Embedded Programming/임종수의 STM32 Cortex-M/13.0 ADC와 내부 온도센서, NTC 사용 방법.md",
+    "첨부파일/Pasted image 20250218194228.png",
+    "Embedded Programming/sampling rate.md",
+    "첨부파일/Pasted image 20250218193938.png",
+    "Excalidraw/Board Study.md",
+    "첨부파일/Pasted Image 20250218193625_420.png",
+    "Embedded Programming/Sampling.md",
+    "첨부파일/Pasted image 20250218191940.png",
     "Excalidraw/LIG Nex1_방산의_이해_OS.md",
     "Embedded Programming/board study/2회 GPIO.md",
     "Embedded Programming/Software architecture in practice.md",
     "The_SSEN/0 TODO LIST.md",
     "Embedded Programming/임종수의 STM32 Cortex-M/6.0 Timer와 WatchDog Timer.md",
-    "Excalidraw/Board Study.md",
     "Excalidraw/웹의 구조.md",
     "Pinting/디스코드 봇 만든 과정.md",
     "Pinting/JPA와 MSA.md",
@@ -377,20 +371,12 @@
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.2 Spring Cloud Function.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.0 Event-driven 마이크로서비스.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/13.1 Kafka 적용.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/13.0 Apache Kafka.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.4 Spring Cloud Stream 컨테이너에 적용하기.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.8 마이크로서비스 보안 컨테이너에 적용하기.md",
-    "Java/6. 스프링 클라우드 마이크로서비스 마스터/11.7 Authorization code grant flow.md",
     "첨부파일/Pasted Image 20250218153615_813.png",
     "첨부파일/Pasted image 20250218122034.png",
     "첨부파일/Pasted image 20250218113209.png",
     "첨부파일/Pasted image 20250217152519.png",
     "첨부파일/Pasted image 20250217152246.png",
     "첨부파일/Pasted image 20250217021232.png",
-    "첨부파일/Pasted image 20250217015111.png",
-    "첨부파일/Pasted image 20250217013517.png",
-    "첨부파일/Pasted image 20250216225045.png",
-    "첨부파일/Pasted image 20250216223529.png",
     "The_SSEN/7. 방산 SW 요구사항 분석설계",
     "네트워크/첨부파일",
     "네트워크",
