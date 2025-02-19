@@ -40,7 +40,7 @@ while (1) {
 - 현대의 컴퓨터 아키텍쳐에서는 여러 단계의 캐시 메모리를 사용한다.
 	- [[캐시]]
 - CPU 코어마다 별도의 캐시를 가지고 있기 때문에 멀티코어 환경에서는 각 코어가 같은 메모리 주소에 대해 다른 값을 가질 수 있다.
-![[Excalidraw/LIG Nex1_embedded_C.md#^group=KSV0CuyWiCgCWZkxlptmM]]
+![[LIG Nex1_ C,C++#^group=KSV0CuyWiCgCWZkxlptmM]]
 - volatile 변수는 캐시를 거치지 않고 메인 메모리와 상호작용한다.
 	- 모든 스레드가 항상 최신 값을 볼 수 있게 해준다.
 ### 순서 보장

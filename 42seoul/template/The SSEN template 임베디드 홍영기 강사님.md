@@ -3,7 +3,7 @@
 넘버: 
 태그: 프로그래밍/임베디드
 출처: LIG Nex1 The SSEN Embedded SW School
-강사: 심준용(미사일시스템통제기술연구소)
+강사: 홍영기
 aliases:
 ---
 ### 날짜: {{date: YYYY-MM-DD}} {{time}}
