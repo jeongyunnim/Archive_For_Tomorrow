@@ -36,7 +36,7 @@ short a = *((unsigned short*)0x40010808);
 ```
 
 ### GPIO
-- [[GPIO|General-purpose I/O]]
+- [[The_SSEN/0.1 용어집/GPIO|General-purpose I/O]]
 	- 입력이나 출력을 포함한 동작이 런타임 시에 사용자에 의해 제어될 수 있는 집적회로나 전기 화로 기판의 디지털 신호 핀
 	- 버튼(input), LED(output)을 사용할 수 있도록 지원해주는 peripheral
 #### 입력
