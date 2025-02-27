@@ -105,7 +105,7 @@ Micro Controller Unit
 - [[NVIC]]
 	- 인터럽트 설정
 	- 동시에 발생 시, 우선순위 설정 등
-- [[RCC]]
+- [[9.4 RCC]]
 - [[WWDG]]
 - [[HAL 라이브러리]]
 

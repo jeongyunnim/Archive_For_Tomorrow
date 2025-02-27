@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff24fe295d85f5cf",
+            "id": "b2bceb8ac0b1d41b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/Memory & Bus Architecture.md",
+                "file": "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.5 NVIC & EXTI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory & Bus Architecture"
+              "title": "9.5 NVIC & EXTI"
+            }
+          },
+          {
+            "id": "357ed811db9fedce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Programming/computer Architecture/2.0 How Transistors Remember Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.0 How Transistors Remember Data"
             }
           }
         ]
@@ -204,35 +218,45 @@
           }
         ],
         "direction": "vertical",
-        "x": -960,
-        "y": -126,
+        "x": -1137,
+        "y": -66,
         "width": 960,
-        "height": 1152,
+        "height": 1032,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "ff24fe295d85f5cf",
+  "active": "b2bceb8ac0b1d41b",
   "lastOpenFiles": [
-    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/GPIO.md",
-    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/Memory & Bus Architecture.md",
+    "첨부파일/Pasted image 20250227173754.png",
     "Excalidraw/LIG Nex1 임베디드.md",
+    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.5 NVIC & EXTI.md",
+    "첨부파일/Pasted image 20250227172332.png",
+    "첨부파일/Pasted Image 20250227164037_693.png",
+    "첨부파일/Pasted Image 20250227163822_288.png",
+    "Embedded Programming/computer Architecture/2.0 How Transistors Remember Data.md",
+    "첨부파일/Pasted Image 20250227163438_363.png",
+    "첨부파일/Pasted image 20250227163415.png",
+    "Embedded Programming/computer Architecture/1.0 How Transistors run code.md",
+    "Embedded Programming/computer Architecture/0. Computer Architecture.md",
+    "Embedded Programming/board study/2회 GPIO.md",
+    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.0 프로세서 구조 및 디바이스 프로그래밍.md",
+    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.1 GPIO.md",
+    "Embedded Programming/board study/1회 overview.md",
+    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.4 RCC.md",
+    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.2 Memory & Bus Architecture.md",
+    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/Untitled.md",
+    "Embedded Programming/Untitled.md",
+    "첨부파일/Pasted image 20250227113045.png",
+    "첨부파일/Pasted image 20250227113024.png",
     "첨부파일/Pasted Image 20250226114154_726.png",
     "첨부파일/Pasted image 20250226113311.png",
     "첨부파일/Pasted image 20250226113246.png",
-    "첨부파일/Pasted image 20250226113224.png",
-    "첨부파일/Pasted Image 20250226111832_652.png",
-    "첨부파일/Pasted image 20250226110807.png",
-    "첨부파일/Pasted Image 20250226103058_979.png",
-    "첨부파일/Pasted image 20250226102908.png",
-    "첨부파일/Pasted image 20250226101524.png",
     "The_SSEN/2. 컴퓨터 구조 및 운영체제/2.0 컴퓨터 구조 및 운영체제.md",
     "The_SSEN/2. 컴퓨터 구조 및 운영체제/2.1 프로그램과 소프트웨어.md",
     "The_SSEN/2. 컴퓨터 구조 및 운영체제/2.5 컴퓨터 통신과 인터넷.md",
-    "첨부파일/Pasted image 20250226092821.png",
     "The_SSEN/0.0 The_SSEN.md",
-    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.0 프로세서 구조 및 디바이스 프로그래밍.md",
     "Excalidraw/Board Study.md",
     "The_SSEN/8. 임베디드 시스템 기본/8.0 임베디드 시스템 기본.md",
     "Embedded Programming/RESOLVED/Arm Cortex-M Processors/2.0 Cortex-M 개요.md",
@@ -242,16 +266,6 @@
     "네트워크/외워서 끝내는 네트워크 핵심이론-기초/1. OSI 7Layer.md",
     "archive(non_fixed)/inception/리눅스 상위 디렉토리.md",
     "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍",
-    "Embedded Programming/리눅스 마스터 1급/0. Linux Master 1급.md",
-    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.5 SW 아키텍처 설계.md",
-    "The_SSEN/0.1 TODO LIST.md",
-    "The_SSEN/0.1 용어집/GoF의 design pattern.md",
-    "Embedded Programming/임종수의 STM32 Cortex-M/13.0 ADC와 내부 온도센서, NTC 사용 방법.md",
-    "Embedded Programming/임종수의 STM32 Cortex-M/7.0 PWM 생성 및 사용 방법.md",
-    "The_SSEN/0.1 용어집/Sampling.md",
-    "The_SSEN/0.1 용어집/Software architecture in practice.md",
-    "The_SSEN/0.1 용어집/aliasing.md",
-    "The_SSEN/0.1 용어집/KAMD.md",
     "Embedded Programming/리눅스 마스터 1급",
     "The_SSEN/8. 임베디드 시스템 기본",
     "The_SSEN/7. 방산 SW 요구사항 분석설계",
