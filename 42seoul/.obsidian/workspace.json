@@ -13,22 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.3 객체지향 설계를 위한 UML.md",
+                "file": "The_SSEN/10. 실시간 운영체제 구조 및 활용/10.2 태스크 운용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.3.3 객체지향 설계를 위한 UML"
+              "title": "10.2 태스크 운용"
             }
           },
           {
             "id": "21cfc91790331fbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/LIG Nex1 RTOS.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "LIG Nex1 RTOS"
             }
           }
         ]
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "시나리오",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,10 +187,61 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
+  "floating": {
+    "id": "12a76322d2a1d428",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ba544f1c052bfc38",
+        "type": "window",
+        "children": [
+          {
+            "id": "1af2a3773637808f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c24df6d570bd8aa",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/LIG Nex1 RTOS.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "LIG Nex1 RTOS"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -960,
+        "y": -126,
+        "width": 960,
+        "height": 1152,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
   "active": "7d935874d0802623",
   "lastOpenFiles": [
-    "Excalidraw/방산 미니 프로젝트.md",
+    "첨부파일/Pasted image 20250310174145.png",
+    "Excalidraw/LIG Nex1 RTOS.md",
+    "The_SSEN/10. 실시간 운영체제 구조 및 활용/10.2 태스크 운용.md",
+    "첨부파일/Pasted image 20250310172654.png",
+    "첨부파일/Pasted image 20250310170759.png",
+    "Excalidraw/LIG Nex1_ C,C++.md",
+    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.6 USART.md",
+    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.5 NVIC & EXTI.md",
+    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.7 Programmable Interval TIMER.md",
+    "Excalidraw/LIG Nex1 임베디드.md",
+    "The_SSEN/10. 실시간 운영체제 구조 및 활용/10.1 실시간 시스템 개론.md",
+    "The_SSEN/8. 임베디드 시스템 기본/8.0 임베디드 시스템 기본.md",
+    "The_SSEN/0.1 TODO LIST.md",
+    "The_SSEN/7. 방산 SW 요구사항 분석설계/7.0 방산 SW 요구사항 분석설계.md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.3 객체지향 설계를 위한 UML.md",
+    "Excalidraw/방산 미니 프로젝트.md",
     "Embedded Programming/방산 미니 프로젝트.md",
     "The_SSEN/7. 방산 SW 요구사항 분석설계/7.3.1 소프트웨어 개발 개요.md",
     "Java/6. 스프링 클라우드 마이크로서비스 마스터/12.0 Event-driven 마이크로서비스.md",
@@ -201,20 +254,8 @@
     "Excalidraw/웹의 구조.md",
     "Excalidraw/Board Study.md",
     "Excalidraw/Drawing 2025-03-09 10.16.40.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-09 10.16.28.excalidraw.md",
-    "Embedded Programming/리눅스 마스터 1급/0. Linux Master 1급.md",
     "첨부파일/Pasted image 20250307225304.png",
-    "The_SSEN/10. 실시간 운영체제 구조 및 활용/10.2 태스크 운용.md",
-    "Excalidraw/LIG Nex1 RTOS.md",
-    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.1 GPIO.md",
-    "The_SSEN/10. 실시간 운영체제 구조 및 활용/10.1 실시간 시스템 개론.md",
     "The_SSEN/10. 실시간 운영체제 구조 및 활용/Untitled",
-    "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍/9.0 프로세서 구조 및 디바이스 프로그래밍.md",
-    "The_SSEN/10. 실시간 운영체제 구조 및 활용/10.0 실시간 운영체제 구조 및 활용.md",
-    "The_SSEN/8. 임베디드 시스템 기본/8.0 임베디드 시스템 기본.md",
-    "Excalidraw/동기와 비동기(kqueue).md",
-    "Excalidraw/최신 디지털 공학.md",
-    "template/RTOS 홍영기 강사님.md",
     "첨부파일/Pasted image 20250307101452.png",
     "The_SSEN/10. 실시간 운영체제 구조 및 활용",
     "첨부파일/Pasted image 20250306154529.png",
@@ -223,8 +264,6 @@
     "첨부파일/Pasted image 20250306120153.png",
     "첨부파일/Pasted image 20250306114817.png",
     "첨부파일/Pasted image 20250306102838.png",
-    "첨부파일/Pasted image 20250306101228.png",
-    "첨부파일/Pasted image 20250306101144.png",
     "The_SSEN/9. 프로세서 구조 및 디바이스 프로그래밍",
     "Embedded Programming/리눅스 마스터 1급",
     "The_SSEN/8. 임베디드 시스템 기본",
